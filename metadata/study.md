@@ -1,3 +1,11 @@
+---
+name: twinlife
+label: TwinLife
+config:
+    variables:
+        label-table: True
+---
+
 # TwinLife
 
 ## Citation
