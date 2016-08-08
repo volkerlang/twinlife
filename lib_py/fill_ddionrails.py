@@ -10,6 +10,28 @@ def lower_all_names(x):
     names = [key for key in x.keys() if "_name" in key]
     x.ix[ : , names] = x.ix[ : , names].applymap(lower_x)
 
+def answers():
+    x = pd.read_csv("metadata/answers.csv")
+    x.rename(columns={
+        "study":"study_name",
+        "questionnaire":"questionnaire_name",
+    }, inplace=True)
+    x["answer_list_name"] = x["answer_list"]
+    lower_all_names(x)
+    x.to_csv("ddionrails/answers.csv", index=False)
+
+def questions():
+    x = pd.read_csv("metadata/questions.csv")
+    x.rename(columns={
+        "study":"study_name",
+        "questionnaire":"questionnaire_name",
+        "question":"question_name",
+    }, inplace=True)
+    x["answer_list_name"] = x["answer_list"]
+    x["item_name"] = x["item"]
+    lower_all_names(x)
+    x.to_csv("ddionrails/questions.csv", index=False)
+
 def datasets():
     x = pd.read_csv("metadata/logical_datasets.csv")
     x.rename(columns={
@@ -49,6 +71,8 @@ def main():
     study()
     #datasets()
     variables()
+    questions()
+    answers()
     r2ddi()
 
 if __name__ == "__main__":
