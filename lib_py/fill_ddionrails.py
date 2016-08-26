@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import merge_instruments
 
 def lower_all_names(x):
     def lower_x(x):
@@ -62,7 +63,6 @@ def study():
 
 def r2ddi():
     os.system("""
-        rm -r ddionrails/r2ddi
         mkdir -p ddionrails/r2ddi/v1
         cp -r r2ddi/v1/en ddionrails/r2ddi/v1
     """)
@@ -71,8 +71,9 @@ def main():
     study()
     #datasets()
     variables()
-    questions()
-    answers()
+    #questions()
+    #answers()
+    merge_instruments.main()
     r2ddi()
 
 if __name__ == "__main__":
