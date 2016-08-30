@@ -35,6 +35,7 @@ In addition, information on environmental characteristics such as the socio-econ
 
 The data release consists of four files. Two of them contain similar information in two different formats. One of the two is a SUF-data file in person format (i.e., in a format with one data row per person) and the other is a SUF-data file in family format (i.e., in a format with one data row per family). In addition, a data file with the information of the survey for the zygosity assessment of the twin pairs and a data file documenting the survey mode for each variable on the person level is part of the data release. 
 
+Note: Part of the data was collected using a paper&pancil-questionnaire (documented as "3: P&P self-administered questionnaire" in the survey mode dataset). Some persons using this survey mode answered some questions they should not have answered according to the conditioning rules of the questionnaire. In a few cases person filled in a paper&pencil-questionnaire which should not have done so according to the participation rules of the survey. Both cases of additional responses are contained in the datasets delievered to the data users. Please be aware of this peculiarity in preparing and analyzing the data.
 
 ## Method
 
