@@ -1,0 +1,4 @@
+dataset_name,label,description
+twinlife_w1_f2f_1_long_suf,Individual survey dataset (long = individual format),includes survey data in individual format – each individual in one row (vs. family format – all members of one family in one row)
+twinlife_w1_f2f_1_zygo_suf,Zygosity dataset,includes data of the zygosity questionnaire (basis of zygosity assessment of each twin pair)
+twinlife_w1_f2f_1_mode_suf,Mode dataset,"includes information on the interview mode of each variable and each individual (e.g. CAPI, CASI, PAPI, …)"
