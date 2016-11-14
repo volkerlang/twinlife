@@ -44,15 +44,15 @@ twinlife-panel,ZA6701_person_v1-0-0,acp0103s,"activities with sibling: playgroun
 twinlife-panel,ZA6701_person_v1-0-0,acp0103t,"activities with twin 1: playground, walks, day trips","Aktivitaeten mit Zwilling 1: Spielplatz, Spaziergaenge, Ausfluege, u.ae.",,twinlife-panel-2014-F2F_Modul4_CASI,acp0100t,4
 twinlife-panel,ZA6701_person_v1-0-0,acp0103u,"activities with twin 2: playground, walks, day trips","Aktivitaeten mit Zwilling 2: Spielplatz, Spaziergaenge, Ausfluege, u.ae.",,twinlife-panel-2014-F2F_Modul4_CASI,acp0100u,4
 twinlife-panel,ZA6701_person_v1-0-0,asc0100,academic self-concept: Are you good at reading?,Akad. Selbstkonzept: Bist du gut im Lesen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0100,1
-twinlife-panel,ZA6701_person_v1-0-0,asc0101,academic self-concept: Do you know a lot of letters of the alphabet?,Akad. Selbstkonzept: Kennst du viele Buchstaben vom Alphabet?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0101,2
-twinlife-panel,ZA6701_person_v1-0-0,asc0102,academic self-concept: Do you know a lot of different words?,Akad. Selbstkonzept: Kennst du viele verschiedene Woerter?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0102,3
+twinlife-panel,ZA6701_person_v1-0-0,asc0101,academic self-concept: Do you know a lot of letters of the alphabet?,Akad. Selbstkonzept: Kennst du viele Buchstaben vom Alphabet?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0100,2
+twinlife-panel,ZA6701_person_v1-0-0,asc0102,academic self-concept: Do you know a lot of different words?,Akad. Selbstkonzept: Kennst du viele verschiedene Woerter?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0100,3
 twinlife-panel,ZA6701_person_v1-0-0,asc0103,academic self-concept: Are you good at telling the time?,Akad. Selbstkonzept: Kannst du gut die Uhr lesen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0103,1
-twinlife-panel,ZA6701_person_v1-0-0,asc0104,academic self-concept: Do you know a lot of different shapes?,Akad. Selbstkonzept: Kennst du viele verschiedene Formen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0104,2
-twinlife-panel,ZA6701_person_v1-0-0,asc0105,academic self-concept: Are you good at counting?,Akad. Selbstkonzept: Bist du gut im Zaehlen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0105,3
-twinlife-panel,ZA6701_person_v1-0-0,asc0106,academic self-concept: Do you know a lot of numbers?,Akad. Selbstkonzept: Kennst du viele Zahlen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0106,4
+twinlife-panel,ZA6701_person_v1-0-0,asc0104,academic self-concept: Do you know a lot of different shapes?,Akad. Selbstkonzept: Kennst du viele verschiedene Formen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0103,2
+twinlife-panel,ZA6701_person_v1-0-0,asc0105,academic self-concept: Are you good at counting?,Akad. Selbstkonzept: Bist du gut im Zaehlen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0103,3
+twinlife-panel,ZA6701_person_v1-0-0,asc0106,academic self-concept: Do you know a lot of numbers?,Akad. Selbstkonzept: Kennst du viele Zahlen?,,twinlife-panel-2014-F2F_Modul3_Basismodul,asc0103,4
 twinlife-panel,ZA6701_person_v1-0-0,bdy0100,"height in cm (CASI: not twin, drop-off/Alteri: all)","Koerpergroesse in cm (CASI: nicht Zwilling, Drop-Off/Alteri: alle)",,twinlife-panel-2014-F2F_Modul5_CASI,bdy0100,1
 twinlife-panel,ZA6701_person_v1-0-0,bdy0100s,height in cm sibling,Koerpergroesse in cm Geschwister,,twinlife-panel-2014-F2F_Modul7_EueK,bdy0100s,
-twinlife-panel,ZA6701_person_v1-0-0,bdy0200,weight in kg,Koerpergewicht in kg,,twinlife-panel-2014-F2F_Modul5_CASI,bdy0200,2
+twinlife-panel,ZA6701_person_v1-0-0,bdy0200,weight in kg,Koerpergewicht in kg,,twinlife-panel-2014-F2F_Modul5_CASI,bdy0100,2
 twinlife-panel,ZA6701_person_v1-0-0,bdy0200s,weight in kg sibling,Gewicht in kg Geschwister,,twinlife-panel-2014-F2F_Modul7_EueK,bdy0200s,
 twinlife-panel,ZA6701_person_v1-0-0,bdy0200t,weight in kg twin 1,Gewicht in kg Zwilling 1,,twinlife-panel-2014-F2F_Modul7_EueK,bdy0200t,
 twinlife-panel,ZA6701_person_v1-0-0,bdy0200u,weight in kg twin 2,Gewicht in kg Zwilling 2,,twinlife-panel-2014-F2F_Modul7_EueK,bdy0200u,
@@ -594,84 +594,84 @@ twinlife-panel,ZA6701_person_v1-0-0,del1601,driving without license: frequency,F
 twinlife-panel,ZA6701_person_v1-0-0,del1700,driving drunk or under the influence of drugs,Betrunken/unter Drogen fahren,,twinlife-panel-2014-F2F_Modul4_CASI,del1700,
 twinlife-panel,ZA6701_person_v1-0-0,del1701,driving drunk or under the influence of drugs: frequency,Betrunken/unter Drogen fahren: Haeufigkeit,,twinlife-panel-2014-F2F_Modul4_CASI,del1701,
 twinlife-panel,ZA6701_person_v1-0-0,dev0100,frequency: getting angry (self-assessment),Haeufigkeit: Wuetend sein (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0100,1
-twinlife-panel,ZA6701_person_v1-0-0,dev0101,frequency: listening to parents (self-assessment),Haeufigkeit: Auf Eltern hoeren (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0101,2
-twinlife-panel,ZA6701_person_v1-0-0,dev0102,frequency: get into arguments with other children (self-assessment),Haeufigkeit: Streit mit anderen Kindern (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0102,3
-twinlife-panel,ZA6701_person_v1-0-0,dev0103,frequency: cheating / lying (self-assessment),Haeufigkeit: Mogeln oder Luegen (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0103,4
+twinlife-panel,ZA6701_person_v1-0-0,dev0101,frequency: listening to parents (self-assessment),Haeufigkeit: Auf Eltern hoeren (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0100,2
+twinlife-panel,ZA6701_person_v1-0-0,dev0102,frequency: get into arguments with other children (self-assessment),Haeufigkeit: Streit mit anderen Kindern (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0100,3
+twinlife-panel,ZA6701_person_v1-0-0,dev0103,frequency: cheating / lying (self-assessment),Haeufigkeit: Mogeln oder Luegen (Selbsteinschaetzung),,twinlife-panel-2014-F2F_Modul3_Basismodul,dev0100,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0100,diagnosis: sleeping disorder,Diagnose: Schlafstoerungen,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,1
 twinlife-panel,ZA6701_person_v1-0-0,dia0101,sleeping disorder: beginning month,Schlafstoerung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0101,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0102,sleeping disorder: beginning year,Schlafstoerung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0102,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0103,sleeping disorder: end month,Schlafstoerung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0103,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0104,sleeping disorder: end year,Schlafstoerung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0104,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0102,sleeping disorder: beginning year,Schlafstoerung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0101,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0103,sleeping disorder: end month,Schlafstoerung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0101,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0104,sleeping disorder: end year,Schlafstoerung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0101,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0200,diagnosis: diabetes,Diagnose: Diabetes,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,2
 twinlife-panel,ZA6701_person_v1-0-0,dia0201,diabetes: begin month,Diabetes: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0201,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0202,diabetes: begin year,Diabetes: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0202,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0203,diabetes: end month,Diabetes: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0203,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0204,diabetes: end year,Diabetes: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0204,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0202,diabetes: begin year,Diabetes: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0201,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0203,diabetes: end month,Diabetes: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0201,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0204,diabetes: end year,Diabetes: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0201,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0300,diagnosis: asthma,Diagnose: Asthma,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,3
 twinlife-panel,ZA6701_person_v1-0-0,dia0301,asthma: begin month,Asthma: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0301,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0302,asthma: begin year,Asthma: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0302,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0303,asthma: end month,Asthma: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0303,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0304,asthma: end year,Asthma: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0304,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0302,asthma: begin year,Asthma: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0301,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0303,asthma: end month,Asthma: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0301,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0304,asthma: end year,Asthma: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0301,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0400,diagnosis: heart disease,Diagnose: Herzkrankheit,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0401,heart disease: begin month,Herzkrankheit: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0401,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0402,heart disease: begin year,Herzkrankheit: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0402,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0403,heart disease: end month,Herzkrankheit: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0403,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0404,heart disease: end year,Herzkrankheit: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0404,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0402,heart disease: begin year,Herzkrankheit: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0401,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0403,heart disease: end month,Herzkrankheit: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0401,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0404,heart disease: end year,Herzkrankheit: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0401,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0500,diagnosis: cancer,Diagnose: Krebserkrankungen,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,5
 twinlife-panel,ZA6701_person_v1-0-0,dia0501,cancer: begin month,Krebserkrankungen: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0501,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0502,cancer: begin year,Krebserkrankungen: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0502,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0503,cancer: end month,Krebserkrankungen: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0503,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0504,cancer: end year,Krebserkrankungen: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0504,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0502,cancer: begin year,Krebserkrankungen: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0501,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0503,cancer: end month,Krebserkrankungen: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0501,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0504,cancer: end year,Krebserkrankungen: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0501,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0600,diagnosis: stroke,Diagnose: Schlaganfall,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,6
 twinlife-panel,ZA6701_person_v1-0-0,dia0601,stroke: begin month,Schlaganfall: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0601,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0602,stroke: begin year,Schlaganfall: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0602,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0603,stroke: end month,Schlaganfall: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0603,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0604,stroke: end year,Schlaganfall: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0604,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0602,stroke: begin year,Schlaganfall: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0601,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0603,stroke: end month,Schlaganfall: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0601,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0604,stroke: end year,Schlaganfall: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0601,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0700,diagnosis: migraine,Diagnose: Migraene,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,7
 twinlife-panel,ZA6701_person_v1-0-0,dia0701,migraine: begin month,Migraene: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0701,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0702,migraine: begin year,Migraene: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0702,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0703,migraine: end month,Migraene: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0703,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0704,migraine: end year,Migraene: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0704,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0702,migraine: begin year,Migraene: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0701,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0703,migraine: end month,Migraene: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0701,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0704,migraine: end year,Migraene: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0701,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0800,diagnosis: high blood pressure,Diagnose: Bluthochdruck,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,8
 twinlife-panel,ZA6701_person_v1-0-0,dia0801,high blood pressure: begin month,Bluthochdruck: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0801,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0802,high blood pressure: begin year,Bluthochdruck: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0802,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0803,high blood pressure: end month,Bluthochdruck: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0803,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0804,high blood pressure: end year,Bluthochdruck: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0804,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0802,high blood pressure: begin year,Bluthochdruck: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0801,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0803,high blood pressure: end month,Bluthochdruck: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0801,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0804,high blood pressure: end year,Bluthochdruck: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0801,4
 twinlife-panel,ZA6701_person_v1-0-0,dia0900,diagnosis: anxiety disorder,Diagnose: Angsterkrankung,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,9
 twinlife-panel,ZA6701_person_v1-0-0,dia0901,anxiety disorder: begin month,Angsterkrankung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0901,1
-twinlife-panel,ZA6701_person_v1-0-0,dia0902,anxiety disorder: begin year,Angsterkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0902,2
-twinlife-panel,ZA6701_person_v1-0-0,dia0903,anxiety disorder: end month,Angsterkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0903,3
-twinlife-panel,ZA6701_person_v1-0-0,dia0904,anxiety disorder: end year,Angsterkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0904,4
+twinlife-panel,ZA6701_person_v1-0-0,dia0902,anxiety disorder: begin year,Angsterkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0901,2
+twinlife-panel,ZA6701_person_v1-0-0,dia0903,anxiety disorder: end month,Angsterkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia0901,3
+twinlife-panel,ZA6701_person_v1-0-0,dia0904,anxiety disorder: end year,Angsterkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia0901,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1000,diagnosis: alcohol addiction,Diagnose: Alkoholerkrankung,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,10
 twinlife-panel,ZA6701_person_v1-0-0,dia1001,alcohol addiction: begin month,Alkoholerkrankung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1001,1
-twinlife-panel,ZA6701_person_v1-0-0,dia1002,alcohol addiction: begin year,Alkoholerkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1002,2
-twinlife-panel,ZA6701_person_v1-0-0,dia1003,alcohol addiction: end month,Alkoholerkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1003,3
-twinlife-panel,ZA6701_person_v1-0-0,dia1004,alcohol addiction: end year,Alkoholerkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1004,4
+twinlife-panel,ZA6701_person_v1-0-0,dia1002,alcohol addiction: begin year,Alkoholerkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1001,2
+twinlife-panel,ZA6701_person_v1-0-0,dia1003,alcohol addiction: end month,Alkoholerkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1001,3
+twinlife-panel,ZA6701_person_v1-0-0,dia1004,alcohol addiction: end year,Alkoholerkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1001,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1100,diagnosis: depressive illness,Diagnose: Depressive Erkrankung,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,11
 twinlife-panel,ZA6701_person_v1-0-0,dia1101,depressive illness: begin month,Depressive Erkrankung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1101,1
-twinlife-panel,ZA6701_person_v1-0-0,dia1102,depressive illness: begin year,Depressive Erkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1102,2
-twinlife-panel,ZA6701_person_v1-0-0,dia1103,depressive illness: end month,Depressive Erkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1103,3
-twinlife-panel,ZA6701_person_v1-0-0,dia1104,depressive illness: end year,Depressive Erkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1104,4
+twinlife-panel,ZA6701_person_v1-0-0,dia1102,depressive illness: begin year,Depressive Erkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1101,2
+twinlife-panel,ZA6701_person_v1-0-0,dia1103,depressive illness: end month,Depressive Erkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1101,3
+twinlife-panel,ZA6701_person_v1-0-0,dia1104,depressive illness: end year,Depressive Erkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1101,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1200,diagnosis: degenerative joint disease (arthropathy),Diagnose: Gelenkerkrankung,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,12
 twinlife-panel,ZA6701_person_v1-0-0,dia1201,degenerative joint disease (arthropathy): begin month,Gelenkerkrankung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1201,1
-twinlife-panel,ZA6701_person_v1-0-0,dia1202,degenerative joint disease (arthropathy): begin year,Gelenkerkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1202,2
-twinlife-panel,ZA6701_person_v1-0-0,dia1203,degenerative joint disease (arthropathy): end month,Gelenkerkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1203,3
-twinlife-panel,ZA6701_person_v1-0-0,dia1204,degenerative joint disease (arthropathy): end year,Gelenkerkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1204,4
+twinlife-panel,ZA6701_person_v1-0-0,dia1202,degenerative joint disease (arthropathy): begin year,Gelenkerkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1201,2
+twinlife-panel,ZA6701_person_v1-0-0,dia1203,degenerative joint disease (arthropathy): end month,Gelenkerkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1201,3
+twinlife-panel,ZA6701_person_v1-0-0,dia1204,degenerative joint disease (arthropathy): end year,Gelenkerkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1201,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1300,diagnosis: chronic back problems,Diagnose: Chronische Rueckenbeschwerden,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,13
 twinlife-panel,ZA6701_person_v1-0-0,dia1301,chronic back problems: begin month,Chronische Rueckenbeschwerden: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1301,1
-twinlife-panel,ZA6701_person_v1-0-0,dia1302,chronic back problems: begin year,Chronische Rueckenbeschwerden: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1302,2
-twinlife-panel,ZA6701_person_v1-0-0,dia1303,chronic back problems: end month,Chronische Rueckenbeschwerden: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1303,3
-twinlife-panel,ZA6701_person_v1-0-0,dia1304,chronic back problems: end year,Chronische Rueckenbeschwerden: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1304,4
+twinlife-panel,ZA6701_person_v1-0-0,dia1302,chronic back problems: begin year,Chronische Rueckenbeschwerden: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1301,2
+twinlife-panel,ZA6701_person_v1-0-0,dia1303,chronic back problems: end month,Chronische Rueckenbeschwerden: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1301,3
+twinlife-panel,ZA6701_person_v1-0-0,dia1304,chronic back problems: end year,Chronische Rueckenbeschwerden: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1301,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1400,diagnosis: physical disability,Diagnose: Koerperbehinderung,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,14
 twinlife-panel,ZA6701_person_v1-0-0,dia1401,physical disability: begin month,Koerperbehinderung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1401,1
-twinlife-panel,ZA6701_person_v1-0-0,dia1402,physical disability: begin year,Koerperbehinderung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1402,2
-twinlife-panel,ZA6701_person_v1-0-0,dia1403,physical disability: end month,Koerperbehinderung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1403,3
-twinlife-panel,ZA6701_person_v1-0-0,dia1404,physical disability: end year,Koerperbehinderung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1404,4
+twinlife-panel,ZA6701_person_v1-0-0,dia1402,physical disability: begin year,Koerperbehinderung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1401,2
+twinlife-panel,ZA6701_person_v1-0-0,dia1403,physical disability: end month,Koerperbehinderung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1401,3
+twinlife-panel,ZA6701_person_v1-0-0,dia1404,physical disability: end year,Koerperbehinderung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1401,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1500,diagnosis: other physical or mental illness/disease,Diagnose: Sonst. koerperliche o. psychische Erkrankung,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,15
 twinlife-panel,ZA6701_person_v1-0-0,dia1501,other physical or mental illness/disease: begin month,Sonst. koerperliche oder psychiche Erkrankung: Beginn Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1501,1
-twinlife-panel,ZA6701_person_v1-0-0,dia1502,other physical or mental illness/disease: begin year,Sonst. koerperliche oder psychiche Erkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1502,2
-twinlife-panel,ZA6701_person_v1-0-0,dia1503,other physical or mental illness/disease: end month,Sonst. koerperliche oder psychiche Erkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1503,3
-twinlife-panel,ZA6701_person_v1-0-0,dia1504,other physical or mental illness/disease: end year,Sonst. koerperl. o. psychiche Erkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1504,4
+twinlife-panel,ZA6701_person_v1-0-0,dia1502,other physical or mental illness/disease: begin year,Sonst. koerperliche oder psychiche Erkrankung: Beginn Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1501,2
+twinlife-panel,ZA6701_person_v1-0-0,dia1503,other physical or mental illness/disease: end month,Sonst. koerperliche oder psychiche Erkrankung: Ende Monat,,twinlife-panel-2014-F2F_Modul5_CASI,dia1501,3
+twinlife-panel,ZA6701_person_v1-0-0,dia1504,other physical or mental illness/disease: end year,Sonst. koerperl. o. psychiche Erkrankung: Ende Jahr,,twinlife-panel-2014-F2F_Modul5_CASI,dia1501,4
 twinlife-panel,ZA6701_person_v1-0-0,dia1800,diagnosis: no illness/disease diagnosed,Diagnose: Keine Erkrankung festgestellt,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,16
 twinlife-panel,ZA6701_person_v1-0-0,dia2000,diagnosis: don't know,Diagnose: Weiss nicht,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,17
 twinlife-panel,ZA6701_person_v1-0-0,dia2100,diagnosis: no answer (refused to answer),Diagnose: Keine Angabe,,twinlife-panel-2014-F2F_Modul5_CASI,dia0100,18
@@ -681,225 +681,225 @@ twinlife-panel,ZA6701_person_v1-0-0,dia5000u,diagnosis: respiratory illness (twi
 twinlife-panel,ZA6701_person_v1-0-0,dia5001s,respiratory illness sibling: beginning (month),Atemwegserkrankung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5001t,respiratory illness twin 1: beginning (month),Atemwegserkrankung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5001u,respiratory illness twin 2: beginning (month),Atemwegserkrankung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5002s,respiratory illness sibling: beginning (year),Atemwegserkrankung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5002s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5002t,respiratory illness twin 1: beginning (year),Atemwegserkrankung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5002t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5002u,respiratory illness twin 2: beginning (year),Atemwegserkrankung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5002u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5003s,respiratory illness sibling: end (month),Atemwegserkrankung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5003s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5003t,respiratory illness twin 1: end (month),Atemwegserkrankung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5003t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5003u,respiratory illness twin 2: end (month),Atemwegserkrankung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5003u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5004s,respiratory illness sibling: end (year),Atemwegserkrankung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5004s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5004t,respiratory illness twin 1: end (year),Atemwegserkrankung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5004t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5004u,respiratory illness twin 2: end (year),Atemwegserkrankung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5004u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5002s,respiratory illness sibling: beginning (year),Atemwegserkrankung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5002t,respiratory illness twin 1: beginning (year),Atemwegserkrankung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5002u,respiratory illness twin 2: beginning (year),Atemwegserkrankung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5003s,respiratory illness sibling: end (month),Atemwegserkrankung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5003t,respiratory illness twin 1: end (month),Atemwegserkrankung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5003u,respiratory illness twin 2: end (month),Atemwegserkrankung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5004s,respiratory illness sibling: end (year),Atemwegserkrankung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5004t,respiratory illness twin 1: end (year),Atemwegserkrankung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5004u,respiratory illness twin 2: end (year),Atemwegserkrankung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5100s,diagnosis: allergies (sibling),Diagnose: Allergien (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,2
 twinlife-panel,ZA6701_person_v1-0-0,dia5100t,diagnosis: allergies (twin 1),Diagnose: Allergien (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,2
 twinlife-panel,ZA6701_person_v1-0-0,dia5100u,diagnosis: allergies (twin 2),Diagnose: Allergien (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5101s,allergies sibling: beginning (month),Allergien Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101s,1
+twinlife-panel,ZA6701_person_v1-0-0,dia5101s,allergies sibling: beginning (month),Allergien Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5101t,allergies twin 1: beginning (month),Allergien Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5101u,allergies twin 2: beginning (month),Allergien Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5102s,allergies sibling: beginning (year),Allergien Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5102s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5102t,allergies twin 1: beginning (year),Allergien Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5102t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5102u,allergies twin 2: beginning (year),Allergien Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5102u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5103s,allergies sibling: end (month),Allergien Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5103s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5103t,allergies twin 1: end (month),Allergien Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5103t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5103u,allergies twin 2: end (month),Allergien Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5103u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5104s,allergies sibling: end (year),Allergien Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5104s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5104t,allergies twin 1: end (year),Allergien Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5104t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5104u,allergies twin 2: end (year),Allergien Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5104u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5102s,allergies sibling: beginning (year),Allergien Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5102t,allergies twin 1: beginning (year),Allergien Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5102u,allergies twin 2: beginning (year),Allergien Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5103s,allergies sibling: end (month),Allergien Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5103t,allergies twin 1: end (month),Allergien Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5103u,allergies twin 2: end (month),Allergien Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5104s,allergies sibling: end (year),Allergien Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5001s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5104t,allergies twin 1: end (year),Allergien Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5104u,allergies twin 2: end (year),Allergien Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5101u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5200s,diagnosis: neurodermatitis (sibling),Diagnose: Neurodermitis (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,3
 twinlife-panel,ZA6701_person_v1-0-0,dia5200t,diagnosis: neurodermatitis (twin 1),Diagnose: Neurodermitis (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,3
 twinlife-panel,ZA6701_person_v1-0-0,dia5200u,diagnosis: neurodermatitis (twin 2),Diagnose: Neurodermitis (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,3
 twinlife-panel,ZA6701_person_v1-0-0,dia5201s,neurodermatitis sibling: beginning (month),Neurodermitis Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5201t,neurodermatitis twin 1: beginning (month),Neurodermitis Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5201u,neurodermatitis twin 2: beginning (month),Neurodermitis Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5202s,neurodermatitis sibling: beginning (year),Neurodermitis Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5202s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5202t,neurodermatitis twin 1: beginning (year),Neurodermitis Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5202t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5202u,neurodermatitis twin 2: beginning (year),Neurodermitis Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5202u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5203s,neurodermatitis sibling: end (month),Neurodermitis Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5203s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5203t,neurodermatitis twin 1: end (month),Neurodermitis Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5203t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5203u,neurodermatitis twin 2: end (month),Neurodermitis Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5203u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5204s,neurodermatitis sibling: end (year),Neurodermitis Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5204s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5204t,neurodermatitis twin 1: end (year),Neurodermitis Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5204t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5204u,neurodermatitis twin 2: end (year),Neurodermitis Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5204u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5202s,neurodermatitis sibling: beginning (year),Neurodermitis Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5202t,neurodermatitis twin 1: beginning (year),Neurodermitis Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5202u,neurodermatitis twin 2: beginning (year),Neurodermitis Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5203s,neurodermatitis sibling: end (month),Neurodermitis Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5203t,neurodermatitis twin 1: end (month),Neurodermitis Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5203u,neurodermatitis twin 2: end (month),Neurodermitis Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5204s,neurodermatitis sibling: end (year),Neurodermitis Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5204t,neurodermatitis twin 1: end (year),Neurodermitis Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5204u,neurodermatitis twin 2: end (year),Neurodermitis Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5201u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5300s,diagnosis: defective vision (sibling),Diagnose: Fehlsichtigkeit (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5300t,diagnosis: defective vision (twin 1),Diagnose: Fehlsichtigkeit (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5300u,diagnosis: defective vision (twin 2),Diagnose: Fehlsichtigkeit (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5301s,defective vision sibling: beginning (month),Fehlsichtigkeit Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5301t,defective vision twin 1: beginning (month),Fehlsichtigkeit Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5301u,defective vision twin 2: beginning (month),Fehlsichtigkeit Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5302s,defective vision sibling: beginning (year),Fehlsichtigkeit Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5302s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5302t,defective vision twin 1: beginning (year),Fehlsichtigkeit Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5302t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5302u,defective vision twin 2: beginning (year),Fehlsichtigkeit Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5302u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5303s,defective vision sibling: end (month),Fehlsichtigkeit Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5303s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5303t,defective vision twin 1: end (month),Fehlsichtigkeit Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5303t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5303u,defective vision twin 2: end (month),Fehlsichtigkeit Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5303u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5304s,defective vision sibling: end (year),Fehlsichtigkeit Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5304s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5304t,defective vision twin 1: end (year),Fehlsichtigkeit Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5304t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5304u,defective vision twin 2: end (year),Fehlsichtigkeit Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5304u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5302s,defective vision sibling: beginning (year),Fehlsichtigkeit Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5302t,defective vision twin 1: beginning (year),Fehlsichtigkeit Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5302u,defective vision twin 2: beginning (year),Fehlsichtigkeit Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5303s,defective vision sibling: end (month),Fehlsichtigkeit Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5303t,defective vision twin 1: end (month),Fehlsichtigkeit Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5303u,defective vision twin 2: end (month),Fehlsichtigkeit Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5304s,defective vision sibling: end (year),Fehlsichtigkeit Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5304t,defective vision twin 1: end (year),Fehlsichtigkeit Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5304u,defective vision twin 2: end (year),Fehlsichtigkeit Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5301u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5400s,diagnosis: eating disorder (sibling),Diagnose: Ernaehrungsstoerung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,5
 twinlife-panel,ZA6701_person_v1-0-0,dia5400t,diagnosis: eating disorder (twin 1),Diagnose: Ernaehrungsstoerung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,5
 twinlife-panel,ZA6701_person_v1-0-0,dia5400u,diagnosis: eating disorder (twin 2),Diagnose: Ernaehrungsstoerung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,5
 twinlife-panel,ZA6701_person_v1-0-0,dia5401s,eating disorder sibling: beginning (month),Ernaehrungsstoerung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5401t,eating disorder twin 1: beginning (month),Ernaehrungsstoerung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5401u,eating disorder twin 2: beginning (month),Ernaehrungsstoerung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5402s,eating disorder sibling: beginning (year),Ernaehrungsstoerung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5402s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5402t,eating disorder twin 1: beginning (year),Ernaehrungsstoerung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5402t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5402u,eating disorder twin 2: beginning (year),Ernaehrungsstoerung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5402u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5403s,eating disorder sibling: end (month),Ernaehrungsstoerung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5403s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5403t,eating disorder twin 1: end (month),Ernaehrungsstoerung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5403t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5403u,eating disorder twin 2: end (month),Ernaehrungsstoerung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5403u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5404s,eating disorder sibling: end (year),Ernaehrungsstoerung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5404s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5404t,eating disorder twin 1: end (year),Ernaehrungsstoerung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5404t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5404u,eating disorder twin 2: end (year),Ernaehrungsstoerung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5404u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5402s,eating disorder sibling: beginning (year),Ernaehrungsstoerung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5402t,eating disorder twin 1: beginning (year),Ernaehrungsstoerung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5402u,eating disorder twin 2: beginning (year),Ernaehrungsstoerung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5403s,eating disorder sibling: end (month),Ernaehrungsstoerung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5403t,eating disorder twin 1: end (month),Ernaehrungsstoerung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5403u,eating disorder twin 2: end (month),Ernaehrungsstoerung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5404s,eating disorder sibling: end (year),Ernaehrungsstoerung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5404t,eating disorder twin 1: end (year),Ernaehrungsstoerung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5404u,eating disorder twin 2: end (year),Ernaehrungsstoerung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5401u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5500s,diagnosis: motor dysfunction (sibling),"Diagnose: Stoerung der Motorik, Bewegung (Geschwister)",,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,6
 twinlife-panel,ZA6701_person_v1-0-0,dia5500t,diagnosis: motor dysfunction (twin 1),"Diagnose: Stoerung der Motorik, Bewegung (Zwilling 1)",,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,6
 twinlife-panel,ZA6701_person_v1-0-0,dia5500u,diagnosis: motor dysfunction (twin 2),"Diagnose: Stoerung der Motorik, Bewegung (Zwilling 2)",,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,6
 twinlife-panel,ZA6701_person_v1-0-0,dia5501s,motor dysfunction sibling: beginning (month),Stoerung der Motorik Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5501t,motor dysfunction twin 1: beginning (month),Stoerung der Motorik Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5501u,motor dysfunction twin 2: beginning (month),Stoerung der Motorik Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5502s,motor dysfunction sibling: beginning (year),Stoerung der Motorik Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5502s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5502t,motor dysfunction twin 1: beginning (year),Stoerung der Motorik Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5502t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5502u,motor dysfunction twin 2: beginning (year),Stoerung der Motorik Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5502u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5503s,motor dysfunction sibling: end (month),Stoerung der Motorik Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5503s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5503t,motor dysfunction twin 1: end (month),Stoerung der Motorik Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5503t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5503u,motor dysfunction twin 2: end (month),Stoerung der Motorik Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5503u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5504s,motor dysfunction sibling: end (year),Stoerung der Motorik Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5504s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5504t,motor dysfunction twin 1: end (year),Stoerung der Motorik Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5504t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5504u,motor dysfunction twin 2: end (year),Stoerung der Motorik Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5504u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5502s,motor dysfunction sibling: beginning (year),Stoerung der Motorik Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5502t,motor dysfunction twin 1: beginning (year),Stoerung der Motorik Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5502u,motor dysfunction twin 2: beginning (year),Stoerung der Motorik Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5503s,motor dysfunction sibling: end (month),Stoerung der Motorik Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5503t,motor dysfunction twin 1: end (month),Stoerung der Motorik Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5503u,motor dysfunction twin 2: end (month),Stoerung der Motorik Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5504s,motor dysfunction sibling: end (year),Stoerung der Motorik Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5504t,motor dysfunction twin 1: end (year),Stoerung der Motorik Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5504u,motor dysfunction twin 2: end (year),Stoerung der Motorik Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5501u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5600s,diagnosis: mental disability (sibling),Diagnose: Geistige Behinderung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,7
 twinlife-panel,ZA6701_person_v1-0-0,dia5600t,diagnosis: mental disability (twin 1),Diagnose: Geistige Behinderung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,7
 twinlife-panel,ZA6701_person_v1-0-0,dia5600u,diagnosis: mental disability (twin 2),Diagnose: Geistige Behinderung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,7
 twinlife-panel,ZA6701_person_v1-0-0,dia5601s,mental disability sibling: beginning (month),Geistige Behinderung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5601t,mental disability twin 1: beginning (month),Geistige Behinderung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5601u,mental disability twin 2: beginning (month),Geistige Behinderung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5602s,mental disability sibling: beginning (year),Geistige Behinderung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5602s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5602t,mental disability twin 1: beginning (year),Geistige Behinderung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5602t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5602u,mental disability twin 2: beginning (year),Geistige Behinderung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5602u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5603s,mental disability sibling: end (month),Geistige Behinderung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5603s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5603t,mental disability twin 1: end (month),Geistige Behinderung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5603t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5603u,mental disability twin 2: end (month),Geistige Behinderung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5603u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5604s,mental disability sibling: end (year),Geistige Behinderung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5604s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5604t,mental disability twin 1: end (year),Geistige Behinderung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5604t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5604u,mental disability twin 2: end (year),Geistige Behinderung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5604u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5602s,mental disability sibling: beginning (year),Geistige Behinderung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5602t,mental disability twin 1: beginning (year),Geistige Behinderung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5602u,mental disability twin 2: beginning (year),Geistige Behinderung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5603s,mental disability sibling: end (month),Geistige Behinderung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5603t,mental disability twin 1: end (month),Geistige Behinderung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5603u,mental disability twin 2: end (month),Geistige Behinderung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5604s,mental disability sibling: end (year),Geistige Behinderung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5604t,mental disability twin 1: end (year),Geistige Behinderung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5604u,mental disability twin 2: end (year),Geistige Behinderung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5601u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5700s,diagnosis: physical disability (sibling),Diagnose: Koerperliche Behinderung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,8
 twinlife-panel,ZA6701_person_v1-0-0,dia5700t,diagnosis: physical disability (twin 1),Diagnose: Koerperliche Behinderung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,8
 twinlife-panel,ZA6701_person_v1-0-0,dia5700u,diagnosis: physical disability (twin 2),Diagnose: Koerperliche Behinderung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,8
 twinlife-panel,ZA6701_person_v1-0-0,dia5701s,physical disability sibling: beginning (month),Koerperliche Behinderung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5701t,physical disability twin 1: beginning (month),Koerperliche Behinderung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5701u,physical disability twin 2: beginning (month),Koerperliche Behinderung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5702s,physical disability sibling: beginning (year),Koerperliche Behinderung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5702s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5702t,physical disability twin 1: beginning (year),Koerperliche Behinderung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5702t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5702u,physical disability twin 2: beginning (year),Koerperliche Behinderung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5702u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5703s,physical disability sibling: end (month),Koerperliche Behinderung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5703s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5703t,physical disability twin 1: end (month),Koerperliche Behinderung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5703t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5703u,physical disability twin 2: end (month),Koerperliche Behinderung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5703u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5704s,physical disability sibling: end (year),Koerperliche Behinderung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5704s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5704t,physical disability twin 1: end (year),Koerperliche Behinderung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5704t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5704u,physical disability twin 2: end (year),Koerperliche Behinderung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5704u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5702s,physical disability sibling: beginning (year),Koerperliche Behinderung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5702t,physical disability twin 1: beginning (year),Koerperliche Behinderung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5702u,physical disability twin 2: beginning (year),Koerperliche Behinderung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5703s,physical disability sibling: end (month),Koerperliche Behinderung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5703t,physical disability twin 1: end (month),Koerperliche Behinderung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5703u,physical disability twin 2: end (month),Koerperliche Behinderung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5704s,physical disability sibling: end (year),Koerperliche Behinderung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5704t,physical disability twin 1: end (year),Koerperliche Behinderung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5704u,physical disability twin 2: end (year),Koerperliche Behinderung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5701u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5800s,diagnosis: anxiety disorder (sibling),Diagnose: Angsterkrankung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,9
 twinlife-panel,ZA6701_person_v1-0-0,dia5800t,diagnosis: anxiety disorder (twin 1),Diagnose: Angsterkrankung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,9
 twinlife-panel,ZA6701_person_v1-0-0,dia5800u,diagnosis: anxiety disorder (twin 2),Diagnose: Angsterkrankung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,9
 twinlife-panel,ZA6701_person_v1-0-0,dia5801s,anxiety disorder sibling: beginning (month),Angsterkrankung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5801t,anxiety disorder twin 1: beginning (month),Angsterkrankung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5801u,anxiety disorder twin 2: beginning (month),Angsterkrankung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5802s,anxiety disorder sibling: beginning (year),Angsterkrankung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5802s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5802t,anxiety disorder twin 1: beginning (year),Angsterkrankung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5802t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5802u,anxiety disorder twin 2: beginning (year),Angsterkrankung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5802u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5803s,anxiety disorder sibling: end (month),Angsterkrankung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5803s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5803t,anxiety disorder twin 1: end (month),Angsterkrankung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5803t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5803u,anxiety disorder twin 2: end (month),Angsterkrankung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5803u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5804s,anxiety disorder sibling: end (year),Angsterkrankung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5804s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5804t,anxiety disorder twin 1: end (year),Angsterkrankung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5804t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5804u,anxiety disorder twin 2: end (year),Angsterkrankung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5804u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5802s,anxiety disorder sibling: beginning (year),Angsterkrankung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5802t,anxiety disorder twin 1: beginning (year),Angsterkrankung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5802u,anxiety disorder twin 2: beginning (year),Angsterkrankung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5803s,anxiety disorder sibling: end (month),Angsterkrankung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5803t,anxiety disorder twin 1: end (month),Angsterkrankung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5803u,anxiety disorder twin 2: end (month),Angsterkrankung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5804s,anxiety disorder sibling: end (year),Angsterkrankung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5804t,anxiety disorder twin 1: end (year),Angsterkrankung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5804u,anxiety disorder twin 2: end (year),Angsterkrankung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5801u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia5900s,diagnosis: social behavior disorder (sibling),Diagnose: Stoerung des Sozialverhaltens (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,10
 twinlife-panel,ZA6701_person_v1-0-0,dia5900t,diagnosis: social behavior disorder (twin 1),Diagnose: Stoerung des Sozialverhaltens (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,10
 twinlife-panel,ZA6701_person_v1-0-0,dia5900u,diagnosis: social behavior disorder (twin 2),Diagnose: Stoerung des Sozialverhaltens (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,10
 twinlife-panel,ZA6701_person_v1-0-0,dia5901s,disturbance of social behaviour sibling: beginning (month),Stoerung des Sozialverhaltens Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5901t,disturbance of social behaviour twin 1: beginning (month),Stoerung des Sozialverhaltens Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia5901u,disturbance of social behaviour twin 2: beginning (month),Stoerung des Sozialverhaltens Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia5902s,disturbance of social behaviour sibling: beginning (year),Stoerung des Sozialverhaltens Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5902s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5902t,disturbance of social behaviour twin 1: beginning (year),Stoerung des Sozialverhaltens Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5902t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5902u,disturbance of social behaviour twin 2: beginning (year),Stoerung des Sozialverhaltens Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5902u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia5903s,disturbance of social behaviour sibling: end (month),Stoerung des Sozialverhaltens Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5903s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5903t,disturbance of social behaviour twin 1: end (month),Stoerung des Sozialverhaltens Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5903t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5903u,disturbance of social behaviour twin 2: end (month),Stoerung des Sozialverhaltens Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5903u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia5904s,disturbance of social behaviour sibling: end (year),Stoerung des Sozialverhaltens Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5904s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5904t,disturbance of social behaviour twin 1: end (year),Stoerung des Sozialverhaltens Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5904t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia5904u,disturbance of social behaviour twin 2: end (year),Stoerung des Sozialverhaltens Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5904u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5902s,disturbance of social behaviour sibling: beginning (year),Stoerung des Sozialverhaltens Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5902t,disturbance of social behaviour twin 1: beginning (year),Stoerung des Sozialverhaltens Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5902u,disturbance of social behaviour twin 2: beginning (year),Stoerung des Sozialverhaltens Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia5903s,disturbance of social behaviour sibling: end (month),Stoerung des Sozialverhaltens Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5903t,disturbance of social behaviour twin 1: end (month),Stoerung des Sozialverhaltens Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5903u,disturbance of social behaviour twin 2: end (month),Stoerung des Sozialverhaltens Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia5904s,disturbance of social behaviour sibling: end (year),Stoerung des Sozialverhaltens Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5904t,disturbance of social behaviour twin 1: end (year),Stoerung des Sozialverhaltens Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia5904u,disturbance of social behaviour twin 2: end (year),Stoerung des Sozialverhaltens Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia5901u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia6000s,diagnosis: attention deficit disorder (sibling),Diagnose: Aufmerksamkeitsstoerung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,11
 twinlife-panel,ZA6701_person_v1-0-0,dia6000t,diagnosis: attention deficit disorder (twin 1),Diagnose: Aufmerksamkeitsstoerung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,11
 twinlife-panel,ZA6701_person_v1-0-0,dia6000u,diagnosis: attention deficit disorder (twin 2),Diagnose: Aufmerksamkeitsstoerung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,11
 twinlife-panel,ZA6701_person_v1-0-0,dia6001s,attention deficit disorder sibling: beginning (month),Aufmerksamkeitsstoerung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6001t,attention deficit disorder twin 1: beginning (month),Aufmerksamkeitsstoerung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6001u,attention deficit disorder twin 2: beginning (month),Aufmerksamkeitsstoerung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia6002s,attention deficit disorder sibling: beginning (year),Aufmerksamkeitsstoerung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6002s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6002t,attention deficit disorder twin 1: beginning (year),Aufmerksamkeitsstoerung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6002t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6002u,attention deficit disorder twin 2: beginning (year),Aufmerksamkeitsstoerung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6002u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6003s,attention deficit disorder sibling: end (month),Aufmerksamkeitsstoerung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6003s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6003t,attention deficit disorder twin 1: end (month),Aufmerksamkeitsstoerung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6003t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6003u,attention deficit disorder twin 2: end (month),Aufmerksamkeitsstoerung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6003u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6004s,attention deficit disorder sibling: end (year),Aufmerksamkeitsstoerung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6004s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6004t,attention deficit disorder twin 1: end (year),Aufmerksamkeitsstoerung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6004t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6004u,attention deficit disorder twin 2: end (year),Aufmerksamkeitsstoerung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6004u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6002s,attention deficit disorder sibling: beginning (year),Aufmerksamkeitsstoerung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6002t,attention deficit disorder twin 1: beginning (year),Aufmerksamkeitsstoerung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6002u,attention deficit disorder twin 2: beginning (year),Aufmerksamkeitsstoerung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6003s,attention deficit disorder sibling: end (month),Aufmerksamkeitsstoerung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6003t,attention deficit disorder twin 1: end (month),Aufmerksamkeitsstoerung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6003u,attention deficit disorder twin 2: end (month),Aufmerksamkeitsstoerung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6004s,attention deficit disorder sibling: end (year),Aufmerksamkeitsstoerung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6004t,attention deficit disorder twin 1: end (year),Aufmerksamkeitsstoerung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6004u,attention deficit disorder twin 2: end (year),Aufmerksamkeitsstoerung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6001u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia6100s,"diagnosis: dyslexia, reading/writing difficulties (sibling)",Diagnose: Lese-/Rechtschreibschwaeche (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,12
 twinlife-panel,ZA6701_person_v1-0-0,dia6100t,"diagnosis: dyslexia, reading/writing difficulties (twin 1)",Diagnose: Lese-/Rechtschreibschwaeche (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,12
 twinlife-panel,ZA6701_person_v1-0-0,dia6100u,"diagnosis: dyslexia, reading/writing difficulties (twin 2)",Diagnose: Lese-/Rechtschreibschwaeche (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,12
 twinlife-panel,ZA6701_person_v1-0-0,dia6101s,"dyslexia, reading/writing difficulties sibling: beginning (month)",Lese-/Rechtschreibschwaeche Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6101t,"dyslexia, reading/writing difficulties twin 1: beginning (month)",Lese-/Rechtschreibschwaeche Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6101u,"dyslexia, reading/writing difficulties twin 2: beginning (month)",Lese-/Rechtschreibschwaeche Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia6102s,"dyslexia, reading/writing difficulties sibling: beginning (year)",Lese-/Rechtschreibschwaeche Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6102s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6102t,"dyslexia, reading/writing difficulties twin 1: beginning (year)",Lese-/Rechtschreibschwaeche Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6102t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6102u,"dyslexia, reading/writing difficulties twin 2: beginning (year)",Lese-/Rechtschreibschwaeche Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6102u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6103s,"dyslexia, reading/writing difficulties sibling: end (month)",Lese-/Rechtschreibschwaeche Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6103s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6103t,"dyslexia, reading/writing difficulties twin 1: end (month)",Lese-/Rechtschreibschwaeche Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6103t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6103u,"dyslexia, reading/writing difficulties twin 2: end (month)",Lese-/Rechtschreibschwaeche Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6103u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6104s,"dyslexia, reading/writing difficulties sibling: end (year)",Lese-/Rechtschreibschwaeche Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6104s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6104t,"dyslexia, reading/writing difficulties twin 1: end (year)",Lese-/Rechtschreibschwaeche Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6104t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6104u,"dyslexia, reading/writing difficulties twin 2: end (year)",Lese-/Rechtschreibschwaeche Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6104u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6102s,"dyslexia, reading/writing difficulties sibling: beginning (year)",Lese-/Rechtschreibschwaeche Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6102t,"dyslexia, reading/writing difficulties twin 1: beginning (year)",Lese-/Rechtschreibschwaeche Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6102u,"dyslexia, reading/writing difficulties twin 2: beginning (year)",Lese-/Rechtschreibschwaeche Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6103s,"dyslexia, reading/writing difficulties sibling: end (month)",Lese-/Rechtschreibschwaeche Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6103t,"dyslexia, reading/writing difficulties twin 1: end (month)",Lese-/Rechtschreibschwaeche Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6103u,"dyslexia, reading/writing difficulties twin 2: end (month)",Lese-/Rechtschreibschwaeche Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6104s,"dyslexia, reading/writing difficulties sibling: end (year)",Lese-/Rechtschreibschwaeche Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6104t,"dyslexia, reading/writing difficulties twin 1: end (year)",Lese-/Rechtschreibschwaeche Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6104u,"dyslexia, reading/writing difficulties twin 2: end (year)",Lese-/Rechtschreibschwaeche Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6101u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia6200s,"diagnosis: dyscalculia, difficulties with math (sibling)",Diagnose: Rechenschwaeche (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,13
 twinlife-panel,ZA6701_person_v1-0-0,dia6200t,"diagnosis: dyscalculia, difficulties with math (twin 1)",Diagnose: Rechenschwaeche (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,13
 twinlife-panel,ZA6701_person_v1-0-0,dia6200u,"diagnosis: dyscalculia, difficulties with math (twin 2)",Diagnose: Rechenschwaeche (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,13
 twinlife-panel,ZA6701_person_v1-0-0,dia6201s,"dyscalculia, difficulties with math sibling: beginning (month)",Rechenschwaeche Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6201t,"dyscalculia, difficulties with math twin 1: beginning (month)",Rechenschwaeche Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6201u,"dyscalculia, difficulties with math twin 2: beginning (month)",Rechenschwaeche Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia6202s,"dyscalculia, difficulties with math sibling: beginning (year)",Rechenschwaeche Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6202s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6202t,"dyscalculia, difficulties with math twin 1: beginning (year)",Rechenschwaeche Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6202t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6202u,"dyscalculia, difficulties with math twin 2: beginning (year)",Rechenschwaeche Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6202u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6203s,"dyscalculia, difficulties with math sibling: end (month)",Rechenschwaeche Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6203s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6203t,"dyscalculia, difficulties with math twin 1: end (month)",Rechenschwaeche Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6203t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6203u,"dyscalculia, difficulties with math twin 2: end (month)",Rechenschwaeche Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6203u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6204s,"dyscalculia, difficulties with math sibling: end (year)",Rechenschwaeche Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6204s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6204t,"dyscalculia, difficulties with math twin 1: end (year)",Rechenschwaeche Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6204t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6204u,"dyscalculia, difficulties with math twin 2: end (year)",Rechenschwaeche Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6204u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6202s,"dyscalculia, difficulties with math sibling: beginning (year)",Rechenschwaeche Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6202t,"dyscalculia, difficulties with math twin 1: beginning (year)",Rechenschwaeche Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6202u,"dyscalculia, difficulties with math twin 2: beginning (year)",Rechenschwaeche Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6203s,"dyscalculia, difficulties with math sibling: end (month)",Rechenschwaeche Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6203t,"dyscalculia, difficulties with math twin 1: end (month)",Rechenschwaeche Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6203u,"dyscalculia, difficulties with math twin 2: end (month)",Rechenschwaeche Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6204s,"dyscalculia, difficulties with math sibling: end (year)",Rechenschwaeche Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6204t,"dyscalculia, difficulties with math twin 1: end (year)",Rechenschwaeche Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6204u,"dyscalculia, difficulties with math twin 2: end (year)",Rechenschwaeche Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6201u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia6300s,diagnosis: stuttering (sibling),Diagnose: Stottern (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,14
 twinlife-panel,ZA6701_person_v1-0-0,dia6300t,diagnosis: stuttering (twin 1),Diagnose: Stottern (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,14
 twinlife-panel,ZA6701_person_v1-0-0,dia6300u,diagnosis: stuttering (twin 2),Diagnose: Stottern (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,14
 twinlife-panel,ZA6701_person_v1-0-0,dia6301s,stuttering sibling: beginning (month),Stottern Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6301t,stuttering twin 1: beginning (month),Stottern Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6301u,stuttering twin 2: beginning (month),Stottern Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia6302s,stuttering sibling: beginning (year),Stottern Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6302s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6302t,stuttering twin 1: beginning (year),Stottern Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6302t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6302u,stuttering twin 2: beginning (year),Stottern Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6302u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6303s,stuttering sibling: end (month),Stottern Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6303s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6303t,stuttering twin 1: end (month),Stottern Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6303t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6303u,stuttering twin 2: end (month),Stottern Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6303u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6304s,stuttering sibling: end (year),Stottern Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6304s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6304t,stuttering twin 1: end (year),Stottern Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6304t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6304u,stuttering twin 2: end (year),Stottern Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6304u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6302s,stuttering sibling: beginning (year),Stottern Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6302t,stuttering twin 1: beginning (year),Stottern Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6302u,stuttering twin 2: beginning (year),Stottern Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6303s,stuttering sibling: end (month),Stottern Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6303t,stuttering twin 1: end (month),Stottern Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6303u,stuttering twin 2: end (month),Stottern Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6304s,stuttering sibling: end (year),Stottern Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6304t,stuttering twin 1: end (year),Stottern Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6304u,stuttering twin 2: end (year),Stottern Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6301u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia6400s,diagnosis: other physical or mental illness (sibling),Diagnose: Sonst. koerperliche oder psychische Erkrankung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,15
 twinlife-panel,ZA6701_person_v1-0-0,dia6400t,diagnosis: other physical or mental illness (twin 1),Diagnose: Sonst. koerperliche oder psychische Erkrankung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,15
 twinlife-panel,ZA6701_person_v1-0-0,dia6400u,diagnosis: other physical or mental illness (twin 2),Diagnose: Sonst. koerperliche oder psychische Erkrankung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,15
 twinlife-panel,ZA6701_person_v1-0-0,dia6401s,other physical or mental illness sibling: beginning (month),Sonst. koerperl. o. psychische Erkrankung Geschwister: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401s,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6401t,other physical or mental illness twin 1: beginning (month),Sonst. koerperl. o. psychische Erkrankung Z1: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401t,1
 twinlife-panel,ZA6701_person_v1-0-0,dia6401u,other physical or mental illness twin 2: beginning (month),Sonst. koerperl. o. psychische Erkrankung Z2: Beginn Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401u,1
-twinlife-panel,ZA6701_person_v1-0-0,dia6402s,other physical or mental illness sibling: beginning (year),Sonst. koerperl. o. psychische Erkrankung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6402s,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6402t,other physical or mental illness twin 1: beginning (year),Sonst. koerperl. o. psychische Erkrankung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6402t,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6402u,other physical or mental illness twin 2: beginning (year),Sonst. koerperl. o. psychische Erkrankung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6402u,2
-twinlife-panel,ZA6701_person_v1-0-0,dia6403s,other physical or mental illness sibling: end (month),Sonst. koerperl. o. psychische Erkrankung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6403s,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6403t,other physical or mental illness twin 1: end (month),Sonst. koerperl. o. psychische Erkrankung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6403t,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6403u,other physical or mental illness twin 2: end (month),Sonst. koerperl. o. psychische Erkrankung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6403u,3
-twinlife-panel,ZA6701_person_v1-0-0,dia6404s,other physical or mental illness sibling: end (year),Sonst. koerperl. o. psychische Erkrankung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6404s,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6404t,other physical or mental illness twin 1: end (year),Sonst. koerperl. o. psychische Erkrankung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6404t,4
-twinlife-panel,ZA6701_person_v1-0-0,dia6404u,other physical or mental illness twin 2: end (year),Sonst. koerperl. o. psychische Erkrankung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6404u,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6402s,other physical or mental illness sibling: beginning (year),Sonst. koerperl. o. psychische Erkrankung Geschwister: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401s,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6402t,other physical or mental illness twin 1: beginning (year),Sonst. koerperl. o. psychische Erkrankung Z1: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401t,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6402u,other physical or mental illness twin 2: beginning (year),Sonst. koerperl. o. psychische Erkrankung Z2: Beginn Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401u,2
+twinlife-panel,ZA6701_person_v1-0-0,dia6403s,other physical or mental illness sibling: end (month),Sonst. koerperl. o. psychische Erkrankung Geschwister: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401s,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6403t,other physical or mental illness twin 1: end (month),Sonst. koerperl. o. psychische Erkrankung Z1: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401t,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6403u,other physical or mental illness twin 2: end (month),Sonst. koerperl. o. psychische Erkrankung Z2: Ende Monat,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401u,3
+twinlife-panel,ZA6701_person_v1-0-0,dia6404s,other physical or mental illness sibling: end (year),Sonst. koerperl. o. psychische Erkrankung Geschwister: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401s,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6404t,other physical or mental illness twin 1: end (year),Sonst. koerperl. o. psychische Erkrankung Z1: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401t,4
+twinlife-panel,ZA6701_person_v1-0-0,dia6404u,other physical or mental illness twin 2: end (year),Sonst. koerperl. o. psychische Erkrankung Z2: Ende Jahr,,twinlife-panel-2014-F2F_Modul7_EueK,dia6401u,4
 twinlife-panel,ZA6701_person_v1-0-0,dia6600s,diagnosis: none (sibling),Diagnose: Keine Erkrankung (Geschwister),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000s,16
 twinlife-panel,ZA6701_person_v1-0-0,dia6600t,diagnosis: none (twin 1),Diagnose: Keine Erkrankung (Zwilling 1),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000t,16
 twinlife-panel,ZA6701_person_v1-0-0,dia6600u,diagnosis: none (twin 2),Diagnose: Keine Erkrankung (Zwilling 2),,twinlife-panel-2014-F2F_Modul7_EueK,dia5000u,16
@@ -1296,54 +1296,54 @@ twinlife-panel,ZA6701_person_v1-0-0,hoe0501,At home the TV used to almost always
 twinlife-panel,ZA6701_person_v1-0-0,hoe0600,The atmosphere at home is quiet.,Zuhause ruhige Atmosphaere,,twinlife-panel-2014-F2F_Modul4_CASI,hoe0100,12
 twinlife-panel,ZA6701_person_v1-0-0,hoe0601,The atmosphere at home used to be quiet.,Frueher zuhause ruhige Atmosphaere,,twinlife-panel-2014-F2F_Modul4_CASI,hoe0100,13
 twinlife-panel,ZA6701_person_v1-0-0,hpr0101,person 1: employment - kindergarten/child care institution,Person 1: Erwerbstaetigkeit - Kindergarten/KITA,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,1
-twinlife-panel,ZA6701_person_v1-0-0,hpr0102,person 1: employment - in school (first education path),Person 1: Erwerbstaetigkeit - Allgemeinbildende Schule (1. Bildungsweg),,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0102,2
-twinlife-panel,ZA6701_person_v1-0-0,hpr0103,person 1: employment - training/uni./further education/other edu.,Person 1: Erwerbstaetigkeit - Ausbildung/Hochschule/Weiterbild./and. Bild.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0103,3
-twinlife-panel,ZA6701_person_v1-0-0,hpr0104,person 1: employment - employed full-time,Person 1: Erwerbstaetigkeit - Voll erwerbstaetig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0104,4
-twinlife-panel,ZA6701_person_v1-0-0,hpr0105,person 1: employment - employed part-time (also in more than one job),Person 1: Erwerbstaetigkeit - Teilzeitbeschaeftigt (auch mehrere parallel),,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0105,5
-twinlife-panel,ZA6701_person_v1-0-0,hpr0106,person 1: employment - vocational training/apprenticeship/retraining,Person 1: Erwerbstaetigkeit - Betriebliche Ausbildung/Lehre/Umschulung,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0106,6
-twinlife-panel,ZA6701_person_v1-0-0,hpr0107,person 1: employment - marginally employed/mini-job/1-euro-job,Person 1: Erwerbstaetigkeit - Geringfuegig beschaeftigt/Mini-Job/1-Euro-Job,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0107,7
-twinlife-panel,ZA6701_person_v1-0-0,hpr0108,person 1: employment - occasionally/irregularly employed,Person 1: Erwerbstaetigkeit - Gelegentlich/unregelmaessig beschaeftigt,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0108,8
-twinlife-panel,ZA6701_person_v1-0-0,hpr0109,person 1: employment - voluntary military service,Person 1: Erwerbstaetigkeit - Freiwilliger Wehrdienst,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0109,9
-twinlife-panel,ZA6701_person_v1-0-0,hpr0110,person 1: employment - voluntary social/ecological year,Person 1: Erwerbstaetigkeit - Freiwilliges soziales/oekologisches Jahr,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0110,10
-twinlife-panel,ZA6701_person_v1-0-0,hpr0111,person 1: employment - unemployed/seeking employment,Person 1: Erwerbstaetigkeit - Arbeitslos/Arbeitsuchend gemeldet,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0111,11
-twinlife-panel,ZA6701_person_v1-0-0,hpr0112,person 1: employment - maternity/parental leave/special leave,Person 1: Erwerbstaetigkeit - Mutterschutz/Elternzeit/Beurlaubung,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0112,12
-twinlife-panel,ZA6701_person_v1-0-0,hpr0113,person 1: employment - housewife/househusband,Person 1: Erwerbstaetigkeit - Hausfrau/Hausmann,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0113,13
-twinlife-panel,ZA6701_person_v1-0-0,hpr0114,person 1: employment - in (early) retirement/occupational disability,Person 1: Erwerbstaetigkeit - Vorruhestaendler/Rentner/Erwerbsunfaehig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0114,14
-twinlife-panel,ZA6701_person_v1-0-0,hpr0115,person 1: employment - partial retirement with zero working hours,Person 1: Erwerbstaetigkeit - Altersteilzeit mit Arbeitszeit Null,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0115,15
-twinlife-panel,ZA6701_person_v1-0-0,hpr0116,person 1: employment - not employed,Person 1: Erwerbstaetigkeit - Nicht erwerbstaetig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0116,16
-twinlife-panel,ZA6701_person_v1-0-0,hpr0120,person 1: employment - other,Person 1: Erwerbstaetigkeit - Sonstiges,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0120,17
-twinlife-panel,ZA6701_person_v1-0-0,hpr0198,person 1: employment - don't know,Person 1: Erwerbstaetigkeit - Weiss nicht,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0198,18
-twinlife-panel,ZA6701_person_v1-0-0,hpr0199,person 1: employment - not specified (refused to answer),Person 1: Erwerbstaetigkeit - Keine Angabe,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0199,19
-twinlife-panel,ZA6701_person_v1-0-0,imo0100,intrinsic motivation: Do you think you will like school?,"Intr. Motivation: Glaubst Du, dass Du die Schule moegen wirst?",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0100,2
+twinlife-panel,ZA6701_person_v1-0-0,hpr0102,person 1: employment - in school (first education path),Person 1: Erwerbstaetigkeit - Allgemeinbildende Schule (1. Bildungsweg),,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,2
+twinlife-panel,ZA6701_person_v1-0-0,hpr0103,person 1: employment - training/uni./further education/other edu.,Person 1: Erwerbstaetigkeit - Ausbildung/Hochschule/Weiterbild./and. Bild.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,3
+twinlife-panel,ZA6701_person_v1-0-0,hpr0104,person 1: employment - employed full-time,Person 1: Erwerbstaetigkeit - Voll erwerbstaetig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,4
+twinlife-panel,ZA6701_person_v1-0-0,hpr0105,person 1: employment - employed part-time (also in more than one job),Person 1: Erwerbstaetigkeit - Teilzeitbeschaeftigt (auch mehrere parallel),,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,5
+twinlife-panel,ZA6701_person_v1-0-0,hpr0106,person 1: employment - vocational training/apprenticeship/retraining,Person 1: Erwerbstaetigkeit - Betriebliche Ausbildung/Lehre/Umschulung,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,6
+twinlife-panel,ZA6701_person_v1-0-0,hpr0107,person 1: employment - marginally employed/mini-job/1-euro-job,Person 1: Erwerbstaetigkeit - Geringfuegig beschaeftigt/Mini-Job/1-Euro-Job,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,7
+twinlife-panel,ZA6701_person_v1-0-0,hpr0108,person 1: employment - occasionally/irregularly employed,Person 1: Erwerbstaetigkeit - Gelegentlich/unregelmaessig beschaeftigt,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,8
+twinlife-panel,ZA6701_person_v1-0-0,hpr0109,person 1: employment - voluntary military service,Person 1: Erwerbstaetigkeit - Freiwilliger Wehrdienst,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,9
+twinlife-panel,ZA6701_person_v1-0-0,hpr0110,person 1: employment - voluntary social/ecological year,Person 1: Erwerbstaetigkeit - Freiwilliges soziales/oekologisches Jahr,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,10
+twinlife-panel,ZA6701_person_v1-0-0,hpr0111,person 1: employment - unemployed/seeking employment,Person 1: Erwerbstaetigkeit - Arbeitslos/Arbeitsuchend gemeldet,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,11
+twinlife-panel,ZA6701_person_v1-0-0,hpr0112,person 1: employment - maternity/parental leave/special leave,Person 1: Erwerbstaetigkeit - Mutterschutz/Elternzeit/Beurlaubung,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,12
+twinlife-panel,ZA6701_person_v1-0-0,hpr0113,person 1: employment - housewife/househusband,Person 1: Erwerbstaetigkeit - Hausfrau/Hausmann,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,13
+twinlife-panel,ZA6701_person_v1-0-0,hpr0114,person 1: employment - in (early) retirement/occupational disability,Person 1: Erwerbstaetigkeit - Vorruhestaendler/Rentner/Erwerbsunfaehig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,14
+twinlife-panel,ZA6701_person_v1-0-0,hpr0115,person 1: employment - partial retirement with zero working hours,Person 1: Erwerbstaetigkeit - Altersteilzeit mit Arbeitszeit Null,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,15
+twinlife-panel,ZA6701_person_v1-0-0,hpr0116,person 1: employment - not employed,Person 1: Erwerbstaetigkeit - Nicht erwerbstaetig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,16
+twinlife-panel,ZA6701_person_v1-0-0,hpr0120,person 1: employment - other,Person 1: Erwerbstaetigkeit - Sonstiges,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,17
+twinlife-panel,ZA6701_person_v1-0-0,hpr0198,person 1: employment - don't know,Person 1: Erwerbstaetigkeit - Weiss nicht,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,18
+twinlife-panel,ZA6701_person_v1-0-0,hpr0199,person 1: employment - not specified (refused to answer),Person 1: Erwerbstaetigkeit - Keine Angabe,,twinlife-panel-2014-F2F_Haushaltsfragebogen,hpr0101,19
+twinlife-panel,ZA6701_person_v1-0-0,imo0100,intrinsic motivation: Do you think you will like school?,"Intr. Motivation: Glaubst Du, dass Du die Schule moegen wirst?",,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0100,2
 twinlife-panel,ZA6701_person_v1-0-0,imo0100s,sibling will like school,Geschwister wird Schule moegen,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100s,3
 twinlife-panel,ZA6701_person_v1-0-0,imo0100t,twin 1 will like school,Zwilling 1 wird Schule moegen,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100t,3
 twinlife-panel,ZA6701_person_v1-0-0,imo0100u,twin 2 will like school,Zwilling 2 wird Schule moegen,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100u,3
-twinlife-panel,ZA6701_person_v1-0-0,imo0101,intrinsic motivation: Do you think you will like learning things at school?,"Intr. Motivation: Glaubst Du, dass Du d. Lern. in der Schule moegen wirst?",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0101,3
+twinlife-panel,ZA6701_person_v1-0-0,imo0101,intrinsic motivation: Do you think you will like learning things at school?,"Intr. Motivation: Glaubst Du, dass Du d. Lern. in der Schule moegen wirst?",,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0100,3
 twinlife-panel,ZA6701_person_v1-0-0,imo0101s,sibling will like school subject matter,Geschwister wird Schulstoff moegen,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100s,4
 twinlife-panel,ZA6701_person_v1-0-0,imo0101t,twin 1 will like school subject matter,Zwilling 1 wird Schulstoff moegen,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100t,4
 twinlife-panel,ZA6701_person_v1-0-0,imo0101u,twin 2 will like school subject matter,Zwilling 2 wird Schulstoff moegen,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100u,4
-twinlife-panel,ZA6701_person_v1-0-0,imo0102,intrinsic motivation: Are you looking forward to school?,Intr. Motivation: Freust Du Dich auf die Schule?,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0102,4
+twinlife-panel,ZA6701_person_v1-0-0,imo0102,intrinsic motivation: Are you looking forward to school?,Intr. Motivation: Freust Du Dich auf die Schule?,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0100,4
 twinlife-panel,ZA6701_person_v1-0-0,imo0102s,sibling is looking forward to school,Geschwister freut sich auf Schule,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100s,5
 twinlife-panel,ZA6701_person_v1-0-0,imo0102t,twin 1 is looking forward to school,Zwilling 1 freut sich auf Schule,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100t,5
 twinlife-panel,ZA6701_person_v1-0-0,imo0102u,twin 2 is looking forward to school,Zwilling 2 freut sich auf Schule,,twinlife-panel-2014-F2F_Modul4_CASI,spa0100u,5
-twinlife-panel,ZA6701_person_v1-0-0,imo0103,intrinsic motivation: Looking f. to learning interesting things at school?,"Intr. Motiv.: Freust Du Dich d., i. d. Schule etwas Interessant. zu lernen?",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0103,5
-twinlife-panel,ZA6701_person_v1-0-0,imo0104,intrinsic motivation: Looking f. to understanding diff. things at school,"Intr. Motiv.: Freust Du Dich d., i. d. Schule schw. Dinge zu verstehen?",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0104,6
-twinlife-panel,ZA6701_person_v1-0-0,imo0105,intrinsic motivation: Looking f. to learning as much as possible at school?,"Intr. Motiv.: Freust Du Dich d., i. d. Schule so viel wie moegl. zu lernen?",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0105,7
+twinlife-panel,ZA6701_person_v1-0-0,imo0103,intrinsic motivation: Looking f. to learning interesting things at school?,"Intr. Motiv.: Freust Du Dich d., i. d. Schule etwas Interessant. zu lernen?",,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0100,5
+twinlife-panel,ZA6701_person_v1-0-0,imo0104,intrinsic motivation: Looking f. to understanding diff. things at school,"Intr. Motiv.: Freust Du Dich d., i. d. Schule schw. Dinge zu verstehen?",,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0100,6
+twinlife-panel,ZA6701_person_v1-0-0,imo0105,intrinsic motivation: Looking f. to learning as much as possible at school?,"Intr. Motiv.: Freust Du Dich d., i. d. Schule so viel wie moegl. zu lernen?",,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0100,7
 twinlife-panel,ZA6701_person_v1-0-0,imo0200,intrinsic motivation: I like doing the things that I learn at school.,"Intr. Motivation: Ich mache die Dinge, die ich in der Schule lerne, gerne.",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0200,1
-twinlife-panel,ZA6701_person_v1-0-0,imo0201,intrinsic motivation: School is fun.,Intr. Motivation: Schule macht mir Spass.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0201,2
-twinlife-panel,ZA6701_person_v1-0-0,imo0202,intrinsic motivation: The things that I learn at school are interesting to me.,"Intr. Motivation: Was ich in der Schule lerne, finde ich interessant.",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0202,3
+twinlife-panel,ZA6701_person_v1-0-0,imo0201,intrinsic motivation: School is fun.,Intr. Motivation: Schule macht mir Spass.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0200,2
+twinlife-panel,ZA6701_person_v1-0-0,imo0202,intrinsic motivation: The things that I learn at school are interesting to me.,"Intr. Motivation: Was ich in der Schule lerne, finde ich interessant.",,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0200,3
 twinlife-panel,ZA6701_person_v1-0-0,imo0300,intrinsic motivation: I like doing math.,Intr. Motivation: Ich mache Mathe gerne.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0300,1
-twinlife-panel,ZA6701_person_v1-0-0,imo0301,intrinsic motivation: Math is fun.,Intr. Motivation: Mathe macht mir Spass.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0301,2
-twinlife-panel,ZA6701_person_v1-0-0,imo0302,intrinsic motivation: Math is interesting.,Intr. Motivation: Mathe ist interessant.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0302,3
-twinlife-panel,ZA6701_person_v1-0-0,imo0400,intrinsic motivation: I like learning German.,Intr. Motivation: Ich mache Deutsch gerne.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0400,4
-twinlife-panel,ZA6701_person_v1-0-0,imo0401,intrinsic motivation: German is fun.,Intr. Motivation: Deutsch macht mir Spass.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0401,5
-twinlife-panel,ZA6701_person_v1-0-0,imo0402,intrinsic motivation: German is interesting.,Intr. Motivation: Deutsch ist interessant.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0402,6
+twinlife-panel,ZA6701_person_v1-0-0,imo0301,intrinsic motivation: Math is fun.,Intr. Motivation: Mathe macht mir Spass.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0300,2
+twinlife-panel,ZA6701_person_v1-0-0,imo0302,intrinsic motivation: Math is interesting.,Intr. Motivation: Mathe ist interessant.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0300,3
+twinlife-panel,ZA6701_person_v1-0-0,imo0400,intrinsic motivation: I like learning German.,Intr. Motivation: Ich mache Deutsch gerne.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0300,4
+twinlife-panel,ZA6701_person_v1-0-0,imo0401,intrinsic motivation: German is fun.,Intr. Motivation: Deutsch macht mir Spass.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0300,5
+twinlife-panel,ZA6701_person_v1-0-0,imo0402,intrinsic motivation: German is interesting.,Intr. Motivation: Deutsch ist interessant.,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0300,6
 twinlife-panel,ZA6701_person_v1-0-0,imo0500,learning motivation: to learn interesting things,Lernmotivation: Interessantes lernen,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0500,1
-twinlife-panel,ZA6701_person_v1-0-0,imo0501,learning motivation: to get food for thought,Lernmotivation: Anregung zum Nachdenken,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0501,3
-twinlife-panel,ZA6701_person_v1-0-0,imo0502,learning motivation: to gain a deeper understanding,Lernmotivation: tiefgehendes Verstaendnis erwerben,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0502,5
+twinlife-panel,ZA6701_person_v1-0-0,imo0501,learning motivation: to get food for thought,Lernmotivation: Anregung zum Nachdenken,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0500,3
+twinlife-panel,ZA6701_person_v1-0-0,imo0502,learning motivation: to gain a deeper understanding,Lernmotivation: tiefgehendes Verstaendnis erwerben,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0500,5
 twinlife-panel,ZA6701_person_v1-0-0,imo0600,performance motivation job: learning interesting things,Leistungsmotivation Beruf: Interessantes Lernen,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0600,1
-twinlife-panel,ZA6701_person_v1-0-0,imo0601,performance motivation job: getting food for thought,Leistungsmotivation Beruf: Anregung zum Nachdenken,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0601,2
-twinlife-panel,ZA6701_person_v1-0-0,imo0602,performance motivation job: gaining a deeper understanding,Leistungsmotivation Beruf: tiefgehendes Verstaendnis erwerben,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0602,3
+twinlife-panel,ZA6701_person_v1-0-0,imo0601,performance motivation job: getting food for thought,Leistungsmotivation Beruf: Anregung zum Nachdenken,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0600,2
+twinlife-panel,ZA6701_person_v1-0-0,imo0602,performance motivation job: gaining a deeper understanding,Leistungsmotivation Beruf: tiefgehendes Verstaendnis erwerben,,twinlife-panel-2014-F2F_Modul3_Basismodul,imo0600,3
 twinlife-panel,ZA6701_person_v1-0-0,imo0700,performance motivation: good performance is important,Leistungsmotivation: Gute Leistungen wichtig,,twinlife-panel-2014-F2F_Modul4_CASI,ses0100,8
 twinlife-panel,ZA6701_person_v1-0-0,imo0701,performance motivation: good grades are important,Leistungsmotivation: Gute Noten wichtig,,twinlife-panel-2014-F2F_Modul4_CASI,ses0100,9
 twinlife-panel,ZA6701_person_v1-0-0,imo0701s,thinks good grades are important for sibling,Findet gute Noten bei Geschwister wichtig,,twinlife-panel-2014-F2F_Modul4_CASI,imo0701s,
@@ -1355,7 +1355,7 @@ twinlife-panel,ZA6701_person_v1-0-0,imp0100s,sibling limited due to illnesses,Be
 twinlife-panel,ZA6701_person_v1-0-0,imp0100t,twin 1 limited due to illnesses,Beeintraechtigung durch Krankheiten Zwilling 1,,twinlife-panel-2014-F2F_Modul7_EueK,imp0100t,
 twinlife-panel,ZA6701_person_v1-0-0,imp0100u,twin 2 limited due to illnesses,Beeintraechtigung durch Krankheiten Zwilling 2,,twinlife-panel-2014-F2F_Modul7_EueK,imp0100u,
 twinlife-panel,ZA6701_person_v1-0-0,inc0100,monthly personal gross income,Monatliches persoenliches Bruttoeinkommen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inc0100,
-twinlife-panel,ZA6701_person_v1-0-0,inc0103,monthly personal gross income in categories,Monatliches persoenliches Bruttoeinkommen in Kategorien,,twinlife-panel-2014-F2F_Modul3_Basismodul,inc0103,
+twinlife-panel,ZA6701_person_v1-0-0,inc0101,yearly personal gross income,Jaehrliches persoenliches Bruttoeinkommen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inc0103,
 twinlife-panel,ZA6701_person_v1-0-0,inc0200,perceived income justice,Empfundene Einkommensgerechtigkeit,,twinlife-panel-2014-F2F_Modul3_Basismodul,inc0200,
 twinlife-panel,ZA6701_person_v1-0-0,inc0201,assessment: fair monthly gross income,Einschaetzung: Gerechtes monatliches Bruttoeinkommen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inc0201,
 twinlife-panel,ZA6701_person_v1-0-0,inc0202,assessment: fair yearly gross income,Einschaetzung: Gerechtes jaehrliches Bruttoeinkommen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inc0202,
@@ -1426,28 +1426,28 @@ twinlife-panel,ZA6701_person_v1-0-0,int0109u,gets along better with adults than 
 twinlife-panel,ZA6701_person_v1-0-0,int0110,I'm withdrawn,Bin verschlossen,,twinlife-panel-2014-F2F_Modul4_CASI,int0100,13
 twinlife-panel,ZA6701_person_v1-0-0,int0111,People don't take me seriously / I get bullied,Nicht ernstgenommen oder gemobbt von anderen,,twinlife-panel-2014-F2F_Modul4_CASI,int0100,14
 twinlife-panel,ZA6701_person_v1-0-0,inv0100,inv. - structure: aware of parents' expectations that they work hard in school,Involvement - Struktur: Erwartung der Eltern zu Lernanstrengung bekannt,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,1
-twinlife-panel,ZA6701_person_v1-0-0,inv0101,involvement - structure: aware of parents' expectations for school performance,Involvement - Struktur: Erwartung der Eltern zu Schulleistung bekannt,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0101,2
-twinlife-panel,ZA6701_person_v1-0-0,inv0102,inv. - structure: aware of parents' disappointmen with poor school performance,Involvement - Struktur: Enttaeuschung Eltern bei schlechten Leist. bekannt,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0102,3
-twinlife-panel,ZA6701_person_v1-0-0,inv0103,involvement - emo. support: parents cheer up and help child,Involvement - Emo. Unterstuetzung: Eltern troesten und helfen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0103,4
-twinlife-panel,ZA6701_person_v1-0-0,inv0104,involvement - emo. support: talks to parents about problems at school,Involvement - Emo. Unterstuetzung: Mit Eltern ueber Schulprobleme sprechen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0104,5
-twinlife-panel,ZA6701_person_v1-0-0,inv0105,involvement - emo. support: parents are interested,Involvement - Emo. Unterstuetzung: Eltern sind interessiert,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0105,6
-twinlife-panel,ZA6701_person_v1-0-0,inv0106,involvement - autonomy: parents encourage child to set goals and achieve them,Involvement - Autonomie: Eltern ermutigen zu eigenen Leistungen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0106,7
-twinlife-panel,ZA6701_person_v1-0-0,inv0107,involvement - autonomy: parents encourage child to ask them questions,"Involvement - Autonomie: Eltern ermutigen dazu, nachzufragen",,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0107,8
-twinlife-panel,ZA6701_person_v1-0-0,inv0108,involvement - autonomy: parents encourage child to ask questions in school,"Involvement - Autonomie: Eltern ermutigen, im Unterricht Fragen zu stellen",,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0108,9
-twinlife-panel,ZA6701_person_v1-0-0,inv0109,involvement - control: parents scold children over poor grades,Involvement - Kontrolle: Eltern schimpfen bei schlechten Noten,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0109,10
-twinlife-panel,ZA6701_person_v1-0-0,inv0110,involvement - control: parents threaten punishment for poor grades,Involvement - Kontrolle: Eltern drohen mit Strafen bei schlechten Noten,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0110,11
-twinlife-panel,ZA6701_person_v1-0-0,inv0111,involvement - control: parents reproach children for poor grades,Involvement - Kontrolle: Eltern machen Vorwuerfe bei schlechten Noten,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0111,12
+twinlife-panel,ZA6701_person_v1-0-0,inv0101,involvement - structure: aware of parents' expectations for school performance,Involvement - Struktur: Erwartung der Eltern zu Schulleistung bekannt,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,2
+twinlife-panel,ZA6701_person_v1-0-0,inv0102,inv. - structure: aware of parents' disappointmen with poor school performance,Involvement - Struktur: Enttaeuschung Eltern bei schlechten Leist. bekannt,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,3
+twinlife-panel,ZA6701_person_v1-0-0,inv0103,involvement - emo. support: parents cheer up and help child,Involvement - Emo. Unterstuetzung: Eltern troesten und helfen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,4
+twinlife-panel,ZA6701_person_v1-0-0,inv0104,involvement - emo. support: talks to parents about problems at school,Involvement - Emo. Unterstuetzung: Mit Eltern ueber Schulprobleme sprechen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,5
+twinlife-panel,ZA6701_person_v1-0-0,inv0105,involvement - emo. support: parents are interested,Involvement - Emo. Unterstuetzung: Eltern sind interessiert,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,6
+twinlife-panel,ZA6701_person_v1-0-0,inv0106,involvement - autonomy: parents encourage child to set goals and achieve them,Involvement - Autonomie: Eltern ermutigen zu eigenen Leistungen,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,7
+twinlife-panel,ZA6701_person_v1-0-0,inv0107,involvement - autonomy: parents encourage child to ask them questions,"Involvement - Autonomie: Eltern ermutigen dazu, nachzufragen",,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,8
+twinlife-panel,ZA6701_person_v1-0-0,inv0108,involvement - autonomy: parents encourage child to ask questions in school,"Involvement - Autonomie: Eltern ermutigen, im Unterricht Fragen zu stellen",,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,9
+twinlife-panel,ZA6701_person_v1-0-0,inv0109,involvement - control: parents scold children over poor grades,Involvement - Kontrolle: Eltern schimpfen bei schlechten Noten,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,10
+twinlife-panel,ZA6701_person_v1-0-0,inv0110,involvement - control: parents threaten punishment for poor grades,Involvement - Kontrolle: Eltern drohen mit Strafen bei schlechten Noten,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,11
+twinlife-panel,ZA6701_person_v1-0-0,inv0111,involvement - control: parents reproach children for poor grades,Involvement - Kontrolle: Eltern machen Vorwuerfe bei schlechten Noten,,twinlife-panel-2014-F2F_Modul3_Basismodul,inv0100,12
 twinlife-panel,ZA6701_person_v1-0-0,iva0100,interviewer assessment: dwelling is neat/messy,Interviewereinschaetzung: Wohnung ist aufgeraeumt/unaufgeraeumt,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0100,1
-twinlife-panel,ZA6701_person_v1-0-0,iva0101,interviewer assessment: home furnishings are simple/expensive,Interviewereinschaetzung: Ausstattung der Wohnung billig/teuer,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0101,2
-twinlife-panel,ZA6701_person_v1-0-0,iva0102,interviewer assessment: dwelling is well-kept/neglected,Interviewereinschaetzung: Wohnung ist gepflegt/vernachlaessigt,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0102,3
-twinlife-panel,ZA6701_person_v1-0-0,iva0103,interviewer assessment: dwelling is cramped/spacious,Interviewereinschaetzung: Wohnung ist beengt/geraeumig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0103,4
+twinlife-panel,ZA6701_person_v1-0-0,iva0101,interviewer assessment: home furnishings are simple/expensive,Interviewereinschaetzung: Ausstattung der Wohnung billig/teuer,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0100,2
+twinlife-panel,ZA6701_person_v1-0-0,iva0102,interviewer assessment: dwelling is well-kept/neglected,Interviewereinschaetzung: Wohnung ist gepflegt/vernachlaessigt,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0100,3
+twinlife-panel,ZA6701_person_v1-0-0,iva0103,interviewer assessment: dwelling is cramped/spacious,Interviewereinschaetzung: Wohnung ist beengt/geraeumig,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0100,4
 twinlife-panel,ZA6701_person_v1-0-0,iva0104,interviewer assessment: number of books in the household,Interviewereinschaetzung: Menge Buecher im Haushalt,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0104,
 twinlife-panel,ZA6701_person_v1-0-0,iva0201,interviewer assessment: person 1 understands German,Interviewereinschaetzung: Person 1 versteht deutsch,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0201,
 twinlife-panel,ZA6701_person_v1-0-0,iva0301,interviewer assessment: person 1 speaks German,Interviewereinschaetzung: Person 1 spricht deutsch,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0301,
 twinlife-panel,ZA6701_person_v1-0-0,iva0400,interv. assessm.: interference of parents in interview of twins/sibling,Interviewereinschaetzung: Eingreifen Eltern in Befragung Zwillinge/Ges.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0400,1
-twinlife-panel,ZA6701_person_v1-0-0,iva0401,interv. assessm.: interference of parents in tests of twins/sibling,Interviewereinschaetzung: Eingreifen Eltern in Testung Zwillinge/Ges.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0401,2
-twinlife-panel,ZA6701_person_v1-0-0,iva0402,interv. assessm.: interference of children with each other in int./tests,Interviewereinschaetzung: Eingreifen Kinder untereinander in Bef./Test.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0402,3
-twinlife-panel,ZA6701_person_v1-0-0,iva0403,interv. assessm.: interference of parents with each other in int./tests,Interviewereinschaetzung: Eingreifen Eltern untereinander in Bef./Test.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0403,4
+twinlife-panel,ZA6701_person_v1-0-0,iva0401,interv. assessm.: interference of parents in tests of twins/sibling,Interviewereinschaetzung: Eingreifen Eltern in Testung Zwillinge/Ges.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0400,2
+twinlife-panel,ZA6701_person_v1-0-0,iva0402,interv. assessm.: interference of children with each other in int./tests,Interviewereinschaetzung: Eingreifen Kinder untereinander in Bef./Test.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0400,3
+twinlife-panel,ZA6701_person_v1-0-0,iva0403,interv. assessm.: interference of parents with each other in int./tests,Interviewereinschaetzung: Eingreifen Eltern untereinander in Bef./Test.,,twinlife-panel-2014-F2F_Haushaltsfragebogen,iva0400,4
 twinlife-panel,ZA6701_person_v1-0-0,kgc0110s,kindergarten/child care sibling: same as twin 1's or twin 2's,Kindergarten/KITA Geschwister: Gleiche Einrichtung wie Z1 oder Z2,,twinlife-panel-2014-F2F_Modul6_Betreuung,kgc0110s,
 twinlife-panel,ZA6701_person_v1-0-0,kgc0110u,kindergarten/child care twin 2: same as twin 1's,Kindergarten/KITA Z2: Selbe wie Z1,,twinlife-panel-2014-F2F_Modul6_Betreuung,kgc0110u,
 twinlife-panel,ZA6701_person_v1-0-0,kgc0200s,kindergarten/child care sibling: pedagogic concept existent,Kindergarten/KITA Geschwister: Leitbild vorhanden,,twinlife-panel-2014-F2F_Modul6_Betreuung,kgc0200s,
@@ -1790,54 +1790,54 @@ twinlife-panel,ZA6701_person_v1-0-0,pas0200f,parenting style father: shows affec
 twinlife-panel,ZA6701_person_v1-0-0,pas0200g,parenting style stepfather: shows affection (age < 10),Erziehungsstil Stiefvater: zeigt Zuneigung (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,1
 twinlife-panel,ZA6701_person_v1-0-0,pas0200m,parenting style mother: shows affection (age < 10),Erziehungsstil Mutter: zeigt Zuneigung (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,1
 twinlife-panel,ZA6701_person_v1-0-0,pas0200n,parenting style stepmother: shows affection (age < 10),Erziehungsstil Stiefmutter: zeigt Zuneigung (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,1
-twinlife-panel,ZA6701_person_v1-0-0,pas0201f,parenting style father: praises (age < 10),Erziehungsstil Vater: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0201f,2
-twinlife-panel,ZA6701_person_v1-0-0,pas0201g,parenting style stepfather: praises (age < 10),Erziehungsstil Stiefvater: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0201g,2
-twinlife-panel,ZA6701_person_v1-0-0,pas0201m,parenting style mother: praises (age < 10),Erziehungsstil Mutter: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0201m,2
-twinlife-panel,ZA6701_person_v1-0-0,pas0201n,parenting style stepmother: praises (age < 10),Erziehungsstil Stiefmutter: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0201n,2
-twinlife-panel,ZA6701_person_v1-0-0,pas0202f,parenting style father: cheers up (age < 10),Erziehungsstil Vater: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0202f,3
-twinlife-panel,ZA6701_person_v1-0-0,pas0202g,parenting style stepfather: cheers up (age < 10),Erziehungsstil Stiefvater: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0202g,3
-twinlife-panel,ZA6701_person_v1-0-0,pas0202m,parenting style mother: cheers up (age < 10),Erziehungsstil Mutter: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0202m,3
-twinlife-panel,ZA6701_person_v1-0-0,pas0202n,parenting style stepmother: cheers up (age < 10),Erziehungsstil Stiefmutter: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0202n,3
-twinlife-panel,ZA6701_person_v1-0-0,pas0203f,parenting style father: supports (age < 10),Erziehungsstil Vater: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0203f,4
-twinlife-panel,ZA6701_person_v1-0-0,pas0203g,parenting style stepfather: supports (age < 10),Erziehungsstil Stiefvater: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0203g,4
-twinlife-panel,ZA6701_person_v1-0-0,pas0203m,parenting style mother: supports (age < 10),Erziehungsstil Mutter: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0203m,4
-twinlife-panel,ZA6701_person_v1-0-0,pas0203n,parenting style stepmother: supports (age < 10),Erziehungsstil Stiefmutter: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0203n,4
-twinlife-panel,ZA6701_person_v1-0-0,pas0204f,parenting style father: punishes (age < 10),Erziehungsstil Vater: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0204f,5
-twinlife-panel,ZA6701_person_v1-0-0,pas0204g,parenting style stepfather: punishes (age < 10),Erziehungsstil Stiefvater: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0204g,5
-twinlife-panel,ZA6701_person_v1-0-0,pas0204m,parenting style mother: punishes (age < 10),Erziehungsstil Mutter: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0204m,5
-twinlife-panel,ZA6701_person_v1-0-0,pas0204n,parenting style stepmother: punishes (age < 10),Erziehungsstil Stiefmutter: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0204n,5
-twinlife-panel,ZA6701_person_v1-0-0,pas0205f,parenting style father: is disappointed when child misbehaves (age < 10),Erziehungsstil Vater: ist enttaeuscht bei schlechtem Benehmen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0205f,6
-twinlife-panel,ZA6701_person_v1-0-0,pas0205g,parenting style stepfather: is disappointed when child misbehaves (age < 10),Erziehungsstil Stiefvater: ist enttaeuscht bei schlechtem Benehmen (Alter<10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0205g,6
-twinlife-panel,ZA6701_person_v1-0-0,pas0205m,parenting style mother: is disappointed when child misbehaves (age < 10),Erziehungsstil Mutter: ist enttaeuscht bei schlechtem Benehmen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0205m,6
-twinlife-panel,ZA6701_person_v1-0-0,pas0205n,parenting style stepmother: is disappointed when child misbehaves (age < 10),Erziehungsstil Stiefmutter: ist enttaeuscht bei schlechtem Benehmen (Alter<10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0205n,6
-twinlife-panel,ZA6701_person_v1-0-0,pas0206f,parenting style father: demands obedience (age < 10),Erziehungsstil Vater: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0206f,7
-twinlife-panel,ZA6701_person_v1-0-0,pas0206g,parenting style stepfather: demands obedience (age < 10),Erziehungsstil Stiefvater: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0206g,7
-twinlife-panel,ZA6701_person_v1-0-0,pas0206m,parenting style mother: demands obedience (age < 10),Erziehungsstil Mutter: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0206m,7
-twinlife-panel,ZA6701_person_v1-0-0,pas0206n,parenting style stepmother: demands obedience (age < 10),Erziehungsstil Stiefmutter: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0206n,7
-twinlife-panel,ZA6701_person_v1-0-0,pas0207f,parenting style father: yells when child misbehaves (age < 10),Erziehungsstil Vater: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0207f,8
-twinlife-panel,ZA6701_person_v1-0-0,pas0207g,parenting style stepfather: yells when child misbehaves (age < 10),Erziehungsstil Stiefvater: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0207g,8
-twinlife-panel,ZA6701_person_v1-0-0,pas0207m,parenting style mother: yells when child misbehaves (age < 10),Erziehungsstil Mutter: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0207m,8
-twinlife-panel,ZA6701_person_v1-0-0,pas0207n,parenting style stepmother: yells when child misbehaves (age < 10),Erziehungsstil Stiefmutter: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0207n,8
-twinlife-panel,ZA6701_person_v1-0-0,pas0208f,parenting style father: gets angry and scolds child (age < 10),Erziehungsstil Vater: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0208f,9
-twinlife-panel,ZA6701_person_v1-0-0,pas0208g,parenting style stepfather: gets angry and scolds child (age < 10),Erziehungsstil Stiefvater: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0208g,9
-twinlife-panel,ZA6701_person_v1-0-0,pas0208m,parenting style mother: gets angry and scolds  (age < 10),Erziehungsstil Mutter: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0208m,9
-twinlife-panel,ZA6701_person_v1-0-0,pas0208n,parenting style stepmother: gets angry and scolds (age < 10),Erziehungsstil Stiefmutter: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0208n,9
-twinlife-panel,ZA6701_person_v1-0-0,pas0209f,parenting style father: child talks to father about new friends  (age < 10),Erziehungsstil Vater: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0209f,10
-twinlife-panel,ZA6701_person_v1-0-0,pas0209g,parenting style stepfather: child talks to father about new friends  (age < 10),Erziehungsstil Stiefvater: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0209g,10
-twinlife-panel,ZA6701_person_v1-0-0,pas0209m,parenting style mother: talks about new friends (age < 10),Erziehungsstil Mutter: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0209m,10
-twinlife-panel,ZA6701_person_v1-0-0,pas0209n,parenting style stepmother: talks about new friends (age < 10),Erziehungsstil Stiefmutter: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0209n,10
-twinlife-panel,ZA6701_person_v1-0-0,pas0210f,parenting style father: gets to know new friends (age < 10),Erziehungsstil Vater: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0210f,11
-twinlife-panel,ZA6701_person_v1-0-0,pas0210g,parenting style stepfather: gets to know new friends (age < 10),Erziehungsstil Stiefvater: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0210g,11
-twinlife-panel,ZA6701_person_v1-0-0,pas0210m,parenting style mother: gets to know new friends soon (age < 10),Erziehungsstil Mutter: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0210m,11
-twinlife-panel,ZA6701_person_v1-0-0,pas0210n,parenting style stepmother: gets to know new friends (age < 10),Erziehungsstil Stiefmutter: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0210n,11
-twinlife-panel,ZA6701_person_v1-0-0,pas0211f,parenting style father: makes empty threats of punishment (age < 10),Erziehungsstil Vater: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0211f,12
-twinlife-panel,ZA6701_person_v1-0-0,pas0211g,parenting style stepfather: makes empty threats of punishment (age < 10),Erziehungsstil Stiefvater: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0211g,12
-twinlife-panel,ZA6701_person_v1-0-0,pas0211m,parenting style mother: makes empty threats of punishment (age < 10),Erziehungsstil Mutter: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0211m,12
-twinlife-panel,ZA6701_person_v1-0-0,pas0211n,parenting style stepmother: makes empty threats of punishment (age < 10),Erziehungsstil Stiefmutter: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0211n,12
-twinlife-panel,ZA6701_person_v1-0-0,pas0212f,parenting style father: inconsistent (age < 10),Erziehungsstil Vater: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0212f,13
-twinlife-panel,ZA6701_person_v1-0-0,pas0212g,parenting style stepfather: inconsistent (age < 10),Erziehungsstil Stiefvater: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0212g,13
-twinlife-panel,ZA6701_person_v1-0-0,pas0212m,parenting style mother: inconsistent (age < 10),Erziehungsstil Mutter: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0212m,13
-twinlife-panel,ZA6701_person_v1-0-0,pas0212n,parenting style stepmother: inconsistent (age < 10),Erziehungsstil Stiefmutter: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0212n,13
+twinlife-panel,ZA6701_person_v1-0-0,pas0201f,parenting style father: praises (age < 10),Erziehungsstil Vater: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,2
+twinlife-panel,ZA6701_person_v1-0-0,pas0201g,parenting style stepfather: praises (age < 10),Erziehungsstil Stiefvater: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,2
+twinlife-panel,ZA6701_person_v1-0-0,pas0201m,parenting style mother: praises (age < 10),Erziehungsstil Mutter: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,2
+twinlife-panel,ZA6701_person_v1-0-0,pas0201n,parenting style stepmother: praises (age < 10),Erziehungsstil Stiefmutter: lobt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,2
+twinlife-panel,ZA6701_person_v1-0-0,pas0202f,parenting style father: cheers up (age < 10),Erziehungsstil Vater: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,3
+twinlife-panel,ZA6701_person_v1-0-0,pas0202g,parenting style stepfather: cheers up (age < 10),Erziehungsstil Stiefvater: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,3
+twinlife-panel,ZA6701_person_v1-0-0,pas0202m,parenting style mother: cheers up (age < 10),Erziehungsstil Mutter: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,3
+twinlife-panel,ZA6701_person_v1-0-0,pas0202n,parenting style stepmother: cheers up (age < 10),Erziehungsstil Stiefmutter: troestet (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,3
+twinlife-panel,ZA6701_person_v1-0-0,pas0203f,parenting style father: supports (age < 10),Erziehungsstil Vater: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,4
+twinlife-panel,ZA6701_person_v1-0-0,pas0203g,parenting style stepfather: supports (age < 10),Erziehungsstil Stiefvater: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,4
+twinlife-panel,ZA6701_person_v1-0-0,pas0203m,parenting style mother: supports (age < 10),Erziehungsstil Mutter: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,4
+twinlife-panel,ZA6701_person_v1-0-0,pas0203n,parenting style stepmother: supports (age < 10),Erziehungsstil Stiefmutter: unterstuetzt (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,4
+twinlife-panel,ZA6701_person_v1-0-0,pas0204f,parenting style father: punishes (age < 10),Erziehungsstil Vater: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,5
+twinlife-panel,ZA6701_person_v1-0-0,pas0204g,parenting style stepfather: punishes (age < 10),Erziehungsstil Stiefvater: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,5
+twinlife-panel,ZA6701_person_v1-0-0,pas0204m,parenting style mother: punishes (age < 10),Erziehungsstil Mutter: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,5
+twinlife-panel,ZA6701_person_v1-0-0,pas0204n,parenting style stepmother: punishes (age < 10),Erziehungsstil Stiefmutter: bestraft (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,5
+twinlife-panel,ZA6701_person_v1-0-0,pas0205f,parenting style father: is disappointed when child misbehaves (age < 10),Erziehungsstil Vater: ist enttaeuscht bei schlechtem Benehmen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,6
+twinlife-panel,ZA6701_person_v1-0-0,pas0205g,parenting style stepfather: is disappointed when child misbehaves (age < 10),Erziehungsstil Stiefvater: ist enttaeuscht bei schlechtem Benehmen (Alter<10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,6
+twinlife-panel,ZA6701_person_v1-0-0,pas0205m,parenting style mother: is disappointed when child misbehaves (age < 10),Erziehungsstil Mutter: ist enttaeuscht bei schlechtem Benehmen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,6
+twinlife-panel,ZA6701_person_v1-0-0,pas0205n,parenting style stepmother: is disappointed when child misbehaves (age < 10),Erziehungsstil Stiefmutter: ist enttaeuscht bei schlechtem Benehmen (Alter<10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,6
+twinlife-panel,ZA6701_person_v1-0-0,pas0206f,parenting style father: demands obedience (age < 10),Erziehungsstil Vater: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,7
+twinlife-panel,ZA6701_person_v1-0-0,pas0206g,parenting style stepfather: demands obedience (age < 10),Erziehungsstil Stiefvater: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,7
+twinlife-panel,ZA6701_person_v1-0-0,pas0206m,parenting style mother: demands obedience (age < 10),Erziehungsstil Mutter: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,7
+twinlife-panel,ZA6701_person_v1-0-0,pas0206n,parenting style stepmother: demands obedience (age < 10),Erziehungsstil Stiefmutter: fordert Gehorsam (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,7
+twinlife-panel,ZA6701_person_v1-0-0,pas0207f,parenting style father: yells when child misbehaves (age < 10),Erziehungsstil Vater: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,8
+twinlife-panel,ZA6701_person_v1-0-0,pas0207g,parenting style stepfather: yells when child misbehaves (age < 10),Erziehungsstil Stiefvater: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,8
+twinlife-panel,ZA6701_person_v1-0-0,pas0207m,parenting style mother: yells when child misbehaves (age < 10),Erziehungsstil Mutter: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,8
+twinlife-panel,ZA6701_person_v1-0-0,pas0207n,parenting style stepmother: yells when child misbehaves (age < 10),Erziehungsstil Stiefmutter: schreit bei Fehlverhalten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,8
+twinlife-panel,ZA6701_person_v1-0-0,pas0208f,parenting style father: gets angry and scolds child (age < 10),Erziehungsstil Vater: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,9
+twinlife-panel,ZA6701_person_v1-0-0,pas0208g,parenting style stepfather: gets angry and scolds child (age < 10),Erziehungsstil Stiefvater: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,9
+twinlife-panel,ZA6701_person_v1-0-0,pas0208m,parenting style mother: gets angry and scolds  (age < 10),Erziehungsstil Mutter: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,9
+twinlife-panel,ZA6701_person_v1-0-0,pas0208n,parenting style stepmother: gets angry and scolds (age < 10),Erziehungsstil Stiefmutter: beschimpft in der Wut (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,9
+twinlife-panel,ZA6701_person_v1-0-0,pas0209f,parenting style father: child talks to father about new friends  (age < 10),Erziehungsstil Vater: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,10
+twinlife-panel,ZA6701_person_v1-0-0,pas0209g,parenting style stepfather: child talks to father about new friends  (age < 10),Erziehungsstil Stiefvater: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,10
+twinlife-panel,ZA6701_person_v1-0-0,pas0209m,parenting style mother: talks about new friends (age < 10),Erziehungsstil Mutter: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,10
+twinlife-panel,ZA6701_person_v1-0-0,pas0209n,parenting style stepmother: talks about new friends (age < 10),Erziehungsstil Stiefmutter: unterhaelt sich ueber neue Freunde (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,10
+twinlife-panel,ZA6701_person_v1-0-0,pas0210f,parenting style father: gets to know new friends (age < 10),Erziehungsstil Vater: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,11
+twinlife-panel,ZA6701_person_v1-0-0,pas0210g,parenting style stepfather: gets to know new friends (age < 10),Erziehungsstil Stiefvater: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,11
+twinlife-panel,ZA6701_person_v1-0-0,pas0210m,parenting style mother: gets to know new friends soon (age < 10),Erziehungsstil Mutter: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,11
+twinlife-panel,ZA6701_person_v1-0-0,pas0210n,parenting style stepmother: gets to know new friends (age < 10),Erziehungsstil Stiefmutter: lernt neue Freunde beizeiten kennen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,11
+twinlife-panel,ZA6701_person_v1-0-0,pas0211f,parenting style father: makes empty threats of punishment (age < 10),Erziehungsstil Vater: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,12
+twinlife-panel,ZA6701_person_v1-0-0,pas0211g,parenting style stepfather: makes empty threats of punishment (age < 10),Erziehungsstil Stiefvater: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,12
+twinlife-panel,ZA6701_person_v1-0-0,pas0211m,parenting style mother: makes empty threats of punishment (age < 10),Erziehungsstil Mutter: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,12
+twinlife-panel,ZA6701_person_v1-0-0,pas0211n,parenting style stepmother: makes empty threats of punishment (age < 10),Erziehungsstil Stiefmutter: droht inkonsequent mit Strafen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,12
+twinlife-panel,ZA6701_person_v1-0-0,pas0212f,parenting style father: inconsistent (age < 10),Erziehungsstil Vater: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200f,13
+twinlife-panel,ZA6701_person_v1-0-0,pas0212g,parenting style stepfather: inconsistent (age < 10),Erziehungsstil Stiefvater: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200g,13
+twinlife-panel,ZA6701_person_v1-0-0,pas0212m,parenting style mother: inconsistent (age < 10),Erziehungsstil Mutter: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200m,13
+twinlife-panel,ZA6701_person_v1-0-0,pas0212n,parenting style stepmother: inconsistent (age < 10),Erziehungsstil Stiefmutter: inkonsequent (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,pas0200n,13
 twinlife-panel,ZA6701_person_v1-0-0,per0100,personality: thorough,Persoenlichkeit: gruendlich,,twinlife-panel-2014-F2F_Modul4_CASI,per0100,1
 twinlife-panel,ZA6701_person_v1-0-0,per0101,personality: communicative,Persoenlichkeit: kommunikativ,,twinlife-panel-2014-F2F_Modul4_CASI,per0100,2
 twinlife-panel,ZA6701_person_v1-0-0,per0102,personality: rude,Persoenlichkeit: grob,,twinlife-panel-2014-F2F_Modul4_CASI,per0100,3
@@ -1867,31 +1867,31 @@ twinlife-panel,ZA6701_person_v1-0-0,per0400s,personality sibling: communicative/
 twinlife-panel,ZA6701_person_v1-0-0,per0400t,personality T1: communicative/quiet,Persoenlichkeit Z1: gespraechig/still,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,1
 twinlife-panel,ZA6701_person_v1-0-0,per0400u,personality T2: communicative/quiet,Persoenlichkeit Z2: gespraechig/still,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,1
 twinlife-panel,ZA6701_person_v1-0-0,per0401s,personality sibling: untidy/tidy,Persoenlichkeit Geschwister: unordentlich/ordentlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,2
-twinlife-panel,ZA6701_person_v1-0-0,per0401t,personality T1: untidy/tidy,Persoenlichkeit Z1: unordentlich/ordentlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0401t,2
+twinlife-panel,ZA6701_person_v1-0-0,per0401t,personality T1: untidy/tidy,Persoenlichkeit Z1: unordentlich/ordentlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,2
 twinlife-panel,ZA6701_person_v1-0-0,per0401u,personality T2: untidy/tidy,Persoenlichkeit Z2: unordentlich/ordentlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,2
 twinlife-panel,ZA6701_person_v1-0-0,per0402s,personality sibling: good-natured/irritable,Persoenlichkeit Geschwister: gutmuetig/leicht reizbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,3
-twinlife-panel,ZA6701_person_v1-0-0,per0402t,personality T1: good-natured/irritable,Persoenlichkeit Z1: gutmuetig/leicht reizbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0402t,3
+twinlife-panel,ZA6701_person_v1-0-0,per0402t,personality T1: good-natured/irritable,Persoenlichkeit Z1: gutmuetig/leicht reizbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,3
 twinlife-panel,ZA6701_person_v1-0-0,per0402u,personality T2: good-natured/irritable,Persoenlichkeit Z2: gutmuetig/leicht reizbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,3
 twinlife-panel,ZA6701_person_v1-0-0,per0403s,personality sibling: disinterested/hungry for knowledge,Persoenlichkeit Geschwister: wenig interessiert/wissensdurstig,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,4
-twinlife-panel,ZA6701_person_v1-0-0,per0403t,personality T1: disinterested/hungry for knowledge,Persoenlichkeit Z1: wenig interessiert/wissensdurstig,,twinlife-panel-2014-F2F_Modul7_EueK,per0403t,4
+twinlife-panel,ZA6701_person_v1-0-0,per0403t,personality T1: disinterested/hungry for knowledge,Persoenlichkeit Z1: wenig interessiert/wissensdurstig,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,4
 twinlife-panel,ZA6701_person_v1-0-0,per0403u,personality T2: disinterested/hungry for knowledge,Persoenlichkeit Z2: wenig interessiert/wissensdurstig,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,4
 twinlife-panel,ZA6701_person_v1-0-0,per0404s,personality sibling: self-confident/insecure,Persoenlichkeit Geschwister: hat Selbstvertrauen/unsicher,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,5
-twinlife-panel,ZA6701_person_v1-0-0,per0404t,personality T1: self-confident/insecure,Persoenlichkeit Z1: hat Selbstvertrauen/unsicher,,twinlife-panel-2014-F2F_Modul7_EueK,per0404t,5
+twinlife-panel,ZA6701_person_v1-0-0,per0404t,personality T1: self-confident/insecure,Persoenlichkeit Z1: hat Selbstvertrauen/unsicher,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,5
 twinlife-panel,ZA6701_person_v1-0-0,per0404u,personality T2: self-confident/insecure,Persoenlichkeit Z2: hat Selbstvertrauen/unsicher,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,5
 twinlife-panel,ZA6701_person_v1-0-0,per0405s,personality sibling: withdrawn/sociable,Persoenlichkeit Geschwister: zurueckgezogen/kontaktfreudig,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,6
-twinlife-panel,ZA6701_person_v1-0-0,per0405t,personality T1: withdrawn/sociable,Persoenlichkeit Z1: zurueckgezogen/kontaktfreudig,,twinlife-panel-2014-F2F_Modul7_EueK,per0405t,6
+twinlife-panel,ZA6701_person_v1-0-0,per0405t,personality T1: withdrawn/sociable,Persoenlichkeit Z1: zurueckgezogen/kontaktfreudig,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,6
 twinlife-panel,ZA6701_person_v1-0-0,per0405u,personality T2: withdrawn/sociable,Persoenlichkeit Z2: zurueckgezogen/kontaktfreudig,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,6
 twinlife-panel,ZA6701_person_v1-0-0,per0406s,personality sibling: concentrated/easily distracted,Persoenlichkeit Geschwister: konzentriert/leicht ablenkbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,7
-twinlife-panel,ZA6701_person_v1-0-0,per0406t,personality T1: concentrated/easily distracted,Persoenlichkeit Z1: konzentriert/leicht ablenkbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0406t,7
+twinlife-panel,ZA6701_person_v1-0-0,per0406t,personality T1: concentrated/easily distracted,Persoenlichkeit Z1: konzentriert/leicht ablenkbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,7
 twinlife-panel,ZA6701_person_v1-0-0,per0406u,personality T2: concentrated/easily distracted,Persoenlichkeit Z2: konzentriert/leicht ablenkbar,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,7
 twinlife-panel,ZA6701_person_v1-0-0,per0407s,personality sibling: defiant/compliant,Persoenlichkeit Geschwister: trotzig/folgsam,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,8
-twinlife-panel,ZA6701_person_v1-0-0,per0407t,personality T1: defiant/compliant,Persoenlichkeit Z1: trotzig/folgsam,,twinlife-panel-2014-F2F_Modul7_EueK,per0407t,8
+twinlife-panel,ZA6701_person_v1-0-0,per0407t,personality T1: defiant/compliant,Persoenlichkeit Z1: trotzig/folgsam,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,8
 twinlife-panel,ZA6701_person_v1-0-0,per0407u,personality T2: defiant/compliant,Persoenlichkeit Z2: trotzig/folgsam,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,8
 twinlife-panel,ZA6701_person_v1-0-0,per0408s,personality sibling: quick on the uptake/needs more time to understand,Persoenlichkeit Geschwister: begreift schnell/braucht mehr Zeit,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,9
-twinlife-panel,ZA6701_person_v1-0-0,per0408t,personality T1: quick on the uptake/needs more time to understand,Persoenlichkeit Z1: begreift schnell/braucht mehr Zeit,,twinlife-panel-2014-F2F_Modul7_EueK,per0408t,9
+twinlife-panel,ZA6701_person_v1-0-0,per0408t,personality T1: quick on the uptake/needs more time to understand,Persoenlichkeit Z1: begreift schnell/braucht mehr Zeit,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,9
 twinlife-panel,ZA6701_person_v1-0-0,per0408u,personality T2: quick on the uptake/needs more time to understand,Persoenlichkeit Z2: begreift schnell/braucht mehr Zeit,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,9
 twinlife-panel,ZA6701_person_v1-0-0,per0409s,personality sibling: fearful/brave,Persoenlichkeit Geschwister: aengstlich/unaengstlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0400s,10
-twinlife-panel,ZA6701_person_v1-0-0,per0409t,personality T1: fearful/brave,Persoenlichkeit Z1: aengstlich/unaengstlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0409t,10
+twinlife-panel,ZA6701_person_v1-0-0,per0409t,personality T1: fearful/brave,Persoenlichkeit Z1: aengstlich/unaengstlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0400t,10
 twinlife-panel,ZA6701_person_v1-0-0,per0409u,personality T2: fearful/brave,Persoenlichkeit Z2: aengstlich/unaengstlich,,twinlife-panel-2014-F2F_Modul7_EueK,per0400u,10
 twinlife-panel,ZA6701_person_v1-0-0,pop0100,interest in politics,Interesse an Politik,,twinlife-panel-2014-F2F_Modul5_CASI,pop0100,
 twinlife-panel,ZA6701_person_v1-0-0,pop0200,political activity: attending political meetings/discussions/protest,Politische Aktivitaet: Teilnahme an pol. Versam./Diskussion/Demonstration,,twinlife-panel-2014-F2F_Modul5_CASI,pop0200,1
@@ -1977,10 +1977,10 @@ twinlife-panel,ZA6701_person_v1-0-0,spa0400,academic self-concept: talent for su
 twinlife-panel,ZA6701_person_v1-0-0,spa0401,academic self-concept: ability in subject of German,Akad. Selbstkonzept: Koennen im Fach Deutsch,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0401,
 twinlife-panel,ZA6701_person_v1-0-0,spa0402,academic self-concept: problem-solving in subject of German,Akad. Selbstkonzept: Aufgabenbewaeltigung im Fach Deutsch,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0402,
 twinlife-panel,ZA6701_person_v1-0-0,spa0500,academic self-concept: to be good at my job,Akad. Selbstkonzept: Gut im Beruf,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0500,1
-twinlife-panel,ZA6701_person_v1-0-0,spa0501,academic self-concept: to be good at my job compared to co-workers,Akad. Selbstkonzept: Gut im Job im Vergleich zu Kollegen,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0501,2
-twinlife-panel,ZA6701_person_v1-0-0,spa0502,academic self-concept: high job skills after training period,Akad. Selbstkonzept: Hohe Kompetenz im Job nach Einarbeitung,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0502,3
-twinlife-panel,ZA6701_person_v1-0-0,spa0503,academic self-concept: to be satisfied with my job performance,Akad. Selbstkonzept: Zufrieden mit beruflicher Leistung,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0503,4
-twinlife-panel,ZA6701_person_v1-0-0,spa0504,academic self-concept: to have high skills at work,Akad. Selbstkonzept: Hohe Geschicklichkeit bei der Arbeit,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0504,5
+twinlife-panel,ZA6701_person_v1-0-0,spa0501,academic self-concept: to be good at my job compared to co-workers,Akad. Selbstkonzept: Gut im Job im Vergleich zu Kollegen,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0500,2
+twinlife-panel,ZA6701_person_v1-0-0,spa0502,academic self-concept: high job skills after training period,Akad. Selbstkonzept: Hohe Kompetenz im Job nach Einarbeitung,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0500,3
+twinlife-panel,ZA6701_person_v1-0-0,spa0503,academic self-concept: to be satisfied with my job performance,Akad. Selbstkonzept: Zufrieden mit beruflicher Leistung,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0500,4
+twinlife-panel,ZA6701_person_v1-0-0,spa0504,academic self-concept: to have high skills at work,Akad. Selbstkonzept: Hohe Geschicklichkeit bei der Arbeit,,twinlife-panel-2014-F2F_Modul3_Basismodul,spa0500,5
 twinlife-panel,ZA6701_person_v1-0-0,sre0100,frequency: doing nice things for other twin (age >= 10),Haeufigkeit: Nette Dinge fuer anderen Zwilling tun (Alter >= 10),,twinlife-panel-2014-F2F_Modul4_CASI,sre0100,1
 twinlife-panel,ZA6701_person_v1-0-0,sre0100s,frequency: doing nice things for sibling (age >= 10),Haeufigkeit: Nette Dinge fuer Geschwister tun (Alter >= 10),,twinlife-panel-2014-F2F_Modul4_CASI,sre0100s,1
 twinlife-panel,ZA6701_person_v1-0-0,sre0100t,frequency: doing nice things for twin 1 (age >= 10),Haeufigkeit: Nette Dinge fuer Zwilling 1 tun (Alter >= 10),,twinlife-panel-2014-F2F_Modul4_CASI,sre0100t,1
@@ -2073,50 +2073,50 @@ twinlife-panel,ZA6701_person_v1-0-0,sre0500,frequency: doing nice things for oth
 twinlife-panel,ZA6701_person_v1-0-0,sre0500s,frequency: doing nice things for sibling (age < 10),Haeufigkeit: Nette Dinge fuer Geschwister tun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,1
 twinlife-panel,ZA6701_person_v1-0-0,sre0500t,frequency: doing nice things for twin 1 (age < 10),Haeufigkeit: Nette Dinge fuer Zwilling 1 tun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,1
 twinlife-panel,ZA6701_person_v1-0-0,sre0500u,frequency: doing nice things for twin 2 (age < 10),Haeufigkeit: Nette Dinge fuer Zwilling 2 tun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,1
-twinlife-panel,ZA6701_person_v1-0-0,sre0501,frequency: treating other twin affectionately (age < 10),Haeufigkeit: Liebevoll mit anderem Zwilling umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0501,2
-twinlife-panel,ZA6701_person_v1-0-0,sre0501s,frequency: treating sibling affectionately (age < 10),Haeufigkeit: Liebevoll mit Geschwister umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0501s,2
-twinlife-panel,ZA6701_person_v1-0-0,sre0501t,frequency: treating twin 1 affectionately (age < 10),Haeufigkeit: Liebevoll mit Zwilling 1 umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0501t,2
-twinlife-panel,ZA6701_person_v1-0-0,sre0501u,frequency: treating twin 2 affectionately (age < 10),Haeufigkeit: Liebevoll mit Zwilling 2 umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0501u,2
-twinlife-panel,ZA6701_person_v1-0-0,sre0502,frequency: cheering up other twin (age < 10),Haeufigkeit: Anderen Zwilling troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0502,3
-twinlife-panel,ZA6701_person_v1-0-0,sre0502s,frequency: cheering up sibling (age < 10),Haeufigkeit: Geschwister troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0502s,3
-twinlife-panel,ZA6701_person_v1-0-0,sre0502t,frequency: cheering up twin 1 (age < 10),Haeufigkeit: Zwilling 1 troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0502t,3
-twinlife-panel,ZA6701_person_v1-0-0,sre0502u,frequency: cheering up twin 2 (age < 10),Haeufigkeit: Zwilling 2 troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0502u,3
-twinlife-panel,ZA6701_person_v1-0-0,sre0503,frequency: telling secrets to other twin (age < 10),Haeufigkeit: Anderem Zwilling Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0503,4
-twinlife-panel,ZA6701_person_v1-0-0,sre0503s,frequency: telling secrets to sibling (age < 10),Haeufigkeit: Geschwister Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0503s,4
-twinlife-panel,ZA6701_person_v1-0-0,sre0503t,frequency: telling secrets to twin 1 (age < 10),Haeufigkeit: Zwilling 1 Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0503t,4
-twinlife-panel,ZA6701_person_v1-0-0,sre0503u,frequency: telling secrets to twin 2 (age < 10),Haeufigkeit: Zwilling 2 Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0503u,4
-twinlife-panel,ZA6701_person_v1-0-0,sre0504,frequency: starting fights with other twin (age < 10),Haeufigkeit: Streit mit anderem Zwilling anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0504,5
-twinlife-panel,ZA6701_person_v1-0-0,sre0504s,frequency: getting into argument with sibling (age < 10),Haeufigkeit: Streit mit Geschwister anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0504s,5
-twinlife-panel,ZA6701_person_v1-0-0,sre0504t,frequency: getting into arguments with twin 1 (age < 10),Haeufigkeit: Streit mit Zwilling 1 anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0504t,5
-twinlife-panel,ZA6701_person_v1-0-0,sre0504u,frequency: getting into arguments with twin 2 (age < 10),Haeufigkeit: Streit mit Zwilling 2 anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0504u,5
-twinlife-panel,ZA6701_person_v1-0-0,sre0505,frequency: being mad or angry at other twin (age < 10),Haeufigkeit: Boese oder wuetend sein auf anderen Zwilling (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0505,6
-twinlife-panel,ZA6701_person_v1-0-0,sre0505s,frequency: being mad or angry at sibling (age < 10),Haeufigkeit: Boese oder wuetend sein auf Geschwister (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0505s,6
-twinlife-panel,ZA6701_person_v1-0-0,sre0505t,frequency: being mad or angry at twin 1 (age < 10),Haeufigkeit: Boese oder wuetend sein auf Zwilling 1 (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0505t,6
-twinlife-panel,ZA6701_person_v1-0-0,sre0505u,frequency: being mad or angry at twin 2 (age < 10),Haeufigkeit: Boese oder wuetend sein auf Zwilling 2 (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0505u,6
-twinlife-panel,ZA6701_person_v1-0-0,sre0506,frequency: hurting other twin (age < 10),Haeufigkeit: Anderem Zwilling wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0506,7
-twinlife-panel,ZA6701_person_v1-0-0,sre0506s,frequency: hurting sibling (age < 10),Haeufigkeit: Geschwister wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0506s,7
-twinlife-panel,ZA6701_person_v1-0-0,sre0506t,frequency: hurting twin 1 (age < 10),Haeufigkeit: Zwilling 1 wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0506t,7
-twinlife-panel,ZA6701_person_v1-0-0,sre0506u,frequency: hurting twin 2 (age < 10),Haeufigkeit: Zwilling 2 wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0506u,7
-twinlife-panel,ZA6701_person_v1-0-0,sre0507,frequency: annoying other twin (age < 10),Haeufigkeit: Anderen Zwilling aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0507,8
-twinlife-panel,ZA6701_person_v1-0-0,sre0507s,frequency: annoying sibling (age < 10),Haeufigkeit: Geschwister aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0507s,8
-twinlife-panel,ZA6701_person_v1-0-0,sre0507t,frequency: annoying twin 1 (age < 10),Haeufigkeit: Zwilling 1 aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0507t,8
-twinlife-panel,ZA6701_person_v1-0-0,sre0507u,frequency: annoying twin 2 (age < 10),Haeufigkeit: Zwilling 2 aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0507u,8
-twinlife-panel,ZA6701_person_v1-0-0,sre0508,frequency: feeling that mother prefers other twin (age < 10),"Haeufigkeit: Gefuehl, dass Mutter anderen Zwilling bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0508,9
-twinlife-panel,ZA6701_person_v1-0-0,sre0508s,frequency: feeling that mother prefers sibling (age < 10),"Haeufigkeit: Gefuehl, dass Mutter Geschwister bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0508s,9
-twinlife-panel,ZA6701_person_v1-0-0,sre0508t,frequency: feeling that mother prefers twin 1 (age < 10),"Haeufigkeit: Gefuehl, dass Mutter Zwilling 1 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0508t,9
-twinlife-panel,ZA6701_person_v1-0-0,sre0508u,frequency: feeling that mother prefers twin 2 (age < 10),"Haeufigkeit: Gefuehl, dass Mutter Zwilling 2 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0508u,9
-twinlife-panel,ZA6701_person_v1-0-0,sre0509,frequency: feeling that father prefers other twin (age < 10),"Haeufigkeit: Gefuehl, dass Vater anderen Zwilling bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0509,10
-twinlife-panel,ZA6701_person_v1-0-0,sre0509s,frequency: feeling that father prefers sibling (age < 10),"Haeufigkeit: Gefuehl, dass Vater Geschwister bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0509s,10
-twinlife-panel,ZA6701_person_v1-0-0,sre0509t,frequency: feeling that father prefers twin 1 (age < 10),"Haeufigkeit: Gefuehl, dass Vater Zwilling 1 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0509t,10
-twinlife-panel,ZA6701_person_v1-0-0,sre0509u,frequency: feeling that father prefers twin 2 (age < 10),"Haeufigkeit: Gefuehl, dass Vater Zwilling 2 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0509u,10
-twinlife-panel,ZA6701_person_v1-0-0,sre0510,frequency: jealous when mother pays more attention to other twin (age < 10),"Haeufigkeit:Eifersucht,wenn Mutter and. Zwilling mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0510,11
-twinlife-panel,ZA6701_person_v1-0-0,sre0510s,frequency: jealous when mother pays more attention to sibling (age < 10),"Haeufigkeit: Eifersucht, wenn Mutter Geschwister mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0510s,11
-twinlife-panel,ZA6701_person_v1-0-0,sre0510t,frequency: jealous when mother pays more attention to twin 1 (age < 10),"Haeufigkeit:Eifersucht, wenn Mutter Zwilling 1 mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0510t,11
-twinlife-panel,ZA6701_person_v1-0-0,sre0510u,frequency: jealous when mother pays more attention to twin 2 (age < 10),"Haeufigkeit:Eifersucht,wenn Mutter Zwilling 2 mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0510u,11
-twinlife-panel,ZA6701_person_v1-0-0,sre0511,frequency: jealous when father pays more attention to other twin (age < 10),"Haeufigkeit: Eifersucht,wenn Vater and. Zwilling mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0511,12
-twinlife-panel,ZA6701_person_v1-0-0,sre0511s,frequency: jealous when father pays more attention to sibling (age < 10),"Haeufigkeit: Eifersucht, wenn Vater Geschwister mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0511s,12
-twinlife-panel,ZA6701_person_v1-0-0,sre0511t,frequency: jealous when father pays more attention to twin 1 (age < 10),"Haeufigkeit: Eifersucht, wenn Vater Zwilling 1 mehr Aufm. schenkt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0511t,12
-twinlife-panel,ZA6701_person_v1-0-0,sre0511u,frequency: jealous when father pays more attention to twin 2 (age < 10),"Haeufigkeit:Eifersucht,wenn Vater Zwilling 2 mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0511u,12
+twinlife-panel,ZA6701_person_v1-0-0,sre0501,frequency: treating other twin affectionately (age < 10),Haeufigkeit: Liebevoll mit anderem Zwilling umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,2
+twinlife-panel,ZA6701_person_v1-0-0,sre0501s,frequency: treating sibling affectionately (age < 10),Haeufigkeit: Liebevoll mit Geschwister umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,2
+twinlife-panel,ZA6701_person_v1-0-0,sre0501t,frequency: treating twin 1 affectionately (age < 10),Haeufigkeit: Liebevoll mit Zwilling 1 umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,2
+twinlife-panel,ZA6701_person_v1-0-0,sre0501u,frequency: treating twin 2 affectionately (age < 10),Haeufigkeit: Liebevoll mit Zwilling 2 umgehen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,2
+twinlife-panel,ZA6701_person_v1-0-0,sre0502,frequency: cheering up other twin (age < 10),Haeufigkeit: Anderen Zwilling troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,3
+twinlife-panel,ZA6701_person_v1-0-0,sre0502s,frequency: cheering up sibling (age < 10),Haeufigkeit: Geschwister troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,3
+twinlife-panel,ZA6701_person_v1-0-0,sre0502t,frequency: cheering up twin 1 (age < 10),Haeufigkeit: Zwilling 1 troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,3
+twinlife-panel,ZA6701_person_v1-0-0,sre0502u,frequency: cheering up twin 2 (age < 10),Haeufigkeit: Zwilling 2 troesten (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,3
+twinlife-panel,ZA6701_person_v1-0-0,sre0503,frequency: telling secrets to other twin (age < 10),Haeufigkeit: Anderem Zwilling Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,4
+twinlife-panel,ZA6701_person_v1-0-0,sre0503s,frequency: telling secrets to sibling (age < 10),Haeufigkeit: Geschwister Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,4
+twinlife-panel,ZA6701_person_v1-0-0,sre0503t,frequency: telling secrets to twin 1 (age < 10),Haeufigkeit: Zwilling 1 Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,4
+twinlife-panel,ZA6701_person_v1-0-0,sre0503u,frequency: telling secrets to twin 2 (age < 10),Haeufigkeit: Zwilling 2 Geheimnisse anvertrauen (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,4
+twinlife-panel,ZA6701_person_v1-0-0,sre0504,frequency: starting fights with other twin (age < 10),Haeufigkeit: Streit mit anderem Zwilling anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,5
+twinlife-panel,ZA6701_person_v1-0-0,sre0504s,frequency: getting into argument with sibling (age < 10),Haeufigkeit: Streit mit Geschwister anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,5
+twinlife-panel,ZA6701_person_v1-0-0,sre0504t,frequency: getting into arguments with twin 1 (age < 10),Haeufigkeit: Streit mit Zwilling 1 anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,5
+twinlife-panel,ZA6701_person_v1-0-0,sre0504u,frequency: getting into arguments with twin 2 (age < 10),Haeufigkeit: Streit mit Zwilling 2 anzetteln (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,5
+twinlife-panel,ZA6701_person_v1-0-0,sre0505,frequency: being mad or angry at other twin (age < 10),Haeufigkeit: Boese oder wuetend sein auf anderen Zwilling (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,6
+twinlife-panel,ZA6701_person_v1-0-0,sre0505s,frequency: being mad or angry at sibling (age < 10),Haeufigkeit: Boese oder wuetend sein auf Geschwister (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,6
+twinlife-panel,ZA6701_person_v1-0-0,sre0505t,frequency: being mad or angry at twin 1 (age < 10),Haeufigkeit: Boese oder wuetend sein auf Zwilling 1 (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,6
+twinlife-panel,ZA6701_person_v1-0-0,sre0505u,frequency: being mad or angry at twin 2 (age < 10),Haeufigkeit: Boese oder wuetend sein auf Zwilling 2 (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,6
+twinlife-panel,ZA6701_person_v1-0-0,sre0506,frequency: hurting other twin (age < 10),Haeufigkeit: Anderem Zwilling wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,7
+twinlife-panel,ZA6701_person_v1-0-0,sre0506s,frequency: hurting sibling (age < 10),Haeufigkeit: Geschwister wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,7
+twinlife-panel,ZA6701_person_v1-0-0,sre0506t,frequency: hurting twin 1 (age < 10),Haeufigkeit: Zwilling 1 wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,7
+twinlife-panel,ZA6701_person_v1-0-0,sre0506u,frequency: hurting twin 2 (age < 10),Haeufigkeit: Zwilling 2 wehtun (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,7
+twinlife-panel,ZA6701_person_v1-0-0,sre0507,frequency: annoying other twin (age < 10),Haeufigkeit: Anderen Zwilling aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,8
+twinlife-panel,ZA6701_person_v1-0-0,sre0507s,frequency: annoying sibling (age < 10),Haeufigkeit: Geschwister aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,8
+twinlife-panel,ZA6701_person_v1-0-0,sre0507t,frequency: annoying twin 1 (age < 10),Haeufigkeit: Zwilling 1 aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,8
+twinlife-panel,ZA6701_person_v1-0-0,sre0507u,frequency: annoying twin 2 (age < 10),Haeufigkeit: Zwilling 2 aergern (Alter < 10),,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,8
+twinlife-panel,ZA6701_person_v1-0-0,sre0508,frequency: feeling that mother prefers other twin (age < 10),"Haeufigkeit: Gefuehl, dass Mutter anderen Zwilling bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,9
+twinlife-panel,ZA6701_person_v1-0-0,sre0508s,frequency: feeling that mother prefers sibling (age < 10),"Haeufigkeit: Gefuehl, dass Mutter Geschwister bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,9
+twinlife-panel,ZA6701_person_v1-0-0,sre0508t,frequency: feeling that mother prefers twin 1 (age < 10),"Haeufigkeit: Gefuehl, dass Mutter Zwilling 1 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,9
+twinlife-panel,ZA6701_person_v1-0-0,sre0508u,frequency: feeling that mother prefers twin 2 (age < 10),"Haeufigkeit: Gefuehl, dass Mutter Zwilling 2 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,9
+twinlife-panel,ZA6701_person_v1-0-0,sre0509,frequency: feeling that father prefers other twin (age < 10),"Haeufigkeit: Gefuehl, dass Vater anderen Zwilling bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,10
+twinlife-panel,ZA6701_person_v1-0-0,sre0509s,frequency: feeling that father prefers sibling (age < 10),"Haeufigkeit: Gefuehl, dass Vater Geschwister bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,10
+twinlife-panel,ZA6701_person_v1-0-0,sre0509t,frequency: feeling that father prefers twin 1 (age < 10),"Haeufigkeit: Gefuehl, dass Vater Zwilling 1 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,10
+twinlife-panel,ZA6701_person_v1-0-0,sre0509u,frequency: feeling that father prefers twin 2 (age < 10),"Haeufigkeit: Gefuehl, dass Vater Zwilling 2 bevorzugt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,10
+twinlife-panel,ZA6701_person_v1-0-0,sre0510,frequency: jealous when mother pays more attention to other twin (age < 10),"Haeufigkeit:Eifersucht,wenn Mutter and. Zwilling mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,11
+twinlife-panel,ZA6701_person_v1-0-0,sre0510s,frequency: jealous when mother pays more attention to sibling (age < 10),"Haeufigkeit: Eifersucht, wenn Mutter Geschwister mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,11
+twinlife-panel,ZA6701_person_v1-0-0,sre0510t,frequency: jealous when mother pays more attention to twin 1 (age < 10),"Haeufigkeit:Eifersucht, wenn Mutter Zwilling 1 mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,11
+twinlife-panel,ZA6701_person_v1-0-0,sre0510u,frequency: jealous when mother pays more attention to twin 2 (age < 10),"Haeufigkeit:Eifersucht,wenn Mutter Zwilling 2 mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,11
+twinlife-panel,ZA6701_person_v1-0-0,sre0511,frequency: jealous when father pays more attention to other twin (age < 10),"Haeufigkeit: Eifersucht,wenn Vater and. Zwilling mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500,12
+twinlife-panel,ZA6701_person_v1-0-0,sre0511s,frequency: jealous when father pays more attention to sibling (age < 10),"Haeufigkeit: Eifersucht, wenn Vater Geschwister mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500s,12
+twinlife-panel,ZA6701_person_v1-0-0,sre0511t,frequency: jealous when father pays more attention to twin 1 (age < 10),"Haeufigkeit: Eifersucht, wenn Vater Zwilling 1 mehr Aufm. schenkt (Alter < 10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500t,12
+twinlife-panel,ZA6701_person_v1-0-0,sre0511u,frequency: jealous when father pays more attention to twin 2 (age < 10),"Haeufigkeit:Eifersucht,wenn Vater Zwilling 2 mehr Aufm. schenkt (Alter<10)",,twinlife-panel-2014-F2F_Modul3_Basismodul,sre0500u,12
 twinlife-panel,ZA6701_person_v1-0-0,tsp0100,twins dress identically,Zwillinge gleich kleiden,,twinlife-panel-2014-F2F_Modul3_Basismodul,tsp0100,
 twinlife-panel,ZA6701_person_v1-0-0,tsp0101,twins dressed identically up to age of . . .,Zwillinge gleich kleiden bis Alter. . .,,twinlife-panel-2014-F2F_Modul3_Basismodul,tsp0101,
 twinlife-panel,ZA6701_person_v1-0-0,tsp0200,twins currently: same hobbies and interests,Zwillinge aktuell: gleiche Hobbies und Interessen,,twinlife-panel-2014-F2F_Modul3_Basismodul,tsp0200,
@@ -2210,10 +2210,10 @@ twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0302,difference: twins' eye color,Unter
 twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0303,difference: twins' earlobes,Unterschied: Ohrlaeppchen der Zwillinge,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0303,
 twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0400,twins' tooth development simultaneous,Zahnwachstum der Zwillinge gleichzeitig,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0400,
 twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0500,twins' blood group known,Blutgruppe der Zwillinge bekannt,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0500,
-twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0501,blood group twin 1,Blutgruppe Zwilling 1,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0501,
+twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0501,own blood group,Eigene Blutgruppe,,twinlife-panel-2014-F2F_Modul1_ZygK3K4,zyg0501,
 twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0502,rhesus factor twin 1,Rhesusfaktor Zwilling 1,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0502,
-twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0503,blood group twin 2,Blutgruppe Zwilling 2,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0503,
-twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0504,rhesus factor twin 2,Rhesusfaktor Zwilling 2,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0504,
+twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0503,blood group of other twin,Blutgruppe anderer Zwilling,,twinlife-panel-2014-F2F_Modul1_ZygK3K4,zyg0503,
+twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0504,rhesus factor of other twin,Rhesusfaktor anderer Zwilling,,twinlife-panel-2014-F2F_Modul1_ZygK3K4,zyg0504,
 twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0600,"differences resulting from difficulties in childbirth, accident, illness","Unterschiede durch Geburtsprobleme, Unfall, Krankheit",,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0600,
 twinlife-panel,ZA6701_zygosity_v1-0-0,zyg0602,twins' similarity with increasing age,Aehnlichkeit Zwillinge mit zunehmendem Alter,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0602,
 twinlife-panel,ZA6701_person_v1-0-0,zyg0700,assessment: zygosity of twins,Einschaetzung: Eiigkeit der Zwillinge,,twinlife-panel-2014-F2F_Modul1_ZygK1K2,zyg0700,
