@@ -39,10 +39,9 @@ Note: Part of the data was collected using a paper&pancil-questionnaire (documen
 
 ## Method
 
-Through the implementation of the cross-sequential design TwinLife will observe four cohorts of identical and fraternal twins over a period of twelve years. For this purpose, annual interviews will be conducted alternately via telephone or home visits.
-This design enables the examination of a great age range within the short period of twelve years. The youngest cohort (born in 2009) was five years old in the first panel wave in 2014 and the oldest cohort (born in 1991) will be 31 years old in the last wave in 2023.     
-In consequence, the assessment begins shortly before school enrollment and ceases when most of the career-related decisions have been made.
-In TwinLife the nuclear twin family design (NTFD) is applied in a special form as the focus not only lies on the biological family but on the complete environment that the twins grow up in, thus if applicable also including the step-family members. If it is the case that the twins grow up in a step-family or some kind of patch-work family, the biological parents will assessed, too. Also, the study will record separation and divorce or other individuals moving into the household as these are very important life events. Furthermore, when the twins have reached a certain age spouses will be included since they represent an important environmental factor. 
+The TwinLife panel combines a sequential cohort-design with an extended twin family-design (ETFD). The related surveys are conducted yearly, whereat the mode alternates between face-to-face at home, including some tests, and telephone interviews. Parts of the face-to-face surveys are conducted in parallel modes, i.e., as computer assisted or paper-and-pencil self-interviews.
+The sequential cohort-design comprises four cohorts: The youngest twins in cohort 1 (birth years 2009 and 2010) are about 5 years of age at the time of the first survey in 2014 and 2015. The oldest twins in cohort 4 (birth years 1990 to 1993) are about 31 to 32 years of age at the time of the last survey in 2022 and 2023. The twins in cohorts 2 and 3 are born in the years 2003 to 2004 and 1997 to 1998, respectively. This design enables the TwinLife panel to cover an age range between 5 and 32 years with a data collection phase of 10 years. This age range covers important life-course transitions from school entry to the labor market entry phase as well as critical life stages for mating and family formation.
+As part of the ETFD, in addition to the twins themselves the biological and if applicable social parents as well as the sibling that is closest in age to the twins are surveyed. Moreover, the partners of adult twins are included as well. This family perspective enables comparisons regarding different degrees of genetic similarity, and it is important to analyze the manifold influences of the family environment on the development of the twins in greater detail.
 
 Geographic Coverage:
 Germany
@@ -53,7 +52,7 @@ Twins and their families (Extended Twin Family Design, ETFD): Monozygotic and di
 (+ if possible the other biological parent, step-parent(-s), one sibling and the twins' partners)
  
 Selection Method:
-Twin families are drawn from local resident registers in communities with at least 5000 inhabitants in Germany. The twin families are recognized as such if two same-sex people with the same date of birth lived in the same household. Then, it was checked whether the selected persons were twins indeed.
+Twin families are drawn from local resident registers in communities with at least 5,000 inhabitants in Germany. The twin families are recognized as such if two same-sex people with the same date of birth lived in the same household. Then, it was checked whether the selected persons were twins indeed.
  
 Mode of Data Collection:
 Household interviews with the family via three different interview modes (CAPI, CASI, Paper-and-Pencil) plus cognitive tests, scans/photos of certificates and children's health record books; interviews with family members living outside the interviewed households by two modes (CAWI, Paper-and-pencil).
@@ -66,7 +65,7 @@ Date of Collection:
 
 ## Data access 
 
-Gesis Data Archive (Data Catalogue: https://dbk.gesis.org/dbksearch/index.asp)
+GESIS Data Catalogue: https://dbk.gesis.org/dbksearch/index.asp
 
 ## Data description
 
