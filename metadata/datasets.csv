@@ -1,4 +1,4 @@
 dataset_name,label,description
-ZA6701_person_v1-0-0,Individual survey dataset,includes survey data in individual format - each individual in one row (vs. family format - all members of one family in one row)
-ZA6701_zygosity_v1-0-0,Zygosity dataset,includes data of the zygosity questionnaire (basis of zygosity assessment of each twin pair)
-ZA6701_de_mode_v1-0-0,Mode dataset,"includes information on the interview mode of each variable and each individual (e.g. CAPI, CASI, PAPI, …)"
+ZA6701_person_v1-0-0,Person-year survey dataset,includes survey data in person-year format, i.e., each person-year is contained in one data row
+ZA6701_zygosity_v1-0-0,Zygosity dataset,includes data of the zygosity questionnaire on which the zygosity assessment for the twin pairs is based
+ZA6701_de_mode_v1-0-0,Mode dataset,"includes information on the survey mode (e.g., CAPI, CASI, PAPI) for each variable in person-year format"
