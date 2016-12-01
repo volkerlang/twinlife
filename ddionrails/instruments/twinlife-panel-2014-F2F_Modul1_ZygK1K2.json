@@ -981,11 +981,6 @@
               "label_de": "1: ja, oft"
             },
             {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
-            {
               "value": 2,
               "label": "2: yes, sometimes",
               "label_de": "2: ja, manchmal"
@@ -1021,11 +1016,6 @@
           "answer_list": "zyg0801",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
             {
               "value": 1,
               "label": "1: yes, often",
@@ -1073,11 +1063,6 @@
               "label_de": "1: ja, oft"
             },
             {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
-            {
               "value": 2,
               "label": "2: yes, sometimes",
               "label_de": "2: ja, manchmal"
@@ -1113,11 +1098,6 @@
           "answer_list": "zyg0801",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
             {
               "value": 1,
               "label": "1: yes, often",
@@ -1165,11 +1145,6 @@
               "label_de": "1: ja, oft"
             },
             {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
-            {
               "value": 2,
               "label": "2: yes, sometimes",
               "label_de": "2: ja, manchmal"
@@ -1205,11 +1180,6 @@
           "answer_list": "zyg0801",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
             {
               "value": 1,
               "label": "1: yes, often",
@@ -1257,11 +1227,6 @@
               "label_de": "1: ja, oft"
             },
             {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
-            {
               "value": 2,
               "label": "2: yes, sometimes",
               "label_de": "2: ja, manchmal"
@@ -1297,11 +1262,6 @@
           "answer_list": "zyg0801",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, oft"
-            },
             {
               "value": 1,
               "label": "1: yes, often",
@@ -1453,11 +1413,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: stated",
               "label_de": "1: genannt"
@@ -1483,11 +1438,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not stated",
@@ -1525,11 +1475,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: stated",
               "label_de": "1: genannt"
@@ -1555,11 +1500,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not stated",
@@ -1597,11 +1537,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: stated",
               "label_de": "1: genannt"
@@ -1627,11 +1562,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not stated",
@@ -1669,11 +1599,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: stated",
               "label_de": "1: genannt"
@@ -1699,11 +1624,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not stated",

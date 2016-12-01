@@ -1502,11 +1502,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -1532,11 +1527,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -1574,11 +1564,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -1604,11 +1589,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -1646,11 +1626,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -1676,11 +1651,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -1718,11 +1688,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -1748,11 +1713,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -1790,11 +1750,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -1820,11 +1775,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -1862,11 +1812,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -1892,11 +1837,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -1974,11 +1914,6 @@
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2082,11 +2017,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -2112,11 +2042,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2154,11 +2079,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -2184,11 +2104,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2226,11 +2141,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -2256,11 +2166,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2369,11 +2274,6 @@
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2493,11 +2393,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -2523,11 +2418,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2565,11 +2455,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -2595,11 +2480,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2637,11 +2517,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -2667,11 +2542,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -2876,11 +2746,6 @@
               "label_de": "1: trifft gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: doesn't apply",
               "label_de": "2: trifft nicht zu"
@@ -2921,11 +2786,6 @@
           "answer_list": "apl5_3",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -2978,11 +2838,6 @@
               "label_de": "1: trifft gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: doesn't apply",
               "label_de": "2: trifft nicht zu"
@@ -3023,11 +2878,6 @@
           "answer_list": "apl5_3",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -3080,11 +2930,6 @@
               "label_de": "1: trifft gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: doesn't apply",
               "label_de": "2: trifft nicht zu"
@@ -3125,11 +2970,6 @@
           "answer_list": "apl5_3",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -3192,11 +3032,6 @@
               "label_de": "1: trifft gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: doesn't apply",
               "label_de": "2: trifft nicht zu"
@@ -3237,11 +3072,6 @@
           "answer_list": "apl5_3",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -3294,11 +3124,6 @@
               "label_de": "1: trifft gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: doesn't apply",
               "label_de": "2: trifft nicht zu"
@@ -3339,11 +3164,6 @@
           "answer_list": "apl5_3",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -3574,11 +3394,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -3604,11 +3419,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -3646,11 +3456,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -3676,11 +3481,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -3718,11 +3518,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -3748,11 +3543,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -3790,11 +3580,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -3820,11 +3605,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -3862,11 +3642,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -3892,11 +3667,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -3934,11 +3704,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -3964,11 +3729,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4006,11 +3766,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4036,11 +3791,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4078,11 +3828,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4108,11 +3853,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4150,11 +3890,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4180,11 +3915,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4222,11 +3952,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4252,11 +3977,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4294,11 +4014,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4324,11 +4039,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4575,11 +4285,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4789,11 +4494,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4819,11 +4519,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4861,11 +4556,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4891,11 +4581,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -4933,11 +4618,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -4963,11 +4643,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -5005,11 +4680,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -5035,11 +4705,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -5077,11 +4742,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -5107,11 +4767,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -5149,11 +4804,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -5179,11 +4829,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -5221,11 +4866,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -5257,11 +4897,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -5287,11 +4922,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -5356,11 +4986,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -5411,11 +5036,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -5478,11 +5098,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -5533,11 +5148,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -5600,11 +5210,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -5655,11 +5260,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -5722,11 +5322,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -5777,11 +5372,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -5844,11 +5434,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -5899,11 +5484,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -5966,11 +5546,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -6021,11 +5596,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -6088,11 +5658,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -6143,11 +5708,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -6210,11 +5770,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -6265,11 +5820,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -6332,11 +5882,6 @@
               "label_de": "1: trifft ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -6387,11 +5932,6 @@
           "answer_list": "apl7",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: doesn't apply at all",
@@ -6633,11 +6173,6 @@
               "label_de": "1: stimme ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: do not agree",
               "label_de": "2: stimme nicht zu"
@@ -6678,11 +6213,6 @@
           "answer_list": "agr5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: do not agree at all",
@@ -6735,11 +6265,6 @@
               "label_de": "1: stimme ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: do not agree",
               "label_de": "2: stimme nicht zu"
@@ -6780,11 +6305,6 @@
           "answer_list": "agr5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: do not agree at all",
@@ -6837,11 +6357,6 @@
               "label_de": "1: stimme ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: do not agree",
               "label_de": "2: stimme nicht zu"
@@ -6882,11 +6397,6 @@
           "answer_list": "agr5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: do not agree at all",
@@ -6939,11 +6449,6 @@
               "label_de": "1: stimme ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: do not agree",
               "label_de": "2: stimme nicht zu"
@@ -6990,11 +6495,6 @@
               "label_de": "1: stimme ueberhaupt nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
               "value": 2,
               "label": "2: do not agree",
               "label_de": "2: stimme nicht zu"
@@ -7035,11 +6535,6 @@
           "answer_list": "agr5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
             {
               "value": 1,
               "label": "1: do not agree at all",
@@ -8062,11 +7557,6 @@
               "label_de": "0: ganz und gar unzufrieden"
             },
             {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
               "value": 1,
               "label": "1",
               "label_de": "1"
@@ -8142,11 +7632,6 @@
           "answer_list": "sat11",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
             {
               "value": 0,
               "label": "0: completely dissatisfied",
@@ -8234,11 +7719,6 @@
               "label_de": "0: ganz und gar unzufrieden"
             },
             {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
               "value": 1,
               "label": "1",
               "label_de": "1"
@@ -8314,11 +7794,6 @@
           "answer_list": "sat11",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
             {
               "value": 0,
               "label": "0: completely dissatisfied",
@@ -8406,11 +7881,6 @@
               "label_de": "0: ganz und gar unzufrieden"
             },
             {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
               "value": 1,
               "label": "1",
               "label_de": "1"
@@ -8486,11 +7956,6 @@
           "answer_list": "sat11",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
             {
               "value": 0,
               "label": "0: completely dissatisfied",
@@ -8578,11 +8043,6 @@
               "label_de": "0: ganz und gar unzufrieden"
             },
             {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
               "value": 1,
               "label": "1",
               "label_de": "1"
@@ -8664,11 +8124,6 @@
               "label_de": "0: ganz und gar unzufrieden"
             },
             {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
               "value": 1,
               "label": "1",
               "label_de": "1"
@@ -8744,11 +8199,6 @@
           "answer_list": "sat11",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
             {
               "value": 0,
               "label": "0: completely dissatisfied",
@@ -8905,11 +8355,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -8935,11 +8380,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -8977,11 +8417,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9007,11 +8442,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9049,11 +8479,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9079,11 +8504,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9121,11 +8541,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9151,11 +8566,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9193,11 +8603,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9223,11 +8628,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9265,11 +8665,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9295,11 +8690,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9337,11 +8727,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9367,11 +8752,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9409,11 +8789,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9439,11 +8814,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9481,11 +8851,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -9511,11 +8876,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -9580,11 +8940,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -9605,11 +8960,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -9642,11 +8992,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -9667,11 +9012,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -9714,11 +9054,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -9739,11 +9074,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -9776,11 +9106,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -9801,11 +9126,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -9848,11 +9168,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -9873,11 +9188,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -9910,11 +9220,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -9935,11 +9240,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -9982,11 +9282,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10007,11 +9302,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10044,11 +9334,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10069,11 +9354,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10116,11 +9396,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10141,11 +9416,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10178,11 +9448,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10203,11 +9468,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10250,11 +9510,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10275,11 +9530,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10312,11 +9562,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10337,11 +9582,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10384,11 +9624,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10409,11 +9644,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10446,11 +9676,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10471,11 +9696,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10518,11 +9738,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10543,11 +9758,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10580,11 +9790,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10605,11 +9810,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10652,11 +9852,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10677,11 +9872,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10714,11 +9904,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10739,11 +9924,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10786,11 +9966,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10811,11 +9986,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10848,11 +10018,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10873,11 +10038,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10920,11 +10080,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -10945,11 +10100,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -10982,11 +10132,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11007,11 +10152,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11054,11 +10194,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11079,11 +10214,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11116,11 +10246,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11141,11 +10266,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11188,11 +10308,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11213,11 +10328,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11250,11 +10360,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11275,11 +10380,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11322,11 +10422,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11347,11 +10442,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11384,11 +10474,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11409,11 +10494,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11456,11 +10536,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11481,11 +10556,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11518,11 +10588,6 @@
               "label_de": "9999: leide immer noch an der Erkrankung"
             },
             {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
               "value": -98,
               "label": "-98: don't know",
               "label_de": "-98: weiss nicht"
@@ -11543,11 +10608,6 @@
           "answer_list": "dia01",
           "scale": "cat",
           "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
             {
               "value": 9999,
               "label": "9999: still ill",
@@ -11792,11 +10852,6 @@
               "label_de": "1: taeglich"
             },
             {
-              "value": 1,
-              "label": "1: daily",
-              "label_de": "1: taeglich"
-            },
-            {
               "value": 2,
               "label": "2: several times per week",
               "label_de": "2: mehrmals pro Woche"
@@ -11842,11 +10897,6 @@
           "answer_list": "hbe0202",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: daily",
-              "label_de": "1: taeglich"
-            },
             {
               "value": 1,
               "label": "1: daily",
@@ -11904,11 +10954,6 @@
               "label_de": "1: taeglich"
             },
             {
-              "value": 1,
-              "label": "1: daily",
-              "label_de": "1: taeglich"
-            },
-            {
               "value": 2,
               "label": "2: several times per week",
               "label_de": "2: mehrmals pro Woche"
@@ -11954,11 +10999,6 @@
           "answer_list": "hbe0202",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: daily",
-              "label_de": "1: taeglich"
-            },
             {
               "value": 1,
               "label": "1: daily",
@@ -12163,11 +11203,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -12363,11 +11398,6 @@
               "label_de": "1: starke Ablehnung"
             },
             {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
-            {
               "value": 2,
               "label": "2: rather rejection",
               "label_de": "2: leichte Ablehnung"
@@ -12408,11 +11438,6 @@
           "answer_list": "agr5_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
             {
               "value": 1,
               "label": "1: strong rejection",
@@ -12465,11 +11490,6 @@
               "label_de": "1: starke Ablehnung"
             },
             {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
-            {
               "value": 2,
               "label": "2: rather rejection",
               "label_de": "2: leichte Ablehnung"
@@ -12510,11 +11530,6 @@
           "answer_list": "agr5_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
             {
               "value": 1,
               "label": "1: strong rejection",
@@ -12567,11 +11582,6 @@
               "label_de": "1: starke Ablehnung"
             },
             {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
-            {
               "value": 2,
               "label": "2: rather rejection",
               "label_de": "2: leichte Ablehnung"
@@ -12612,11 +11622,6 @@
           "answer_list": "agr5_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
             {
               "value": 1,
               "label": "1: strong rejection",
@@ -12678,11 +11683,6 @@
               "label_de": "1: jede Woche"
             },
             {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
               "value": 2,
               "label": "2: every month",
               "label_de": "2: jeden Monat"
@@ -12718,11 +11718,6 @@
           "answer_list": "fre4",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
             {
               "value": 1,
               "label": "1: every week",
@@ -12770,11 +11765,6 @@
               "label_de": "1: jede Woche"
             },
             {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
               "value": 2,
               "label": "2: every month",
               "label_de": "2: jeden Monat"
@@ -12810,11 +11800,6 @@
           "answer_list": "fre4",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
             {
               "value": 1,
               "label": "1: every week",
@@ -12862,11 +11847,6 @@
               "label_de": "1: jede Woche"
             },
             {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
               "value": 2,
               "label": "2: every month",
               "label_de": "2: jeden Monat"
@@ -12902,11 +11882,6 @@
           "answer_list": "fre4",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
             {
               "value": 1,
               "label": "1: every week",
@@ -12954,11 +11929,6 @@
               "label_de": "1: jede Woche"
             },
             {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
               "value": 2,
               "label": "2: every month",
               "label_de": "2: jeden Monat"
@@ -13000,11 +11970,6 @@
               "label_de": "1: jede Woche"
             },
             {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
               "value": 2,
               "label": "2: every month",
               "label_de": "2: jeden Monat"
@@ -13040,11 +12005,6 @@
           "answer_list": "fre4",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
             {
               "value": 1,
               "label": "1: every week",
@@ -13386,11 +12346,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -13416,11 +12371,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -13458,11 +12408,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -13488,11 +12433,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -13530,11 +12470,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -13566,11 +12501,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -13596,11 +12526,6 @@
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -14753,11 +13678,6 @@
               "label_de": "1: lehne voll ab"
             },
             {
-              "value": 1,
-              "label": "1: completely disagree",
-              "label_de": "1: lehne voll ab"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -14793,11 +13713,6 @@
           "answer_list": "agr4",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: completely disagree",
-              "label_de": "1: lehne voll ab"
-            },
             {
               "value": 1,
               "label": "1: completely disagree",
@@ -14845,11 +13760,6 @@
               "label_de": "1: lehne voll ab"
             },
             {
-              "value": 1,
-              "label": "1: completely disagree",
-              "label_de": "1: lehne voll ab"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -14885,11 +13795,6 @@
           "answer_list": "agr4",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: completely disagree",
-              "label_de": "1: lehne voll ab"
-            },
             {
               "value": 1,
               "label": "1: completely disagree",
@@ -14946,11 +13851,6 @@
               "label_de": "1: stimme ganz und gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: totally disagree",
-              "label_de": "1: stimme ganz und gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -14986,11 +13886,6 @@
           "answer_list": "agr4_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: totally disagree",
-              "label_de": "1: stimme ganz und gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: totally disagree",
@@ -15038,11 +13933,6 @@
               "label_de": "1: stimme ganz und gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: totally disagree",
-              "label_de": "1: stimme ganz und gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -15078,11 +13968,6 @@
           "answer_list": "agr4_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: totally disagree",
-              "label_de": "1: stimme ganz und gar nicht zu"
-            },
             {
               "value": 1,
               "label": "1: totally disagree",
@@ -15907,11 +14792,6 @@
               "label_de": "1: stimme ganz und gar nicht zu"
             },
             {
-              "value": 1,
-              "label": "1: totally disagree",
-              "label_de": "1: stimme ganz und gar nicht zu"
-            },
-            {
               "value": 2,
               "label": "2",
               "label_de": "2"
@@ -15956,11 +14836,6 @@
           "answer_list": "apl5_2",
           "scale": "txt",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
             {
               "value": 1,
               "label": "1: not correct at all",
@@ -16013,11 +14888,6 @@
               "label_de": "1: stimmt ueberhaupt nicht"
             },
             {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
-            {
               "value": 2,
               "label": "2: rather not correct",
               "label_de": "2: stimmt eher nicht"
@@ -16058,11 +14928,6 @@
           "answer_list": "apl5_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
             {
               "value": 1,
               "label": "1: not correct at all",
@@ -16115,11 +14980,6 @@
               "label_de": "1: stimmt ueberhaupt nicht"
             },
             {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
-            {
               "value": 2,
               "label": "2: rather not correct",
               "label_de": "2: stimmt eher nicht"
@@ -16166,11 +15026,6 @@
               "label_de": "1: stimmt ueberhaupt nicht"
             },
             {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
-            {
               "value": 2,
               "label": "2: rather not correct",
               "label_de": "2: stimmt eher nicht"
@@ -16211,11 +15066,6 @@
           "answer_list": "apl5_2",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
             {
               "value": 1,
               "label": "1: not correct at all",
@@ -16449,11 +15299,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -16494,11 +15339,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -16551,11 +15391,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -16596,11 +15431,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -16653,11 +15483,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -16698,11 +15523,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -16755,11 +15575,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -16800,11 +15615,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -16857,11 +15667,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -16902,11 +15707,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -16959,11 +15759,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17004,11 +15799,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17061,11 +15851,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17106,11 +15891,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17400,11 +16180,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17445,11 +16220,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17502,11 +16272,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17547,11 +16312,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17604,11 +16364,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17649,11 +16404,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17706,11 +16456,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17751,11 +16496,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17808,11 +16548,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17853,11 +16588,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -17910,11 +16640,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -17955,11 +16680,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -18012,11 +16732,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -18057,11 +16772,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -18180,11 +16890,6 @@
               "label_de": "1: Nie"
             },
             {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
               "value": 2,
               "label": "2: Once or several times in the last six month",
               "label_de": "2: Ein oder mehrmals im halben Jahr"
@@ -18225,11 +16930,6 @@
           "answer_list": "ple0200",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
             {
               "value": 1,
               "label": "1: Never",
@@ -18292,11 +16992,6 @@
               "label_de": "1: Nie"
             },
             {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
               "value": 2,
               "label": "2: Once or several times in the last six month",
               "label_de": "2: Ein oder mehrmals im halben Jahr"
@@ -18353,11 +17048,6 @@
               "label_de": "1: Nie"
             },
             {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
               "value": 2,
               "label": "2: Once or several times in the last six month",
               "label_de": "2: Ein oder mehrmals im halben Jahr"
@@ -18408,11 +17098,6 @@
           "answer_list": "ple0200",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
             {
               "value": 1,
               "label": "1: Never",
@@ -19201,11 +17886,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19246,11 +17926,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19303,11 +17978,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19348,11 +18018,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19405,11 +18070,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19450,11 +18110,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19507,11 +18162,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19552,11 +18202,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19609,11 +18254,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19654,11 +18294,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19711,11 +18346,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19756,11 +18386,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19813,11 +18438,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -19858,11 +18478,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -19971,11 +18586,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -20011,11 +18621,6 @@
           "scale": "cat",
           "filter": "ptyp == 200",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -20063,11 +18668,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -20103,11 +18703,6 @@
           "scale": "txt",
           "filter": "ptyp == 200",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20160,11 +18755,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20205,11 +18795,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20262,11 +18847,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20307,11 +18887,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20364,11 +18939,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20409,11 +18979,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20466,11 +19031,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20511,11 +19071,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20568,11 +19123,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20613,11 +19163,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20670,11 +19215,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20721,11 +19261,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -20766,11 +19301,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -20879,11 +19409,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -20925,11 +19450,6 @@
               "label_de": "0: nicht genannt"
             },
             {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
               "value": 1,
               "label": "1: mentioned",
               "label_de": "1: genannt"
@@ -20965,11 +19485,6 @@
           "scale": "cat",
           "filter": "ptyp == 200",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
             {
               "value": 0,
               "label": "0: not mentioned",
@@ -21359,11 +19874,6 @@
               "label_de": "1: Nie"
             },
             {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
               "value": 2,
               "label": "2: Once or several times in the last six month",
               "label_de": "2: Ein oder mehrmals im halben Jahr"
@@ -21404,11 +19914,6 @@
           "answer_list": "ple0200",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
             {
               "value": 1,
               "label": "1: Never",
@@ -21461,11 +19966,6 @@
               "label_de": "1: Nie"
             },
             {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
               "value": 2,
               "label": "2: Once or several times in the last six month",
               "label_de": "2: Ein oder mehrmals im halben Jahr"
@@ -21512,11 +20012,6 @@
               "label_de": "1: Nie"
             },
             {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
               "value": 2,
               "label": "2: Once or several times in the last six month",
               "label_de": "2: Ein oder mehrmals im halben Jahr"
@@ -21557,11 +20052,6 @@
           "answer_list": "ple0200",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
             {
               "value": 1,
               "label": "1: Never",
@@ -21618,11 +20108,6 @@
           "scale": "cat",
           "filter": "ptyp == 200",
           "answers": [
-            {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
             {
               "value": 0,
               "label": "0: completely dissatisfied",
@@ -21720,11 +20205,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -21765,11 +20245,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -21822,11 +20297,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -21867,11 +20337,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -21934,11 +20399,6 @@
               "label_de": "1: gar nicht"
             },
             {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
-            {
               "value": 2,
               "label": "2: hardly ever",
               "label_de": "2: kaum"
@@ -21979,11 +20439,6 @@
           "answer_list": "sre0300",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
             {
               "value": 1,
               "label": "1: not at all",
@@ -22036,11 +20491,6 @@
               "label_de": "1: gar nicht"
             },
             {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
-            {
               "value": 2,
               "label": "2: hardly ever",
               "label_de": "2: kaum"
@@ -22081,11 +20531,6 @@
           "answer_list": "sre0300",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
             {
               "value": 1,
               "label": "1: not at all",
@@ -22148,11 +20593,6 @@
               "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
             },
             {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
-            {
               "value": 2,
               "label": "2: My sibling thinks that I sometimes get more support.",
               "label_de": "2: Mein Geschwister denkt, dass ich manchmal mehr unterstuetzt werde."
@@ -22204,11 +20644,6 @@
               "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
             },
             {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
-            {
               "value": 2,
               "label": "2: My sibling thinks that I sometimes get more support.",
               "label_de": "2: Mein Geschwister denkt, dass ich manchmal mehr unterstuetzt werde."
@@ -22254,11 +20689,6 @@
           "answer_list": "sre0400",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
             {
               "value": 1,
               "label": "1: My sibling thinks that I generally get more support.",
@@ -22448,11 +20878,6 @@
               "label_de": "0: ganz und gar unzufrieden"
             },
             {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
               "value": 1,
               "label": "1",
               "label_de": "1"
@@ -22544,11 +20969,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -22589,11 +21009,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -22646,11 +21061,6 @@
               "label_de": "1: nie"
             },
             {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
               "value": 2,
               "label": "2: rarely",
               "label_de": "2: selten"
@@ -22691,11 +21101,6 @@
           "answer_list": "fre5",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
             {
               "value": 1,
               "label": "1: never",
@@ -22758,11 +21163,6 @@
               "label_de": "1: gar nicht"
             },
             {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
-            {
               "value": 2,
               "label": "2: hardly ever",
               "label_de": "2: kaum"
@@ -22803,11 +21203,6 @@
           "answer_list": "sre0300",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
             {
               "value": 1,
               "label": "1: not at all",
@@ -22860,11 +21255,6 @@
               "label_de": "1: gar nicht"
             },
             {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
-            {
               "value": 2,
               "label": "2: hardly ever",
               "label_de": "2: kaum"
@@ -22905,11 +21295,6 @@
           "answer_list": "sre0300",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
             {
               "value": 1,
               "label": "1: not at all",
@@ -22972,11 +21357,6 @@
               "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
             },
             {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
-            {
               "value": 2,
               "label": "2: My sibling thinks that I sometimes get more support.",
               "label_de": "2: Mein Geschwister denkt, dass ich manchmal mehr unterstuetzt werde."
@@ -23028,11 +21408,6 @@
               "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
             },
             {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
-            {
               "value": 2,
               "label": "2: My sibling thinks that I sometimes get more support.",
               "label_de": "2: Mein Geschwister denkt, dass ich manchmal mehr unterstuetzt werde."
@@ -23078,11 +21453,6 @@
           "answer_list": "sre0400",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
             {
               "value": 1,
               "label": "1: My sibling thinks that I generally get more support.",

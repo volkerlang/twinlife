@@ -584,11 +584,6 @@
               "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
             },
             {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
-            {
               "value": 2,
               "label": "2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)",
               "label_de": "2: fruehere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
@@ -884,11 +879,6 @@
           "answer_list": "frisk",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
             {
               "value": 1,
               "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
@@ -1196,11 +1186,6 @@
               "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
             },
             {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
-            {
               "value": 2,
               "label": "2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)",
               "label_de": "2: fruehere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
@@ -1496,11 +1481,6 @@
           "answer_list": "frisk",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
             {
               "value": 1,
               "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
@@ -1808,11 +1788,6 @@
               "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
             },
             {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
-            {
               "value": 2,
               "label": "2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)",
               "label_de": "2: fruehere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
@@ -2114,11 +2089,6 @@
               "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
             },
             {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
-            {
               "value": 2,
               "label": "2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)",
               "label_de": "2: fruehere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
@@ -2414,11 +2384,6 @@
           "answer_list": "frisk",
           "scale": "cat",
           "answers": [
-            {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
             {
               "value": 1,
               "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
