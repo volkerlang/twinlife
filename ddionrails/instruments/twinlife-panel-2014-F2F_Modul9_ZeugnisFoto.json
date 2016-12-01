@@ -1,0 +1,1557 @@
+{
+  "study": "twinlife",
+  "questionnaire": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+  "label": "Module 9: Certificates",
+  "description": "information on latest school certificate (twins and siblings)",
+  "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+  "questions": {
+    "cer2000": {
+      "question": "cer2000",
+      "name": "cer2000",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 5,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2000",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 0,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2100": {
+      "question": "cer2100",
+      "name": "cer2100",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 6,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "yn",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: yes",
+              "label_de": "1: ja"
+            },
+            {
+              "value": 2,
+              "label": "2: no",
+              "label_de": "2: nein"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 1,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2001": {
+      "question": "cer2001",
+      "name": "cer2001",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 7,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2001",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: first half-year",
+              "label_de": "1: erstes Halbjahr"
+            },
+            {
+              "value": 2,
+              "label": "2: second half-year",
+              "label_de": "2: zweites Halbjahr"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 2,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2103": {
+      "question": "cer2103",
+      "name": "cer2103",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 8,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "mis",
+          "scale": "dec",
+          "filter": "cer2100 == 1",
+          "answers": [
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 3,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2101": {
+      "question": "cer2101",
+      "name": "cer2101",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 9,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2101",
+          "scale": "cat",
+          "filter": "cer2100 == 1",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: left school without school-leaving qualification",
+              "label_de": "1: Schule ohne Abschluss verlassen"
+            },
+            {
+              "value": 2,
+              "label": "2: primary/lower secondary school-leaving qualification (GDR: grade 8)",
+              "label_de": "2: Volks-/Hauptschulabschluss (DDR: 8. Klasse)"
+            },
+            {
+              "value": 3,
+              "label": "3: intermediate secondary school-leaving qualification (GDR: grade 10)",
+              "label_de": "3: Realschulabschluss/Mittlere Reife (DDR: 10. Klasse)"
+            },
+            {
+              "value": 4,
+              "label": "4: university of applied sciences entrance diploma (school-leaving qualification from a technical secondary school)",
+              "label_de": "4: Fachhochschulreife (Abschluss einer Fachoberschule)"
+            },
+            {
+              "value": 5,
+              "label": "5: upper secondary school-leaving qualification (Abitur/university entrance diploma)",
+              "label_de": "5: Abitur/Hochschulreife"
+            },
+            {
+              "value": 6,
+              "label": "6: other school-leaving qualification",
+              "label_de": "6: sonstiger Schulabschluss"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 4,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2200": {
+      "question": "cer2200",
+      "name": "cer2200",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 10,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "dec",
+          "sn": 0
+        }
+      },
+      "sn": 5,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2201": {
+      "question": "cer2201",
+      "name": "cer2201",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 11,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "dec",
+          "sn": 0
+        }
+      },
+      "sn": 6,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2002": {
+      "question": "cer2002",
+      "name": "cer2002",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 12,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2002",
+          "scale": "dec",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1",
+              "label_de": "1"
+            },
+            {
+              "value": 2,
+              "label": "2",
+              "label_de": "2"
+            },
+            {
+              "value": 3,
+              "label": "3",
+              "label_de": "3"
+            },
+            {
+              "value": 4,
+              "label": "4",
+              "label_de": "4"
+            },
+            {
+              "value": 5,
+              "label": "5",
+              "label_de": "5"
+            },
+            {
+              "value": 6,
+              "label": "6",
+              "label_de": "6"
+            },
+            {
+              "value": 7,
+              "label": "7",
+              "label_de": "7"
+            },
+            {
+              "value": 8,
+              "label": "8",
+              "label_de": "8"
+            },
+            {
+              "value": 9,
+              "label": "9",
+              "label_de": "9"
+            },
+            {
+              "value": 10,
+              "label": "10",
+              "label_de": "10"
+            },
+            {
+              "value": 11,
+              "label": "11",
+              "label_de": "11"
+            },
+            {
+              "value": 12,
+              "label": "12",
+              "label_de": "12"
+            },
+            {
+              "value": 13,
+              "label": "13",
+              "label_de": "13"
+            },
+            {
+              "value": 20,
+              "label": "20: introductory phase of upper secondary school",
+              "label_de": "20: Einfuehrungsphase d. Oberstufe"
+            },
+            {
+              "value": 21,
+              "label": "21: first year of qualification phase",
+              "label_de": "21: 1. Jahr d. Qualifikationsstufe"
+            },
+            {
+              "value": 22,
+              "label": "22: second year of qualification phase",
+              "label_de": "22: 2. Jahr d. Qualifikationsstufe"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 7,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2003": {
+      "question": "cer2003",
+      "name": "cer2003",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 13,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2003",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: primary school",
+              "label_de": "1: Grundschule"
+            },
+            {
+              "value": 2,
+              "label": "2: orientation level for secondary education",
+              "label_de": "2: Orientierungsschule"
+            },
+            {
+              "value": 3,
+              "label": "3: lower secondary school",
+              "label_de": "3: Hauptschule"
+            },
+            {
+              "value": 4,
+              "label": "4: intermediate level secondary school",
+              "label_de": "4: Realschule"
+            },
+            {
+              "value": 5,
+              "label": "5: integrated lower and intermediate level secondary school",
+              "label_de": "5: Verb. Haupt- und Realschule (auch Sekundar-, Regel-, Mittel-, Ober-, Wirtsch.- und erw. Realschule, reg. Schule)"
+            },
+            {
+              "value": 6,
+              "label": "6: comprehensive secondary school",
+              "label_de": "6: Gesamtschule (auch integrierte Schule)"
+            },
+            {
+              "value": 7,
+              "label": "7: Waldorf school",
+              "label_de": "7: Waldorfschule"
+            },
+            {
+              "value": 8,
+              "label": "8: upper secondary school",
+              "label_de": "8: Gymnasium (auch Kolleg)"
+            },
+            {
+              "value": 9,
+              "label": "9: school for special needs children",
+              "label_de": "9: Sonderschule/Foerderschule"
+            },
+            {
+              "value": 10,
+              "label": "10: other school, such as",
+              "label_de": "10: andere Schule, und zwar"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 8,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2003g": {
+      "question": "cer2003g",
+      "name": "cer2003g",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 14,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2003g",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: primary school",
+              "label_de": "1: Grundschule"
+            },
+            {
+              "value": 2,
+              "label": "2: orientation level for secondary education",
+              "label_de": "2: Orientierungsschule"
+            },
+            {
+              "value": 3,
+              "label": "3: lower secondary school",
+              "label_de": "3: Hauptschule"
+            },
+            {
+              "value": 4,
+              "label": "4: intermediate level secondary school",
+              "label_de": "4: Realschule"
+            },
+            {
+              "value": 5,
+              "label": "5: integrated lower and intermediate level secondary school",
+              "label_de": "5: Verb. Haupt- und Realschule (auch Sekundar-, Regel-, Mittel-, Ober-, Wirtsch.- und erw. Realschule, reg. Schule)"
+            },
+            {
+              "value": 6,
+              "label": "6: comprehensive secondary school",
+              "label_de": "6: Gesamtschule (auch integrierte Schule)"
+            },
+            {
+              "value": 7,
+              "label": "7: Waldorf school",
+              "label_de": "7: Waldorfschule"
+            },
+            {
+              "value": 8,
+              "label": "8: higher secondary school",
+              "label_de": "8: Gymnasium (auch Kolleg)"
+            },
+            {
+              "value": 9,
+              "label": "9: school for special needs children",
+              "label_de": "9: Sonderschule/Foerderschule"
+            },
+            {
+              "value": 10,
+              "label": "10: middle school",
+              "label_de": "10: Mittelschule"
+            },
+            {
+              "value": 11,
+              "label": "11: technical secondary school",
+              "label_de": "11: Fachoberschule"
+            },
+            {
+              "value": 12,
+              "label": "12: vocational school",
+              "label_de": "12: Berufsschule"
+            },
+            {
+              "value": 13,
+              "label": "13: vocational college",
+              "label_de": "13: Berufsfachschule"
+            },
+            {
+              "value": 14,
+              "label": "14: other",
+              "label_de": "14: Sonstiges"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 9,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2004": {
+      "question": "cer2004",
+      "name": "cer2004",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 15,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 10,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2005": {
+      "question": "cer2005",
+      "name": "cer2005",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 16,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 11,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2202": {
+      "question": "cer2202",
+      "name": "cer2202",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 17,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 12,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2203": {
+      "question": "cer2203",
+      "name": "cer2203",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 18,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 13,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2204": {
+      "question": "cer2204",
+      "name": "cer2204",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 19,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 14,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2205": {
+      "question": "cer2205",
+      "name": "cer2205",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 20,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 15,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2206": {
+      "question": "cer2206",
+      "name": "cer2206",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 21,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "itn",
+          "sn": 0
+        }
+      },
+      "sn": 16,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2207": {
+      "question": "cer2207",
+      "name": "cer2207",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 22,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 17,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2208": {
+      "question": "cer2208",
+      "name": "cer2208",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 23,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 18,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2209": {
+      "question": "cer2209",
+      "name": "cer2209",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 24,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer2209",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: French",
+              "label_de": "1: Franzoesisch"
+            },
+            {
+              "value": 2,
+              "label": "2: Latin",
+              "label_de": "2: Latein"
+            },
+            {
+              "value": 3,
+              "label": "3: Spanish",
+              "label_de": "3: Spanisch"
+            },
+            {
+              "value": 4,
+              "label": "4: Russian",
+              "label_de": "4: Russisch"
+            },
+            {
+              "value": 5,
+              "label": "5: Italian",
+              "label_de": "5: Italienisch"
+            },
+            {
+              "value": 6,
+              "label": "6: other",
+              "label_de": "6: Sonstige"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 19,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2210": {
+      "question": "cer2210",
+      "name": "cer2210",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 25,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "filter": "cer2209 >= 1 & cer2209 <= 6",
+          "sn": 0
+        }
+      },
+      "sn": 20,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2211": {
+      "question": "cer2211",
+      "name": "cer2211",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 26,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 21,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2212": {
+      "question": "cer2212",
+      "name": "cer2212",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 27,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 22,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2213": {
+      "question": "cer2213",
+      "name": "cer2213",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 28,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 23,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2214": {
+      "question": "cer2214",
+      "name": "cer2214",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 29,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 24,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2215": {
+      "question": "cer2215",
+      "name": "cer2215",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 30,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 25,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2216": {
+      "question": "cer2216",
+      "name": "cer2216",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 31,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 26,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2217": {
+      "question": "cer2217",
+      "name": "cer2217",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 32,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 27,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2218": {
+      "question": "cer2218",
+      "name": "cer2218",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 33,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 28,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2219": {
+      "question": "cer2219",
+      "name": "cer2219",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 34,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 29,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2220": {
+      "question": "cer2220",
+      "name": "cer2220",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 35,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 30,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2221": {
+      "question": "cer2221",
+      "name": "cer2221",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 36,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 31,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2222": {
+      "question": "cer2222",
+      "name": "cer2222",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 37,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 32,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2223": {
+      "question": "cer2223",
+      "name": "cer2223",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 38,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 33,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2224": {
+      "question": "cer2224",
+      "name": "cer2224",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 39,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 34,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2225": {
+      "question": "cer2225",
+      "name": "cer2225",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 40,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 35,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2226": {
+      "question": "cer2226",
+      "name": "cer2226",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 41,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 36,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2227": {
+      "question": "cer2227",
+      "name": "cer2227",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 42,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 37,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2228": {
+      "question": "cer2228",
+      "name": "cer2228",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 43,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 38,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2229": {
+      "question": "cer2229",
+      "name": "cer2229",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 44,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 39,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2230": {
+      "question": "cer2230",
+      "name": "cer2230",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 45,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 40,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2231": {
+      "question": "cer2231",
+      "name": "cer2231",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 46,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 41,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2232": {
+      "question": "cer2232",
+      "name": "cer2232",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 47,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 42,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2233": {
+      "question": "cer2233",
+      "name": "cer2233",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 48,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 43,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2234": {
+      "question": "cer2234",
+      "name": "cer2234",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 49,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 44,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2235": {
+      "question": "cer2235",
+      "name": "cer2235",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 50,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "filter": "cer2234 !=",
+          "sn": 0
+        }
+      },
+      "sn": 45,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2236": {
+      "question": "cer2236",
+      "name": "cer2236",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 51,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 46,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2237": {
+      "question": "cer2237",
+      "name": "cer2237",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 52,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "filter": "cer2236 !=",
+          "sn": 0
+        }
+      },
+      "sn": 47,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2238": {
+      "question": "cer2238",
+      "name": "cer2238",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 53,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 48,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2239": {
+      "question": "cer2239",
+      "name": "cer2239",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 54,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "filter": "cer2238 !=",
+          "sn": 0
+        }
+      },
+      "sn": 49,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2240": {
+      "question": "cer2240",
+      "name": "cer2240",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 55,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 50,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2241": {
+      "question": "cer2241",
+      "name": "cer2241",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 56,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "filter": "cer2240 !=",
+          "sn": 0
+        }
+      },
+      "sn": 51,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2242": {
+      "question": "cer2242",
+      "name": "cer2242",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 57,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 52,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2243": {
+      "question": "cer2243",
+      "name": "cer2243",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 58,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 53,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2244": {
+      "question": "cer2244",
+      "name": "cer2244",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 59,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 54,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2245": {
+      "question": "cer2245",
+      "name": "cer2245",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 60,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 55,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2246": {
+      "question": "cer2246",
+      "name": "cer2246",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 61,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 56,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2247": {
+      "question": "cer2247",
+      "name": "cer2247",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 62,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 57,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2248": {
+      "question": "cer2248",
+      "name": "cer2248",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 63,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 58,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2249": {
+      "question": "cer2249",
+      "name": "cer2249",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 64,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 59,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2250": {
+      "question": "cer2250",
+      "name": "cer2250",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 65,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 60,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer3000": {
+      "question": "cer3000",
+      "name": "cer3000",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 66,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "note",
+          "scale": "int",
+          "sn": 0
+        }
+      },
+      "sn": 61,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer2104": {
+      "question": "cer2104",
+      "name": "cer2104",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 67,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "filter": "cer2100 == 1",
+          "sn": 0
+        }
+      },
+      "sn": 62,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer3001": {
+      "question": "cer3001",
+      "name": "cer3001",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 68,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "scale": "chr",
+          "sn": 0
+        }
+      },
+      "sn": 63,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    },
+    "cer3002": {
+      "question": "cer3002",
+      "name": "cer3002",
+      "label": "generated/assigned variable",
+      "items": {
+        "root": {
+          "number": 69,
+          "text": "generated/assigned variable",
+          "text_de": "generierte/zugespielte Variable",
+          "answer_list": "cer3002",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: grades",
+              "label_de": "1: Noten"
+            },
+            {
+              "value": 2,
+              "label": "2: written assessment",
+              "label_de": "2: schriftliche Beurteilung"
+            },
+            {
+              "value": 3,
+              "label": "3: categorial assessment",
+              "label_de": "3: kategoriale Beurteilung"
+            },
+            {
+              "value": 4,
+              "label": "4: other assessment",
+              "label_de": "4: sonstige Beurteilung"
+            }
+          ],
+          "sn": 0
+        }
+      },
+      "sn": 64,
+      "instrument": "twinlife-panel-2014-F2F_Modul9_ZeugnisFoto",
+      "study": "twinlife-panel"
+    }
+  }
+}
