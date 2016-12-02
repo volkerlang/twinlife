@@ -21556,14 +21556,14 @@
         <labl>-89: illegible</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="FALSE">
-        <catValu>90</catValu>
-        <catStat type="freq">   1</catStat>
-      </catgry>
       <catgry missing="TRUE">
         <catValu>-90</catValu>
         <labl>-90: no participation in survey wave</labl>
         <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <catStat type="freq">   1</catStat>
       </catgry>
       <catgry missing="TRUE">
         <catValu>-91</catValu>
@@ -21585,23 +21585,19 @@
         <labl>-94: technical error / faulty insertion</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="FALSE">
-        <catValu>95</catValu>
-        <catStat type="freq">   1</catStat>
-      </catgry>
       <catgry missing="TRUE">
         <catValu>-95</catValu>
         <labl>-95: doesn't apply (screened out)</labl>
         <catStat type="freq">1982</catStat>
       </catgry>
+      <catgry missing="FALSE">
+        <catValu>95</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
       <catgry missing="TRUE">
         <catValu>-96</catValu>
         <labl>-96: I can't remember</labl>
         <catStat type="freq">   0</catStat>
-      </catgry>
-      <catgry missing="FALSE">
-        <catValu>97</catValu>
-        <catStat type="freq">   2</catStat>
       </catgry>
       <catgry missing="TRUE">
         <catValu>-97</catValu>
@@ -21609,13 +21605,17 @@
         <catStat type="freq">   0</catStat>
       </catgry>
       <catgry missing="FALSE">
-        <catValu>98</catValu>
-        <catStat type="freq">   1</catStat>
+        <catValu>97</catValu>
+        <catStat type="freq">   2</catStat>
       </catgry>
       <catgry missing="TRUE">
         <catValu>-98</catValu>
         <labl>-98: don't know</labl>
         <catStat type="freq">  46</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <catStat type="freq">   1</catStat>
       </catgry>
       <catgry missing="TRUE">
         <catValu>-99</catValu>
@@ -21975,18 +21975,14 @@
         <labl>-96: I can't remember</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="FALSE">
-        <catValu>97</catValu>
-        <catStat type="freq">   1</catStat>
-      </catgry>
       <catgry missing="TRUE">
         <catValu>-97</catValu>
         <labl>-97: doesn't apply (specification of other category)</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
       <catgry missing="FALSE">
-        <catValu>98</catValu>
-        <catStat type="freq">   4</catStat>
+        <catValu>97</catValu>
+        <catStat type="freq">   1</catStat>
       </catgry>
       <catgry missing="TRUE">
         <catValu>-98</catValu>
@@ -21994,13 +21990,17 @@
         <catStat type="freq">  46</catStat>
       </catgry>
       <catgry missing="FALSE">
-        <catValu>99</catValu>
-        <catStat type="freq">   1</catStat>
+        <catValu>98</catValu>
+        <catStat type="freq">   4</catStat>
       </catgry>
       <catgry missing="TRUE">
         <catValu>-99</catValu>
         <labl>-99: not specified (refused to answer)</labl>
         <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <catStat type="freq">   1</catStat>
       </catgry>
     </var>
     <var ID="zyg0300" intrvl="labeled_numeric" files="ZA6701_zygosity_v1-0-0">
