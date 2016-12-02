@@ -3,6 +3,8 @@
   "questionnaire": "twinlife-2014-F2F_Modul7_EueK",
   "label": "Module 7: Parents on children",
   "description": "Information on the personality of the children, their health, media consumption, . . .",
+  "period": "wave 1 F2F",
+  "analysis_unit": "person",
   "instrument": "twinlife-2014-F2F_Modul7_EueK",
   "questions": {
     "bas0100": {
