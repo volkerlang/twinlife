@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
+  "questionnaire": "twinlife-2014-F2F_Alteri-Fragebogen",
   "label": "Paper questionnaire for Alteri",
   "description": "Reduced questionnaire for family members (siblings, parents, partners of twins) living elsewhere",
-  "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
+  "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
   "questions": {
     "bir0100": {
       "question": "bir0100",
@@ -37,8 +37,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bir0101": {
       "question": "bir0101",
@@ -72,8 +72,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bir0102": {
       "question": "bir0102",
@@ -107,8 +107,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bas0600": {
       "question": "bas0600",
@@ -158,8 +158,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "fam0100": {
       "question": "fam0100",
@@ -223,8 +223,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "fam0200": {
       "question": "fam0200",
@@ -269,8 +269,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "fam0300": {
       "question": "fam0300",
@@ -310,8 +310,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0100": {
       "question": "edu0100",
@@ -355,8 +355,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0400": {
       "question": "edu0400",
@@ -436,8 +436,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0401": {
       "question": "edu0401",
@@ -454,8 +454,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0402": {
       "question": "edu0402",
@@ -490,8 +490,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0403": {
       "question": "edu0403",
@@ -601,8 +601,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "cer1400": {
       "question": "cer1400",
@@ -637,8 +637,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "cer1500": {
       "question": "cer1500",
@@ -673,8 +673,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "eca0100": {
       "question": "eca0100",
@@ -738,8 +738,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "eca0101": {
       "question": "eca0101",
@@ -756,8 +756,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "eca0105": {
       "question": "eca0105",
@@ -792,8 +792,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "eca0110": {
       "question": "eca0110",
@@ -838,8 +838,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "eca0200": {
       "question": "eca0200",
@@ -924,8 +924,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0100": {
       "question": "emp0100",
@@ -969,8 +969,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0200": {
       "question": "emp0200",
@@ -1019,8 +1019,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0300": {
       "question": "emp0300",
@@ -1064,8 +1064,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0300": {
       "question": "edu0300",
@@ -1109,8 +1109,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0301": {
       "question": "edu0301",
@@ -1159,8 +1159,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0307": {
       "question": "edu0307",
@@ -1235,8 +1235,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0308": {
       "question": "edu0308",
@@ -1253,8 +1253,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0303": {
       "question": "edu0303",
@@ -1304,8 +1304,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0304": {
       "question": "edu0304",
@@ -1322,8 +1322,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0305": {
       "question": "edu0305",
@@ -1378,8 +1378,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "edu0306": {
       "question": "edu0306",
@@ -1396,8 +1396,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0400": {
       "question": "emp0400",
@@ -1481,8 +1481,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0411": {
       "question": "emp0411",
@@ -1493,30 +1493,7 @@
           "number": 39,
           "text": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
           "text_de": "Ueben Sie derzeit eine Erwerbstaetigkeit aus? Was trifft fuer Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbstaetig. Explizite Schueler-/Studentenjobs gelten als erwerbstaetig.",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -1862,8 +1839,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0401": {
       "question": "emp0401",
@@ -1880,8 +1857,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0500": {
       "question": "emp0500",
@@ -1898,8 +1875,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0598": {
       "question": "emp0598",
@@ -1939,8 +1916,8 @@
         }
       },
       "sn": 34,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0600": {
       "question": "emp0600",
@@ -1995,8 +1972,8 @@
         }
       },
       "sn": 35,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0750": {
       "question": "emp0750",
@@ -2007,31 +1984,8 @@
           "number": 55,
           "text": "What is your current employment relationship?",
           "text_de": "In welchem Beschaeftigungsverhaeltnis befinden Sie sich zurzeit? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2191,8 +2145,8 @@
         }
       },
       "sn": 36,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0700": {
       "question": "emp0700",
@@ -2222,8 +2176,8 @@
         }
       },
       "sn": 37,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0701": {
       "question": "emp0701",
@@ -2258,8 +2212,8 @@
         }
       },
       "sn": 38,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0798": {
       "question": "emp0798",
@@ -2299,8 +2253,8 @@
         }
       },
       "sn": 39,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0705": {
       "question": "emp0705",
@@ -2335,8 +2289,8 @@
         }
       },
       "sn": 40,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0789": {
       "question": "emp0789",
@@ -2371,8 +2325,8 @@
         }
       },
       "sn": 41,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0900": {
       "question": "emp0900",
@@ -2383,31 +2337,8 @@
           "number": 66,
           "text": "What type of education or training is usually required for your type of work?",
           "text_de": "Welche Art von Ausbildung ist fuer Ihre Taetigkeit in der Regel derzeit erforderlich? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2567,8 +2498,8 @@
         }
       },
       "sn": 42,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp1100": {
       "question": "emp1100",
@@ -2623,8 +2554,8 @@
         }
       },
       "sn": 43,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "inc0103": {
       "question": "inc0103",
@@ -2724,8 +2655,8 @@
         }
       },
       "sn": 44,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "spa0500": {
       "question": "spa0500",
@@ -2736,46 +2667,8 @@
           "number": 74,
           "text": "Please rate the extent to which each statement applies to you.",
           "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: does apply exactly",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -3010,8 +2903,8 @@
         }
       },
       "sn": 45,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "imo0600": {
       "question": "imo0600",
@@ -3022,46 +2915,8 @@
           "number": 80,
           "text": "Please rate the extent to which each statement applies to you.",
           "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Mir ist es wichtig, im Rahmen meiner schulischen/beruflichen Taetigkeit ...",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: does apply exactly",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -3204,8 +3059,8 @@
         }
       },
       "sn": 46,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0800": {
       "question": "emp0800",
@@ -3240,8 +3095,8 @@
         }
       },
       "sn": 47,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0801": {
       "question": "emp0801",
@@ -3276,8 +3131,8 @@
         }
       },
       "sn": 48,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0889": {
       "question": "emp0889",
@@ -3312,8 +3167,8 @@
         }
       },
       "sn": 49,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0804": {
       "question": "emp0804",
@@ -3373,8 +3228,8 @@
         }
       },
       "sn": 50,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "inc0300": {
       "question": "inc0300",
@@ -3385,30 +3240,7 @@
           "number": 88,
           "text": "Are you or another household member currently receiving one ore more of the following government benefits?",
           "text_de": "Erhalten Sie oder ein anderes Haushaltsmitglied derzeit eine der folgenden staatlichen Leistungen? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4064,8 +3896,8 @@
         }
       },
       "sn": 51,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "eca0800": {
       "question": "eca0800",
@@ -4109,8 +3941,8 @@
         }
       },
       "sn": 52,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig0100": {
       "question": "mig0100",
@@ -4209,8 +4041,8 @@
         }
       },
       "sn": 53,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig0101": {
       "question": "mig0101",
@@ -4227,8 +4059,8 @@
         }
       },
       "sn": 54,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig0200": {
       "question": "mig0200",
@@ -4263,8 +4095,8 @@
         }
       },
       "sn": 55,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig0298": {
       "question": "mig0298",
@@ -4304,8 +4136,8 @@
         }
       },
       "sn": 56,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig1000": {
       "question": "mig1000",
@@ -4349,8 +4181,8 @@
         }
       },
       "sn": 57,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig1001": {
       "question": "mig1001",
@@ -4366,8 +4198,8 @@
         }
       },
       "sn": 58,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig1004": {
       "question": "mig1004",
@@ -4411,8 +4243,8 @@
         }
       },
       "sn": 59,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig1002": {
       "question": "mig1002",
@@ -4456,8 +4288,8 @@
         }
       },
       "sn": 60,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig1003": {
       "question": "mig1003",
@@ -4473,8 +4305,8 @@
         }
       },
       "sn": 61,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig0500": {
       "question": "mig0500",
@@ -4485,30 +4317,7 @@
           "number": 120,
           "text": "What is your nationality? If you have more than one, please state all.",
           "text_de": "Welche Staatsangehoerigkeit haben Sie? Falls Sie mehr als eine Staatsangehoerigkeit haben, nennen Sie bitte alle.",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4947,8 +4756,8 @@
         }
       },
       "sn": 62,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "mig0519": {
       "question": "mig0519",
@@ -4965,8 +4774,8 @@
         }
       },
       "sn": 63,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "per0100": {
       "question": "per0100",
@@ -4977,55 +4786,7 @@
           "number": 136,
           "text": "Below are different qualities that a person might have. You will probably find that some apply to you completely and that some do not apply to you at all. With others, you may be somewhere in between. I see myself as someone who...",
           "text_de": "Hier sind unterschiedliche Eigenschaften, die eine Person haben kann. Wahrscheinlich werden einige Eigenschaften auf Sie persoenlich voll zutreffen und andere ueberhaupt nicht. Bei wieder anderen sind Sie vielleicht unentschieden. Ich bin jemand, der. . .",
-          "answer_list": "apl7",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5",
-              "label_de": "5"
-            },
-            {
-              "value": 6,
-              "label": "6",
-              "label_de": "6"
-            },
-            {
-              "value": 7,
-              "label": "7: completely applies",
-              "label_de": "7: trifft voll zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5982,8 +5743,8 @@
         }
       },
       "sn": 64,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "per0200": {
       "question": "per0200",
@@ -6067,8 +5828,8 @@
         }
       },
       "sn": 65,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "per0300": {
       "question": "per0300",
@@ -6152,8 +5913,8 @@
         }
       },
       "sn": 66,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ses0100": {
       "question": "ses0100",
@@ -6164,45 +5925,7 @@
           "number": 156,
           "text": "In the following, a number of statements will be presented. To what extent do you agree with these statements?",
           "text_de": "Wie sehr stimmen Sie folgenden Aussagen zu?",
-          "answer_list": "agr5",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: do not agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: do not agree",
-              "label_de": "2: stimme nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: agree",
-              "label_de": "4: stimme zu"
-            },
-            {
-              "value": 5,
-              "label": "5: totally agree",
-              "label_de": "5: stimme voll und ganz zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6575,8 +6298,8 @@
         }
       },
       "sn": 67,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "igf0100": {
       "question": "igf0100",
@@ -6610,8 +6333,8 @@
         }
       },
       "sn": 68,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "igf0198": {
       "question": "igf0198",
@@ -6645,8 +6368,8 @@
         }
       },
       "sn": 69,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0400": {
       "question": "del0400",
@@ -6690,8 +6413,8 @@
         }
       },
       "sn": 70,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0401": {
       "question": "del0401",
@@ -6726,8 +6449,8 @@
         }
       },
       "sn": 71,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0500": {
       "question": "del0500",
@@ -6771,8 +6494,8 @@
         }
       },
       "sn": 72,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0501": {
       "question": "del0501",
@@ -6807,8 +6530,8 @@
         }
       },
       "sn": 73,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0600": {
       "question": "del0600",
@@ -6852,8 +6575,8 @@
         }
       },
       "sn": 74,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0601": {
       "question": "del0601",
@@ -6888,8 +6611,8 @@
         }
       },
       "sn": 75,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0700": {
       "question": "del0700",
@@ -6933,8 +6656,8 @@
         }
       },
       "sn": 76,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0701": {
       "question": "del0701",
@@ -6969,8 +6692,8 @@
         }
       },
       "sn": 77,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0800": {
       "question": "del0800",
@@ -7014,8 +6737,8 @@
         }
       },
       "sn": 78,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0801": {
       "question": "del0801",
@@ -7050,8 +6773,8 @@
         }
       },
       "sn": 79,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0900": {
       "question": "del0900",
@@ -7095,8 +6818,8 @@
         }
       },
       "sn": 80,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del0901": {
       "question": "del0901",
@@ -7131,8 +6854,8 @@
         }
       },
       "sn": 81,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1000": {
       "question": "del1000",
@@ -7176,8 +6899,8 @@
         }
       },
       "sn": 82,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1001": {
       "question": "del1001",
@@ -7212,8 +6935,8 @@
         }
       },
       "sn": 83,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1100": {
       "question": "del1100",
@@ -7257,8 +6980,8 @@
         }
       },
       "sn": 84,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1101": {
       "question": "del1101",
@@ -7293,8 +7016,8 @@
         }
       },
       "sn": 85,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1400": {
       "question": "del1400",
@@ -7338,8 +7061,8 @@
         }
       },
       "sn": 86,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1401": {
       "question": "del1401",
@@ -7374,8 +7097,8 @@
         }
       },
       "sn": 87,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1600": {
       "question": "del1600",
@@ -7419,8 +7142,8 @@
         }
       },
       "sn": 88,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1601": {
       "question": "del1601",
@@ -7455,8 +7178,8 @@
         }
       },
       "sn": 89,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1700": {
       "question": "del1700",
@@ -7500,8 +7223,8 @@
         }
       },
       "sn": 90,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1701": {
       "question": "del1701",
@@ -7536,8 +7259,8 @@
         }
       },
       "sn": 91,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sat0100": {
       "question": "sat0100",
@@ -7548,80 +7271,7 @@
           "number": 189,
           "text": "We are interested in hearing how satisfied you are with the following areas of your life. How satisfied are you...",
           "text_de": "Wie zufrieden sind Sie gegenwaertig mit den folgenden Bereichen Ihres Lebens? Wie zufrieden sind Sie . . .",
-          "answer_list": "sat11",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: completely dissatisfied",
-              "label_de": "0: ganz und gar unzufrieden"
-            },
-            {
-              "value": 1,
-              "label": "1",
-              "label_de": "1"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5",
-              "label_de": "5"
-            },
-            {
-              "value": 6,
-              "label": "6",
-              "label_de": "6"
-            },
-            {
-              "value": 7,
-              "label": "7",
-              "label_de": "7"
-            },
-            {
-              "value": 8,
-              "label": "8",
-              "label_de": "8"
-            },
-            {
-              "value": 9,
-              "label": "9",
-              "label_de": "9"
-            },
-            {
-              "value": 10,
-              "label": "10: completely satisfied",
-              "label_de": "10: ganz und gar zufrieden"
-            },
-            {
-              "value": 18,
-              "label": "18: doesn't apply (direct response)",
-              "label_de": "18: trifft nicht zu (explizite Auskunft)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8274,8 +7924,8 @@
         }
       },
       "sn": 92,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "she0100": {
       "question": "she0100",
@@ -8334,8 +7984,8 @@
         }
       },
       "sn": 93,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0100": {
       "question": "dia0100",
@@ -8346,30 +7996,7 @@
           "number": 199,
           "text": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8901,8 +8528,8 @@
         }
       },
       "sn": 94,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1600": {
       "question": "dia1600",
@@ -8918,8 +8545,8 @@
         }
       },
       "sn": 95,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0102": {
       "question": "dia0102",
@@ -8930,26 +8557,8 @@
           "number": 218,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0100 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9032,8 +8641,8 @@
         }
       },
       "sn": 96,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0202": {
       "question": "dia0202",
@@ -9044,26 +8653,8 @@
           "number": 222,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0200 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9146,8 +8737,8 @@
         }
       },
       "sn": 97,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0302": {
       "question": "dia0302",
@@ -9158,26 +8749,8 @@
           "number": 226,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0300 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9260,8 +8833,8 @@
         }
       },
       "sn": 98,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0402": {
       "question": "dia0402",
@@ -9272,26 +8845,8 @@
           "number": 230,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0400 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9374,8 +8929,8 @@
         }
       },
       "sn": 99,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0502": {
       "question": "dia0502",
@@ -9386,26 +8941,8 @@
           "number": 234,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0500 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9488,8 +9025,8 @@
         }
       },
       "sn": 100,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0602": {
       "question": "dia0602",
@@ -9500,26 +9037,8 @@
           "number": 238,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0600 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9602,8 +9121,8 @@
         }
       },
       "sn": 101,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0702": {
       "question": "dia0702",
@@ -9614,26 +9133,8 @@
           "number": 242,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0700 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9716,8 +9217,8 @@
         }
       },
       "sn": 102,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0802": {
       "question": "dia0802",
@@ -9728,26 +9229,8 @@
           "number": 246,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0800 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9830,8 +9313,8 @@
         }
       },
       "sn": 103,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia0902": {
       "question": "dia0902",
@@ -9842,26 +9325,8 @@
           "number": 250,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia0900 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9944,8 +9409,8 @@
         }
       },
       "sn": 104,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1002": {
       "question": "dia1002",
@@ -9956,26 +9421,8 @@
           "number": 254,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia1000 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10058,8 +9505,8 @@
         }
       },
       "sn": 105,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1102": {
       "question": "dia1102",
@@ -10070,26 +9517,8 @@
           "number": 258,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia1100 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10172,8 +9601,8 @@
         }
       },
       "sn": 106,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1202": {
       "question": "dia1202",
@@ -10184,26 +9613,8 @@
           "number": 262,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia1200 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10286,8 +9697,8 @@
         }
       },
       "sn": 107,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1302": {
       "question": "dia1302",
@@ -10298,26 +9709,8 @@
           "number": 266,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia1300 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10400,8 +9793,8 @@
         }
       },
       "sn": 108,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1402": {
       "question": "dia1402",
@@ -10412,26 +9805,8 @@
           "number": 270,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia1400 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10514,8 +9889,8 @@
         }
       },
       "sn": 109,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dia1502": {
       "question": "dia1502",
@@ -10526,26 +9901,8 @@
           "number": 274,
           "text": "Has a doctor ever diagnosed you with one or several of the following illnesses? If yes, in which period has the illness occured?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
-          "answer_list": "dia01",
           "scale": "txt",
           "filter": "dia1500 == 1",
-          "answers": [
-            {
-              "value": 9999,
-              "label": "9999: still ill",
-              "label_de": "9999: leide immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10628,8 +9985,8 @@
         }
       },
       "sn": 110,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0100": {
       "question": "hbe0100",
@@ -10688,8 +10045,8 @@
         }
       },
       "sn": 111,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0101": {
       "question": "hbe0101",
@@ -10724,8 +10081,8 @@
         }
       },
       "sn": 112,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0198": {
       "question": "hbe0198",
@@ -10760,8 +10117,8 @@
         }
       },
       "sn": 113,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0200": {
       "question": "hbe0200",
@@ -10795,8 +10152,8 @@
         }
       },
       "sn": 114,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0289": {
       "question": "hbe0289",
@@ -10830,8 +10187,8 @@
         }
       },
       "sn": 115,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0240": {
       "question": "hbe0240",
@@ -10842,51 +10199,8 @@
           "number": 283,
           "text": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
           "text_de": "In welchem Ausmass haben Sie waehrend der letzten 12 Monate alkoholische Getraenke konsumiert?",
-          "answer_list": "hbe0202",
           "scale": "txt",
           "filter": "hbe0200 >= -98 & hbe0200 < 97",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: daily",
-              "label_de": "1: taeglich"
-            },
-            {
-              "value": 2,
-              "label": "2: several times per week",
-              "label_de": "2: mehrmals pro Woche"
-            },
-            {
-              "value": 3,
-              "label": "3: once a week",
-              "label_de": "3: 1-mal pro Woche"
-            },
-            {
-              "value": 4,
-              "label": "4: 1 to 3 times per month",
-              "label_de": "4: 1 bis 3-mal im Monat"
-            },
-            {
-              "value": 5,
-              "label": "5: less frequently",
-              "label_de": "5: seltener"
-            },
-            {
-              "value": 6,
-              "label": "6: never",
-              "label_de": "6: nie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11044,8 +10358,8 @@
         }
       },
       "sn": 116,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0250": {
       "question": "hbe0250",
@@ -11100,8 +10414,8 @@
         }
       },
       "sn": 117,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1500": {
       "question": "del1500",
@@ -11145,8 +10459,8 @@
         }
       },
       "sn": 118,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1502": {
       "question": "del1502",
@@ -11181,8 +10495,8 @@
         }
       },
       "sn": 119,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "del1598": {
       "question": "del1598",
@@ -11222,8 +10536,8 @@
         }
       },
       "sn": 120,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hbe0400": {
       "question": "hbe0400",
@@ -11272,8 +10586,8 @@
         }
       },
       "sn": 121,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bdy0100": {
       "question": "bdy0100",
@@ -11307,8 +10621,8 @@
         }
       },
       "sn": 122,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bdy0200": {
       "question": "bdy0200",
@@ -11342,8 +10656,8 @@
         }
       },
       "sn": 123,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bdy0298": {
       "question": "bdy0298",
@@ -11377,8 +10691,8 @@
         }
       },
       "sn": 124,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "gls0100": {
       "question": "gls0100",
@@ -11389,45 +10703,7 @@
           "number": 295,
           "text": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
           "text_de": "Im Folgenden wuerden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen koennen.",
-          "answer_list": "agr5_2",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: strong rejection",
-              "label_de": "1: starke Ablehnung"
-            },
-            {
-              "value": 2,
-              "label": "2: rather rejection",
-              "label_de": "2: leichte Ablehnung"
-            },
-            {
-              "value": 3,
-              "label": "3: neither rejection nor agreement",
-              "label_de": "3: weder Ablehnung noch Zustimmung"
-            },
-            {
-              "value": 4,
-              "label": "4: rather agreement",
-              "label_de": "4: leichte Zustimmung"
-            },
-            {
-              "value": 5,
-              "label": "5: strong agreement",
-              "label_de": "5: starke Zustimmung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11662,8 +10938,8 @@
         }
       },
       "sn": 125,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sop0100": {
       "question": "sop0100",
@@ -11674,40 +10950,7 @@
           "number": 301,
           "text": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
           "text_de": "Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass Sie in den jeweiligen Gruppen aktiv sind.",
-          "answer_list": "fre4",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
-              "value": 2,
-              "label": "2: every month",
-              "label_de": "2: jeden Monat"
-            },
-            {
-              "value": 3,
-              "label": "3: less than once a month",
-              "label_de": "3: seltener als 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: never",
-              "label_de": "4: nie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12040,8 +11283,8 @@
         }
       },
       "sn": 126,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pop0100": {
       "question": "pop0100",
@@ -12090,8 +11333,8 @@
         }
       },
       "sn": 127,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pop0300": {
       "question": "pop0300",
@@ -12136,8 +11379,8 @@
         }
       },
       "sn": 128,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pop0301": {
       "question": "pop0301",
@@ -12181,8 +11424,8 @@
         }
       },
       "sn": 129,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pop0302": {
       "question": "pop0302",
@@ -12261,8 +11504,8 @@
         }
       },
       "sn": 130,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pop0303": {
       "question": "pop0303",
@@ -12279,8 +11522,8 @@
         }
       },
       "sn": 131,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0100": {
       "question": "dis0100",
@@ -12324,8 +11567,8 @@
         }
       },
       "sn": 132,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0200": {
       "question": "dis0200",
@@ -12336,31 +11579,8 @@
           "number": 316,
           "text": "If so, what do you think was the reason for the discrimination? Multiple answers possible.",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet? Ich wurde benachteiligt auf Grund meiner/meines . . .",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "dis0100 == 1",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12551,8 +11771,8 @@
         }
       },
       "sn": 133,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0201": {
       "question": "dis0201",
@@ -12602,8 +11822,8 @@
         }
       },
       "sn": 134,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0301": {
       "question": "dis0301",
@@ -12653,8 +11873,8 @@
         }
       },
       "sn": 135,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0401": {
       "question": "dis0401",
@@ -12704,8 +11924,8 @@
         }
       },
       "sn": 136,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0501": {
       "question": "dis0501",
@@ -12755,8 +11975,8 @@
         }
       },
       "sn": 137,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0601": {
       "question": "dis0601",
@@ -12806,8 +12026,8 @@
         }
       },
       "sn": 138,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "dis0701": {
       "question": "dis0701",
@@ -12857,8 +12077,8 @@
         }
       },
       "sn": 139,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0100": {
       "question": "med0100",
@@ -12897,8 +12117,8 @@
         }
       },
       "sn": 140,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0197": {
       "question": "med0197",
@@ -12937,8 +12157,8 @@
         }
       },
       "sn": 141,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0200": {
       "question": "med0200",
@@ -12977,8 +12197,8 @@
         }
       },
       "sn": 142,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0297": {
       "question": "med0297",
@@ -13017,8 +12237,8 @@
         }
       },
       "sn": 143,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0300": {
       "question": "med0300",
@@ -13057,8 +12277,8 @@
         }
       },
       "sn": 144,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0397": {
       "question": "med0397",
@@ -13097,8 +12317,8 @@
         }
       },
       "sn": 145,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0400": {
       "question": "med0400",
@@ -13137,8 +12357,8 @@
         }
       },
       "sn": 146,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0497": {
       "question": "med0497",
@@ -13177,8 +12397,8 @@
         }
       },
       "sn": 147,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0500": {
       "question": "med0500",
@@ -13217,8 +12437,8 @@
         }
       },
       "sn": 148,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0597": {
       "question": "med0597",
@@ -13257,8 +12477,8 @@
         }
       },
       "sn": 149,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0600": {
       "question": "med0600",
@@ -13297,8 +12517,8 @@
         }
       },
       "sn": 150,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0697": {
       "question": "med0697",
@@ -13337,8 +12557,8 @@
         }
       },
       "sn": 151,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0700": {
       "question": "med0700",
@@ -13377,8 +12597,8 @@
         }
       },
       "sn": 152,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0797": {
       "question": "med0797",
@@ -13417,8 +12637,8 @@
         }
       },
       "sn": 153,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0800": {
       "question": "med0800",
@@ -13457,8 +12677,8 @@
         }
       },
       "sn": 154,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0897": {
       "question": "med0897",
@@ -13497,8 +12717,8 @@
         }
       },
       "sn": 155,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0900": {
       "question": "med0900",
@@ -13537,8 +12757,8 @@
         }
       },
       "sn": 156,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med0997": {
       "question": "med0997",
@@ -13577,8 +12797,8 @@
         }
       },
       "sn": 157,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med1000": {
       "question": "med1000",
@@ -13617,8 +12837,8 @@
         }
       },
       "sn": 158,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "med1097": {
       "question": "med1097",
@@ -13657,8 +12877,8 @@
         }
       },
       "sn": 159,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0100": {
       "question": "net0100",
@@ -13669,40 +12889,7 @@
           "number": 349,
           "text": "Below are three statements that you can either agree or disagree with. What is your opinion on the following three statements ?",
           "text_de": "Im Folgenden sehen Sie drei Aussagen, die man ablehnen oder denen man zustimmen kann. Wie ist Ihre Meinung zu den folgenden drei Aussagen?",
-          "answer_list": "agr4",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: completely disagree",
-              "label_de": "1: lehne voll ab"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4: completely agree",
-              "label_de": "4: stimme voll zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13830,8 +13017,8 @@
         }
       },
       "sn": 160,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0200": {
       "question": "net0200",
@@ -13842,40 +13029,7 @@
           "number": 353,
           "text": "Now a few general questions about your friends. What applies to you?",
           "text_de": "Nun noch einige allgemeine Fragen zu Ihren Freunden. Was trifft bei Ihnen zu?",
-          "answer_list": "agr4_2",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: totally disagree",
-              "label_de": "1: stimme ganz und gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4: totally agree",
-              "label_de": "4: stimme ganz und gar zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -14003,8 +13157,8 @@
         }
       },
       "sn": 161,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0203": {
       "question": "net0203",
@@ -14038,8 +13192,8 @@
         }
       },
       "sn": 162,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0289": {
       "question": "net0289",
@@ -14073,8 +13227,8 @@
         }
       },
       "sn": 163,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0204": {
       "question": "net0204",
@@ -14109,8 +13263,8 @@
         }
       },
       "sn": 164,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0298": {
       "question": "net0298",
@@ -14145,8 +13299,8 @@
         }
       },
       "sn": 165,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0300": {
       "question": "net0300",
@@ -14180,8 +13334,8 @@
         }
       },
       "sn": 166,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0301": {
       "question": "net0301",
@@ -14220,8 +13374,8 @@
         }
       },
       "sn": 167,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0389": {
       "question": "net0389",
@@ -14255,8 +13409,8 @@
         }
       },
       "sn": 168,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0302": {
       "question": "net0302",
@@ -14311,8 +13465,8 @@
         }
       },
       "sn": 169,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0303": {
       "question": "net0303",
@@ -14377,8 +13531,8 @@
         }
       },
       "sn": 170,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0400": {
       "question": "net0400",
@@ -14412,8 +13566,8 @@
         }
       },
       "sn": 171,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0401": {
       "question": "net0401",
@@ -14452,8 +13606,8 @@
         }
       },
       "sn": 172,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0402": {
       "question": "net0402",
@@ -14508,8 +13662,8 @@
         }
       },
       "sn": 173,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0403": {
       "question": "net0403",
@@ -14574,8 +13728,8 @@
         }
       },
       "sn": 174,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0500": {
       "question": "net0500",
@@ -14609,8 +13763,8 @@
         }
       },
       "sn": 175,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0501": {
       "question": "net0501",
@@ -14649,8 +13803,8 @@
         }
       },
       "sn": 176,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0502": {
       "question": "net0502",
@@ -14705,8 +13859,8 @@
         }
       },
       "sn": 177,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0503": {
       "question": "net0503",
@@ -14771,8 +13925,8 @@
         }
       },
       "sn": 178,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "net0600": {
       "question": "net0600",
@@ -14821,8 +13975,8 @@
         }
       },
       "sn": 179,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "hoe0200": {
       "question": "hoe0200",
@@ -14833,45 +13987,7 @@
           "number": 375,
           "text": "The next section deals with your family life. The following statements describe things that occur at home in many families. Please rate how these statements applied to your home when you lived at home.",
           "text_de": "Im nun folgenden Fragenblock geht es um Ihr Familienleben. Die folgenden Aussagen beschreiben Dinge, die bei vielen Familien zuhause auftreten. Bitte geben Sie an, inwiefern diese Aussagen auf Ihr Zuhause zutreffen.",
-          "answer_list": "apl5_2",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
-            {
-              "value": 2,
-              "label": "2: rather not correct",
-              "label_de": "2: stimmt eher nicht"
-            },
-            {
-              "value": 3,
-              "label": "3: partly correct",
-              "label_de": "3: stimmt etwas"
-            },
-            {
-              "value": 4,
-              "label": "4: rather correct",
-              "label_de": "4: stimmt eher"
-            },
-            {
-              "value": 5,
-              "label": "5: fully correct",
-              "label_de": "5: stimmt genau"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15106,8 +14222,8 @@
         }
       },
       "sn": 180,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0100t": {
       "question": "ple0100t",
@@ -15124,8 +14240,8 @@
         }
       },
       "sn": 181,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0101t": {
       "question": "ple0101t",
@@ -15175,8 +14291,8 @@
         }
       },
       "sn": 182,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0102t": {
       "question": "ple0102t",
@@ -15226,8 +14342,8 @@
         }
       },
       "sn": 183,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0198t": {
       "question": "ple0198t",
@@ -15277,8 +14393,8 @@
         }
       },
       "sn": 184,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "par0100t": {
       "question": "par0100t",
@@ -15289,46 +14405,8 @@
           "number": 385,
           "text": "How often do the following things typically happen between you and your firstborn twin?",
           "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem erstgeborenen Zwilling vor? Falls Ihr Kind ueber 18 ist, erinnern Sie sich bitte an die Zeit, als Sie zusammen gewohnt haben bzw. an die Zeit bis zum 18. Lebensjahr Ihres Kindes.",
-          "answer_list": "fre5",
           "scale": "txt",
           "filter": "ptyp == 300 | ptyp == 400",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: rarely",
-              "label_de": "2: selten"
-            },
-            {
-              "value": 3,
-              "label": "3: occasionally",
-              "label_de": "3: manchmal"
-            },
-            {
-              "value": 4,
-              "label": "4: often",
-              "label_de": "4: oft"
-            },
-            {
-              "value": 5,
-              "label": "5: very often",
-              "label_de": "5: sehr oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15931,8 +15009,8 @@
         }
       },
       "sn": 185,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0103t": {
       "question": "ple0103t",
@@ -15987,8 +15065,8 @@
         }
       },
       "sn": 186,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0100u": {
       "question": "ple0100u",
@@ -16005,8 +15083,8 @@
         }
       },
       "sn": 187,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0101u": {
       "question": "ple0101u",
@@ -16056,8 +15134,8 @@
         }
       },
       "sn": 188,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0102u": {
       "question": "ple0102u",
@@ -16107,8 +15185,8 @@
         }
       },
       "sn": 189,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0198u": {
       "question": "ple0198u",
@@ -16158,8 +15236,8 @@
         }
       },
       "sn": 190,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "par0100u": {
       "question": "par0100u",
@@ -16170,46 +15248,8 @@
           "number": 404,
           "text": "How often do the following things typically happen between you and your second born twin?",
           "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem zweitgeborenen Zwilling vor? Falls Ihr Kind ueber 18 ist, erinnern Sie sich bitte an die Zeit, als Sie zusammen gewohnt haben bzw. an die Zeit bis zum 18. Lebensjahr Ihres Kindes.",
-          "answer_list": "fre5",
           "scale": "txt",
           "filter": "ptyp == 300 | ptyp == 400",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: rarely",
-              "label_de": "2: selten"
-            },
-            {
-              "value": 3,
-              "label": "3: occasionally",
-              "label_de": "3: manchmal"
-            },
-            {
-              "value": 4,
-              "label": "4: often",
-              "label_de": "4: oft"
-            },
-            {
-              "value": 5,
-              "label": "5: very often",
-              "label_de": "5: sehr oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16812,8 +15852,8 @@
         }
       },
       "sn": 191,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0103u": {
       "question": "ple0103u",
@@ -16868,8 +15908,8 @@
         }
       },
       "sn": 192,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0200t": {
       "question": "ple0200t",
@@ -16880,46 +15920,8 @@
           "number": 419,
           "text": "How often did you . . . in the last 6 month?",
           "text_de": "Wie haeufig haben Sie in den letzten 6 Monaten ... ?",
-          "answer_list": "ple0200",
           "scale": "txt",
           "filter": "ptyp == 300 | ptyp == 400",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
-              "value": 2,
-              "label": "2: Once or several times in the last six month",
-              "label_de": "2: Ein oder mehrmals im halben Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: About once a month",
-              "label_de": "3: Etwa 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: About once a week",
-              "label_de": "4: Etwa 1-mal in der Woche"
-            },
-            {
-              "value": 5,
-              "label": "5: (Almost) every day",
-              "label_de": "5: (Fast) jeden Tag"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16970,8 +15972,8 @@
         }
       },
       "sn": 193,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0201t": {
       "question": "ple0201t",
@@ -17026,8 +16028,8 @@
         }
       },
       "sn": 194,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0200u": {
       "question": "ple0200u",
@@ -17082,8 +16084,8 @@
         }
       },
       "sn": 195,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "ple0201u": {
       "question": "ple0201u",
@@ -17138,8 +16140,8 @@
         }
       },
       "sn": 196,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0100": {
       "question": "tsp0100",
@@ -17194,8 +16196,8 @@
         }
       },
       "sn": 197,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0101": {
       "question": "tsp0101",
@@ -17230,8 +16232,8 @@
         }
       },
       "sn": 198,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0110": {
       "question": "tsp0110",
@@ -17286,8 +16288,8 @@
         }
       },
       "sn": 199,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0120": {
       "question": "tsp0120",
@@ -17342,8 +16344,8 @@
         }
       },
       "sn": 200,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0121": {
       "question": "tsp0121",
@@ -17378,8 +16380,8 @@
         }
       },
       "sn": 201,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0122": {
       "question": "tsp0122",
@@ -17414,8 +16416,8 @@
         }
       },
       "sn": 202,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0130": {
       "question": "tsp0130",
@@ -17470,8 +16472,8 @@
         }
       },
       "sn": 203,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0131": {
       "question": "tsp0131",
@@ -17506,8 +16508,8 @@
         }
       },
       "sn": 204,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0132": {
       "question": "tsp0132",
@@ -17542,8 +16544,8 @@
         }
       },
       "sn": 205,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0140": {
       "question": "tsp0140",
@@ -17598,8 +16600,8 @@
         }
       },
       "sn": 206,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0141": {
       "question": "tsp0141",
@@ -17634,8 +16636,8 @@
         }
       },
       "sn": 207,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0142": {
       "question": "tsp0142",
@@ -17670,8 +16672,8 @@
         }
       },
       "sn": 208,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0200": {
       "question": "tsp0200",
@@ -17716,8 +16718,8 @@
         }
       },
       "sn": 209,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0300": {
       "question": "tsp0300",
@@ -17767,8 +16769,8 @@
         }
       },
       "sn": 210,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "zyg0800": {
       "question": "zyg0800",
@@ -17813,8 +16815,8 @@
         }
       },
       "sn": 211,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsp0400": {
       "question": "tsp0400",
@@ -17864,8 +16866,8 @@
         }
       },
       "sn": 212,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0100m": {
       "question": "pas0100m",
@@ -17876,46 +16878,8 @@
           "number": 440,
           "text": "How often do the following things typically happen between you and your mother?",
           "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrer Mutter vor? Wenn Sie ueber 18 sind, denken Sie bitte an die Zeit bis zu Ihrem 18. Lebensjahr. Wie haeufig kamen typischerweise folgende Dinge zwischen Ihnen und Ihrer Mutter vor?",
-          "answer_list": "fre5",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: rarely",
-              "label_de": "2: selten"
-            },
-            {
-              "value": 3,
-              "label": "3: occasionally",
-              "label_de": "3: manchmal"
-            },
-            {
-              "value": 4,
-              "label": "4: often",
-              "label_de": "4: oft"
-            },
-            {
-              "value": 5,
-              "label": "5: very often",
-              "label_de": "5: sehr oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -18518,8 +17482,8 @@
         }
       },
       "sn": 213,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0300m": {
       "question": "pas0300m",
@@ -18564,8 +17528,8 @@
         }
       },
       "sn": 214,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0301m": {
       "question": "pas0301m",
@@ -18605,8 +17569,8 @@
         }
       },
       "sn": 215,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0302m": {
       "question": "pas0302m",
@@ -18646,8 +17610,8 @@
         }
       },
       "sn": 216,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0303m": {
       "question": "pas0303m",
@@ -18687,8 +17651,8 @@
         }
       },
       "sn": 217,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0100f": {
       "question": "pas0100f",
@@ -18699,46 +17663,8 @@
           "number": 458,
           "text": "How often does your father do the following things?",
           "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem Vater vor? Wenn Sie ueber 18 sind, denken Sie bitte an die Zeit bis zu Ihrem 18. Lebensjahr. Wie haeufig kamen typischerweise folgende Dinge zwischen Ihnen und Ihrem Vater vor?",
-          "answer_list": "fre5",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: rarely",
-              "label_de": "2: selten"
-            },
-            {
-              "value": 3,
-              "label": "3: occasionally",
-              "label_de": "3: manchmal"
-            },
-            {
-              "value": 4,
-              "label": "4: often",
-              "label_de": "4: oft"
-            },
-            {
-              "value": 5,
-              "label": "5: very often",
-              "label_de": "5: sehr oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -19341,8 +18267,8 @@
         }
       },
       "sn": 218,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0300f": {
       "question": "pas0300f",
@@ -19387,8 +18313,8 @@
         }
       },
       "sn": 219,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0301f": {
       "question": "pas0301f",
@@ -19428,8 +18354,8 @@
         }
       },
       "sn": 220,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0302f": {
       "question": "pas0302f",
@@ -19469,8 +18395,8 @@
         }
       },
       "sn": 221,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "pas0303f": {
       "question": "pas0303f",
@@ -19510,8 +18436,8 @@
         }
       },
       "sn": 222,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0100t": {
       "question": "sle0100t",
@@ -19528,8 +18454,8 @@
         }
       },
       "sn": 223,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0100u": {
       "question": "sle0100u",
@@ -19546,8 +18472,8 @@
         }
       },
       "sn": 224,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0200t": {
       "question": "sle0200t",
@@ -19597,8 +18523,8 @@
         }
       },
       "sn": 225,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0201t": {
       "question": "sle0201t",
@@ -19648,8 +18574,8 @@
         }
       },
       "sn": 226,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0298t": {
       "question": "sle0298t",
@@ -19699,8 +18625,8 @@
         }
       },
       "sn": 227,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0200u": {
       "question": "sle0200u",
@@ -19750,8 +18676,8 @@
         }
       },
       "sn": 228,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0201u": {
       "question": "sle0201u",
@@ -19801,8 +18727,8 @@
         }
       },
       "sn": 229,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0298u": {
       "question": "sle0298u",
@@ -19852,8 +18778,8 @@
         }
       },
       "sn": 230,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sle0300t": {
       "question": "sle0300t",
@@ -19864,46 +18790,8 @@
           "number": 484,
           "text": "How often did you . . . in the last 6 month?",
           "text_de": "Wie haeufig haben Sie in den letzten 6 Monaten ... ?",
-          "answer_list": "ple0200",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: Never",
-              "label_de": "1: Nie"
-            },
-            {
-              "value": 2,
-              "label": "2: Once or several times in the last six month",
-              "label_de": "2: Ein oder mehrmals im halben Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: About once a month",
-              "label_de": "3: Etwa 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: About once a week",
-              "label_de": "4: Etwa 1-mal in der Woche"
-            },
-            {
-              "value": 5,
-              "label": "5: (Almost) every day",
-              "label_de": "5: (Fast) jeden Tag"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20092,8 +18980,8 @@
         }
       },
       "sn": 231,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sat0200t": {
       "question": "sat0200t",
@@ -20183,8 +19071,8 @@
         }
       },
       "sn": 232,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0200t": {
       "question": "sre0200t",
@@ -20195,46 +19083,8 @@
           "number": 490,
           "text": "Now some more questions about your relationship with your brother/your sister: What's it like with you and twin 1?",
           "text_de": "Wie ist es bei Ihnen und Zwilling 1?",
-          "answer_list": "fre5",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: rarely",
-              "label_de": "2: selten"
-            },
-            {
-              "value": 3,
-              "label": "3: occasionally",
-              "label_de": "3: manchmal"
-            },
-            {
-              "value": 4,
-              "label": "4: often",
-              "label_de": "4: oft"
-            },
-            {
-              "value": 5,
-              "label": "5: very often",
-              "label_de": "5: sehr oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20377,8 +19227,8 @@
         }
       },
       "sn": 233,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0300t": {
       "question": "sre0300t",
@@ -20389,46 +19239,8 @@
           "number": 494,
           "text": "Now some more questions about your relationship with your brother/your sister: What's it like with you and twin 1?",
           "text_de": "Wie ist es bei Ihnen und Zwilling 1?",
-          "answer_list": "sre0300",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
-            {
-              "value": 2,
-              "label": "2: hardly ever",
-              "label_de": "2: kaum"
-            },
-            {
-              "value": 3,
-              "label": "3: moderately often",
-              "label_de": "3: mittelmaessig"
-            },
-            {
-              "value": 4,
-              "label": "4: fairly often",
-              "label_de": "4: ziemlich"
-            },
-            {
-              "value": 5,
-              "label": "5: extremely often",
-              "label_de": "5: ausserordentlich"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20571,8 +19383,8 @@
         }
       },
       "sn": 234,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0400t": {
       "question": "sre0400t",
@@ -20583,51 +19395,8 @@
           "number": 498,
           "text": "Now some more questions about your relationship with your brother/your sister: What's it like with you and twin 1?",
           "text_de": "Wie ist es bei Ihnen und Zwilling 1?",
-          "answer_list": "sre0400",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
-            {
-              "value": 2,
-              "label": "2: My sibling thinks that I sometimes get more support.",
-              "label_de": "2: Mein Geschwister denkt, dass ich manchmal mehr unterstuetzt werde."
-            },
-            {
-              "value": 3,
-              "label": "3: My sibling thinks that we both get similar support.",
-              "label_de": "3: Mein Geschwister denkt, dass wir beide gleichermassen unterstuetzt werden."
-            },
-            {
-              "value": 4,
-              "label": "4: My sibling thinks that she/he sometimes gets more support.",
-              "label_de": "4: Mein Geschwister denkt, dass sie/er manchmal mehr unterstuetzt wird."
-            },
-            {
-              "value": 5,
-              "label": "5: My sibling thinks that she/he generally gets more support.",
-              "label_de": "5: Mein Geschwister denkt, dass sie/er in der Regel mehr unterstuetzt wird."
-            },
-            {
-              "value": 9,
-              "label": "9: doesn't apply (explicit response)",
-              "label_de": "9: trifft nicht zu (explizite Auskunft)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20734,8 +19503,8 @@
         }
       },
       "sn": 235,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0402t": {
       "question": "sre0402t",
@@ -20795,8 +19564,8 @@
         }
       },
       "sn": 236,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0403t": {
       "question": "sre0403t",
@@ -20856,8 +19625,8 @@
         }
       },
       "sn": 237,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sat0200u": {
       "question": "sat0200u",
@@ -20947,8 +19716,8 @@
         }
       },
       "sn": 238,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0200u": {
       "question": "sre0200u",
@@ -20959,46 +19728,8 @@
           "number": 504,
           "text": "Now some more questions about your relationship with your brother/your sister: What's it like with you and twin 2?",
           "text_de": "Wie ist es bei Ihnen und Zwilling 2?",
-          "answer_list": "fre5",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: rarely",
-              "label_de": "2: selten"
-            },
-            {
-              "value": 3,
-              "label": "3: occasionally",
-              "label_de": "3: manchmal"
-            },
-            {
-              "value": 4,
-              "label": "4: often",
-              "label_de": "4: oft"
-            },
-            {
-              "value": 5,
-              "label": "5: very often",
-              "label_de": "5: sehr oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -21141,8 +19872,8 @@
         }
       },
       "sn": 239,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0300u": {
       "question": "sre0300u",
@@ -21153,46 +19884,8 @@
           "number": 508,
           "text": "Now some more questions about your relationship with your brother/your sister: What's it like with you and twin 2?",
           "text_de": "Wie ist es bei Ihnen und Zwilling 2?",
-          "answer_list": "sre0300",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: not at all",
-              "label_de": "1: gar nicht"
-            },
-            {
-              "value": 2,
-              "label": "2: hardly ever",
-              "label_de": "2: kaum"
-            },
-            {
-              "value": 3,
-              "label": "3: moderately often",
-              "label_de": "3: mittelmaessig"
-            },
-            {
-              "value": 4,
-              "label": "4: fairly often",
-              "label_de": "4: ziemlich"
-            },
-            {
-              "value": 5,
-              "label": "5: extremely often",
-              "label_de": "5: ausserordentlich"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -21335,8 +20028,8 @@
         }
       },
       "sn": 240,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0400u": {
       "question": "sre0400u",
@@ -21347,51 +20040,8 @@
           "number": 512,
           "text": "Now some more questions about your relationship with your brother/your sister: What's it like with you and twin 2?",
           "text_de": "Wie ist es bei Ihnen und Zwilling 2?",
-          "answer_list": "sre0400",
           "scale": "txt",
           "filter": "ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: My sibling thinks that I generally get more support.",
-              "label_de": "1: Mein Geschwister denkt, dass ich in der Regel mehr unterstuetzt werde."
-            },
-            {
-              "value": 2,
-              "label": "2: My sibling thinks that I sometimes get more support.",
-              "label_de": "2: Mein Geschwister denkt, dass ich manchmal mehr unterstuetzt werde."
-            },
-            {
-              "value": 3,
-              "label": "3: My sibling thinks that we both get similar support.",
-              "label_de": "3: Mein Geschwister denkt, dass wir beide gleichermassen unterstuetzt werden."
-            },
-            {
-              "value": 4,
-              "label": "4: My sibling thinks that she/he sometimes gets more support.",
-              "label_de": "4: Mein Geschwister denkt, dass sie/er manchmal mehr unterstuetzt wird."
-            },
-            {
-              "value": 5,
-              "label": "5: My sibling thinks that she/he generally gets more support.",
-              "label_de": "5: Mein Geschwister denkt, dass sie/er in der Regel mehr unterstuetzt wird."
-            },
-            {
-              "value": 9,
-              "label": "9: doesn't apply (explicit response)",
-              "label_de": "9: trifft nicht zu (explizite Auskunft)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -21498,8 +20148,8 @@
         }
       },
       "sn": 241,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0402u": {
       "question": "sre0402u",
@@ -21559,8 +20209,8 @@
         }
       },
       "sn": 242,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "sre0403u": {
       "question": "sre0403u",
@@ -21620,8 +20270,8 @@
         }
       },
       "sn": 243,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tss0200": {
       "question": "tss0200",
@@ -21666,8 +20316,8 @@
         }
       },
       "sn": 244,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsf0200": {
       "question": "tsf0200",
@@ -21712,8 +20362,8 @@
         }
       },
       "sn": 245,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tss0300": {
       "question": "tss0300",
@@ -21763,8 +20413,8 @@
         }
       },
       "sn": 246,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsf0300": {
       "question": "tsf0300",
@@ -21814,8 +20464,8 @@
         }
       },
       "sn": 247,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tss0100": {
       "question": "tss0100",
@@ -21860,8 +20510,8 @@
         }
       },
       "sn": 248,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "tsf0100": {
       "question": "tsf0100",
@@ -21906,8 +20556,8 @@
         }
       },
       "sn": 249,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "bas0800": {
       "question": "bas0800",
@@ -21923,8 +20573,8 @@
         }
       },
       "sn": 250,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     },
     "emp0501": {
       "question": "emp0501",
@@ -21942,8 +20592,8 @@
         }
       },
       "sn": 251,
-      "instrument": "twinlife-panel-2014-F2F_Alteri-Fragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Alteri-Fragebogen",
+      "study": "twinlife"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Modul7_EueK",
+  "questionnaire": "twinlife-2014-F2F_Modul7_EueK",
   "label": "Module 7: Parents on children",
   "description": "Information on the personality of the children, their health, media consumption, . . .",
-  "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
+  "instrument": "twinlife-2014-F2F_Modul7_EueK",
   "questions": {
     "bas0100": {
       "question": "bas0100",
@@ -19,8 +19,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bas0101": {
       "question": "bas0101",
@@ -36,8 +36,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bas0103": {
       "question": "bas0103",
@@ -71,8 +71,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bas0104": {
       "question": "bas0104",
@@ -88,8 +88,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bas0105": {
       "question": "bas0105",
@@ -124,8 +124,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0100": {
       "question": "poc0100",
@@ -164,8 +164,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0101": {
       "question": "poc0101",
@@ -205,8 +205,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0200t": {
       "question": "poc0200t",
@@ -240,8 +240,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0200u": {
       "question": "poc0200u",
@@ -275,8 +275,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0201u": {
       "question": "poc0201u",
@@ -310,8 +310,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0200s": {
       "question": "poc0200s",
@@ -345,8 +345,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "poc0201s": {
       "question": "poc0201s",
@@ -380,8 +380,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0100t": {
       "question": "mig0100t",
@@ -483,8 +483,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0100u": {
       "question": "mig0100u",
@@ -586,8 +586,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0100s": {
       "question": "mig0100s",
@@ -689,8 +689,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0101t": {
       "question": "mig0101t",
@@ -709,8 +709,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0101u": {
       "question": "mig0101u",
@@ -729,8 +729,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0101s": {
       "question": "mig0101s",
@@ -749,8 +749,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0200t": {
       "question": "mig0200t",
@@ -787,8 +787,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0200u": {
       "question": "mig0200u",
@@ -825,8 +825,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0200s": {
       "question": "mig0200s",
@@ -863,8 +863,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0500t": {
       "question": "mig0500t",
@@ -1378,8 +1378,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0500u": {
       "question": "mig0500u",
@@ -1893,8 +1893,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0500s": {
       "question": "mig0500s",
@@ -2408,8 +2408,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0600t": {
       "question": "mig0600t",
@@ -2446,8 +2446,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0600u": {
       "question": "mig0600u",
@@ -2484,8 +2484,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0600s": {
       "question": "mig0600s",
@@ -2522,8 +2522,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0700t": {
       "question": "mig0700t",
@@ -2575,8 +2575,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0701t": {
       "question": "mig0701t",
@@ -2595,8 +2595,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0700u": {
       "question": "mig0700u",
@@ -2648,8 +2648,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0701u": {
       "question": "mig0701u",
@@ -2668,8 +2668,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0700s": {
       "question": "mig0700s",
@@ -2721,8 +2721,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0701s": {
       "question": "mig0701s",
@@ -2741,8 +2741,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0800t": {
       "question": "mig0800t",
@@ -2799,8 +2799,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0801t": {
       "question": "mig0801t",
@@ -2819,8 +2819,8 @@
         }
       },
       "sn": 34,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0802t": {
       "question": "mig0802t",
@@ -2839,8 +2839,8 @@
         }
       },
       "sn": 35,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0803t": {
       "question": "mig0803t",
@@ -2859,8 +2859,8 @@
         }
       },
       "sn": 36,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0800u": {
       "question": "mig0800u",
@@ -2917,8 +2917,8 @@
         }
       },
       "sn": 37,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0801u": {
       "question": "mig0801u",
@@ -2937,8 +2937,8 @@
         }
       },
       "sn": 38,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0802u": {
       "question": "mig0802u",
@@ -2957,8 +2957,8 @@
         }
       },
       "sn": 39,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0803u": {
       "question": "mig0803u",
@@ -2977,8 +2977,8 @@
         }
       },
       "sn": 40,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0800s": {
       "question": "mig0800s",
@@ -3035,8 +3035,8 @@
         }
       },
       "sn": 41,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0801s": {
       "question": "mig0801s",
@@ -3055,8 +3055,8 @@
         }
       },
       "sn": 42,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0802s": {
       "question": "mig0802s",
@@ -3075,8 +3075,8 @@
         }
       },
       "sn": 43,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "mig0803s": {
       "question": "mig0803s",
@@ -3095,8 +3095,8 @@
         }
       },
       "sn": 44,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "gre0100t": {
       "question": "gre0100t",
@@ -3107,43 +3107,10 @@
           "number": 102,
           "text": "Are the following persons still alive?",
           "text_de": "Sind folgende Personen noch am Leben?",
-          "answer_list": "gre0100",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 9",
           "description": "source: see main variable (itemstack)",
           "description_de": "Quelle: siehe entsprechende Variable (Itemstamm)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: still alive",
-              "label_de": "1: lebt noch"
-            },
-            {
-              "value": 2,
-              "label": "2: deceased",
-              "label_de": "2: bereits verstorben"
-            },
-            {
-              "value": 6,
-              "label": "6: doesn't apply (explicit answer given)",
-              "label_de": "6: trifft nicht zu (explizite Auskunft)"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -3406,8 +3373,8 @@
         }
       },
       "sn": 45,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "gre0100u": {
       "question": "gre0100u",
@@ -3418,43 +3385,10 @@
           "number": 109,
           "text": "Are the following persons still alive?",
           "text_de": "Sind folgende Personen noch am Leben?",
-          "answer_list": "gre0100",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 9",
           "description": "source: see main variable (itemstack)",
           "description_de": "Quelle: siehe entsprechende Variable (Itemstamm)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: still alive",
-              "label_de": "1: lebt noch"
-            },
-            {
-              "value": 2,
-              "label": "2: deceased",
-              "label_de": "2: bereits verstorben"
-            },
-            {
-              "value": 6,
-              "label": "6: doesn't apply (explicit answer given)",
-              "label_de": "6: trifft nicht zu (explizite Auskunft)"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -3717,8 +3651,8 @@
         }
       },
       "sn": 46,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "gre0100s": {
       "question": "gre0100s",
@@ -3729,43 +3663,10 @@
           "number": 116,
           "text": "Are the following persons still alive?",
           "text_de": "Sind folgende Personen noch am Leben?",
-          "answer_list": "gre0100",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 9",
           "description": "source: see main variable (itemstack)",
           "description_de": "Quelle: siehe entsprechende Variable (Itemstamm)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: still alive",
-              "label_de": "1: lebt noch"
-            },
-            {
-              "value": 2,
-              "label": "2: deceased",
-              "label_de": "2: bereits verstorben"
-            },
-            {
-              "value": 6,
-              "label": "6: doesn't apply (explicit answer given)",
-              "label_de": "6: trifft nicht zu (explizite Auskunft)"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4028,8 +3929,8 @@
         }
       },
       "sn": 47,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "gre0300t": {
       "question": "gre0300t",
@@ -4040,48 +3941,10 @@
           "number": 123,
           "text": "How often does [name of child] see . . . ?",
           "text_de": "Wie oft sieht [Name des Kindes] ...",
-          "answer_list": "fre5_3",
           "scale": "txt",
           "filter": "gre0100t == 1",
           "description": "source: see main variable (itemstack)",
           "description_de": "Quelle: siehe entsprechende Variable (Itemstamm)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: one or more times a year",
-              "label_de": "2: ein- oder mehrmals im Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: about once a month",
-              "label_de": "3: etwa 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: about once a week",
-              "label_de": "4: etwa 1-mal in der Woche"
-            },
-            {
-              "value": 5,
-              "label": "5: (almost) every day",
-              "label_de": "5: (fast) jeden Tag"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4374,8 +4237,8 @@
         }
       },
       "sn": 48,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "gre0300u": {
       "question": "gre0300u",
@@ -4386,48 +4249,10 @@
           "number": 130,
           "text": "How often does [name of child] see . . . ?",
           "text_de": "Wie oft sieht [Name des Kindes] ...",
-          "answer_list": "fre5_3",
           "scale": "txt",
           "filter": "gre0100u == 1",
           "description": "source: see main variable (itemstack)",
           "description_de": "Quelle: siehe entsprechende Variable (Itemstamm)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: one or more times a year",
-              "label_de": "2: ein- oder mehrmals im Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: about once a month",
-              "label_de": "3: etwa 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: about once a week",
-              "label_de": "4: etwa 1-mal in der Woche"
-            },
-            {
-              "value": 5,
-              "label": "5: (almost) every day",
-              "label_de": "5: (fast) jeden Tag"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4720,8 +4545,8 @@
         }
       },
       "sn": 49,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "gre0300s": {
       "question": "gre0300s",
@@ -4732,48 +4557,10 @@
           "number": 137,
           "text": "How often does [name of child] see . . . ?",
           "text_de": "Wie oft sieht [Name des Kindes] ...",
-          "answer_list": "fre5_3",
           "scale": "txt",
           "filter": "gre0100s == 1",
           "description": "source: see main variable (itemstack)",
           "description_de": "Quelle: siehe entsprechende Variable (Itemstamm)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: one or more times a year",
-              "label_de": "2: ein- oder mehrmals im Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: about once a month",
-              "label_de": "3: etwa 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: about once a week",
-              "label_de": "4: etwa 1-mal in der Woche"
-            },
-            {
-              "value": 5,
-              "label": "5: (almost) every day",
-              "label_de": "5: (fast) jeden Tag"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5066,8 +4853,8 @@
         }
       },
       "sn": 50,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "she0100t": {
       "question": "she0100t",
@@ -5127,8 +4914,8 @@
         }
       },
       "sn": 51,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "she0100u": {
       "question": "she0100u",
@@ -5188,8 +4975,8 @@
         }
       },
       "sn": 52,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "she0100s": {
       "question": "she0100s",
@@ -5249,8 +5036,8 @@
         }
       },
       "sn": 53,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "doc0100t": {
       "question": "doc0100t",
@@ -5300,8 +5087,8 @@
         }
       },
       "sn": 54,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "doc0100u": {
       "question": "doc0100u",
@@ -5351,8 +5138,8 @@
         }
       },
       "sn": 55,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "doc0100s": {
       "question": "doc0100s",
@@ -5402,8 +5189,8 @@
         }
       },
       "sn": 56,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "doc0101t": {
       "question": "doc0101t",
@@ -5438,8 +5225,8 @@
         }
       },
       "sn": 57,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "doc0101u": {
       "question": "doc0101u",
@@ -5474,8 +5261,8 @@
         }
       },
       "sn": 58,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "doc0101s": {
       "question": "doc0101s",
@@ -5510,8 +5297,8 @@
         }
       },
       "sn": 59,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "imp0100t": {
       "question": "imp0100t",
@@ -5571,8 +5358,8 @@
         }
       },
       "sn": 60,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "imp0100u": {
       "question": "imp0100u",
@@ -5632,8 +5419,8 @@
         }
       },
       "sn": 61,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "imp0100s": {
       "question": "imp0100s",
@@ -5693,8 +5480,8 @@
         }
       },
       "sn": 62,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5000t": {
       "question": "dia5000t",
@@ -5705,31 +5492,8 @@
           "number": 156,
           "text": "Has a doctor ever diagnosed [name child] with one or several of the following illnesses?",
           "text_de": "Hat ein Arzt bei [Name des Kindes] jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 15",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6292,8 +6056,8 @@
         }
       },
       "sn": 63,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6500t": {
       "question": "dia6500t",
@@ -6310,8 +6074,8 @@
         }
       },
       "sn": 64,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5000u": {
       "question": "dia5000u",
@@ -6322,31 +6086,8 @@
           "number": 176,
           "text": "Has a doctor ever diagnosed [name child] with one or several of the following illnesses?",
           "text_de": "Hat ein Arzt bei [Name des Kindes] jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 15",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6909,8 +6650,8 @@
         }
       },
       "sn": 65,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6500u": {
       "question": "dia6500u",
@@ -6927,8 +6668,8 @@
         }
       },
       "sn": 66,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5000s": {
       "question": "dia5000s",
@@ -6939,31 +6680,8 @@
           "number": 196,
           "text": "Has a doctor ever diagnosed [name child] with one or several of the following illnesses?",
           "text_de": "Hat ein Arzt bei [Name des Kindes] jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 15",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7526,8 +7244,8 @@
         }
       },
       "sn": 67,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6500s": {
       "question": "dia6500s",
@@ -7544,8 +7262,8 @@
         }
       },
       "sn": 68,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5001t": {
       "question": "dia5001t",
@@ -7556,26 +7274,8 @@
           "number": 216,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5000t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7684,8 +7384,8 @@
         }
       },
       "sn": 69,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5101t": {
       "question": "dia5101t",
@@ -7696,26 +7396,8 @@
           "number": 221,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5100t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7824,8 +7506,8 @@
         }
       },
       "sn": 70,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5201t": {
       "question": "dia5201t",
@@ -7836,26 +7518,8 @@
           "number": 226,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5200t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7964,8 +7628,8 @@
         }
       },
       "sn": 71,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5301t": {
       "question": "dia5301t",
@@ -7976,26 +7640,8 @@
           "number": 231,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5300t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8104,8 +7750,8 @@
         }
       },
       "sn": 72,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5401t": {
       "question": "dia5401t",
@@ -8116,26 +7762,8 @@
           "number": 236,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5400t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8244,8 +7872,8 @@
         }
       },
       "sn": 73,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5501t": {
       "question": "dia5501t",
@@ -8256,26 +7884,8 @@
           "number": 241,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5500t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8384,8 +7994,8 @@
         }
       },
       "sn": 74,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5601t": {
       "question": "dia5601t",
@@ -8396,26 +8006,8 @@
           "number": 246,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5600t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8524,8 +8116,8 @@
         }
       },
       "sn": 75,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5701t": {
       "question": "dia5701t",
@@ -8536,26 +8128,8 @@
           "number": 251,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5700t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8664,8 +8238,8 @@
         }
       },
       "sn": 76,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5801t": {
       "question": "dia5801t",
@@ -8676,26 +8250,8 @@
           "number": 256,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5800t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8804,8 +8360,8 @@
         }
       },
       "sn": 77,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5901t": {
       "question": "dia5901t",
@@ -8816,26 +8372,8 @@
           "number": 261,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5900t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8944,8 +8482,8 @@
         }
       },
       "sn": 78,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6001t": {
       "question": "dia6001t",
@@ -8956,26 +8494,8 @@
           "number": 266,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6000t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9084,8 +8604,8 @@
         }
       },
       "sn": 79,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6101t": {
       "question": "dia6101t",
@@ -9096,26 +8616,8 @@
           "number": 271,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6100t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9224,8 +8726,8 @@
         }
       },
       "sn": 80,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6201t": {
       "question": "dia6201t",
@@ -9236,26 +8738,8 @@
           "number": 276,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6200t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9364,8 +8848,8 @@
         }
       },
       "sn": 81,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6301t": {
       "question": "dia6301t",
@@ -9376,26 +8860,8 @@
           "number": 281,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6300t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9504,8 +8970,8 @@
         }
       },
       "sn": 82,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6401t": {
       "question": "dia6401t",
@@ -9516,26 +8982,8 @@
           "number": 286,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6400t == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9644,8 +9092,8 @@
         }
       },
       "sn": 83,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5001u": {
       "question": "dia5001u",
@@ -9656,26 +9104,8 @@
           "number": 291,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5000u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9784,8 +9214,8 @@
         }
       },
       "sn": 84,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5101u": {
       "question": "dia5101u",
@@ -9796,26 +9226,8 @@
           "number": 296,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5100u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9924,8 +9336,8 @@
         }
       },
       "sn": 85,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5201u": {
       "question": "dia5201u",
@@ -9936,26 +9348,8 @@
           "number": 301,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5200u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10064,8 +9458,8 @@
         }
       },
       "sn": 86,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5301u": {
       "question": "dia5301u",
@@ -10076,26 +9470,8 @@
           "number": 306,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5300u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10204,8 +9580,8 @@
         }
       },
       "sn": 87,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5401u": {
       "question": "dia5401u",
@@ -10216,26 +9592,8 @@
           "number": 311,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5400u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10344,8 +9702,8 @@
         }
       },
       "sn": 88,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5501u": {
       "question": "dia5501u",
@@ -10356,26 +9714,8 @@
           "number": 316,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5500u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10484,8 +9824,8 @@
         }
       },
       "sn": 89,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5601u": {
       "question": "dia5601u",
@@ -10496,26 +9836,8 @@
           "number": 321,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5600u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10624,8 +9946,8 @@
         }
       },
       "sn": 90,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5701u": {
       "question": "dia5701u",
@@ -10636,26 +9958,8 @@
           "number": 326,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5700u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10764,8 +10068,8 @@
         }
       },
       "sn": 91,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5801u": {
       "question": "dia5801u",
@@ -10776,26 +10080,8 @@
           "number": 331,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5800u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10904,8 +10190,8 @@
         }
       },
       "sn": 92,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5901u": {
       "question": "dia5901u",
@@ -10916,26 +10202,8 @@
           "number": 336,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5900u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11044,8 +10312,8 @@
         }
       },
       "sn": 93,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6001u": {
       "question": "dia6001u",
@@ -11056,26 +10324,8 @@
           "number": 341,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6000u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11184,8 +10434,8 @@
         }
       },
       "sn": 94,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6101u": {
       "question": "dia6101u",
@@ -11196,26 +10446,8 @@
           "number": 346,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6100u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11324,8 +10556,8 @@
         }
       },
       "sn": 95,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6201u": {
       "question": "dia6201u",
@@ -11336,26 +10568,8 @@
           "number": 351,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6200u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11464,8 +10678,8 @@
         }
       },
       "sn": 96,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6301u": {
       "question": "dia6301u",
@@ -11476,26 +10690,8 @@
           "number": 356,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6300u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11604,8 +10800,8 @@
         }
       },
       "sn": 97,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6401u": {
       "question": "dia6401u",
@@ -11616,26 +10812,8 @@
           "number": 361,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6400u == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11744,8 +10922,8 @@
         }
       },
       "sn": 98,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5001s": {
       "question": "dia5001s",
@@ -11756,26 +10934,8 @@
           "number": 371,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5100s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 5
         },
         "1.0": {
@@ -11884,8 +11044,8 @@
         }
       },
       "sn": 99,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5201s": {
       "question": "dia5201s",
@@ -11896,26 +11056,8 @@
           "number": 376,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5200s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12024,8 +11166,8 @@
         }
       },
       "sn": 100,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5301s": {
       "question": "dia5301s",
@@ -12036,26 +11178,8 @@
           "number": 381,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5300s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12164,8 +11288,8 @@
         }
       },
       "sn": 101,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5401s": {
       "question": "dia5401s",
@@ -12176,26 +11300,8 @@
           "number": 386,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5400s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12304,8 +11410,8 @@
         }
       },
       "sn": 102,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5501s": {
       "question": "dia5501s",
@@ -12316,26 +11422,8 @@
           "number": 391,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5500s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12444,8 +11532,8 @@
         }
       },
       "sn": 103,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5601s": {
       "question": "dia5601s",
@@ -12456,26 +11544,8 @@
           "number": 396,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5600s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12584,8 +11654,8 @@
         }
       },
       "sn": 104,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5701s": {
       "question": "dia5701s",
@@ -12596,26 +11666,8 @@
           "number": 401,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5700s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12724,8 +11776,8 @@
         }
       },
       "sn": 105,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5801s": {
       "question": "dia5801s",
@@ -12736,26 +11788,8 @@
           "number": 406,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5800s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12864,8 +11898,8 @@
         }
       },
       "sn": 106,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia5901s": {
       "question": "dia5901s",
@@ -12876,26 +11910,8 @@
           "number": 411,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia5900s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13004,8 +12020,8 @@
         }
       },
       "sn": 107,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6001s": {
       "question": "dia6001s",
@@ -13016,26 +12032,8 @@
           "number": 416,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6000s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13144,8 +12142,8 @@
         }
       },
       "sn": 108,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6101s": {
       "question": "dia6101s",
@@ -13156,26 +12154,8 @@
           "number": 421,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6100s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13284,8 +12264,8 @@
         }
       },
       "sn": 109,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6201s": {
       "question": "dia6201s",
@@ -13296,26 +12276,8 @@
           "number": 426,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6200s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13424,8 +12386,8 @@
         }
       },
       "sn": 110,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6301s": {
       "question": "dia6301s",
@@ -13436,26 +12398,8 @@
           "number": 431,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6300s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13564,8 +12508,8 @@
         }
       },
       "sn": 111,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "dia6401s": {
       "question": "dia6401s",
@@ -13576,26 +12520,8 @@
           "number": 436,
           "text": "You have stated that [name of child] has been diagnosed with [name of illness]. In which period has the illness occured? If you cannot tell the exact period, please approximate.",
           "text_de": "Sie haben angegeben, dass bei [Name des Kindes] [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist/sind. In welchem Zeitraum ist die Erkrankung aufgetreten? Wenn Sie den genauen Zeitraum nicht nennen koennen, geben Sie bitte den ungefaehren Zeitraum an.",
-          "answer_list": "dia50",
           "scale": "txt",
           "filter": "dia6400s == 1",
-          "answers": [
-            {
-              "value": 99,
-              "label": "99: [name of child] is still ill",
-              "label_de": "99: [Name des Kindes] leidet immer noch an der Erkrankung"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13704,8 +12630,8 @@
         }
       },
       "sn": 112,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "hbe0500t": {
       "question": "hbe0500t",
@@ -13755,8 +12681,8 @@
         }
       },
       "sn": 113,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "hbe0500u": {
       "question": "hbe0500u",
@@ -13806,8 +12732,8 @@
         }
       },
       "sn": 114,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "hbe0500s": {
       "question": "hbe0500s",
@@ -13857,8 +12783,8 @@
         }
       },
       "sn": 115,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bdy0100s": {
       "question": "bdy0100s",
@@ -13893,8 +12819,8 @@
         }
       },
       "sn": 116,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bdy0200t": {
       "question": "bdy0200t",
@@ -13929,8 +12855,8 @@
         }
       },
       "sn": 117,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bdy0200u": {
       "question": "bdy0200u",
@@ -13965,8 +12891,8 @@
         }
       },
       "sn": 118,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "bdy0200s": {
       "question": "bdy0200s",
@@ -14001,8 +12927,8 @@
         }
       },
       "sn": 119,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "net0203t": {
       "question": "net0203t",
@@ -14037,8 +12963,8 @@
         }
       },
       "sn": 120,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "net0203u": {
       "question": "net0203u",
@@ -14073,8 +12999,8 @@
         }
       },
       "sn": 121,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "net0203s": {
       "question": "net0203s",
@@ -14109,8 +13035,8 @@
         }
       },
       "sn": 122,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "net0204t": {
       "question": "net0204t",
@@ -14145,8 +13071,8 @@
         }
       },
       "sn": 123,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "net0204u": {
       "question": "net0204u",
@@ -14181,8 +13107,8 @@
         }
       },
       "sn": 124,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "net0204s": {
       "question": "net0204s",
@@ -14217,8 +13143,8 @@
         }
       },
       "sn": 125,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "ses0200t": {
       "question": "ses0200t",
@@ -14229,46 +13155,8 @@
           "number": 454,
           "text": "In the following, we want to learn a bit more about [Name]. Please rate the extent to which the following statements apply.",
           "text_de": "Im Folgenden wollen wir noch ein wenig mehr ueber [Name des Kindes] selbst erfahren. Bitte geben Sie an, inwiefern folgende Aussagen zutreffen.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -14365,8 +13253,8 @@
         }
       },
       "sn": 126,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "ses0200u": {
       "question": "ses0200u",
@@ -14377,46 +13265,8 @@
           "number": 457,
           "text": "In the following, we want to learn a bit more about [Name]. Please rate the extent to which the following statements apply.",
           "text_de": "Im Folgenden wollen wir noch ein wenig mehr ueber [Name des Kindes] selbst erfahren. Bitte geben Sie an, inwiefern folgende Aussagen zutreffen.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -14513,8 +13363,8 @@
         }
       },
       "sn": 127,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "ses0200s": {
       "question": "ses0200s",
@@ -14525,46 +13375,8 @@
           "number": 460,
           "text": "In the following, we want to learn a bit more about [Name]. Please rate the extent to which the following statements apply.",
           "text_de": "Im Folgenden wollen wir noch ein wenig mehr ueber [Name des Kindes] selbst erfahren. Bitte geben Sie an, inwiefern folgende Aussagen zutreffen.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -14661,8 +13473,8 @@
         }
       },
       "sn": 128,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com0100t": {
       "question": "com0100t",
@@ -14673,31 +13485,8 @@
           "number": 463,
           "text": "Now we would like to ask you a few questions about [name's] development. Has [name] made use of the support provided in the following areas in kindergarten or another institution for special needs education?",
           "text_de": "Nun moechten wir Ihnen einige Fragen zur Entwicklung von [Name des Kindes] stellen. Hat [Name des Kindes] in einem der folgenden Bereiche im Kindergarten oder in einer anderen Institution sonderpaedagogische Foerderung in Anspruch genommen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 15",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15074,8 +13863,8 @@
         }
       },
       "sn": 129,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com0901t": {
       "question": "com0901t",
@@ -15092,8 +13881,8 @@
         }
       },
       "sn": 130,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com0100u": {
       "question": "com0100u",
@@ -15104,31 +13893,8 @@
           "number": 477,
           "text": "Now we would like to ask you a few questions about [name's] development. Has [name] made use of the support provided in the following areas in kindergarten or another institution for special needs education?",
           "text_de": "Nun moechten wir Ihnen einige Fragen zur Entwicklung von [Name des Kindes] stellen. Hat [Name des Kindes] in einem der folgenden Bereiche im Kindergarten oder in einer anderen Institution sonderpaedagogische Foerderung in Anspruch genommen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 15",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15505,8 +14271,8 @@
         }
       },
       "sn": 131,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com0901u": {
       "question": "com0901u",
@@ -15523,8 +14289,8 @@
         }
       },
       "sn": 132,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com0100s": {
       "question": "com0100s",
@@ -15535,31 +14301,8 @@
           "number": 491,
           "text": "Now we would like to ask you a few questions about [name's] development. Has [name] made use of the support provided in the following areas in kindergarten or another institution for special needs education?",
           "text_de": "Nun moechten wir Ihnen einige Fragen zur Entwicklung von [Name des Kindes] stellen. Hat [Name des Kindes] in einem der folgenden Bereiche im Kindergarten oder in einer anderen Institution sonderpaedagogische Foerderung in Anspruch genommen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 15",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15936,8 +14679,8 @@
         }
       },
       "sn": 133,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com0901s": {
       "question": "com0901s",
@@ -15954,8 +14697,8 @@
         }
       },
       "sn": 134,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com2000t": {
       "question": "com2000t",
@@ -15966,46 +14709,8 @@
           "number": 505,
           "text": "How would you rate [name of the child]'s skills and abilities in the following areas? Compare [name of the child] here with other children of the same age (but outside the family).",
           "text_de": "Wie schaetzen Sie die folgenden Faehigkeiten und Fertigkeiten von [Name des Kindes] ein? Vergleichen Sie hierzu [Name des Kindes] mit anderen Kindern gleichen Alters (ausserhalb der Familie).",
-          "answer_list": "com",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: a lot worse",
-              "label_de": "1: viel schlechter"
-            },
-            {
-              "value": 2,
-              "label": "2: a bit worse",
-              "label_de": "2: etwas schlechter"
-            },
-            {
-              "value": 3,
-              "label": "3: equally good",
-              "label_de": "3: genauso gut"
-            },
-            {
-              "value": 4,
-              "label": "4: a bit better",
-              "label_de": "4: etwas besser"
-            },
-            {
-              "value": 5,
-              "label": "5: a lot better",
-              "label_de": "5: viel besser"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16286,8 +14991,8 @@
         }
       },
       "sn": 135,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com2000u": {
       "question": "com2000u",
@@ -16298,46 +15003,8 @@
           "number": 512,
           "text": "How would you rate [name of the child]'s skills and abilities in the following areas? Compare [name of the child] here with other children of the same age (but outside the family).",
           "text_de": "Wie schaetzen Sie die folgenden Faehigkeiten und Fertigkeiten von [Name des Kindes] ein? Vergleichen Sie hierzu [Name des Kindes] mit anderen Kindern gleichen Alters (ausserhalb der Familie).",
-          "answer_list": "com",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: a lot worse",
-              "label_de": "1: viel schlechter"
-            },
-            {
-              "value": 2,
-              "label": "2: a bit worse",
-              "label_de": "2: etwas schlechter"
-            },
-            {
-              "value": 3,
-              "label": "3: equally good",
-              "label_de": "3: genauso gut"
-            },
-            {
-              "value": 4,
-              "label": "4: a bit better",
-              "label_de": "4: etwas besser"
-            },
-            {
-              "value": 5,
-              "label": "5: a lot better",
-              "label_de": "5: viel besser"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16618,8 +15285,8 @@
         }
       },
       "sn": 136,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "com2000s": {
       "question": "com2000s",
@@ -16630,46 +15297,8 @@
           "number": 519,
           "text": "How would you rate [name of the child]'s skills and abilities in the following areas? Compare [name of the child] here with other children of the same age (but outside the family).",
           "text_de": "Wie schaetzen Sie die folgenden Faehigkeiten und Fertigkeiten von [Name des Kindes] ein? Vergleichen Sie hierzu [Name des Kindes] mit anderen Kindern gleichen Alters (ausserhalb der Familie).",
-          "answer_list": "com",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: a lot worse",
-              "label_de": "1: viel schlechter"
-            },
-            {
-              "value": 2,
-              "label": "2: a bit worse",
-              "label_de": "2: etwas schlechter"
-            },
-            {
-              "value": 3,
-              "label": "3: equally good",
-              "label_de": "3: genauso gut"
-            },
-            {
-              "value": 4,
-              "label": "4: a bit better",
-              "label_de": "4: etwas besser"
-            },
-            {
-              "value": 5,
-              "label": "5: a lot better",
-              "label_de": "5: viel besser"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16950,8 +15579,8 @@
         }
       },
       "sn": 137,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0100t": {
       "question": "med0100t",
@@ -16991,8 +15620,8 @@
         }
       },
       "sn": 138,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0197t": {
       "question": "med0197t",
@@ -17032,8 +15661,8 @@
         }
       },
       "sn": 139,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0200t": {
       "question": "med0200t",
@@ -17073,8 +15702,8 @@
         }
       },
       "sn": 140,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0297t": {
       "question": "med0297t",
@@ -17114,8 +15743,8 @@
         }
       },
       "sn": 141,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0300t": {
       "question": "med0300t",
@@ -17155,8 +15784,8 @@
         }
       },
       "sn": 142,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0397t": {
       "question": "med0397t",
@@ -17196,8 +15825,8 @@
         }
       },
       "sn": 143,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0400t": {
       "question": "med0400t",
@@ -17237,8 +15866,8 @@
         }
       },
       "sn": 144,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0497t": {
       "question": "med0497t",
@@ -17278,8 +15907,8 @@
         }
       },
       "sn": 145,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0500t": {
       "question": "med0500t",
@@ -17319,8 +15948,8 @@
         }
       },
       "sn": 146,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0597t": {
       "question": "med0597t",
@@ -17360,8 +15989,8 @@
         }
       },
       "sn": 147,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0600t": {
       "question": "med0600t",
@@ -17401,8 +16030,8 @@
         }
       },
       "sn": 148,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0697t": {
       "question": "med0697t",
@@ -17442,8 +16071,8 @@
         }
       },
       "sn": 149,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0700t": {
       "question": "med0700t",
@@ -17483,8 +16112,8 @@
         }
       },
       "sn": 150,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0797t": {
       "question": "med0797t",
@@ -17524,8 +16153,8 @@
         }
       },
       "sn": 151,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0800t": {
       "question": "med0800t",
@@ -17565,8 +16194,8 @@
         }
       },
       "sn": 152,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0897t": {
       "question": "med0897t",
@@ -17606,8 +16235,8 @@
         }
       },
       "sn": 153,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0900t": {
       "question": "med0900t",
@@ -17647,8 +16276,8 @@
         }
       },
       "sn": 154,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0997t": {
       "question": "med0997t",
@@ -17688,8 +16317,8 @@
         }
       },
       "sn": 155,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med1000t": {
       "question": "med1000t",
@@ -17729,8 +16358,8 @@
         }
       },
       "sn": 156,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med1097t": {
       "question": "med1097t",
@@ -17770,8 +16399,8 @@
         }
       },
       "sn": 157,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0100u": {
       "question": "med0100u",
@@ -17811,8 +16440,8 @@
         }
       },
       "sn": 158,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0197u": {
       "question": "med0197u",
@@ -17852,8 +16481,8 @@
         }
       },
       "sn": 159,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0200u": {
       "question": "med0200u",
@@ -17893,8 +16522,8 @@
         }
       },
       "sn": 160,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0297u": {
       "question": "med0297u",
@@ -17934,8 +16563,8 @@
         }
       },
       "sn": 161,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0300u": {
       "question": "med0300u",
@@ -17975,8 +16604,8 @@
         }
       },
       "sn": 162,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0397u": {
       "question": "med0397u",
@@ -18016,8 +16645,8 @@
         }
       },
       "sn": 163,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0400u": {
       "question": "med0400u",
@@ -18057,8 +16686,8 @@
         }
       },
       "sn": 164,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0497u": {
       "question": "med0497u",
@@ -18098,8 +16727,8 @@
         }
       },
       "sn": 165,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0500u": {
       "question": "med0500u",
@@ -18139,8 +16768,8 @@
         }
       },
       "sn": 166,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0597u": {
       "question": "med0597u",
@@ -18180,8 +16809,8 @@
         }
       },
       "sn": 167,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0600u": {
       "question": "med0600u",
@@ -18221,8 +16850,8 @@
         }
       },
       "sn": 168,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0697u": {
       "question": "med0697u",
@@ -18262,8 +16891,8 @@
         }
       },
       "sn": 169,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0700u": {
       "question": "med0700u",
@@ -18303,8 +16932,8 @@
         }
       },
       "sn": 170,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0797u": {
       "question": "med0797u",
@@ -18344,8 +16973,8 @@
         }
       },
       "sn": 171,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0800u": {
       "question": "med0800u",
@@ -18385,8 +17014,8 @@
         }
       },
       "sn": 172,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0897u": {
       "question": "med0897u",
@@ -18426,8 +17055,8 @@
         }
       },
       "sn": 173,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0900u": {
       "question": "med0900u",
@@ -18467,8 +17096,8 @@
         }
       },
       "sn": 174,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0997u": {
       "question": "med0997u",
@@ -18508,8 +17137,8 @@
         }
       },
       "sn": 175,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med1000u": {
       "question": "med1000u",
@@ -18549,8 +17178,8 @@
         }
       },
       "sn": 176,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med1097u": {
       "question": "med1097u",
@@ -18590,8 +17219,8 @@
         }
       },
       "sn": 177,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0100s": {
       "question": "med0100s",
@@ -18631,8 +17260,8 @@
         }
       },
       "sn": 178,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0197s": {
       "question": "med0197s",
@@ -18672,8 +17301,8 @@
         }
       },
       "sn": 179,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0200s": {
       "question": "med0200s",
@@ -18713,8 +17342,8 @@
         }
       },
       "sn": 180,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0297s": {
       "question": "med0297s",
@@ -18754,8 +17383,8 @@
         }
       },
       "sn": 181,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0300s": {
       "question": "med0300s",
@@ -18795,8 +17424,8 @@
         }
       },
       "sn": 182,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0397s": {
       "question": "med0397s",
@@ -18836,8 +17465,8 @@
         }
       },
       "sn": 183,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0400s": {
       "question": "med0400s",
@@ -18877,8 +17506,8 @@
         }
       },
       "sn": 184,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0497s": {
       "question": "med0497s",
@@ -18918,8 +17547,8 @@
         }
       },
       "sn": 185,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0500s": {
       "question": "med0500s",
@@ -18959,8 +17588,8 @@
         }
       },
       "sn": 186,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0597s": {
       "question": "med0597s",
@@ -19000,8 +17629,8 @@
         }
       },
       "sn": 187,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0600s": {
       "question": "med0600s",
@@ -19041,8 +17670,8 @@
         }
       },
       "sn": 188,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0697s": {
       "question": "med0697s",
@@ -19082,8 +17711,8 @@
         }
       },
       "sn": 189,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0700s": {
       "question": "med0700s",
@@ -19123,8 +17752,8 @@
         }
       },
       "sn": 190,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0797s": {
       "question": "med0797s",
@@ -19164,8 +17793,8 @@
         }
       },
       "sn": 191,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0800s": {
       "question": "med0800s",
@@ -19205,8 +17834,8 @@
         }
       },
       "sn": 192,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0897s": {
       "question": "med0897s",
@@ -19246,8 +17875,8 @@
         }
       },
       "sn": 193,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0900s": {
       "question": "med0900s",
@@ -19287,8 +17916,8 @@
         }
       },
       "sn": 194,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med0997s": {
       "question": "med0997s",
@@ -19328,8 +17957,8 @@
         }
       },
       "sn": 195,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med1000s": {
       "question": "med1000s",
@@ -19369,8 +17998,8 @@
         }
       },
       "sn": 196,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med1097s": {
       "question": "med1097s",
@@ -19410,8 +18039,8 @@
         }
       },
       "sn": 197,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med2000t": {
       "question": "med2000t",
@@ -19461,8 +18090,8 @@
         }
       },
       "sn": 198,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med2000u": {
       "question": "med2000u",
@@ -19512,8 +18141,8 @@
         }
       },
       "sn": 199,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "med2000s": {
       "question": "med2000s",
@@ -19563,8 +18192,8 @@
         }
       },
       "sn": 200,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "sop0100t": {
       "question": "sop0100t",
@@ -19575,41 +18204,8 @@
           "number": 589,
           "text": "Please state the extent to which [name of child] is active in the following clubs/groups?",
           "text_de": "Im Folgenden geht es um Freizeitaktivitaeten von [Name des Kindes]. Sie sehen hier eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass [Name des Kindes] in den jeweiligen Gruppen aktiv ist.",
-          "answer_list": "fre4",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
-              "value": 2,
-              "label": "2: every month",
-              "label_de": "2: jeden Monat"
-            },
-            {
-              "value": 3,
-              "label": "3: less than once a month",
-              "label_de": "3: seltener als 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: never",
-              "label_de": "4: nie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -19901,8 +18497,8 @@
         }
       },
       "sn": 201,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "sop0151t": {
       "question": "sop0151t",
@@ -19919,8 +18515,8 @@
         }
       },
       "sn": 202,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "sop0100u": {
       "question": "sop0100u",
@@ -19931,41 +18527,8 @@
           "number": 598,
           "text": "Please state the extent to which [name of child] is active in the following clubs/groups?",
           "text_de": "Im Folgenden geht es um Freizeitaktivitaeten von [Name des Kindes]. Sie sehen hier eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass [Name des Kindes] in den jeweiligen Gruppen aktiv ist.",
-          "answer_list": "fre4",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
-              "value": 2,
-              "label": "2: every month",
-              "label_de": "2: jeden Monat"
-            },
-            {
-              "value": 3,
-              "label": "3: less than once a month",
-              "label_de": "3: seltener als 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: never",
-              "label_de": "4: nie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20257,8 +18820,8 @@
         }
       },
       "sn": 203,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "sop0151u": {
       "question": "sop0151u",
@@ -20275,8 +18838,8 @@
         }
       },
       "sn": 204,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "sop0100s": {
       "question": "sop0100s",
@@ -20287,41 +18850,8 @@
           "number": 607,
           "text": "Please state the extent to which [name of child] is active in the following clubs/groups?",
           "text_de": "Im Folgenden geht es um Freizeitaktivitaeten von [Name des Kindes]. Sie sehen hier eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass [Name des Kindes] in den jeweiligen Gruppen aktiv ist.",
-          "answer_list": "fre4",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 12",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: every week",
-              "label_de": "1: jede Woche"
-            },
-            {
-              "value": 2,
-              "label": "2: every month",
-              "label_de": "2: jeden Monat"
-            },
-            {
-              "value": 3,
-              "label": "3: less than once a month",
-              "label_de": "3: seltener als 1-mal im Monat"
-            },
-            {
-              "value": 4,
-              "label": "4: never",
-              "label_de": "4: nie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20613,8 +19143,8 @@
         }
       },
       "sn": 205,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "sop0151s": {
       "question": "sop0151s",
@@ -20631,8 +19161,8 @@
         }
       },
       "sn": 206,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0400t": {
       "question": "per0400t",
@@ -20643,76 +19173,8 @@
           "number": 616,
           "text": "How would you describe [name of child] in comparison to other children of the same age?",
           "text_de": "Jetzt zu den Eigenschaften von [Name des Kindes]. Bei den Antworten gibt es kein richtig oder falsch, es geht um Ihre persoenliche Einschaetzung. Wie wuerden Sie [Name des Kindes] im Vergleich zu anderen Kindern gleichen Alters beurteilen?",
-          "answer_list": "apl11_00",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 9",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: communicative",
-              "label_de": "0: gespraechig"
-            },
-            {
-              "value": 1,
-              "label": "1",
-              "label_de": "1"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5",
-              "label_de": "5"
-            },
-            {
-              "value": 6,
-              "label": "6",
-              "label_de": "6"
-            },
-            {
-              "value": 7,
-              "label": "7",
-              "label_de": "7"
-            },
-            {
-              "value": 8,
-              "label": "8",
-              "label_de": "8"
-            },
-            {
-              "value": 9,
-              "label": "9",
-              "label_de": "9"
-            },
-            {
-              "value": 10,
-              "label": "10: quiet",
-              "label_de": "10: still"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -21477,8 +19939,8 @@
         }
       },
       "sn": 207,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0400u": {
       "question": "per0400u",
@@ -21489,76 +19951,8 @@
           "number": 627,
           "text": "How would you describe [name of child] in comparison to other children of the same age?",
           "text_de": "Jetzt zu den Eigenschaften von [Name des Kindes]. Bei den Antworten gibt es kein richtig oder falsch, es geht um Ihre persoenliche Einschaetzung. Wie wuerden Sie [Name des Kindes] im Vergleich zu anderen Kindern gleichen Alters beurteilen?",
-          "answer_list": "apl11_00",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 9",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: communicative",
-              "label_de": "0: gespraechig"
-            },
-            {
-              "value": 1,
-              "label": "1",
-              "label_de": "1"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5",
-              "label_de": "5"
-            },
-            {
-              "value": 6,
-              "label": "6",
-              "label_de": "6"
-            },
-            {
-              "value": 7,
-              "label": "7",
-              "label_de": "7"
-            },
-            {
-              "value": 8,
-              "label": "8",
-              "label_de": "8"
-            },
-            {
-              "value": 9,
-              "label": "9",
-              "label_de": "9"
-            },
-            {
-              "value": 10,
-              "label": "10: quiet",
-              "label_de": "10: still"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -22323,8 +20717,8 @@
         }
       },
       "sn": 208,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0400s": {
       "question": "per0400s",
@@ -22335,76 +20729,8 @@
           "number": 638,
           "text": "How would you describe [name of child] in comparison to other children of the same age?",
           "text_de": "Jetzt zu den Eigenschaften von [Name des Kindes]. Bei den Antworten gibt es kein richtig oder falsch, es geht um Ihre persoenliche Einschaetzung. Wie wuerden Sie [Name des Kindes] im Vergleich zu anderen Kindern gleichen Alters beurteilen?",
-          "answer_list": "apl11_00",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 9",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: communicative",
-              "label_de": "0: gespraechig"
-            },
-            {
-              "value": 1,
-              "label": "1",
-              "label_de": "1"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5",
-              "label_de": "5"
-            },
-            {
-              "value": 6,
-              "label": "6",
-              "label_de": "6"
-            },
-            {
-              "value": 7,
-              "label": "7",
-              "label_de": "7"
-            },
-            {
-              "value": 8,
-              "label": "8",
-              "label_de": "8"
-            },
-            {
-              "value": 9,
-              "label": "9",
-              "label_de": "9"
-            },
-            {
-              "value": 10,
-              "label": "10: quiet",
-              "label_de": "10: still"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -23169,8 +21495,8 @@
         }
       },
       "sn": 209,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0200t": {
       "question": "per0200t",
@@ -23255,8 +21581,8 @@
         }
       },
       "sn": 210,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0200u": {
       "question": "per0200u",
@@ -23341,8 +21667,8 @@
         }
       },
       "sn": 211,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0200s": {
       "question": "per0200s",
@@ -23427,8 +21753,8 @@
         }
       },
       "sn": 212,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0300t": {
       "question": "per0300t",
@@ -23513,8 +21839,8 @@
         }
       },
       "sn": 213,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0300u": {
       "question": "per0300u",
@@ -23599,8 +21925,8 @@
         }
       },
       "sn": 214,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "per0300s": {
       "question": "per0300s",
@@ -23685,8 +22011,8 @@
         }
       },
       "sn": 215,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "int0100t": {
       "question": "int0100t",
@@ -23697,36 +22023,8 @@
           "number": 655,
           "text": "[name of child] . . .",
           "text_de": "[Name des Kindes] ...",
-          "answer_list": "apl3",
           "scale": "txt",
           "filter": "poc0200t >= 4 & poc0200t <= 9",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply",
-              "label_de": "1: nicht zutreffend"
-            },
-            {
-              "value": 2,
-              "label": "2: partly applies",
-              "label_de": "2: teilweise zutreffend"
-            },
-            {
-              "value": 3,
-              "label": "3: applies completely",
-              "label_de": "3: eindeutig zutreffend"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -24091,8 +22389,8 @@
         }
       },
       "sn": 216,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "ext0100t": {
       "question": "ext0100t",
@@ -24461,8 +22759,8 @@
         }
       },
       "sn": 217,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "int0100u": {
       "question": "int0100u",
@@ -24473,36 +22771,8 @@
           "number": 676,
           "text": "[name of child] . . .",
           "text_de": "[Name des Kindes] ...",
-          "answer_list": "apl3",
           "scale": "txt",
           "filter": "poc0200u >= 4 & poc0200u <= 9",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply",
-              "label_de": "1: nicht zutreffend"
-            },
-            {
-              "value": 2,
-              "label": "2: partly applies",
-              "label_de": "2: teilweise zutreffend"
-            },
-            {
-              "value": 3,
-              "label": "3: applies completely",
-              "label_de": "3: eindeutig zutreffend"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -24867,8 +23137,8 @@
         }
       },
       "sn": 218,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "ext0100u": {
       "question": "ext0100u",
@@ -25237,8 +23507,8 @@
         }
       },
       "sn": 219,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "int0100s": {
       "question": "int0100s",
@@ -25249,36 +23519,8 @@
           "number": 697,
           "text": "[name of child] . . .",
           "text_de": "[Name des Kindes] ...",
-          "answer_list": "apl3",
           "scale": "txt",
           "filter": "poc0200s >= 4 & poc0200s <= 9",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply",
-              "label_de": "1: nicht zutreffend"
-            },
-            {
-              "value": 2,
-              "label": "2: partly applies",
-              "label_de": "2: teilweise zutreffend"
-            },
-            {
-              "value": 3,
-              "label": "3: applies completely",
-              "label_de": "3: eindeutig zutreffend"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -25643,8 +23885,8 @@
         }
       },
       "sn": 220,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     },
     "ext0100s": {
       "question": "ext0100s",
@@ -26013,8 +24255,8 @@
         }
       },
       "sn": 221,
-      "instrument": "twinlife-panel-2014-F2F_Modul7_EueK",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul7_EueK",
+      "study": "twinlife"
     }
   }
 }

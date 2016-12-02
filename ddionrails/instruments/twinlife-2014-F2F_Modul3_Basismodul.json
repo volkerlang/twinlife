@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Modul3_Basismodul",
+  "questionnaire": "twinlife-2014-F2F_Modul3_Basismodul",
   "label": "Module 3: Basic module",
   "description": "Socio-demographic characteristics, education, employment/occupation, income, academic self-concept, . . .",
-  "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
+  "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
   "questions": {
     "bas0100": {
       "question": "bas0100",
@@ -19,8 +19,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0101": {
       "question": "bas0101",
@@ -36,8 +36,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0103": {
       "question": "bas0103",
@@ -71,8 +71,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0104": {
       "question": "bas0104",
@@ -89,8 +89,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0105": {
       "question": "bas0105",
@@ -125,8 +125,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0200": {
       "question": "bas0200",
@@ -171,8 +171,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0201": {
       "question": "bas0201",
@@ -189,8 +189,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0300": {
       "question": "bas0300",
@@ -235,8 +235,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0301": {
       "question": "bas0301",
@@ -253,8 +253,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0400": {
       "question": "bas0400",
@@ -271,8 +271,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "bas0401": {
       "question": "bas0401",
@@ -289,8 +289,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "fam0100": {
       "question": "fam0100",
@@ -357,8 +357,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "fam0200": {
       "question": "fam0200",
@@ -405,8 +405,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "fam0300": {
       "question": "fam0300",
@@ -448,8 +448,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0100": {
       "question": "edu0100",
@@ -496,8 +496,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0200": {
       "question": "edu0200",
@@ -542,8 +542,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0201": {
       "question": "edu0201",
@@ -560,8 +560,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0202": {
       "question": "edu0202",
@@ -596,8 +596,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0203": {
       "question": "edu0203",
@@ -632,8 +632,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0100": {
       "question": "emp0100",
@@ -680,8 +680,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0200": {
       "question": "emp0200",
@@ -733,8 +733,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0300": {
       "question": "emp0300",
@@ -781,8 +781,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0300": {
       "question": "edu0300",
@@ -829,8 +829,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0301": {
       "question": "edu0301",
@@ -882,8 +882,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0303": {
       "question": "edu0303",
@@ -935,8 +935,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0304": {
       "question": "edu0304",
@@ -955,8 +955,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0305": {
       "question": "edu0305",
@@ -1013,8 +1013,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0306": {
       "question": "edu0306",
@@ -1033,8 +1033,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0307": {
       "question": "edu0307",
@@ -1111,8 +1111,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0308": {
       "question": "edu0308",
@@ -1131,8 +1131,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0400": {
       "question": "emp0400",
@@ -1219,8 +1219,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0401": {
       "question": "emp0401",
@@ -1239,8 +1239,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0400": {
       "question": "edu0400",
@@ -1322,8 +1322,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0401": {
       "question": "edu0401",
@@ -1342,8 +1342,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0402": {
       "question": "edu0402",
@@ -1380,8 +1380,8 @@
         }
       },
       "sn": 34,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0403": {
       "question": "edu0403",
@@ -1493,8 +1493,8 @@
         }
       },
       "sn": 35,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "edu0404": {
       "question": "edu0404",
@@ -1513,8 +1513,8 @@
         }
       },
       "sn": 36,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "inv0100": {
       "question": "inv0100",
@@ -1525,46 +1525,8 @@
           "number": 46,
           "text": "We would like to ask you a few questions about your parents and school. Please tick whether the statements apply to your parents.",
           "text_de": "Alter 11 bis 15 Jahre und besucht Schule: Wir wu\u00a8rden Dir zuerst gerne ein paar Fragen zu Deinen Eltern und der Schule stellen. Bitte kreuze an, ob die Aussagen u\u00a8ber Deine Eltern zutreffen. / Alter 16 bis 20 Jahre und besucht Schule: Wir wu\u00a8rden Ihnen zuerst gerne ein paar Fragen zu Ihren Eltern und der Schule stellen. Bitte kreuzen Sie an, ob die Aussagen u\u00a8ber Ihre Eltern zutreffen.",
-          "answer_list": "apl5_2",
           "scale": "txt",
           "filter": "age > 9 & (edu0100 == 2 | edu0301 == 1) & ptyp <= 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: not correct at all",
-              "label_de": "1: stimmt ueberhaupt nicht"
-            },
-            {
-              "value": 2,
-              "label": "2: rather not correct",
-              "label_de": "2: stimmt eher nicht"
-            },
-            {
-              "value": 3,
-              "label": "3: partly correct",
-              "label_de": "3: stimmt etwas"
-            },
-            {
-              "value": 4,
-              "label": "4: rather correct",
-              "label_de": "4: stimmt eher"
-            },
-            {
-              "value": 5,
-              "label": "5: fully correct",
-              "label_de": "5: stimmt genau"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2121,8 +2083,8 @@
         }
       },
       "sn": 37,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "asc0100": {
       "question": "asc0100",
@@ -2133,51 +2095,8 @@
           "number": 59,
           "text": "Now I have a few more questions for you:",
           "text_de": "Jetzt habe ich ein paar Fragen an Dich:",
-          "answer_list": "asc0100",
           "scale": "txt",
           "filter": "age < 8",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, normally good, about like other children",
-              "label_de": "1: ja, normal gut, also so wie andere Kinder"
-            },
-            {
-              "value": 2,
-              "label": "2: yes, really good, better than other children",
-              "label_de": "2: ja, richtig gut, also besser als andere Kinder"
-            },
-            {
-              "value": 3,
-              "label": "3: no, not so good, not as good as other children",
-              "label_de": "3: nein, nicht so gut, also nicht so gut wie andere Kinder"
-            },
-            {
-              "value": 4,
-              "label": "4: no, not good at all, not as good as other children at all",
-              "label_de": "4: nein, gar nicht gut, also viel weniger gut als andere Kinder"
-            },
-            {
-              "value": 5,
-              "label": "5: child understood the question, but doesn't have an answer",
-              "label_de": "5: Kind hat die Frage verstanden, weiss aber keine Antwort"
-            },
-            {
-              "value": 6,
-              "label": "6: child didn't understand the question",
-              "label_de": "6: Kind hat die Frage nicht verstanden"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2335,8 +2254,8 @@
         }
       },
       "sn": 38,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "asc0103": {
       "question": "asc0103",
@@ -2347,51 +2266,8 @@
           "number": 63,
           "text": "Now I have a few more questions for you:",
           "text_de": "Jetzt habe ich ein paar Fragen an Dich:",
-          "answer_list": "asc0100",
           "scale": "txt",
           "filter": "age < 8",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, normally good, about like other children",
-              "label_de": "1: ja, normal gut, also so wie andere Kinder"
-            },
-            {
-              "value": 2,
-              "label": "2: yes, really good, better than other children",
-              "label_de": "2: ja, richtig gut, also besser als andere Kinder"
-            },
-            {
-              "value": 3,
-              "label": "3: no, not so good, not as good as other children",
-              "label_de": "3: nein, nicht so gut, also nicht so gut wie andere Kinder"
-            },
-            {
-              "value": 4,
-              "label": "4: no, not good at all, not as good as other children at all",
-              "label_de": "4: nein, gar nicht gut, also viel weniger gut als andere Kinder"
-            },
-            {
-              "value": 5,
-              "label": "5: child understood the question, but doesn't have an answer",
-              "label_de": "5: Kind hat die Frage verstanden, weiss aber keine Antwort"
-            },
-            {
-              "value": 6,
-              "label": "6: child didn't understand the question",
-              "label_de": "6: Kind hat die Frage nicht verstanden"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2600,8 +2476,8 @@
         }
       },
       "sn": 39,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0100": {
       "question": "spa0100",
@@ -2612,36 +2488,8 @@
           "number": 68,
           "text": "Please tell me whether the following statements apply to you.",
           "text_de": "Sag mir bitte, ob folgende Saetze fuer Dich zutreffen.",
-          "answer_list": "yn",
           "scale": "txt",
           "filter": "edu0100 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2898,8 +2746,8 @@
         }
       },
       "sn": 40,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0500": {
       "question": "emp0500",
@@ -2918,8 +2766,8 @@
         }
       },
       "sn": 41,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0600": {
       "question": "emp0600",
@@ -2976,8 +2824,8 @@
         }
       },
       "sn": 42,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0601": {
       "question": "emp0601",
@@ -3034,8 +2882,8 @@
         }
       },
       "sn": 43,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0602": {
       "question": "emp0602",
@@ -3087,8 +2935,8 @@
         }
       },
       "sn": 44,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0603": {
       "question": "emp0603",
@@ -3135,8 +2983,8 @@
         }
       },
       "sn": 45,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0604": {
       "question": "emp0604",
@@ -3183,8 +3031,8 @@
         }
       },
       "sn": 46,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0605": {
       "question": "emp0605",
@@ -3251,8 +3099,8 @@
         }
       },
       "sn": 47,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0606": {
       "question": "emp0606",
@@ -3304,8 +3152,8 @@
         }
       },
       "sn": 48,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0607": {
       "question": "emp0607",
@@ -3357,8 +3205,8 @@
         }
       },
       "sn": 49,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0700": {
       "question": "emp0700",
@@ -3390,8 +3238,8 @@
         }
       },
       "sn": 50,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0701": {
       "question": "emp0701",
@@ -3428,8 +3276,8 @@
         }
       },
       "sn": 51,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0707": {
       "question": "emp0707",
@@ -3448,8 +3296,8 @@
         }
       },
       "sn": 52,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0702": {
       "question": "emp0702",
@@ -3496,8 +3344,8 @@
         }
       },
       "sn": 53,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0703": {
       "question": "emp0703",
@@ -3544,8 +3392,8 @@
         }
       },
       "sn": 54,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0704": {
       "question": "emp0704",
@@ -3587,8 +3435,8 @@
         }
       },
       "sn": 55,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0705": {
       "question": "emp0705",
@@ -3625,8 +3473,8 @@
         }
       },
       "sn": 56,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0706": {
       "question": "emp0706",
@@ -3663,8 +3511,8 @@
         }
       },
       "sn": 57,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0708": {
       "question": "emp0708",
@@ -3711,8 +3559,8 @@
         }
       },
       "sn": 58,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0800": {
       "question": "emp0800",
@@ -3749,8 +3597,8 @@
         }
       },
       "sn": 59,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0801": {
       "question": "emp0801",
@@ -3787,8 +3635,8 @@
         }
       },
       "sn": 60,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0802": {
       "question": "emp0802",
@@ -3825,8 +3673,8 @@
         }
       },
       "sn": 61,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0803": {
       "question": "emp0803",
@@ -3863,8 +3711,8 @@
         }
       },
       "sn": 62,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0804": {
       "question": "emp0804",
@@ -3926,8 +3774,8 @@
         }
       },
       "sn": 63,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0900": {
       "question": "emp0900",
@@ -3938,33 +3786,10 @@
           "number": 99,
           "text": "What type of education or training is usually required for your type of work?",
           "text_de": "Welche Art von Ausbildung ist fuer Ihre Taetigkeit als [Berufsangabe] in der Regel derzeit erforderlich?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4165,8 +3990,8 @@
         }
       },
       "sn": 64,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp1000": {
       "question": "emp1000",
@@ -4213,8 +4038,8 @@
         }
       },
       "sn": 65,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp1001": {
       "question": "emp1001",
@@ -4266,8 +4091,8 @@
         }
       },
       "sn": 66,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp1002": {
       "question": "emp1002",
@@ -4309,8 +4134,8 @@
         }
       },
       "sn": 67,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp1100": {
       "question": "emp1100",
@@ -4367,8 +4192,8 @@
         }
       },
       "sn": 68,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp1200": {
       "question": "emp1200",
@@ -4425,8 +4250,8 @@
         }
       },
       "sn": 69,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "inc0100": {
       "question": "inc0100",
@@ -4458,8 +4283,8 @@
         }
       },
       "sn": 70,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "inc0103": {
       "question": "inc0103",
@@ -4561,8 +4386,8 @@
         }
       },
       "sn": 71,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "inc0200": {
       "question": "inc0200",
@@ -4609,8 +4434,8 @@
         }
       },
       "sn": 72,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "inc0201": {
       "question": "inc0201",
@@ -4642,8 +4467,8 @@
         }
       },
       "sn": 73,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "inc0202": {
       "question": "inc0202",
@@ -4675,8 +4500,8 @@
         }
       },
       "sn": 74,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0100": {
       "question": "eca0100",
@@ -4743,8 +4568,8 @@
         }
       },
       "sn": 75,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0101": {
       "question": "eca0101",
@@ -4763,8 +4588,8 @@
         }
       },
       "sn": 76,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0102": {
       "question": "eca0102",
@@ -4846,8 +4671,8 @@
         }
       },
       "sn": 77,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0103": {
       "question": "eca0103",
@@ -4866,8 +4691,8 @@
         }
       },
       "sn": 78,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0104": {
       "question": "eca0104",
@@ -4904,8 +4729,8 @@
         }
       },
       "sn": 79,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0105": {
       "question": "eca0105",
@@ -4940,8 +4765,8 @@
         }
       },
       "sn": 80,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0200": {
       "question": "eca0200",
@@ -5028,8 +4853,8 @@
         }
       },
       "sn": 81,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0201": {
       "question": "eca0201",
@@ -5066,8 +4891,8 @@
         }
       },
       "sn": 82,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0202": {
       "question": "eca0202",
@@ -5086,8 +4911,8 @@
         }
       },
       "sn": 83,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0300": {
       "question": "eca0300",
@@ -5134,8 +4959,8 @@
         }
       },
       "sn": 84,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0301": {
       "question": "eca0301",
@@ -5146,33 +4971,10 @@
           "number": 127,
           "text": "Which grade did you repeat?",
           "text_de": "Welche Klasse(n) wurde(n) wiederholt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "eca0300 == 1",
           "description": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5672,8 +5474,8 @@
         }
       },
       "sn": 85,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0400": {
       "question": "eca0400",
@@ -5720,8 +5522,8 @@
         }
       },
       "sn": 86,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0401": {
       "question": "eca0401",
@@ -5732,33 +5534,10 @@
           "number": 144,
           "text": "Which grade(s) did you skip?",
           "text_de": "Welche Klasse(n) wurde(n) uebersprungen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "eca0400 == 1",
           "description": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6258,8 +6037,8 @@
         }
       },
       "sn": 87,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0500": {
       "question": "eca0500",
@@ -6304,8 +6083,8 @@
         }
       },
       "sn": 88,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0600": {
       "question": "eca0600",
@@ -6357,8 +6136,8 @@
         }
       },
       "sn": 89,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0700": {
       "question": "eca0700",
@@ -6410,8 +6189,8 @@
         }
       },
       "sn": 90,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0701": {
       "question": "eca0701",
@@ -6498,8 +6277,8 @@
         }
       },
       "sn": 91,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0800": {
       "question": "eca0800",
@@ -6546,8 +6325,8 @@
         }
       },
       "sn": 92,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "eca0801": {
       "question": "eca0801",
@@ -6634,8 +6413,8 @@
         }
       },
       "sn": 93,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0200": {
       "question": "spa0200",
@@ -6690,8 +6469,8 @@
         }
       },
       "sn": 94,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0201": {
       "question": "spa0201",
@@ -6746,8 +6525,8 @@
         }
       },
       "sn": 95,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0202": {
       "question": "spa0202",
@@ -6802,8 +6581,8 @@
         }
       },
       "sn": 96,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0300": {
       "question": "spa0300",
@@ -6858,8 +6637,8 @@
         }
       },
       "sn": 97,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0301": {
       "question": "spa0301",
@@ -6914,8 +6693,8 @@
         }
       },
       "sn": 98,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0302": {
       "question": "spa0302",
@@ -6970,8 +6749,8 @@
         }
       },
       "sn": 99,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0400": {
       "question": "spa0400",
@@ -7026,8 +6805,8 @@
         }
       },
       "sn": 100,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0401": {
       "question": "spa0401",
@@ -7082,8 +6861,8 @@
         }
       },
       "sn": 101,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0402": {
       "question": "spa0402",
@@ -7138,8 +6917,8 @@
         }
       },
       "sn": 102,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "imo0200": {
       "question": "imo0200",
@@ -7150,46 +6929,8 @@
           "number": 175,
           "text": "We would like to ask you some more questions about school in general. Please rate the extent to which each statement applies to you.",
           "text_de": "Alter 4 bis 15 Jahre: Jetzt geht es wieder um die Schule im Allgemeinen. Bitte schaetze ein, wie gut jede der folgenden Aussagen auf Dich zutrifft. / Alter ab 16 Jahre: Jetzt geht es wieder um die Schule im Allgemeinen. Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "edu0100 == 2 | edu0301 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7332,8 +7073,8 @@
         }
       },
       "sn": 103,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "imo0300": {
       "question": "imo0300",
@@ -7344,46 +7085,8 @@
           "number": 179,
           "text": "We would like to ask you some more questions about school in general. Please rate the extent to which each statement applies to you.",
           "text_de": "Alter 4 bis 15 Jahre: Jetzt geht es wieder um die Faecher Mathe und Deutsch. Bitte schaetze ein, wie gut jede der folgenden Aussagen auf Dich zutrifft. / Alter ab 16 Jahre: Jetzt geht es wieder um die Faecher Mathe und Deutsch. Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "edu0100 == 2 | edu0301 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7664,8 +7367,8 @@
         }
       },
       "sn": 104,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "imo0500": {
       "question": "imo0500",
@@ -7676,46 +7379,8 @@
           "number": 186,
           "text": "Please rate the extent to which each statement applies to you. At school, I am interested in . . .",
           "text_de": "Alter 4 bis 9 Jahre: In der Schule will ich... / Alter 10 bis 15 Jahre: Bitte gib an, wie gut die Angabe auf Dich zutrifft. In der Schule geht es mir darum . . . / Alter ab 16 Jahre: Bitte geben Sie an, wie gut die Angabe auf Sie zutrifft. In der Schule geht es mir darum . . .",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "edu0100 == 2 | edu0301 == 1 & age > 9",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7996,8 +7661,8 @@
         }
       },
       "sn": 105,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "spa0500": {
       "question": "spa0500",
@@ -8008,46 +7673,8 @@
           "number": 193,
           "text": "Please rate the extent to which each statement applies to you.",
           "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8282,8 +7909,8 @@
         }
       },
       "sn": 106,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "imo0600": {
       "question": "imo0600",
@@ -8294,46 +7921,8 @@
           "number": 199,
           "text": "Please rate the extent to which each statement applies to you. It is important for me in the context of my professional work . . .",
           "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Mir ist es wichtig, im Rahmen meiner beruflichen Taetigkeit . . .",
-          "answer_list": "apl5_3",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: doesn't apply at all",
-              "label_de": "1: trifft gar nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: doesn't apply",
-              "label_de": "2: trifft nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: applies",
-              "label_de": "4: trifft zu"
-            },
-            {
-              "value": 5,
-              "label": "5: applies completely",
-              "label_de": "5: trifft genau zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8476,8 +8065,8 @@
         }
       },
       "sn": 107,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "imo0700": {
       "question": "imo0700",
@@ -8488,46 +8077,8 @@
           "number": 203,
           "text": "Please rate the extent to which each statement applies to you. It is important for me in the context of my professional work . . .",
           "text_de": "Alter 7 bis 15 Jahre: Bitte gib an, wie gut die Angabe auf Dich zutrifft. / Alter ab 16 Jahre: Bitte geben Sie an, wie gut die Angabe auf Sie zutrifft.",
-          "answer_list": "agr5",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: don't agree at all",
-              "label_de": "1: stimme ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2: don't agree",
-              "label_de": "2: stimme nicht zu"
-            },
-            {
-              "value": 3,
-              "label": "3: nor",
-              "label_de": "3: weder noch"
-            },
-            {
-              "value": 4,
-              "label": "4: agree",
-              "label_de": "4: stimme zu"
-            },
-            {
-              "value": 5,
-              "label": "5: agree completely",
-              "label_de": "5: stimme voll und ganz zu"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8624,8 +8175,8 @@
         }
       },
       "sn": 108,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0100": {
       "question": "mig0100",
@@ -8727,8 +8278,8 @@
         }
       },
       "sn": 109,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0101": {
       "question": "mig0101",
@@ -8747,8 +8298,8 @@
         }
       },
       "sn": 110,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0200": {
       "question": "mig0200",
@@ -8785,8 +8336,8 @@
         }
       },
       "sn": 111,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0300": {
       "question": "mig0300",
@@ -8888,8 +8439,8 @@
         }
       },
       "sn": 112,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0301": {
       "question": "mig0301",
@@ -8908,8 +8459,8 @@
         }
       },
       "sn": 113,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0400": {
       "question": "mig0400",
@@ -9011,8 +8562,8 @@
         }
       },
       "sn": 114,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0401": {
       "question": "mig0401",
@@ -9031,8 +8582,8 @@
         }
       },
       "sn": 115,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0500": {
       "question": "mig0500",
@@ -9043,33 +8594,10 @@
           "number": 213,
           "text": "What is your nationality? If you have more than one, please state all.",
           "text_de": "Welche Staatsangehoerigkeit haben Sie? Falls Sie mehr als eine Staatsangehoerigkeit haben, nennen Sie bitte alle.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "age > 15",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9569,8 +9097,8 @@
         }
       },
       "sn": 116,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0519": {
       "question": "mig0519",
@@ -9589,8 +9117,8 @@
         }
       },
       "sn": 117,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0600": {
       "question": "mig0600",
@@ -9627,8 +9155,8 @@
         }
       },
       "sn": 118,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0700": {
       "question": "mig0700",
@@ -9680,8 +9208,8 @@
         }
       },
       "sn": 119,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0701": {
       "question": "mig0701",
@@ -9700,8 +9228,8 @@
         }
       },
       "sn": 120,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0800": {
       "question": "mig0800",
@@ -9758,8 +9286,8 @@
         }
       },
       "sn": 121,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0801": {
       "question": "mig0801",
@@ -9778,8 +9306,8 @@
         }
       },
       "sn": 122,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0802": {
       "question": "mig0802",
@@ -9798,8 +9326,8 @@
         }
       },
       "sn": 123,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "mig0803": {
       "question": "mig0803",
@@ -9818,8 +9346,8 @@
         }
       },
       "sn": 124,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "pas0200m": {
       "question": "pas0200m",
@@ -9830,36 +9358,8 @@
           "number": 237,
           "text": "How often do the following things usually happen between you and [name mother]?",
           "text_de": "Im Folgenden moechte ich Dich ein paar Dinge zu Dir und Deiner Familie fragen. Wir fangen an mit Fragen zu Deiner Mutter [Name]. Es gibt keine richtigen und falschen Antworten, bitte sag mir einfach, wie Du darueber denkst. Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und Deiner Mutter [Name] vor?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & bas0200 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10332,8 +9832,8 @@
         }
       },
       "sn": 125,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "pas0200n": {
       "question": "pas0200n",
@@ -10344,36 +9844,8 @@
           "number": 251,
           "text": "How often do the following things usually happen between you and [name stepmother]?",
           "text_de": "Im Folgenden moechte ich Dich ein paar Dinge zu Dir und Deiner Familie fragen. Wir fangen an mit Fragen zu [Name der Stiefmutter]. Es gibt keine richtigen und falschen Antworten, bitte sag mir einfach, wie Du darueber denkst. Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und [Name der Stiefmutter] vor?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & bas0401 == \"Stiefmutter\"",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10846,8 +10318,8 @@
         }
       },
       "sn": 126,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "pas0200f": {
       "question": "pas0200f",
@@ -10858,36 +10330,8 @@
           "number": 265,
           "text": "How often do the following things usually happen between you and [name father]?",
           "text_de": "Nun moechte ich Dir noch ein paar Fragen zu Deinem Vater [Name] stellen. Auch hier gibt es keine richtigen oder falschen Antworten, sag mir einfach, wie Du darueber denkst. Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und Deinem Vater [Name] vor?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & bas0300 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11360,8 +10804,8 @@
         }
       },
       "sn": 127,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "pas0200g": {
       "question": "pas0200g",
@@ -11372,36 +10816,8 @@
           "number": 279,
           "text": "How often do the following things usually happen between you and [name stepfather]?",
           "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und [Name des Stiefvaters] vor?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & bas0400 == \"Stiefvater\"",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11874,8 +11290,8 @@
         }
       },
       "sn": 128,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0100": {
       "question": "tsp0100",
@@ -11930,8 +11346,8 @@
         }
       },
       "sn": 129,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0100_2": {
       "question": "tsp0100_2",
@@ -11986,8 +11402,8 @@
         }
       },
       "sn": 130,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0101": {
       "question": "tsp0101",
@@ -12022,8 +11438,8 @@
         }
       },
       "sn": 131,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0200": {
       "question": "tsp0200",
@@ -12068,8 +11484,8 @@
         }
       },
       "sn": 132,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0300": {
       "question": "tsp0300",
@@ -12119,8 +11535,8 @@
         }
       },
       "sn": 133,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0400": {
       "question": "tsp0400",
@@ -12170,8 +11586,8 @@
         }
       },
       "sn": 134,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "tsp0400_2": {
       "question": "tsp0400_2",
@@ -12221,8 +11637,8 @@
         }
       },
       "sn": 135,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "dev0100": {
       "question": "dev0100",
@@ -12233,36 +11649,8 @@
           "number": 300,
           "text": "What about you?",
           "text_de": "Wie ist es bei Dir?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12411,8 +11799,8 @@
         }
       },
       "sn": 136,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "sre0500": {
       "question": "sre0500",
@@ -12423,36 +11811,8 @@
           "number": 305,
           "text": "What about you and [name of other twin]?",
           "text_de": "Wie ist es bei Dir und [Name des anderen Zwillings]?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & (ptyp == 1 | ptyp == 2)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12889,8 +12249,8 @@
         }
       },
       "sn": 137,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "sre0500s": {
       "question": "sre0500s",
@@ -12901,36 +12261,8 @@
           "number": 318,
           "text": "What about you and [name of other sibling]?",
           "text_de": "Wie ist es bei Dir und [Name des befragten Geschwisters einblenden]?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & (ptyp == 1 | ptyp == 2) & bas0104 == \"Geschwister\"",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13367,8 +12699,8 @@
         }
       },
       "sn": 138,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "sre0500t": {
       "question": "sre0500t",
@@ -13379,36 +12711,8 @@
           "number": 331,
           "text": "What about you and [name of other twin 1]?",
           "text_de": "Wie ist es bei Dir und [Name des Zwilling 1]?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13845,8 +13149,8 @@
         }
       },
       "sn": 139,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "sre0500u": {
       "question": "sre0500u",
@@ -13857,36 +13161,8 @@
           "number": 344,
           "text": "What about you and [name of other twin 2]?",
           "text_de": "Wie ist es bei Dir und [Name des Zwilling 2]?",
-          "answer_list": "fre3",
           "scale": "txt",
           "filter": "age < 10 & ptyp == 200",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never",
-              "label_de": "1: nie"
-            },
-            {
-              "value": 2,
-              "label": "2: occasionally",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: very often",
-              "label_de": "3: ganz oft"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -14323,8 +13599,8 @@
         }
       },
       "sn": 140,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "panel": {
       "question": "panel",
@@ -14369,8 +13645,8 @@
         }
       },
       "sn": 141,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     },
     "emp0501": {
       "question": "emp0501",
@@ -14388,8 +13664,8 @@
         }
       },
       "sn": 142,
-      "instrument": "twinlife-panel-2014-F2F_Modul3_Basismodul",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
+      "study": "twinlife"
     }
   }
 }

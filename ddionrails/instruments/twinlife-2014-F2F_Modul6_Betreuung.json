@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Modul6_Betreuung",
+  "questionnaire": "twinlife-2014-F2F_Modul6_Betreuung",
   "label": "Module 6: Child care",
   "description": "Information on institutional child care (of the twins and sibling) by parents",
-  "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
+  "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
   "questions": {
     "aget": {
       "question": "aget",
@@ -37,8 +37,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "ageu": {
       "question": "ageu",
@@ -72,8 +72,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "ages": {
       "question": "ages",
@@ -107,8 +107,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "bas0100": {
       "question": "bas0100",
@@ -124,8 +124,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0100t": {
       "question": "car0100t",
@@ -136,32 +136,9 @@
           "number": 11,
           "text": "care of twin 1 0-6 months",
           "text_de": "Betreuung Z1 0-6 Monate",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -694,8 +671,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0200t": {
       "question": "car0200t",
@@ -706,32 +683,9 @@
           "number": 28,
           "text": "care of twin 1 7-12 months",
           "text_de": "Betreuung Z1 7-12 Monate",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -1264,8 +1218,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0300t": {
       "question": "car0300t",
@@ -1276,32 +1230,9 @@
           "number": 45,
           "text": "care of twin 1 2nd year of life",
           "text_de": "Betreuung Z1 im 2. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -1834,8 +1765,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0400t": {
       "question": "car0400t",
@@ -1846,32 +1777,9 @@
           "number": 62,
           "text": "care of twin 1 3rd year of life",
           "text_de": "Betreuung Z1 im 3. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2404,8 +2312,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0500t": {
       "question": "car0500t",
@@ -2416,32 +2324,9 @@
           "number": 79,
           "text": "care of twin 1 4th year of life",
           "text_de": "Betreuung Z1 im 4. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2974,8 +2859,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0600t": {
       "question": "car0600t",
@@ -2986,32 +2871,9 @@
           "number": 96,
           "text": "care of twin 1 5th year of life",
           "text_de": "Betreuung Z1 im 5. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -3544,8 +3406,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0700t": {
       "question": "car0700t",
@@ -3556,32 +3418,9 @@
           "number": 113,
           "text": "care of twin 1 6th year of life",
           "text_de": "Betreuung Z1 im 6. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4114,8 +3953,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0800t": {
       "question": "car0800t",
@@ -4133,8 +3972,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0100t": {
       "question": "cai0100t",
@@ -4171,8 +4010,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0198t": {
       "question": "cai0198t",
@@ -4209,8 +4048,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0200t": {
       "question": "cai0200t",
@@ -4247,8 +4086,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0298t": {
       "question": "cai0298t",
@@ -4285,8 +4124,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0300t": {
       "question": "cai0300t",
@@ -4323,8 +4162,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0398t": {
       "question": "cai0398t",
@@ -4361,8 +4200,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1100t": {
       "question": "cai1100t",
@@ -4399,8 +4238,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1198t": {
       "question": "cai1198t",
@@ -4437,8 +4276,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1200t": {
       "question": "cai1200t",
@@ -4475,8 +4314,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1298t": {
       "question": "cai1298t",
@@ -4513,8 +4352,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1300t": {
       "question": "cai1300t",
@@ -4551,8 +4390,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1398t": {
       "question": "cai1398t",
@@ -4589,8 +4428,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eac0100t": {
       "question": "eac0100t",
@@ -4601,58 +4440,10 @@
           "number": 143,
           "text": "Now please think about the child's entire time in childcare up to the age of 6: How often does or did your child take part in the following activities? This applies to the normal kindergarten and Kita activities as well as special activities beyond the standard program.",
           "text_de": "Bitte denken Sie nun an die gesamte Kinderkrippen- und Kindergartenzeit (KITA-Zeit): Wie haeufig nimmt bzw. nahm Ihr Kind an den folgenden Aktivitaeten teil?",
-          "answer_list": "eac0100",
           "scale": "txt",
           "filter": "aget <= 11 & aget >= 0",
           "description": "SOEP: Qualitaet fruehkindlicher Bildung und Betreuung im Sozio-oekonomischen Panel; Pia S. Schober, C. Katharina Spiess, 2013-2016; not published",
           "description_de": "SOEP: Qualitaet fruehkindlicher Bildung und Betreuung im Sozio-oekonomischen Panel; Pia S. Schober, C. Katharina Spiess, 2013-2016; not published",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never, but the activity is/was offered",
-              "label_de": "1: nie, obwohl Massnahme angeboten wird/wurde"
-            },
-            {
-              "value": 2,
-              "label": "2: at least once a year",
-              "label_de": "2: mindestens einmal im Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: several times a year",
-              "label_de": "3: mehrmals im Jahr"
-            },
-            {
-              "value": 4,
-              "label": "4: at least once a month",
-              "label_de": "4: mindestens einmal im Monat"
-            },
-            {
-              "value": 5,
-              "label": "5: once a week",
-              "label_de": "5: einmal in der Woche"
-            },
-            {
-              "value": 6,
-              "label": "6: several times a week",
-              "label_de": "6: mehrmals in der Woche"
-            },
-            {
-              "value": 7,
-              "label": "7: the activity is/was not offered",
-              "label_de": "7: Massnahme wird/wurde nicht angeboten"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5063,8 +4854,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0100t": {
       "question": "edu0100t",
@@ -5110,8 +4901,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0400t": {
       "question": "edu0400t",
@@ -5193,8 +4984,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0401t": {
       "question": "edu0401t",
@@ -5213,8 +5004,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0402t": {
       "question": "edu0402t",
@@ -5251,8 +5042,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0498t": {
       "question": "edu0498t",
@@ -5289,8 +5080,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0403t": {
       "question": "edu0403t",
@@ -5402,8 +5193,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "aas0100t": {
       "question": "aas0100t",
@@ -5414,33 +5205,10 @@
           "number": 157,
           "text": "Does your child participate outside regular school hours in one or more of the following activities? - help with homework",
           "text_de": "Nimmt Ihr Kind neben der regulaeren Schulzeit eines der folgenden Angebote in Anspruch?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "edu0100t != 2 & edu0100t != 3",
           "description": "adapted from: Pairfam Codebook Parenting Wave 7:\nwww.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebook_Parenting_en__pairfam_Wave_7_2014-15.pdf",
           "description_de": "adaptiert von: Pairfam Codebook Erziehung Welle 7:\nwww.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Erziehung_de__pairfam_Welle_7_2014-15.pdf-15.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5742,8 +5510,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0300t": {
       "question": "eca0300t",
@@ -5790,8 +5558,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0301t": {
       "question": "eca0301t",
@@ -5802,33 +5570,10 @@
           "number": 168,
           "text": "Has your child repeated one or more grades?",
           "text_de": "Welche Klasse(n) wurde(n) wiederholt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100t == 1 | edu0100t == 3) & eca0300t == 1",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6262,8 +6007,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0400t": {
       "question": "eca0400t",
@@ -6310,8 +6055,8 @@
         }
       },
       "sn": 34,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0401t": {
       "question": "eca0401t",
@@ -6322,33 +6067,10 @@
           "number": 183,
           "text": "Has your child skipped one or more grades?",
           "text_de": "Welche Klasse(n) wurde(n) uebersprungen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100t == 1 | edu0100t == 3) & eca0400t == 1",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6782,8 +6504,8 @@
         }
       },
       "sn": 35,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0600t": {
       "question": "eca0600t",
@@ -6835,8 +6557,8 @@
         }
       },
       "sn": 36,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0100t": {
       "question": "kgc0100t",
@@ -6878,8 +6600,8 @@
         }
       },
       "sn": 37,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0101t": {
       "question": "kgc0101t",
@@ -6921,8 +6643,8 @@
         }
       },
       "sn": 38,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0102t": {
       "question": "kgc0102t",
@@ -6964,8 +6686,8 @@
         }
       },
       "sn": 39,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0103t": {
       "question": "kgc0103t",
@@ -7007,8 +6729,8 @@
         }
       },
       "sn": 40,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0104t": {
       "question": "kgc0104t",
@@ -7050,8 +6772,8 @@
         }
       },
       "sn": 41,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0105t": {
       "question": "kgc0105t",
@@ -7093,8 +6815,8 @@
         }
       },
       "sn": 42,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0106t": {
       "question": "kgc0106t",
@@ -7136,8 +6858,8 @@
         }
       },
       "sn": 43,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0200t": {
       "question": "kgc0200t",
@@ -7184,8 +6906,8 @@
         }
       },
       "sn": 44,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0201t": {
       "question": "kgc0201t",
@@ -7227,8 +6949,8 @@
         }
       },
       "sn": 45,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0202t": {
       "question": "kgc0202t",
@@ -7270,8 +6992,8 @@
         }
       },
       "sn": 46,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0300t": {
       "question": "kgc0300t",
@@ -7290,8 +7012,8 @@
         }
       },
       "sn": 47,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0398t": {
       "question": "kgc0398t",
@@ -7333,8 +7055,8 @@
         }
       },
       "sn": 48,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0400t": {
       "question": "kgc0400t",
@@ -7421,8 +7143,8 @@
         }
       },
       "sn": 49,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cat0100u": {
       "question": "cat0100u",
@@ -7461,8 +7183,8 @@
         }
       },
       "sn": 50,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "bas0101": {
       "question": "bas0101",
@@ -7478,8 +7200,8 @@
         }
       },
       "sn": 51,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0100u": {
       "question": "car0100u",
@@ -7490,32 +7212,9 @@
           "number": 213,
           "text": "care of twin 2 0-6 months",
           "text_de": "Betreuung Z2 0-6 Monate",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8048,8 +7747,8 @@
         }
       },
       "sn": 52,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0200u": {
       "question": "car0200u",
@@ -8060,32 +7759,9 @@
           "number": 230,
           "text": "care of twin 2 7-12 months",
           "text_de": "Betreuung Z2 7-12 Monate",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8618,8 +8294,8 @@
         }
       },
       "sn": 53,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0300u": {
       "question": "car0300u",
@@ -8630,32 +8306,9 @@
           "number": 247,
           "text": "care of twin 2 2nd year of life",
           "text_de": "Betreuung Z2 im 2. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9188,8 +8841,8 @@
         }
       },
       "sn": 54,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0400u": {
       "question": "car0400u",
@@ -9200,32 +8853,9 @@
           "number": 264,
           "text": "care of twin 2 3rd year of life",
           "text_de": "Betreuung Z2 im 3. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9758,8 +9388,8 @@
         }
       },
       "sn": 55,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0500u": {
       "question": "car0500u",
@@ -9770,32 +9400,9 @@
           "number": 281,
           "text": "care of twin 2 4th year of life",
           "text_de": "Betreuung Z2 im 4. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10328,8 +9935,8 @@
         }
       },
       "sn": 56,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0600u": {
       "question": "car0600u",
@@ -10340,32 +9947,9 @@
           "number": 298,
           "text": "care of twin 2 5th year of life",
           "text_de": "Betreuung Z2 im 5. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10898,8 +10482,8 @@
         }
       },
       "sn": 57,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0700u": {
       "question": "car0700u",
@@ -10910,32 +10494,9 @@
           "number": 315,
           "text": "care of twin 2 6th year of life",
           "text_de": "Betreuung Z2 im 6. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11468,8 +11029,8 @@
         }
       },
       "sn": 58,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0800u": {
       "question": "car0800u",
@@ -11487,8 +11048,8 @@
         }
       },
       "sn": 59,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0100u": {
       "question": "cai0100u",
@@ -11525,8 +11086,8 @@
         }
       },
       "sn": 60,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0198u": {
       "question": "cai0198u",
@@ -11563,8 +11124,8 @@
         }
       },
       "sn": 61,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0200u": {
       "question": "cai0200u",
@@ -11601,8 +11162,8 @@
         }
       },
       "sn": 62,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0298u": {
       "question": "cai0298u",
@@ -11639,8 +11200,8 @@
         }
       },
       "sn": 63,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0300u": {
       "question": "cai0300u",
@@ -11677,8 +11238,8 @@
         }
       },
       "sn": 64,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0398u": {
       "question": "cai0398u",
@@ -11715,8 +11276,8 @@
         }
       },
       "sn": 65,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1100u": {
       "question": "cai1100u",
@@ -11753,8 +11314,8 @@
         }
       },
       "sn": 66,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1198u": {
       "question": "cai1198u",
@@ -11791,8 +11352,8 @@
         }
       },
       "sn": 67,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1200u": {
       "question": "cai1200u",
@@ -11829,8 +11390,8 @@
         }
       },
       "sn": 68,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1298u": {
       "question": "cai1298u",
@@ -11867,8 +11428,8 @@
         }
       },
       "sn": 69,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1300u": {
       "question": "cai1300u",
@@ -11905,8 +11466,8 @@
         }
       },
       "sn": 70,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1398u": {
       "question": "cai1398u",
@@ -11943,8 +11504,8 @@
         }
       },
       "sn": 71,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eac0100u": {
       "question": "eac0100u",
@@ -11955,58 +11516,10 @@
           "number": 345,
           "text": "Now please think about the child's entire time in childcare up to the age of 6: How often does or did your child take part in the following activities? This applies to the normal kindergarten and Kita activities as well as special activities beyond the standard program.",
           "text_de": "Bitte denken Sie nun an die gesamte Kinderkrippen- und Kindergartenzeit (KITA-Zeit): Wie haeufig nimmt bzw. nahm Ihr Kind an den folgenden Aktivitaeten teil?",
-          "answer_list": "eac0100",
           "scale": "txt",
           "filter": "ageu <= 11 & ageu >= 0",
           "description": "SOEP: Qualitaet fruehkindlicher Bildung und Betreuung im Sozio-oekonomischen Panel; Pia S. Schober, C. Katharina Spiess, 2013-2016; not published",
           "description_de": "SOEP: Qualitaet fruehkindlicher Bildung und Betreuung im Sozio-oekonomischen Panel; Pia S. Schober, C. Katharina Spiess, 2013-2016; not published",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never, but the activity is/was offered",
-              "label_de": "1: nie, obwohl Massnahme angeboten wird/wurde"
-            },
-            {
-              "value": 2,
-              "label": "2: at least once a year",
-              "label_de": "2: mindestens einmal im Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: several times a year",
-              "label_de": "3: mehrmals im Jahr"
-            },
-            {
-              "value": 4,
-              "label": "4: at least once a month",
-              "label_de": "4: mindestens einmal im Monat"
-            },
-            {
-              "value": 5,
-              "label": "5: once a week",
-              "label_de": "5: einmal in der Woche"
-            },
-            {
-              "value": 6,
-              "label": "6: several times a week",
-              "label_de": "6: mehrmals in der Woche"
-            },
-            {
-              "value": 7,
-              "label": "7: the activity is/was not offered",
-              "label_de": "7: Massnahme wird/wurde nicht angeboten"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -12417,8 +11930,8 @@
         }
       },
       "sn": 72,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0100u": {
       "question": "edu0100u",
@@ -12464,8 +11977,8 @@
         }
       },
       "sn": 73,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0400u": {
       "question": "edu0400u",
@@ -12547,8 +12060,8 @@
         }
       },
       "sn": 74,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0401u": {
       "question": "edu0401u",
@@ -12567,8 +12080,8 @@
         }
       },
       "sn": 75,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0402u": {
       "question": "edu0402u",
@@ -12605,8 +12118,8 @@
         }
       },
       "sn": 76,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0498u": {
       "question": "edu0498u",
@@ -12643,8 +12156,8 @@
         }
       },
       "sn": 77,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0403u": {
       "question": "edu0403u",
@@ -12756,8 +12269,8 @@
         }
       },
       "sn": 78,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "aas0100u": {
       "question": "aas0100u",
@@ -12768,33 +12281,10 @@
           "number": 359,
           "text": "Does your child participate outside regular school hours in one or more of the following activities? - help with homework",
           "text_de": "Nimmt Ihr Kind neben der regulaeren Schulzeit eines der folgenden Angebote in Anspruch?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "edu0100u != 2 & edu0100u != 3",
           "description": "adapted from: Pairfam Codebook Parenting Wave 7:\nwww.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebook_Parenting_en__pairfam_Wave_7_2014-15.pdf",
           "description_de": "adaptiert von: Pairfam Codebook Erziehung Welle 7:\nwww.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Erziehung_de__pairfam_Welle_7_2014-15.pdf-15.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13096,8 +12586,8 @@
         }
       },
       "sn": 79,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0300u": {
       "question": "eca0300u",
@@ -13144,8 +12634,8 @@
         }
       },
       "sn": 80,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0301u": {
       "question": "eca0301u",
@@ -13156,33 +12646,10 @@
           "number": 370,
           "text": "Has your child repeated one or more grades?",
           "text_de": "Welche Klasse(n) wurde(n) wiederholt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100u == 1 | edu0100u == 3) & eca0300u == 1",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13616,8 +13083,8 @@
         }
       },
       "sn": 81,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0400u": {
       "question": "eca0400u",
@@ -13664,8 +13131,8 @@
         }
       },
       "sn": 82,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0401u": {
       "question": "eca0401u",
@@ -13676,33 +13143,10 @@
           "number": 385,
           "text": "Has your child skipped one or more grades?",
           "text_de": "Welche Klasse(n) wurde(n) uebersprungen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100u == 1 | edu0100u == 3) & eca0400u == 1",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -14136,8 +13580,8 @@
         }
       },
       "sn": 83,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0600u": {
       "question": "eca0600u",
@@ -14189,8 +13633,8 @@
         }
       },
       "sn": 84,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0100u": {
       "question": "kgc0100u",
@@ -14232,8 +13676,8 @@
         }
       },
       "sn": 85,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0110u": {
       "question": "kgc0110u",
@@ -14280,8 +13724,8 @@
         }
       },
       "sn": 86,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0101u": {
       "question": "kgc0101u",
@@ -14323,8 +13767,8 @@
         }
       },
       "sn": 87,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0102u": {
       "question": "kgc0102u",
@@ -14366,8 +13810,8 @@
         }
       },
       "sn": 88,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0103u": {
       "question": "kgc0103u",
@@ -14409,8 +13853,8 @@
         }
       },
       "sn": 89,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0104u": {
       "question": "kgc0104u",
@@ -14452,8 +13896,8 @@
         }
       },
       "sn": 90,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0105u": {
       "question": "kgc0105u",
@@ -14495,8 +13939,8 @@
         }
       },
       "sn": 91,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0106u": {
       "question": "kgc0106u",
@@ -14538,8 +13982,8 @@
         }
       },
       "sn": 92,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0200u": {
       "question": "kgc0200u",
@@ -14586,8 +14030,8 @@
         }
       },
       "sn": 93,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0201u": {
       "question": "kgc0201u",
@@ -14629,8 +14073,8 @@
         }
       },
       "sn": 94,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0202u": {
       "question": "kgc0202u",
@@ -14672,8 +14116,8 @@
         }
       },
       "sn": 95,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0300u": {
       "question": "kgc0300u",
@@ -14692,8 +14136,8 @@
         }
       },
       "sn": 96,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0398u": {
       "question": "kgc0398u",
@@ -14735,8 +14179,8 @@
         }
       },
       "sn": 97,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0400u": {
       "question": "kgc0400u",
@@ -14823,8 +14267,8 @@
         }
       },
       "sn": 98,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cat0200": {
       "question": "cat0200",
@@ -14873,8 +14317,8 @@
         }
       },
       "sn": 99,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cat0300": {
       "question": "cat0300",
@@ -14914,8 +14358,8 @@
         }
       },
       "sn": 100,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt0100": {
       "question": "twt0100",
@@ -14926,31 +14370,8 @@
           "number": 416,
           "text": "Do or did the twins attend the same 1st class in the same school?",
           "text_de": "Besuchen bzw. haben die Zwillinge die gleiche Schulklasse und die gleiche Schule besucht oder sind bzw. waren sie in getrennten Klassen oder unterschiedlichen Schulen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100t == 1 | edu0100t == 3) & (edu0100u == 1 | edu0100u == 3)",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15358,8 +14779,8 @@
         }
       },
       "sn": 101,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt0101": {
       "question": "twt0101",
@@ -15370,31 +14791,8 @@
           "number": 430,
           "text": "Do or did the twins attend the different 1st classes in the same school?",
           "text_de": "Besuchen bzw. haben die Zwillinge die gleiche Schulklasse und die gleiche Schule besucht oder sind bzw. waren sie in getrennten Klassen oder unterschiedlichen Schulen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100t == 1 | edu0100t == 3) & (edu0100u == 1 | edu0100u == 3)",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -15802,8 +15200,8 @@
         }
       },
       "sn": 102,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt0102": {
       "question": "twt0102",
@@ -15814,31 +15212,8 @@
           "number": 444,
           "text": "Do or did the twins attend the different 1st classes in different schools?",
           "text_de": "Besuchen bzw. haben die Zwillinge die gleiche Schulklasse und die gleiche Schule besucht oder sind bzw. waren sie in getrennten Klassen oder unterschiedlichen Schulen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100t == 1 | edu0100t == 3) & (edu0100u == 1 | edu0100u == 3)",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16246,8 +15621,8 @@
         }
       },
       "sn": 103,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1400": {
       "question": "twt1400",
@@ -16287,8 +15662,8 @@
         }
       },
       "sn": 104,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1500": {
       "question": "twt1500",
@@ -16332,8 +15707,8 @@
         }
       },
       "sn": 105,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1501": {
       "question": "twt1501",
@@ -16344,31 +15719,8 @@
           "number": 460,
           "text": "In which years was this the case?",
           "text_de": "Falls die Zwillinge zeitweise getrennt aufgewachsen sind: In welchen Lebensjahren war dies der Fall?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "twt1500 == 3",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -16931,8 +16283,8 @@
         }
       },
       "sn": 106,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1600t": {
       "question": "twt1600t",
@@ -16943,31 +16295,8 @@
           "number": 479,
           "text": "Who cared for twin 1 in this time?",
           "text_de": "Falls die Zwillinge zeitweise bzw. immer getrennt aufgewachsen sind: Durch wen wurde der erstgeborene Zwilling in dieser Zeit betreut?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "twt1500 == 2 | twt1500 == 3",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -17127,8 +16456,8 @@
         }
       },
       "sn": 107,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1605t": {
       "question": "twt1605t",
@@ -17145,8 +16474,8 @@
         }
       },
       "sn": 108,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1600u": {
       "question": "twt1600u",
@@ -17157,31 +16486,8 @@
           "number": 486,
           "text": "Who cared for twin 1 in this time?",
           "text_de": "Falls die Zwillinge zeitweise bzw. immer getrennt aufgewachsen sind: Durch wen wurde der zweitgeborene Zwilling in dieser Zeit betreut?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "twt1500 == 2 | twt1500 == 3",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -17341,8 +16647,8 @@
         }
       },
       "sn": 109,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "twt1605u": {
       "question": "twt1605u",
@@ -17359,8 +16665,8 @@
         }
       },
       "sn": 110,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "bas0103": {
       "question": "bas0103",
@@ -17376,8 +16682,8 @@
         }
       },
       "sn": 111,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0100s": {
       "question": "car0100s",
@@ -17388,32 +16694,9 @@
           "number": 494,
           "text": "care of sibling 0-6 months",
           "text_de": "Betreuung Geschwister 0-6 Monate",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -17946,8 +17229,8 @@
         }
       },
       "sn": 112,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0200s": {
       "question": "car0200s",
@@ -17958,32 +17241,9 @@
           "number": 511,
           "text": "care of sibling 7-12 months",
           "text_de": "Betreuung Geschwister 7-12 Monate",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -18516,8 +17776,8 @@
         }
       },
       "sn": 113,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0300s": {
       "question": "car0300s",
@@ -18528,32 +17788,9 @@
           "number": 528,
           "text": "care of sibling 2nd year of life",
           "text_de": "Betreuung Geschwister im 2. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -19086,8 +18323,8 @@
         }
       },
       "sn": 114,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0400s": {
       "question": "car0400s",
@@ -19098,32 +18335,9 @@
           "number": 545,
           "text": "care of sibling 3rd year of life",
           "text_de": "Betreuung Geschwister im 3. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -19656,8 +18870,8 @@
         }
       },
       "sn": 115,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0500s": {
       "question": "car0500s",
@@ -19668,32 +18882,9 @@
           "number": 562,
           "text": "care of sibling 4th year of life",
           "text_de": "Betreuung Geschwister im 4. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20226,8 +19417,8 @@
         }
       },
       "sn": 116,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0600s": {
       "question": "car0600s",
@@ -20238,32 +19429,9 @@
           "number": 579,
           "text": "care of sibling 5th year of life",
           "text_de": "Betreuung Geschwister im 5. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -20796,8 +19964,8 @@
         }
       },
       "sn": 117,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0700s": {
       "question": "car0700s",
@@ -20808,32 +19976,9 @@
           "number": 596,
           "text": "care of sibling 6th year of life",
           "text_de": "Betreuung Geschwister im 6. Lebensjahr",
-          "answer_list": "car0100",
           "scale": "txt",
           "description": "adapted from: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
           "description_de": "adaptiert von: Socio-Economic Panel; http://www.diw.de/de/diw_02.c.238114.de/frageboegen_methodenberichte.html (--> https://www.econstor.eu/dspace/bitstream/10419/88778/1/77583694X.pdf); Wagner, G. G., Frick, J. R., & Schupp, J. (2007). The German Socio-Economic Panel study (SOEP)-evolution, scope and enhancements. (http://www.schmollersjahrbuch.de/webcontent/2007/Wagner%20et%20al.pdf)",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: half-day",
-              "label_de": "1: halbtags"
-            },
-            {
-              "value": 2,
-              "label": "2: full-time",
-              "label_de": "2: ganztags"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -21366,8 +20511,8 @@
         }
       },
       "sn": 118,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "car0800s": {
       "question": "car0800s",
@@ -21385,8 +20530,8 @@
         }
       },
       "sn": 119,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0100s": {
       "question": "cai0100s",
@@ -21423,8 +20568,8 @@
         }
       },
       "sn": 120,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0198s": {
       "question": "cai0198s",
@@ -21461,8 +20606,8 @@
         }
       },
       "sn": 121,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0200s": {
       "question": "cai0200s",
@@ -21499,8 +20644,8 @@
         }
       },
       "sn": 122,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0298s": {
       "question": "cai0298s",
@@ -21537,8 +20682,8 @@
         }
       },
       "sn": 123,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0300s": {
       "question": "cai0300s",
@@ -21575,8 +20720,8 @@
         }
       },
       "sn": 124,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai0398s": {
       "question": "cai0398s",
@@ -21613,8 +20758,8 @@
         }
       },
       "sn": 125,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1100s": {
       "question": "cai1100s",
@@ -21651,8 +20796,8 @@
         }
       },
       "sn": 126,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1198s": {
       "question": "cai1198s",
@@ -21689,8 +20834,8 @@
         }
       },
       "sn": 127,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1200s": {
       "question": "cai1200s",
@@ -21727,8 +20872,8 @@
         }
       },
       "sn": 128,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1298s": {
       "question": "cai1298s",
@@ -21765,8 +20910,8 @@
         }
       },
       "sn": 129,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1300s": {
       "question": "cai1300s",
@@ -21803,8 +20948,8 @@
         }
       },
       "sn": 130,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "cai1398s": {
       "question": "cai1398s",
@@ -21841,8 +20986,8 @@
         }
       },
       "sn": 131,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eac0100s": {
       "question": "eac0100s",
@@ -21853,58 +20998,10 @@
           "number": 626,
           "text": "Now please think about the child's entire time in childcare up to the age of 6: How often does or did your child take part in the following activities? This applies to the normal kindergarten and Kita activities as well as special activities beyond the standard program.",
           "text_de": "Bitte denken Sie nun an die gesamte Kinderkrippen- und Kindergartenzeit (KITA-Zeit): Wie haeufig nimmt bzw. nahm Ihr Kind an den folgenden Aktivitaeten teil?",
-          "answer_list": "eac0100",
           "scale": "txt",
           "filter": "ages <= 11 & ages >= 0",
           "description": "SOEP: Qualitaet fruehkindlicher Bildung und Betreuung im Sozio-oekonomischen Panel; Pia S. Schober, C. Katharina Spiess, 2013-2016; not published",
           "description_de": "SOEP: Qualitaet fruehkindlicher Bildung und Betreuung im Sozio-oekonomischen Panel; Pia S. Schober, C. Katharina Spiess, 2013-2016; not published",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: never, but the activity is/was offered",
-              "label_de": "1: nie, obwohl Massnahme angeboten wird/wurde"
-            },
-            {
-              "value": 2,
-              "label": "2: at least once a year",
-              "label_de": "2: mindestens einmal im Jahr"
-            },
-            {
-              "value": 3,
-              "label": "3: several times a year",
-              "label_de": "3: mehrmals im Jahr"
-            },
-            {
-              "value": 4,
-              "label": "4: at least once a month",
-              "label_de": "4: mindestens einmal im Monat"
-            },
-            {
-              "value": 5,
-              "label": "5: once a week",
-              "label_de": "5: einmal in der Woche"
-            },
-            {
-              "value": 6,
-              "label": "6: several times a week",
-              "label_de": "6: mehrmals in der Woche"
-            },
-            {
-              "value": 7,
-              "label": "7: the activity is/was not offered",
-              "label_de": "7: Massnahme wird/wurde nicht angeboten"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -22315,8 +21412,8 @@
         }
       },
       "sn": 132,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0100s": {
       "question": "edu0100s",
@@ -22362,8 +21459,8 @@
         }
       },
       "sn": 133,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0400s": {
       "question": "edu0400s",
@@ -22445,8 +21542,8 @@
         }
       },
       "sn": 134,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0401s": {
       "question": "edu0401s",
@@ -22465,8 +21562,8 @@
         }
       },
       "sn": 135,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0402s": {
       "question": "edu0402s",
@@ -22503,8 +21600,8 @@
         }
       },
       "sn": 136,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0498s": {
       "question": "edu0498s",
@@ -22541,8 +21638,8 @@
         }
       },
       "sn": 137,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "edu0403s": {
       "question": "edu0403s",
@@ -22654,8 +21751,8 @@
         }
       },
       "sn": 138,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "aas0100s": {
       "question": "aas0100s",
@@ -22666,33 +21763,10 @@
           "number": 640,
           "text": "Does your child participate outside regular school hours in one or more of the following activities? - help with homework",
           "text_de": "Nimmt Ihr Kind neben der regulaeren Schulzeit eines der folgenden Angebote in Anspruch?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "edu0100s != 2 & edu0100s != 3",
           "description": "adapted from: Pairfam Codebook Parenting Wave 7:\nwww.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebook_Parenting_en__pairfam_Wave_7_2014-15.pdf",
           "description_de": "adaptiert von: Pairfam Codebook Erziehung Welle 7:\nwww.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Erziehung_de__pairfam_Welle_7_2014-15.pdf-15.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -22994,8 +22068,8 @@
         }
       },
       "sn": 139,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0300s": {
       "question": "eca0300s",
@@ -23042,8 +22116,8 @@
         }
       },
       "sn": 140,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0301s": {
       "question": "eca0301s",
@@ -23054,33 +22128,10 @@
           "number": 651,
           "text": "Has your child repeated one or more grades?",
           "text_de": "Welche Klasse(n) wurde(n) wiederholt?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100s == 1 | edu0100s == 3) & eca0300s == 1",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -23514,8 +22565,8 @@
         }
       },
       "sn": 141,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0400s": {
       "question": "eca0400s",
@@ -23562,8 +22613,8 @@
         }
       },
       "sn": 142,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0401s": {
       "question": "eca0401s",
@@ -23574,33 +22625,10 @@
           "number": 666,
           "text": "Has your child skipped one or more grades?",
           "text_de": "Welche Klasse(n) wurde(n) uebersprungen?",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "(edu0100s == 1 | edu0100s == 3) & eca0400s == 1",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -24034,8 +23062,8 @@
         }
       },
       "sn": 143,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "eca0600s": {
       "question": "eca0600s",
@@ -24087,8 +23115,8 @@
         }
       },
       "sn": 144,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0100s": {
       "question": "kgc0100s",
@@ -24130,8 +23158,8 @@
         }
       },
       "sn": 145,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0110s": {
       "question": "kgc0110s",
@@ -24178,8 +23206,8 @@
         }
       },
       "sn": 146,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0101s": {
       "question": "kgc0101s",
@@ -24221,8 +23249,8 @@
         }
       },
       "sn": 147,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0102s": {
       "question": "kgc0102s",
@@ -24264,8 +23292,8 @@
         }
       },
       "sn": 148,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0103s": {
       "question": "kgc0103s",
@@ -24307,8 +23335,8 @@
         }
       },
       "sn": 149,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0104s": {
       "question": "kgc0104s",
@@ -24350,8 +23378,8 @@
         }
       },
       "sn": 150,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0105s": {
       "question": "kgc0105s",
@@ -24393,8 +23421,8 @@
         }
       },
       "sn": 151,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0106s": {
       "question": "kgc0106s",
@@ -24436,8 +23464,8 @@
         }
       },
       "sn": 152,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0200s": {
       "question": "kgc0200s",
@@ -24484,8 +23512,8 @@
         }
       },
       "sn": 153,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0201s": {
       "question": "kgc0201s",
@@ -24527,8 +23555,8 @@
         }
       },
       "sn": 154,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0202s": {
       "question": "kgc0202s",
@@ -24570,8 +23598,8 @@
         }
       },
       "sn": 155,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0300s": {
       "question": "kgc0300s",
@@ -24590,8 +23618,8 @@
         }
       },
       "sn": 156,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0398s": {
       "question": "kgc0398s",
@@ -24633,8 +23661,8 @@
         }
       },
       "sn": 157,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     },
     "kgc0400s": {
       "question": "kgc0400s",
@@ -24721,8 +23749,8 @@
         }
       },
       "sn": 158,
-      "instrument": "twinlife-panel-2014-F2F_Modul6_Betreuung",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul6_Betreuung",
+      "study": "twinlife"
     }
   }
 }

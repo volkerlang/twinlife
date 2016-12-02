@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
+  "questionnaire": "twinlife-2014-F2F_Haushaltsfragebogen",
   "label": "Household questionnaire",
   "description": "Information on household composition",
-  "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
+  "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
   "questions": {
     "liv0100": {
       "question": "liv0100",
@@ -37,8 +37,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0101": {
       "question": "liv0101",
@@ -72,8 +72,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0102": {
       "question": "liv0102",
@@ -112,8 +112,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0198": {
       "question": "liv0198",
@@ -152,8 +152,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0199": {
       "question": "liv0199",
@@ -192,8 +192,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0200": {
       "question": "liv0200",
@@ -258,8 +258,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0201": {
       "question": "liv0201",
@@ -276,8 +276,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0300": {
       "question": "liv0300",
@@ -337,8 +337,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0301": {
       "question": "liv0301",
@@ -355,8 +355,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "liv0400": {
       "question": "liv0400",
@@ -411,8 +411,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "inc0300": {
       "question": "inc0300",
@@ -423,30 +423,7 @@
           "number": 17,
           "text": "Are you or another household member currently receiving one ore more of the following government benefits?",
           "text_de": "Erhalten Sie oder ein anderes Haushaltsmitglied derzeit eine der folgenden staatlichen Leistungen?",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -1133,8 +1110,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "inc0400": {
       "question": "inc0400",
@@ -1168,8 +1145,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "inc0403": {
       "question": "inc0403",
@@ -1269,8 +1246,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0100": {
       "question": "hpr0100",
@@ -1287,8 +1264,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0200": {
       "question": "hpr0200",
@@ -1305,8 +1282,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0300": {
       "question": "hpr0300",
@@ -1324,8 +1301,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0400": {
       "question": "hpr0400",
@@ -1343,8 +1320,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0500": {
       "question": "hpr0500",
@@ -1362,8 +1339,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0600": {
       "question": "hpr0600",
@@ -1381,8 +1358,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0700": {
       "question": "hpr0700",
@@ -1400,8 +1377,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0800": {
       "question": "hpr0800",
@@ -1419,8 +1396,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0900": {
       "question": "hpr0900",
@@ -1438,8 +1415,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1000": {
       "question": "hpr1000",
@@ -1457,8 +1434,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1100": {
       "question": "hpr1100",
@@ -1476,8 +1453,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1200": {
       "question": "hpr1200",
@@ -1495,8 +1472,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1300": {
       "question": "hpr1300",
@@ -1514,8 +1491,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1400": {
       "question": "hpr1400",
@@ -1533,8 +1510,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1500": {
       "question": "hpr1500",
@@ -1552,8 +1529,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0101": {
       "question": "hpr0101",
@@ -1564,30 +1541,7 @@
           "number": 57,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2181,8 +2135,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0201": {
       "question": "hpr0201",
@@ -2193,31 +2147,8 @@
           "number": 77,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0200 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2811,8 +2742,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0301": {
       "question": "hpr0301",
@@ -2823,31 +2754,8 @@
           "number": 97,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0300 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -3441,8 +3349,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0401": {
       "question": "hpr0401",
@@ -3453,31 +3361,8 @@
           "number": 117,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0400 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4071,8 +3956,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0501": {
       "question": "hpr0501",
@@ -4083,31 +3968,8 @@
           "number": 137,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0500 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -4701,8 +4563,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0601": {
       "question": "hpr0601",
@@ -4713,31 +4575,8 @@
           "number": 157,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0600 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5331,8 +5170,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0701": {
       "question": "hpr0701",
@@ -5343,31 +5182,8 @@
           "number": 177,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0700 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -5961,8 +5777,8 @@
         }
       },
       "sn": 34,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0801": {
       "question": "hpr0801",
@@ -5973,31 +5789,8 @@
           "number": 197,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0800 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -6591,8 +6384,8 @@
         }
       },
       "sn": 35,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr0901": {
       "question": "hpr0901",
@@ -6603,31 +6396,8 @@
           "number": 217,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr0900 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7221,8 +6991,8 @@
         }
       },
       "sn": 36,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1001": {
       "question": "hpr1001",
@@ -7233,31 +7003,8 @@
           "number": 237,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr1000 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -7851,8 +7598,8 @@
         }
       },
       "sn": 37,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1101": {
       "question": "hpr1101",
@@ -7863,31 +7610,8 @@
           "number": 257,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr1100 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -8481,8 +8205,8 @@
         }
       },
       "sn": 38,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1201": {
       "question": "hpr1201",
@@ -8493,31 +8217,8 @@
           "number": 277,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr1200 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9111,8 +8812,8 @@
         }
       },
       "sn": 39,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1301": {
       "question": "hpr1301",
@@ -9123,31 +8824,8 @@
           "number": 297,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr1300 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -9741,8 +9419,8 @@
         }
       },
       "sn": 40,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1401": {
       "question": "hpr1401",
@@ -9753,31 +9431,8 @@
           "number": 317,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr1400 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -10371,8 +10026,8 @@
         }
       },
       "sn": 41,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "hpr1501": {
       "question": "hpr1501",
@@ -10383,31 +10038,8 @@
           "number": 337,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
-          "answer_list": "mn",
           "scale": "txt",
           "filter": "hpr1500 != -95",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not mentioned",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: mentioned",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11001,8 +10633,8 @@
         }
       },
       "sn": 42,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0100": {
       "question": "iva0100",
@@ -11013,45 +10645,7 @@
           "number": 357,
           "text": "What is your general impression of the home?",
           "text_de": "Wie ist Ihr Gesamteindruck von der Wohnung?",
-          "answer_list": "iva0100",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: neat",
-              "label_de": "1: aufgeraeumt"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: messy",
-              "label_de": "5: unaufgeraeumt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -11240,8 +10834,8 @@
         }
       },
       "sn": 43,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0104": {
       "question": "iva0104",
@@ -11305,8 +10899,8 @@
         }
       },
       "sn": 44,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0201": {
       "question": "iva0201",
@@ -11360,8 +10954,8 @@
         }
       },
       "sn": 45,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0202": {
       "question": "iva0202",
@@ -11416,8 +11010,8 @@
         }
       },
       "sn": 46,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0203": {
       "question": "iva0203",
@@ -11472,8 +11066,8 @@
         }
       },
       "sn": 47,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0204": {
       "question": "iva0204",
@@ -11528,8 +11122,8 @@
         }
       },
       "sn": 48,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0205": {
       "question": "iva0205",
@@ -11584,8 +11178,8 @@
         }
       },
       "sn": 49,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0206": {
       "question": "iva0206",
@@ -11640,8 +11234,8 @@
         }
       },
       "sn": 50,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0207": {
       "question": "iva0207",
@@ -11696,8 +11290,8 @@
         }
       },
       "sn": 51,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0208": {
       "question": "iva0208",
@@ -11752,8 +11346,8 @@
         }
       },
       "sn": 52,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0209": {
       "question": "iva0209",
@@ -11808,8 +11402,8 @@
         }
       },
       "sn": 53,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0210": {
       "question": "iva0210",
@@ -11864,8 +11458,8 @@
         }
       },
       "sn": 54,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0211": {
       "question": "iva0211",
@@ -11920,8 +11514,8 @@
         }
       },
       "sn": 55,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0212": {
       "question": "iva0212",
@@ -11976,8 +11570,8 @@
         }
       },
       "sn": 56,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0213": {
       "question": "iva0213",
@@ -12032,8 +11626,8 @@
         }
       },
       "sn": 57,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0214": {
       "question": "iva0214",
@@ -12088,8 +11682,8 @@
         }
       },
       "sn": 58,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0215": {
       "question": "iva0215",
@@ -12144,8 +11738,8 @@
         }
       },
       "sn": 59,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0301": {
       "question": "iva0301",
@@ -12199,8 +11793,8 @@
         }
       },
       "sn": 60,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0302": {
       "question": "iva0302",
@@ -12255,8 +11849,8 @@
         }
       },
       "sn": 61,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0303": {
       "question": "iva0303",
@@ -12311,8 +11905,8 @@
         }
       },
       "sn": 62,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0304": {
       "question": "iva0304",
@@ -12367,8 +11961,8 @@
         }
       },
       "sn": 63,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0305": {
       "question": "iva0305",
@@ -12423,8 +12017,8 @@
         }
       },
       "sn": 64,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0306": {
       "question": "iva0306",
@@ -12479,8 +12073,8 @@
         }
       },
       "sn": 65,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0307": {
       "question": "iva0307",
@@ -12535,8 +12129,8 @@
         }
       },
       "sn": 66,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0308": {
       "question": "iva0308",
@@ -12591,8 +12185,8 @@
         }
       },
       "sn": 67,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0309": {
       "question": "iva0309",
@@ -12647,8 +12241,8 @@
         }
       },
       "sn": 68,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0310": {
       "question": "iva0310",
@@ -12703,8 +12297,8 @@
         }
       },
       "sn": 69,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0311": {
       "question": "iva0311",
@@ -12759,8 +12353,8 @@
         }
       },
       "sn": 70,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0312": {
       "question": "iva0312",
@@ -12815,8 +12409,8 @@
         }
       },
       "sn": 71,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0313": {
       "question": "iva0313",
@@ -12871,8 +12465,8 @@
         }
       },
       "sn": 72,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0314": {
       "question": "iva0314",
@@ -12927,8 +12521,8 @@
         }
       },
       "sn": 73,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0315": {
       "question": "iva0315",
@@ -12983,8 +12577,8 @@
         }
       },
       "sn": 74,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0400": {
       "question": "iva0400",
@@ -12995,35 +12589,7 @@
           "number": 393,
           "text": "Did other persons interfere in the interview?",
           "text_de": "Wurde von anderen anwesenden Personen in die Befragung eingegriffen?",
-          "answer_list": "iva0400",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: yes, often",
-              "label_de": "1: ja, haeufig"
-            },
-            {
-              "value": 2,
-              "label": "2: yes, sometimes",
-              "label_de": "2: ja, manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: no",
-              "label_de": "3: nein"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -13172,8 +12738,8 @@
         }
       },
       "sn": 75,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0410": {
       "question": "iva0410",
@@ -13190,8 +12756,8 @@
         }
       },
       "sn": 76,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0411": {
       "question": "iva0411",
@@ -13208,8 +12774,8 @@
         }
       },
       "sn": 77,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0412": {
       "question": "iva0412",
@@ -13226,8 +12792,8 @@
         }
       },
       "sn": 78,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0413": {
       "question": "iva0413",
@@ -13244,8 +12810,8 @@
         }
       },
       "sn": 79,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0500": {
       "question": "iva0500",
@@ -13279,8 +12845,8 @@
         }
       },
       "sn": 80,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0600": {
       "question": "iva0600",
@@ -13314,8 +12880,8 @@
         }
       },
       "sn": 81,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0601": {
       "question": "iva0601",
@@ -13349,8 +12915,8 @@
         }
       },
       "sn": 82,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0602": {
       "question": "iva0602",
@@ -13385,8 +12951,8 @@
         }
       },
       "sn": 83,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0603": {
       "question": "iva0603",
@@ -13421,8 +12987,8 @@
         }
       },
       "sn": 84,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0604": {
       "question": "iva0604",
@@ -13457,8 +13023,8 @@
         }
       },
       "sn": 85,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0605": {
       "question": "iva0605",
@@ -13493,8 +13059,8 @@
         }
       },
       "sn": 86,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0606": {
       "question": "iva0606",
@@ -13529,8 +13095,8 @@
         }
       },
       "sn": 87,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0607": {
       "question": "iva0607",
@@ -13565,8 +13131,8 @@
         }
       },
       "sn": 88,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0608": {
       "question": "iva0608",
@@ -13601,8 +13167,8 @@
         }
       },
       "sn": 89,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0609": {
       "question": "iva0609",
@@ -13637,8 +13203,8 @@
         }
       },
       "sn": 90,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0610": {
       "question": "iva0610",
@@ -13673,8 +13239,8 @@
         }
       },
       "sn": 91,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0611": {
       "question": "iva0611",
@@ -13709,8 +13275,8 @@
         }
       },
       "sn": 92,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0612": {
       "question": "iva0612",
@@ -13745,8 +13311,8 @@
         }
       },
       "sn": 93,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0613": {
       "question": "iva0613",
@@ -13781,8 +13347,8 @@
         }
       },
       "sn": 94,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0614": {
       "question": "iva0614",
@@ -13817,8 +13383,8 @@
         }
       },
       "sn": 95,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0615": {
       "question": "iva0615",
@@ -13853,8 +13419,8 @@
         }
       },
       "sn": 96,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0616": {
       "question": "iva0616",
@@ -13889,8 +13455,8 @@
         }
       },
       "sn": 97,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0617": {
       "question": "iva0617",
@@ -13925,8 +13491,8 @@
         }
       },
       "sn": 98,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0618": {
       "question": "iva0618",
@@ -13961,8 +13527,8 @@
         }
       },
       "sn": 99,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0619": {
       "question": "iva0619",
@@ -13997,8 +13563,8 @@
         }
       },
       "sn": 100,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0620": {
       "question": "iva0620",
@@ -14033,8 +13599,8 @@
         }
       },
       "sn": 101,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0621": {
       "question": "iva0621",
@@ -14069,8 +13635,8 @@
         }
       },
       "sn": 102,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0700": {
       "question": "iva0700",
@@ -14104,8 +13670,8 @@
         }
       },
       "sn": 103,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0701": {
       "question": "iva0701",
@@ -14139,8 +13705,8 @@
         }
       },
       "sn": 104,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0702": {
       "question": "iva0702",
@@ -14174,8 +13740,8 @@
         }
       },
       "sn": 105,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     },
     "iva0800": {
       "question": "iva0800",
@@ -14209,8 +13775,8 @@
         }
       },
       "sn": 106,
-      "instrument": "twinlife-panel-2014-F2F_Haushaltsfragebogen",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
+      "study": "twinlife"
     }
   }
 }
