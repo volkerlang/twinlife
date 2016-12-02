@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
+  "questionnaire": "twinlife-2014-F2F_Modul9_Zeugnis",
   "label": "Module 9: Certificate questionnaire",
   "description": "information on latest school certificate (twins and siblings)",
-  "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
+  "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
   "questions": {
     "cer1000": {
       "question": "cer1000",
@@ -48,8 +48,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1001": {
       "question": "cer1001",
@@ -94,8 +94,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1100": {
       "question": "cer1100",
@@ -130,8 +130,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1101": {
       "question": "cer1101",
@@ -166,8 +166,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1199": {
       "question": "cer1199",
@@ -202,8 +202,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer9000": {
       "question": "cer9000",
@@ -283,8 +283,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer9001": {
       "question": "cer9001",
@@ -301,8 +301,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1300": {
       "question": "cer1300",
@@ -337,8 +337,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1399": {
       "question": "cer1399",
@@ -373,8 +373,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1400": {
       "question": "cer1400",
@@ -409,8 +409,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1499": {
       "question": "cer1499",
@@ -445,8 +445,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1500": {
       "question": "cer1500",
@@ -481,8 +481,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1599": {
       "question": "cer1599",
@@ -517,8 +517,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1600": {
       "question": "cer1600",
@@ -553,8 +553,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1699": {
       "question": "cer1699",
@@ -589,8 +589,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1700": {
       "question": "cer1700",
@@ -660,8 +660,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1701": {
       "question": "cer1701",
@@ -678,8 +678,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     },
     "cer1800": {
       "question": "cer1800",
@@ -723,8 +723,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
+      "study": "twinlife"
     }
   }
 }

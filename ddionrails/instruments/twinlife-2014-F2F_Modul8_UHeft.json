@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Modul8_UHeft",
+  "questionnaire": "twinlife-2014-F2F_Modul8_UHeft",
   "label": "Module 8: Health record book",
   "description": "Information on \u201eyellow\u201c health record book",
-  "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
+  "instrument": "twinlife-2014-F2F_Modul8_UHeft",
   "questions": {
     "nbi1000": {
       "question": "nbi1000",
@@ -38,8 +38,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1099": {
       "question": "nbi1099",
@@ -74,8 +74,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1100": {
       "question": "nbi1100",
@@ -110,8 +110,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1199": {
       "question": "nbi1199",
@@ -146,8 +146,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1200": {
       "question": "nbi1200",
@@ -182,8 +182,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1299": {
       "question": "nbi1299",
@@ -218,8 +218,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1300": {
       "question": "nbi1300",
@@ -263,8 +263,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi1301": {
       "question": "nbi1301",
@@ -308,8 +308,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0100": {
       "question": "nbi0100",
@@ -354,8 +354,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0102": {
       "question": "nbi0102",
@@ -372,8 +372,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0103": {
       "question": "nbi0103",
@@ -408,8 +408,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0104": {
       "question": "nbi0104",
@@ -444,8 +444,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0105": {
       "question": "nbi0105",
@@ -480,8 +480,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0106": {
       "question": "nbi0106",
@@ -526,8 +526,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0107": {
       "question": "nbi0107",
@@ -562,8 +562,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0108": {
       "question": "nbi0108",
@@ -574,301 +574,8 @@
           "number": 24,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
-          "answer_list": "frisk",
           "scale": "txt",
           "filter": "nbi1300 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)",
-              "label_de": "1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-            },
-            {
-              "value": 2,
-              "label": "2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)",
-              "label_de": "2: fruehere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
-            },
-            {
-              "value": 3,
-              "label": "3: Susceptible to bleeding/thrombotic events",
-              "label_de": "3: Blutungs-/Thromboseneigung"
-            },
-            {
-              "value": 4,
-              "label": "4: Allergies, including to medications",
-              "label_de": "4: Allergie, z.B. gg. Medikamente"
-            },
-            {
-              "value": 5,
-              "label": "5: Prior blood transfusions",
-              "label_de": "5: fruehere Bluttransfusionen"
-            },
-            {
-              "value": 6,
-              "label": "6: Special mental stress (e.g. family- or work-related)",
-              "label_de": "6: besondere psychische Belastung (z.B. familiaere oder berufliche)"
-            },
-            {
-              "value": 7,
-              "label": "7: Special social stress (e.g. integration or financial issues)",
-              "label_de": "7: besondere soziale Belastung (Integrationsprobleme, wirtschaftliche Probleme)"
-            },
-            {
-              "value": 8,
-              "label": "8: Rhesus incompatibility (in prior pregnancies)",
-              "label_de": "8: Rhesus-Inkompatibilitaet (bei vorangeg. Schwangersch.)"
-            },
-            {
-              "value": 9,
-              "label": "9: Diabetes mellitus",
-              "label_de": "9: Diabetes mellitus"
-            },
-            {
-              "value": 10,
-              "label": "10: Obesity",
-              "label_de": "10: Adipositas"
-            },
-            {
-              "value": 11,
-              "label": "11: Microsomia / small stature",
-              "label_de": "11: Kleinwuchs"
-            },
-            {
-              "value": 12,
-              "label": "12: Skeletal abnormalities",
-              "label_de": "12: Skelettanomalien"
-            },
-            {
-              "value": 13,
-              "label": "13: Under 18 years of age",
-              "label_de": "13: Schwangere unter 18 Jahren"
-            },
-            {
-              "value": 14,
-              "label": "14: Over 35 years of age",
-              "label_de": "14: Schwangere ueber 35 Jahren"
-            },
-            {
-              "value": 15,
-              "label": "15: Multipara (more than 4 children)",
-              "label_de": "15: Vielgebaerende (mehr als 4 Kinder)"
-            },
-            {
-              "value": 16,
-              "label": "16: History of fertility treatment",
-              "label_de": "16: Z. n. Sterilitaetsbehandlung"
-            },
-            {
-              "value": 17,
-              "label": "17: History of preterm birth (before the end of week 37)",
-              "label_de": "17: Z. n. Fruehgeburt (vor Ende der 37. SSW)"
-            },
-            {
-              "value": 18,
-              "label": "18: History of low-birth-weight infant",
-              "label_de": "18: Z. n. Mangelgeburt"
-            },
-            {
-              "value": 19,
-              "label": "19: History of 2 or more miscarriages/abortions",
-              "label_de": "19: Z. n. 2 oder mehr Fehlgeburten/Aborten/Abbruechen"
-            },
-            {
-              "value": 20,
-              "label": "20: History of previous stillbirth or neonatal death or baby with serious medical problems/impairment",
-              "label_de": "20: Totes/geschaedigtes Kind in der Anamnese"
-            },
-            {
-              "value": 21,
-              "label": "21: Complications during prior births",
-              "label_de": "21: Komplikationen bei vorausgegangenen Entbindungen"
-            },
-            {
-              "value": 22,
-              "label": "22: Complications post partum/in puerperium",
-              "label_de": "22: Komplikationen post partum"
-            },
-            {
-              "value": 23,
-              "label": "23: History of Caesarian section",
-              "label_de": "23: Z. n. Sectio"
-            },
-            {
-              "value": 24,
-              "label": "24: History of other uterine surgery",
-              "label_de": "24: Z. n. anderen Uterusoperationen"
-            },
-            {
-              "value": 25,
-              "label": "25: Pregnancies in quick succession (less than 1 year)",
-              "label_de": "25: rasche Schwangerschaftsfolge (weniger als 1 Jahr)"
-            },
-            {
-              "value": 26,
-              "label": "26: Other special circumstances",
-              "label_de": "26: andere Besonderheiten"
-            },
-            {
-              "value": 27,
-              "label": "27: General illnesses requiring treatment",
-              "label_de": "27: behandlungsbeduerftige Allgemeinerkrankungen"
-            },
-            {
-              "value": 28,
-              "label": "28: Long-term medication",
-              "label_de": "28: Dauermedikation"
-            },
-            {
-              "value": 29,
-              "label": "29: Substance abuse",
-              "label_de": "29: Abusus"
-            },
-            {
-              "value": 30,
-              "label": "30: Exceptional mental stress",
-              "label_de": "30: besondere psychische Belastung"
-            },
-            {
-              "value": 31,
-              "label": "31: Exceptional social stress",
-              "label_de": "31: besondere soziale Belastung"
-            },
-            {
-              "value": 32,
-              "label": "32: Bleeding before 28th week",
-              "label_de": "32: Blutungen vor der 28. SSW"
-            },
-            {
-              "value": 33,
-              "label": "33: Bleeding after 28th Week",
-              "label_de": "33: Blutungen nach der 28. SSW"
-            },
-            {
-              "value": 34,
-              "label": "34: Placenta praevia",
-              "label_de": "34: Placenta praevia"
-            },
-            {
-              "value": 35,
-              "label": "35: Multiple pregnancy",
-              "label_de": "35: Mehrlingsschwangerschaft"
-            },
-            {
-              "value": 36,
-              "label": "36: Polyhydramnios",
-              "label_de": "36: Hydramnion"
-            },
-            {
-              "value": 37,
-              "label": "37: Oligohydramnios",
-              "label_de": "37: Oligohydramnie"
-            },
-            {
-              "value": 38,
-              "label": "38: Uncertain expected date of delivery",
-              "label_de": "38: Terminunklarheit"
-            },
-            {
-              "value": 39,
-              "label": "39: Placental insufficiency",
-              "label_de": "39: Placentainsuffizienz"
-            },
-            {
-              "value": 40,
-              "label": "40: Cervical insufficiency",
-              "label_de": "40: Isthmozervikale Insuffizienz"
-            },
-            {
-              "value": 41,
-              "label": "41: Preterm labor",
-              "label_de": "41: vorzeitige Wehentaetigkeit"
-            },
-            {
-              "value": 42,
-              "label": "42: Anaemia",
-              "label_de": "42: Anaemie"
-            },
-            {
-              "value": 43,
-              "label": "43: Urinary tract infection",
-              "label_de": "43: Harnwegsinfektion"
-            },
-            {
-              "value": 44,
-              "label": "44: Antenatal antibody screening positive",
-              "label_de": "44: indirekter Coombstest positiv"
-            },
-            {
-              "value": 45,
-              "label": "45: Risk due to other serological findings",
-              "label_de": "45: Risiko aus anderen serologischen Befunden"
-            },
-            {
-              "value": 46,
-              "label": "46: Hypertension (blood pressure over 140/90)",
-              "label_de": "46: Hypertonie (Blutdruck ueber 140/90)"
-            },
-            {
-              "value": 47,
-              "label": "47: Urinalysis for protein 1% (1000mg/l) or more",
-              "label_de": "47: Eiweissausscheidung 1 Promille (entspr. 1000 mg/l) o. mehr"
-            },
-            {
-              "value": 48,
-              "label": "48: Moderate \u2013 severe oedema",
-              "label_de": "48: Mittelgradige - schwere Oedeme"
-            },
-            {
-              "value": 49,
-              "label": "49: Hypotension",
-              "label_de": "49: Hypotonie"
-            },
-            {
-              "value": 50,
-              "label": "50: Gestational diabetes",
-              "label_de": "50: Gestationsdiabetes"
-            },
-            {
-              "value": 51,
-              "label": "51: Abnormal engagement of fetal head",
-              "label_de": "51: Einstellungs-/Lageanomalie"
-            },
-            {
-              "value": 52,
-              "label": "52: Other special findings",
-              "label_de": "52: andere Besonderheiten"
-            },
-            {
-              "value": 53,
-              "label": "53: Hyperemesis",
-              "label_de": "53: Hyperemesis"
-            },
-            {
-              "value": 54,
-              "label": "54: History of HELLP-syndrome",
-              "label_de": "54: Z. n. HELLP-Syndrom"
-            },
-            {
-              "value": 55,
-              "label": "55: History of eclampsia",
-              "label_de": "55: Z. n. Eklampsie"
-            },
-            {
-              "value": 56,
-              "label": "56: History of hypertension",
-              "label_de": "56: Z. n. Hypertonie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2679,8 +2386,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0114": {
       "question": "nbi0114",
@@ -2715,8 +2422,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0115": {
       "question": "nbi0115",
@@ -2751,8 +2458,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0116": {
       "question": "nbi0116",
@@ -2787,8 +2494,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0117": {
       "question": "nbi0117",
@@ -2823,8 +2530,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0118": {
       "question": "nbi0118",
@@ -2841,8 +2548,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0119": {
       "question": "nbi0119",
@@ -2859,8 +2566,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0200": {
       "question": "nbi0200",
@@ -2905,8 +2612,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0201": {
       "question": "nbi0201",
@@ -2941,8 +2648,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0202": {
       "question": "nbi0202",
@@ -2977,8 +2684,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0203": {
       "question": "nbi0203",
@@ -3013,8 +2720,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0204": {
       "question": "nbi0204",
@@ -3031,8 +2738,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0205": {
       "question": "nbi0205",
@@ -3049,8 +2756,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0206": {
       "question": "nbi0206",
@@ -3067,8 +2774,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0207": {
       "question": "nbi0207",
@@ -3103,8 +2810,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0208": {
       "question": "nbi0208",
@@ -3139,8 +2846,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0209": {
       "question": "nbi0209",
@@ -3157,8 +2864,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0211": {
       "question": "nbi0211",
@@ -3203,8 +2910,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0212": {
       "question": "nbi0212",
@@ -3221,8 +2928,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0300": {
       "question": "nbi0300",
@@ -3267,8 +2974,8 @@
         }
       },
       "sn": 34,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0301": {
       "question": "nbi0301",
@@ -3303,8 +3010,8 @@
         }
       },
       "sn": 35,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0302": {
       "question": "nbi0302",
@@ -3339,8 +3046,8 @@
         }
       },
       "sn": 36,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0303": {
       "question": "nbi0303",
@@ -3375,8 +3082,8 @@
         }
       },
       "sn": 37,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0304": {
       "question": "nbi0304",
@@ -3393,8 +3100,8 @@
         }
       },
       "sn": 38,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0305": {
       "question": "nbi0305",
@@ -3411,8 +3118,8 @@
         }
       },
       "sn": 39,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0306": {
       "question": "nbi0306",
@@ -3429,8 +3136,8 @@
         }
       },
       "sn": 40,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0307": {
       "question": "nbi0307",
@@ -3465,8 +3172,8 @@
         }
       },
       "sn": 41,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0308": {
       "question": "nbi0308",
@@ -3501,8 +3208,8 @@
         }
       },
       "sn": 42,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0309": {
       "question": "nbi0309",
@@ -3519,8 +3226,8 @@
         }
       },
       "sn": 43,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0311": {
       "question": "nbi0311",
@@ -3565,8 +3272,8 @@
         }
       },
       "sn": 44,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0312": {
       "question": "nbi0312",
@@ -3583,8 +3290,8 @@
         }
       },
       "sn": 45,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0400": {
       "question": "nbi0400",
@@ -3629,8 +3336,8 @@
         }
       },
       "sn": 46,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0401": {
       "question": "nbi0401",
@@ -3665,8 +3372,8 @@
         }
       },
       "sn": 47,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0402": {
       "question": "nbi0402",
@@ -3701,8 +3408,8 @@
         }
       },
       "sn": 48,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0403": {
       "question": "nbi0403",
@@ -3737,8 +3444,8 @@
         }
       },
       "sn": 49,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0404": {
       "question": "nbi0404",
@@ -3755,8 +3462,8 @@
         }
       },
       "sn": 50,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0405": {
       "question": "nbi0405",
@@ -3773,8 +3480,8 @@
         }
       },
       "sn": 51,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0406": {
       "question": "nbi0406",
@@ -3791,8 +3498,8 @@
         }
       },
       "sn": 52,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0407": {
       "question": "nbi0407",
@@ -3827,8 +3534,8 @@
         }
       },
       "sn": 53,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0408": {
       "question": "nbi0408",
@@ -3863,8 +3570,8 @@
         }
       },
       "sn": 54,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0409": {
       "question": "nbi0409",
@@ -3881,8 +3588,8 @@
         }
       },
       "sn": 55,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0411": {
       "question": "nbi0411",
@@ -3927,8 +3634,8 @@
         }
       },
       "sn": 56,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0412": {
       "question": "nbi0412",
@@ -3945,8 +3652,8 @@
         }
       },
       "sn": 57,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0500": {
       "question": "nbi0500",
@@ -3991,8 +3698,8 @@
         }
       },
       "sn": 58,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0501": {
       "question": "nbi0501",
@@ -4027,8 +3734,8 @@
         }
       },
       "sn": 59,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0502": {
       "question": "nbi0502",
@@ -4063,8 +3770,8 @@
         }
       },
       "sn": 60,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0503": {
       "question": "nbi0503",
@@ -4099,8 +3806,8 @@
         }
       },
       "sn": 61,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0504": {
       "question": "nbi0504",
@@ -4117,8 +3824,8 @@
         }
       },
       "sn": 62,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0505": {
       "question": "nbi0505",
@@ -4135,8 +3842,8 @@
         }
       },
       "sn": 63,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0506": {
       "question": "nbi0506",
@@ -4153,8 +3860,8 @@
         }
       },
       "sn": 64,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0507": {
       "question": "nbi0507",
@@ -4189,8 +3896,8 @@
         }
       },
       "sn": 65,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0508": {
       "question": "nbi0508",
@@ -4225,8 +3932,8 @@
         }
       },
       "sn": 66,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0509": {
       "question": "nbi0509",
@@ -4243,8 +3950,8 @@
         }
       },
       "sn": 67,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0511": {
       "question": "nbi0511",
@@ -4289,8 +3996,8 @@
         }
       },
       "sn": 68,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0512": {
       "question": "nbi0512",
@@ -4307,8 +4014,8 @@
         }
       },
       "sn": 69,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0600": {
       "question": "nbi0600",
@@ -4353,8 +4060,8 @@
         }
       },
       "sn": 70,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0601": {
       "question": "nbi0601",
@@ -4389,8 +4096,8 @@
         }
       },
       "sn": 71,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0602": {
       "question": "nbi0602",
@@ -4425,8 +4132,8 @@
         }
       },
       "sn": 72,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0603": {
       "question": "nbi0603",
@@ -4461,8 +4168,8 @@
         }
       },
       "sn": 73,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0604": {
       "question": "nbi0604",
@@ -4479,8 +4186,8 @@
         }
       },
       "sn": 74,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0605": {
       "question": "nbi0605",
@@ -4497,8 +4204,8 @@
         }
       },
       "sn": 75,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0606": {
       "question": "nbi0606",
@@ -4515,8 +4222,8 @@
         }
       },
       "sn": 76,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0607": {
       "question": "nbi0607",
@@ -4551,8 +4258,8 @@
         }
       },
       "sn": 77,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0608": {
       "question": "nbi0608",
@@ -4587,8 +4294,8 @@
         }
       },
       "sn": 78,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0609": {
       "question": "nbi0609",
@@ -4605,8 +4312,8 @@
         }
       },
       "sn": 79,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0611": {
       "question": "nbi0611",
@@ -4651,8 +4358,8 @@
         }
       },
       "sn": 80,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0612": {
       "question": "nbi0612",
@@ -4669,8 +4376,8 @@
         }
       },
       "sn": 81,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0700": {
       "question": "nbi0700",
@@ -4715,8 +4422,8 @@
         }
       },
       "sn": 82,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0701": {
       "question": "nbi0701",
@@ -4751,8 +4458,8 @@
         }
       },
       "sn": 83,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0702": {
       "question": "nbi0702",
@@ -4787,8 +4494,8 @@
         }
       },
       "sn": 84,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0703": {
       "question": "nbi0703",
@@ -4823,8 +4530,8 @@
         }
       },
       "sn": 85,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0704": {
       "question": "nbi0704",
@@ -4841,8 +4548,8 @@
         }
       },
       "sn": 86,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0705": {
       "question": "nbi0705",
@@ -4859,8 +4566,8 @@
         }
       },
       "sn": 87,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0706": {
       "question": "nbi0706",
@@ -4877,8 +4584,8 @@
         }
       },
       "sn": 88,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0707": {
       "question": "nbi0707",
@@ -4913,8 +4620,8 @@
         }
       },
       "sn": 89,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0708": {
       "question": "nbi0708",
@@ -4949,8 +4656,8 @@
         }
       },
       "sn": 90,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0709": {
       "question": "nbi0709",
@@ -4967,8 +4674,8 @@
         }
       },
       "sn": 91,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0711": {
       "question": "nbi0711",
@@ -5013,8 +4720,8 @@
         }
       },
       "sn": 92,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0712": {
       "question": "nbi0712",
@@ -5031,8 +4738,8 @@
         }
       },
       "sn": 93,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0800": {
       "question": "nbi0800",
@@ -5077,8 +4784,8 @@
         }
       },
       "sn": 94,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0801": {
       "question": "nbi0801",
@@ -5113,8 +4820,8 @@
         }
       },
       "sn": 95,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0802": {
       "question": "nbi0802",
@@ -5149,8 +4856,8 @@
         }
       },
       "sn": 96,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0803": {
       "question": "nbi0803",
@@ -5185,8 +4892,8 @@
         }
       },
       "sn": 97,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0804": {
       "question": "nbi0804",
@@ -5203,8 +4910,8 @@
         }
       },
       "sn": 98,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0805": {
       "question": "nbi0805",
@@ -5221,8 +4928,8 @@
         }
       },
       "sn": 99,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0806": {
       "question": "nbi0806",
@@ -5239,8 +4946,8 @@
         }
       },
       "sn": 100,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0807": {
       "question": "nbi0807",
@@ -5275,8 +4982,8 @@
         }
       },
       "sn": 101,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0808": {
       "question": "nbi0808",
@@ -5311,8 +5018,8 @@
         }
       },
       "sn": 102,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0809": {
       "question": "nbi0809",
@@ -5329,8 +5036,8 @@
         }
       },
       "sn": 103,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0811": {
       "question": "nbi0811",
@@ -5375,8 +5082,8 @@
         }
       },
       "sn": 104,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0812": {
       "question": "nbi0812",
@@ -5393,8 +5100,8 @@
         }
       },
       "sn": 105,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0900": {
       "question": "nbi0900",
@@ -5439,8 +5146,8 @@
         }
       },
       "sn": 106,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0901": {
       "question": "nbi0901",
@@ -5475,8 +5182,8 @@
         }
       },
       "sn": 107,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0902": {
       "question": "nbi0902",
@@ -5511,8 +5218,8 @@
         }
       },
       "sn": 108,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0903": {
       "question": "nbi0903",
@@ -5547,8 +5254,8 @@
         }
       },
       "sn": 109,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0904": {
       "question": "nbi0904",
@@ -5565,8 +5272,8 @@
         }
       },
       "sn": 110,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0905": {
       "question": "nbi0905",
@@ -5583,8 +5290,8 @@
         }
       },
       "sn": 111,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0906": {
       "question": "nbi0906",
@@ -5601,8 +5308,8 @@
         }
       },
       "sn": 112,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0907": {
       "question": "nbi0907",
@@ -5637,8 +5344,8 @@
         }
       },
       "sn": 113,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0908": {
       "question": "nbi0908",
@@ -5673,8 +5380,8 @@
         }
       },
       "sn": 114,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0909": {
       "question": "nbi0909",
@@ -5691,8 +5398,8 @@
         }
       },
       "sn": 115,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0911": {
       "question": "nbi0911",
@@ -5737,8 +5444,8 @@
         }
       },
       "sn": 116,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     },
     "nbi0912": {
       "question": "nbi0912",
@@ -5755,8 +5462,8 @@
         }
       },
       "sn": 117,
-      "instrument": "twinlife-panel-2014-F2F_Modul8_UHeft",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul8_UHeft",
+      "study": "twinlife"
     }
   }
 }

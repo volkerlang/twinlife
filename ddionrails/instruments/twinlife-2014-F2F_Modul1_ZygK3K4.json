@@ -1,9 +1,9 @@
 {
   "study": "twinlife",
-  "questionnaire": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
+  "questionnaire": "twinlife-2014-F2F_Modul1_ZygK3K4",
   "label": "Module 1: Zygosity questionnaire for cohorts 3 and 4",
   "description": "Results of zygosity assessment and zygosity questionnaires",
-  "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
+  "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
   "questions": {
     "zyg0109": {
       "question": "zyg0109",
@@ -37,8 +37,8 @@
         }
       },
       "sn": 0,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1000": {
       "question": "zyg1000",
@@ -77,8 +77,8 @@
         }
       },
       "sn": 1,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0200": {
       "question": "zyg0200",
@@ -112,8 +112,8 @@
         }
       },
       "sn": 2,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0201": {
       "question": "zyg0201",
@@ -147,8 +147,8 @@
         }
       },
       "sn": 3,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1100": {
       "question": "zyg1100",
@@ -192,8 +192,8 @@
         }
       },
       "sn": 4,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1101": {
       "question": "zyg1101",
@@ -237,8 +237,8 @@
         }
       },
       "sn": 5,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1102": {
       "question": "zyg1102",
@@ -282,8 +282,8 @@
         }
       },
       "sn": 6,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1200": {
       "question": "zyg1200",
@@ -342,8 +342,8 @@
         }
       },
       "sn": 7,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1201": {
       "question": "zyg1201",
@@ -360,8 +360,8 @@
         }
       },
       "sn": 8,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1202": {
       "question": "zyg1202",
@@ -420,8 +420,8 @@
         }
       },
       "sn": 9,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1203": {
       "question": "zyg1203",
@@ -438,8 +438,8 @@
         }
       },
       "sn": 10,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1204": {
       "question": "zyg1204",
@@ -483,8 +483,8 @@
         }
       },
       "sn": 11,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1205": {
       "question": "zyg1205",
@@ -553,8 +553,8 @@
         }
       },
       "sn": 12,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1206": {
       "question": "zyg1206",
@@ -623,8 +623,8 @@
         }
       },
       "sn": 13,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1207": {
       "question": "zyg1207",
@@ -673,8 +673,8 @@
         }
       },
       "sn": 14,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1300": {
       "question": "zyg1300",
@@ -718,8 +718,8 @@
         }
       },
       "sn": 15,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1400": {
       "question": "zyg1400",
@@ -758,8 +758,8 @@
         }
       },
       "sn": 16,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1401": {
       "question": "zyg1401",
@@ -798,8 +798,8 @@
         }
       },
       "sn": 17,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1500": {
       "question": "zyg1500",
@@ -843,8 +843,8 @@
         }
       },
       "sn": 18,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1501": {
       "question": "zyg1501",
@@ -855,41 +855,8 @@
           "number": 32,
           "text": "Which of the following people confused you with your twin? Please consider all groups of people and tick the appropriate answer:",
           "text_de": "Welche von den nachstehend genannten Personen verwechselte Sie? Bitte ziehen Sie alle Personengruppen in Betracht und kreuzen Sie die jeweils gewaehlte Antwort an:",
-          "answer_list": "zyg1501",
           "scale": "txt",
           "filter": "zyg1500 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: often",
-              "label_de": "1: oft"
-            },
-            {
-              "value": 2,
-              "label": "2: sometimes",
-              "label_de": "2: manchmal"
-            },
-            {
-              "value": 3,
-              "label": "3: rarely",
-              "label_de": "3: selten"
-            },
-            {
-              "value": 4,
-              "label": "4: never",
-              "label_de": "4: nie"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -1099,8 +1066,8 @@
         }
       },
       "sn": 19,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1506": {
       "question": "zyg1506",
@@ -1144,8 +1111,8 @@
         }
       },
       "sn": 20,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1507": {
       "question": "zyg1507",
@@ -1189,8 +1156,8 @@
         }
       },
       "sn": 21,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0501": {
       "question": "zyg0501",
@@ -1239,8 +1206,8 @@
         }
       },
       "sn": 22,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0502": {
       "question": "zyg0502",
@@ -1279,8 +1246,8 @@
         }
       },
       "sn": 23,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0503": {
       "question": "zyg0503",
@@ -1329,8 +1296,8 @@
         }
       },
       "sn": 24,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0504": {
       "question": "zyg0504",
@@ -1369,8 +1336,8 @@
         }
       },
       "sn": 25,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1600": {
       "question": "zyg1600",
@@ -1414,8 +1381,8 @@
         }
       },
       "sn": 26,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1601": {
       "question": "zyg1601",
@@ -1459,8 +1426,8 @@
         }
       },
       "sn": 27,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1700": {
       "question": "zyg1700",
@@ -1504,8 +1471,8 @@
         }
       },
       "sn": 28,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1800": {
       "question": "zyg1800",
@@ -1554,8 +1521,8 @@
         }
       },
       "sn": 29,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1801": {
       "question": "zyg1801",
@@ -1599,8 +1566,8 @@
         }
       },
       "sn": 30,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg1802": {
       "question": "zyg1802",
@@ -1617,8 +1584,8 @@
         }
       },
       "sn": 31,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0900": {
       "question": "zyg0900",
@@ -1629,30 +1596,7 @@
           "number": 50,
           "text": "In which generation and on which side of your family (mother's/father's) were there or are there other twins? Multiple answers possible.",
           "text_de": "In welcher Generation und in welchem Teil Ihrer Familie (muetterlicherseits/vaeterlicherseits) gab oder gibt es Zwillinge? Sie koennen mehrere Angaben machen.",
-          "answer_list": "mn",
           "scale": "txt",
-          "answers": [
-            {
-              "value": 0,
-              "label": "0: not stated",
-              "label_de": "0: nicht genannt"
-            },
-            {
-              "value": 1,
-              "label": "1: stated",
-              "label_de": "1: genannt"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -1936,8 +1880,8 @@
         }
       },
       "sn": 32,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     },
     "zyg0920": {
       "question": "zyg0920",
@@ -1948,41 +1892,8 @@
           "number": 60,
           "text": "For each set of twins in your family, please state whether they are identical/monozygotic or non-identical/dizygotic.",
           "text_de": "Geben Sie bitte fuer jedes angegebene Zwillingspaar in Ihrer Familie an, ob diese eineiig oder zweieiig sind.",
-          "answer_list": "zyg0700",
           "scale": "txt",
           "filter": "zyg0900 == 1",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: (pretty) sure monozygotic",
-              "label_de": "1: (ziemlich) sicher eineiig"
-            },
-            {
-              "value": 2,
-              "label": "2: presumably monozygotic",
-              "label_de": "2: vermutlich eineiig"
-            },
-            {
-              "value": 3,
-              "label": "3: presumably dizygotic",
-              "label_de": "3: vermutlich zweieiig"
-            },
-            {
-              "value": 4,
-              "label": "4: (pretty) sure dizygotic",
-              "label_de": "4: (ziemlich) sicher zweieiig"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
           "sn": 0
         },
         "1.0": {
@@ -2315,8 +2226,8 @@
         }
       },
       "sn": 33,
-      "instrument": "twinlife-panel-2014-F2F_Modul1_ZygK3K4",
-      "study": "twinlife-panel"
+      "instrument": "twinlife-2014-F2F_Modul1_ZygK3K4",
+      "study": "twinlife"
     }
   }
 }
