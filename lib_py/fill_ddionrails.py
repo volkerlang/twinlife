@@ -26,7 +26,7 @@ def main():
     copy.study()
     dor1.variables()
     copy.f("datasets.csv")
-    copy.f("instruments.csv")
+    #copy.f("questionnaires.csv", "instruments.csv")
     questions_variables()
     merge_instruments.main()
     convert_r2ddi.Parser(version="v1").write_json()
