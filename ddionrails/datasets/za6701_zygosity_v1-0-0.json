@@ -1,5 +1,6 @@
 {
   "fid": {
+    "study": "twinlife",
     "name": "fid",
     "name_cs": "fid",
     "variable": "fid",
@@ -36,6 +37,7 @@
     "scale": ""
   },
   "fid_hhc": {
+    "study": "twinlife",
     "name": "fid_hhc",
     "name_cs": "fid_hhc",
     "variable": "fid_hhc",
@@ -8932,6 +8934,7 @@
     "scale": "cat"
   },
   "ptyp": {
+    "study": "twinlife",
     "name": "ptyp",
     "name_cs": "ptyp",
     "variable": "ptyp",
@@ -9040,6 +9043,7 @@
     "scale": "cat"
   },
   "pid": {
+    "study": "twinlife",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -9076,6 +9080,7 @@
     "scale": ""
   },
   "yea_zq": {
+    "study": "twinlife",
     "name": "yea_zq",
     "name_cs": "yea_zq",
     "variable": "yea_zq",
@@ -9172,6 +9177,7 @@
     "scale": "cat"
   },
   "mon_zq": {
+    "study": "twinlife",
     "name": "mon_zq",
     "name_cs": "mon_zq",
     "variable": "mon_zq",
@@ -9296,6 +9302,7 @@
     "scale": "cat"
   },
   "zyg0100": {
+    "study": "twinlife",
     "name": "zyg0100",
     "name_cs": "zyg0100",
     "variable": "zyg0100",
@@ -9384,6 +9391,7 @@
     "scale": "cat"
   },
   "zyg0109": {
+    "study": "twinlife",
     "name": "zyg0109",
     "name_cs": "zyg0109",
     "variable": "zyg0109",
@@ -16428,6 +16436,7 @@
     "scale": "cat"
   },
   "zyg0110": {
+    "study": "twinlife",
     "name": "zyg0110",
     "name_cs": "zyg0110",
     "variable": "zyg0110",
@@ -16508,6 +16517,7 @@
     "scale": "cat"
   },
   "zyg0101": {
+    "study": "twinlife",
     "name": "zyg0101",
     "name_cs": "zyg0101",
     "variable": "zyg0101",
@@ -16596,6 +16606,7 @@
     "scale": "cat"
   },
   "zyg0102": {
+    "study": "twinlife",
     "name": "zyg0102",
     "name_cs": "zyg0102",
     "variable": "zyg0102",
@@ -16684,6 +16695,7 @@
     "scale": "cat"
   },
   "zyg1000": {
+    "study": "twinlife",
     "name": "zyg1000",
     "name_cs": "zyg1000",
     "variable": "zyg1000",
@@ -16764,6 +16776,7 @@
     "scale": "cat"
   },
   "zyg0200": {
+    "study": "twinlife",
     "name": "zyg0200",
     "name_cs": "zyg0200",
     "variable": "zyg0200",
@@ -17068,6 +17081,7 @@
     "scale": "cat"
   },
   "zyg0201": {
+    "study": "twinlife",
     "name": "zyg0201",
     "name_cs": "zyg0201",
     "variable": "zyg0201",
@@ -17388,6 +17402,7 @@
     "scale": "cat"
   },
   "zyg1100": {
+    "study": "twinlife",
     "name": "zyg1100",
     "name_cs": "zyg1100",
     "variable": "zyg1100",
@@ -17472,6 +17487,7 @@
     "scale": "cat"
   },
   "zyg1101": {
+    "study": "twinlife",
     "name": "zyg1101",
     "name_cs": "zyg1101",
     "variable": "zyg1101",
@@ -17564,6 +17580,7 @@
     "scale": "cat"
   },
   "zyg1102": {
+    "study": "twinlife",
     "name": "zyg1102",
     "name_cs": "zyg1102",
     "variable": "zyg1102",
@@ -17656,6 +17673,7 @@
     "scale": "cat"
   },
   "zyg1200": {
+    "study": "twinlife",
     "name": "zyg1200",
     "name_cs": "zyg1200",
     "variable": "zyg1200",
@@ -17752,6 +17770,7 @@
     "scale": "cat"
   },
   "zyg1202": {
+    "study": "twinlife",
     "name": "zyg1202",
     "name_cs": "zyg1202",
     "variable": "zyg1202",
@@ -17848,6 +17867,7 @@
     "scale": "cat"
   },
   "zyg1204": {
+    "study": "twinlife",
     "name": "zyg1204",
     "name_cs": "zyg1204",
     "variable": "zyg1204",
@@ -17932,6 +17952,7 @@
     "scale": "cat"
   },
   "zyg1205": {
+    "study": "twinlife",
     "name": "zyg1205",
     "name_cs": "zyg1205",
     "variable": "zyg1205",
@@ -18036,6 +18057,7 @@
     "scale": "cat"
   },
   "zyg1206": {
+    "study": "twinlife",
     "name": "zyg1206",
     "name_cs": "zyg1206",
     "variable": "zyg1206",
@@ -18140,6 +18162,7 @@
     "scale": "cat"
   },
   "zyg1207": {
+    "study": "twinlife",
     "name": "zyg1207",
     "name_cs": "zyg1207",
     "variable": "zyg1207",
@@ -18228,6 +18251,7 @@
     "scale": "cat"
   },
   "zyg1300": {
+    "study": "twinlife",
     "name": "zyg1300",
     "name_cs": "zyg1300",
     "variable": "zyg1300",
@@ -18312,6 +18336,7 @@
     "scale": "cat"
   },
   "zyg1400": {
+    "study": "twinlife",
     "name": "zyg1400",
     "name_cs": "zyg1400",
     "variable": "zyg1400",
@@ -18392,6 +18417,7 @@
     "scale": "cat"
   },
   "zyg1401": {
+    "study": "twinlife",
     "name": "zyg1401",
     "name_cs": "zyg1401",
     "variable": "zyg1401",
@@ -18472,6 +18498,7 @@
     "scale": "cat"
   },
   "zyg1500": {
+    "study": "twinlife",
     "name": "zyg1500",
     "name_cs": "zyg1500",
     "variable": "zyg1500",
@@ -18564,6 +18591,7 @@
     "scale": "cat"
   },
   "zyg1501": {
+    "study": "twinlife",
     "name": "zyg1501",
     "name_cs": "zyg1501",
     "variable": "zyg1501",
@@ -18652,6 +18680,7 @@
     "scale": "cat"
   },
   "zyg1502": {
+    "study": "twinlife",
     "name": "zyg1502",
     "name_cs": "zyg1502",
     "variable": "zyg1502",
@@ -18740,6 +18769,7 @@
     "scale": "cat"
   },
   "zyg1503": {
+    "study": "twinlife",
     "name": "zyg1503",
     "name_cs": "zyg1503",
     "variable": "zyg1503",
@@ -18828,6 +18858,7 @@
     "scale": "cat"
   },
   "zyg1504": {
+    "study": "twinlife",
     "name": "zyg1504",
     "name_cs": "zyg1504",
     "variable": "zyg1504",
@@ -18916,6 +18947,7 @@
     "scale": "cat"
   },
   "zyg1505": {
+    "study": "twinlife",
     "name": "zyg1505",
     "name_cs": "zyg1505",
     "variable": "zyg1505",
@@ -19004,6 +19036,7 @@
     "scale": "cat"
   },
   "zyg1506": {
+    "study": "twinlife",
     "name": "zyg1506",
     "name_cs": "zyg1506",
     "variable": "zyg1506",
@@ -19096,6 +19129,7 @@
     "scale": "cat"
   },
   "zyg1507": {
+    "study": "twinlife",
     "name": "zyg1507",
     "name_cs": "zyg1507",
     "variable": "zyg1507",
@@ -19180,6 +19214,7 @@
     "scale": "cat"
   },
   "zyg0501": {
+    "study": "twinlife",
     "name": "zyg0501",
     "name_cs": "zyg0501",
     "variable": "zyg0501",
@@ -19268,6 +19303,7 @@
     "scale": "cat"
   },
   "zyg0502": {
+    "study": "twinlife",
     "name": "zyg0502",
     "name_cs": "zyg0502",
     "variable": "zyg0502",
@@ -19348,6 +19384,7 @@
     "scale": "cat"
   },
   "zyg0503": {
+    "study": "twinlife",
     "name": "zyg0503",
     "name_cs": "zyg0503",
     "variable": "zyg0503",
@@ -19436,6 +19473,7 @@
     "scale": "cat"
   },
   "zyg0504": {
+    "study": "twinlife",
     "name": "zyg0504",
     "name_cs": "zyg0504",
     "variable": "zyg0504",
@@ -19516,6 +19554,7 @@
     "scale": "cat"
   },
   "zyg1600": {
+    "study": "twinlife",
     "name": "zyg1600",
     "name_cs": "zyg1600",
     "variable": "zyg1600",
@@ -19608,6 +19647,7 @@
     "scale": "cat"
   },
   "zyg1601": {
+    "study": "twinlife",
     "name": "zyg1601",
     "name_cs": "zyg1601",
     "variable": "zyg1601",
@@ -19700,6 +19740,7 @@
     "scale": "cat"
   },
   "zyg1700": {
+    "study": "twinlife",
     "name": "zyg1700",
     "name_cs": "zyg1700",
     "variable": "zyg1700",
@@ -19792,6 +19833,7 @@
     "scale": "cat"
   },
   "zyg1800": {
+    "study": "twinlife",
     "name": "zyg1800",
     "name_cs": "zyg1800",
     "variable": "zyg1800",
@@ -19884,6 +19926,7 @@
     "scale": "cat"
   },
   "zyg1801": {
+    "study": "twinlife",
     "name": "zyg1801",
     "name_cs": "zyg1801",
     "variable": "zyg1801",
@@ -19968,6 +20011,7 @@
     "scale": "cat"
   },
   "zyg0900": {
+    "study": "twinlife",
     "name": "zyg0900",
     "name_cs": "zyg0900",
     "variable": "zyg0900",
@@ -20056,6 +20100,7 @@
     "scale": "cat"
   },
   "zyg0901": {
+    "study": "twinlife",
     "name": "zyg0901",
     "name_cs": "zyg0901",
     "variable": "zyg0901",
@@ -20144,6 +20189,7 @@
     "scale": "cat"
   },
   "zyg0902": {
+    "study": "twinlife",
     "name": "zyg0902",
     "name_cs": "zyg0902",
     "variable": "zyg0902",
@@ -20232,6 +20278,7 @@
     "scale": "cat"
   },
   "zyg0903": {
+    "study": "twinlife",
     "name": "zyg0903",
     "name_cs": "zyg0903",
     "variable": "zyg0903",
@@ -20320,6 +20367,7 @@
     "scale": "cat"
   },
   "zyg0904": {
+    "study": "twinlife",
     "name": "zyg0904",
     "name_cs": "zyg0904",
     "variable": "zyg0904",
@@ -20408,6 +20456,7 @@
     "scale": "cat"
   },
   "zyg0905": {
+    "study": "twinlife",
     "name": "zyg0905",
     "name_cs": "zyg0905",
     "variable": "zyg0905",
@@ -20496,6 +20545,7 @@
     "scale": "cat"
   },
   "zyg0906": {
+    "study": "twinlife",
     "name": "zyg0906",
     "name_cs": "zyg0906",
     "variable": "zyg0906",
@@ -20584,6 +20634,7 @@
     "scale": "cat"
   },
   "zyg0907": {
+    "study": "twinlife",
     "name": "zyg0907",
     "name_cs": "zyg0907",
     "variable": "zyg0907",
@@ -20672,6 +20723,7 @@
     "scale": "cat"
   },
   "zyg0908": {
+    "study": "twinlife",
     "name": "zyg0908",
     "name_cs": "zyg0908",
     "variable": "zyg0908",
@@ -20760,6 +20812,7 @@
     "scale": "cat"
   },
   "zyg0920": {
+    "study": "twinlife",
     "name": "zyg0920",
     "name_cs": "zyg0920",
     "variable": "zyg0920",
@@ -20852,6 +20905,7 @@
     "scale": "cat"
   },
   "zyg0921": {
+    "study": "twinlife",
     "name": "zyg0921",
     "name_cs": "zyg0921",
     "variable": "zyg0921",
@@ -20944,6 +20998,7 @@
     "scale": "cat"
   },
   "zyg0922": {
+    "study": "twinlife",
     "name": "zyg0922",
     "name_cs": "zyg0922",
     "variable": "zyg0922",
@@ -21036,6 +21091,7 @@
     "scale": "cat"
   },
   "zyg0923": {
+    "study": "twinlife",
     "name": "zyg0923",
     "name_cs": "zyg0923",
     "variable": "zyg0923",
@@ -21128,6 +21184,7 @@
     "scale": "cat"
   },
   "zyg0924": {
+    "study": "twinlife",
     "name": "zyg0924",
     "name_cs": "zyg0924",
     "variable": "zyg0924",
@@ -21220,6 +21277,7 @@
     "scale": "cat"
   },
   "zyg0925": {
+    "study": "twinlife",
     "name": "zyg0925",
     "name_cs": "zyg0925",
     "variable": "zyg0925",
@@ -21312,6 +21370,7 @@
     "scale": "cat"
   },
   "zyg0926": {
+    "study": "twinlife",
     "name": "zyg0926",
     "name_cs": "zyg0926",
     "variable": "zyg0926",
@@ -21404,6 +21463,7 @@
     "scale": "cat"
   },
   "zyg0927": {
+    "study": "twinlife",
     "name": "zyg0927",
     "name_cs": "zyg0927",
     "variable": "zyg0927",
@@ -21496,6 +21556,7 @@
     "scale": "cat"
   },
   "sdc0100": {
+    "study": "twinlife",
     "name": "sdc0100",
     "name_cs": "sdc0100",
     "variable": "sdc0100",
@@ -21580,6 +21641,7 @@
     "scale": "cat"
   },
   "zyg0105": {
+    "study": "twinlife",
     "name": "zyg0105",
     "name_cs": "zyg0105",
     "variable": "zyg0105",
@@ -21692,6 +21754,7 @@
     "scale": "cat"
   },
   "zyg0106": {
+    "study": "twinlife",
     "name": "zyg0106",
     "name_cs": "zyg0106",
     "variable": "zyg0106",
@@ -21772,6 +21835,7 @@
     "scale": "cat"
   },
   "zyg0200t": {
+    "study": "twinlife",
     "name": "zyg0200t",
     "name_cs": "zyg0200t",
     "variable": "zyg0200t",
@@ -22156,6 +22220,7 @@
     "scale": "cat"
   },
   "zyg0200u": {
+    "study": "twinlife",
     "name": "zyg0200u",
     "name_cs": "zyg0200u",
     "variable": "zyg0200u",
@@ -22544,6 +22609,7 @@
     "scale": "cat"
   },
   "zyg0300": {
+    "study": "twinlife",
     "name": "zyg0300",
     "name_cs": "zyg0300",
     "variable": "zyg0300",
@@ -22628,6 +22694,7 @@
     "scale": "cat"
   },
   "zyg0301": {
+    "study": "twinlife",
     "name": "zyg0301",
     "name_cs": "zyg0301",
     "variable": "zyg0301",
@@ -22712,6 +22779,7 @@
     "scale": "cat"
   },
   "zyg0302": {
+    "study": "twinlife",
     "name": "zyg0302",
     "name_cs": "zyg0302",
     "variable": "zyg0302",
@@ -22796,6 +22864,7 @@
     "scale": "cat"
   },
   "zyg0303": {
+    "study": "twinlife",
     "name": "zyg0303",
     "name_cs": "zyg0303",
     "variable": "zyg0303",
@@ -22880,6 +22949,7 @@
     "scale": "cat"
   },
   "zyg0400": {
+    "study": "twinlife",
     "name": "zyg0400",
     "name_cs": "zyg0400",
     "variable": "zyg0400",
@@ -22968,6 +23038,7 @@
     "scale": "cat"
   },
   "zyg0500": {
+    "study": "twinlife",
     "name": "zyg0500",
     "name_cs": "zyg0500",
     "variable": "zyg0500",
@@ -23060,6 +23131,7 @@
     "scale": "cat"
   },
   "zyg0600": {
+    "study": "twinlife",
     "name": "zyg0600",
     "name_cs": "zyg0600",
     "variable": "zyg0600",
@@ -23152,6 +23224,7 @@
     "scale": "cat"
   },
   "zyg0602": {
+    "study": "twinlife",
     "name": "zyg0602",
     "name_cs": "zyg0602",
     "variable": "zyg0602",
@@ -23236,6 +23309,7 @@
     "scale": "cat"
   },
   "zyg0700": {
+    "study": "twinlife",
     "name": "zyg0700",
     "name_cs": "zyg0700",
     "variable": "zyg0700",
@@ -23328,6 +23402,7 @@
     "scale": "cat"
   },
   "zyg0702": {
+    "study": "twinlife",
     "name": "zyg0702",
     "name_cs": "zyg0702",
     "variable": "zyg0702",
@@ -23412,6 +23487,7 @@
     "scale": "cat"
   },
   "zyg0800": {
+    "study": "twinlife",
     "name": "zyg0800",
     "name_cs": "zyg0800",
     "variable": "zyg0800",
@@ -23496,6 +23572,7 @@
     "scale": "cat"
   },
   "zyg0801": {
+    "study": "twinlife",
     "name": "zyg0801",
     "name_cs": "zyg0801",
     "variable": "zyg0801",
@@ -23584,6 +23661,7 @@
     "scale": "cat"
   },
   "zyg0802": {
+    "study": "twinlife",
     "name": "zyg0802",
     "name_cs": "zyg0802",
     "variable": "zyg0802",
@@ -23672,6 +23750,7 @@
     "scale": "cat"
   },
   "zyg0803": {
+    "study": "twinlife",
     "name": "zyg0803",
     "name_cs": "zyg0803",
     "variable": "zyg0803",
@@ -23760,6 +23839,7 @@
     "scale": "cat"
   },
   "zyg0804": {
+    "study": "twinlife",
     "name": "zyg0804",
     "name_cs": "zyg0804",
     "variable": "zyg0804",
@@ -23848,6 +23928,7 @@
     "scale": "cat"
   },
   "zyg0805": {
+    "study": "twinlife",
     "name": "zyg0805",
     "name_cs": "zyg0805",
     "variable": "zyg0805",
@@ -23936,6 +24017,7 @@
     "scale": "cat"
   },
   "zyg0806": {
+    "study": "twinlife",
     "name": "zyg0806",
     "name_cs": "zyg0806",
     "variable": "zyg0806",
@@ -24024,6 +24106,7 @@
     "scale": "cat"
   },
   "zyg0807": {
+    "study": "twinlife",
     "name": "zyg0807",
     "name_cs": "zyg0807",
     "variable": "zyg0807",
@@ -24112,6 +24195,7 @@
     "scale": "cat"
   },
   "zyg0808": {
+    "study": "twinlife",
     "name": "zyg0808",
     "name_cs": "zyg0808",
     "variable": "zyg0808",
@@ -24200,6 +24284,7 @@
     "scale": "cat"
   },
   "zyg0809": {
+    "study": "twinlife",
     "name": "zyg0809",
     "name_cs": "zyg0809",
     "variable": "zyg0809",
