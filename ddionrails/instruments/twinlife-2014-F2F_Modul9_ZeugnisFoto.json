@@ -13,7 +13,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 5,
+          "number": "5",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2000",
@@ -32,7 +32,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 6,
+          "number": "6",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -78,7 +78,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 7,
+          "number": "7",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2001",
@@ -109,7 +109,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 8,
+          "number": "8",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -146,7 +146,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 9,
+          "number": "9",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2101",
@@ -208,7 +208,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 10,
+          "number": "10",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -227,7 +227,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 11,
+          "number": "11",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -246,7 +246,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 12,
+          "number": "12",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2002",
@@ -347,7 +347,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 13,
+          "number": "13",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2003",
@@ -428,7 +428,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 14,
+          "number": "14",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2003g",
@@ -529,7 +529,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 15,
+          "number": "15",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -547,7 +547,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 16,
+          "number": "16",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -565,7 +565,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 17,
+          "number": "17",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -584,7 +584,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 18,
+          "number": "18",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -603,7 +603,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 19,
+          "number": "19",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -622,7 +622,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 20,
+          "number": "20",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -641,7 +641,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 21,
+          "number": "21",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -660,7 +660,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 22,
+          "number": "22",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -679,7 +679,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 23,
+          "number": "23",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -698,7 +698,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 24,
+          "number": "24",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer2209",
@@ -749,7 +749,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 25,
+          "number": "25",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -769,7 +769,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 26,
+          "number": "26",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -788,7 +788,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 27,
+          "number": "27",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -807,7 +807,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 28,
+          "number": "28",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -826,7 +826,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 29,
+          "number": "29",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -845,7 +845,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 30,
+          "number": "30",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -864,7 +864,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 31,
+          "number": "31",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -883,7 +883,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 32,
+          "number": "32",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -902,7 +902,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 33,
+          "number": "33",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -921,7 +921,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 34,
+          "number": "34",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -940,7 +940,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 35,
+          "number": "35",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -959,7 +959,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 36,
+          "number": "36",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -978,7 +978,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 37,
+          "number": "37",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -997,7 +997,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 38,
+          "number": "38",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1016,7 +1016,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 39,
+          "number": "39",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1035,7 +1035,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 40,
+          "number": "40",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1054,7 +1054,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 41,
+          "number": "41",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1073,7 +1073,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 42,
+          "number": "42",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1092,7 +1092,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 43,
+          "number": "43",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1111,7 +1111,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 44,
+          "number": "44",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1130,7 +1130,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 45,
+          "number": "45",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1149,7 +1149,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 46,
+          "number": "46",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1168,7 +1168,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 47,
+          "number": "47",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1187,7 +1187,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 48,
+          "number": "48",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1206,7 +1206,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 49,
+          "number": "49",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -1224,7 +1224,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 50,
+          "number": "50",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1244,7 +1244,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 51,
+          "number": "51",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -1262,7 +1262,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 52,
+          "number": "52",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1282,7 +1282,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 53,
+          "number": "53",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -1300,7 +1300,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 54,
+          "number": "54",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1320,7 +1320,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 55,
+          "number": "55",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -1338,7 +1338,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 56,
+          "number": "56",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1358,7 +1358,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 57,
+          "number": "57",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1377,7 +1377,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 58,
+          "number": "58",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1396,7 +1396,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 59,
+          "number": "59",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1415,7 +1415,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 60,
+          "number": "60",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1434,7 +1434,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 61,
+          "number": "61",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1453,7 +1453,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 62,
+          "number": "62",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1472,7 +1472,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 63,
+          "number": "63",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1491,7 +1491,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 64,
+          "number": "64",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1510,7 +1510,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 65,
+          "number": "65",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1529,7 +1529,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 66,
+          "number": "66",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "note",
@@ -1548,7 +1548,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 67,
+          "number": "67",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -1567,7 +1567,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 68,
+          "number": "68",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
@@ -1585,7 +1585,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 69,
+          "number": "69",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "cer3002",

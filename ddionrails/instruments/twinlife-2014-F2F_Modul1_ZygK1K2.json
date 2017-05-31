@@ -13,7 +13,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 10,
+          "number": "10",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -49,7 +49,7 @@
       "label": "Who was born first? Please enter the name.",
       "items": [
         {
-          "number": 13,
+          "number": "13",
           "text": "Who was born first? Please enter the name.",
           "text_de": "Wer wurde als erstes geboren? Bitte tragen Sie die Namen ein.",
           "scale": "chr",
@@ -67,7 +67,7 @@
       "label": "Who was born first? Please enter the name.",
       "items": [
         {
-          "number": 14,
+          "number": "14",
           "text": "Who was born first? Please enter the name.",
           "text_de": "Wer wurde als erstes geboren? Bitte tragen Sie die Namen ein.",
           "scale": "chr",
@@ -85,7 +85,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 15,
+          "number": "15",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -122,7 +122,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 16,
+          "number": "16",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex",
@@ -163,7 +163,7 @@
       "label": "How tall is the older twin [name] currently in cm?",
       "items": [
         {
-          "number": 17,
+          "number": "17",
           "text": "How tall is the older twin [name] currently in cm?",
           "text_de": "Wie gross ist der aeltere Zwilling [Name] gegenwaertig in cm?",
           "answer_list": "mis",
@@ -199,7 +199,7 @@
       "label": "How tall is the younger twin [name] currently in cm?",
       "items": [
         {
-          "number": 18,
+          "number": "18",
           "text": "How tall is the younger twin [name] currently in cm?",
           "text_de": "Wie gross ist der juengere Zwilling [Name] gegenwaertig?",
           "answer_list": "mis",
@@ -235,7 +235,7 @@
       "label": "Are there differences in the colors of the twins' hair?",
       "items": [
         {
-          "number": 19,
+          "number": "19",
           "text": "Are there differences in the colors of the twins' hair?",
           "text_de": "Gibt es Unterschiede bei der farblichen Schattierung der Haare der Zwillinge?",
           "answer_list": "zyg0300",
@@ -281,7 +281,7 @@
       "label": "Are there differences in the texture of the twins' hair (e.g., fine or thick, straight or curly)?",
       "items": [
         {
-          "number": 20,
+          "number": "20",
           "text": "Are there differences in the texture of the twins' hair (e.g., fine or thick, straight or curly)?",
           "text_de": "Gibt es Unterschiede in der Beschaffenheit der Haare der Zwillinge (z.B. fein oder dick, glatt oder gelockt)?",
           "answer_list": "zyg0300",
@@ -327,7 +327,7 @@
       "label": "Are there differences in the colors of the twins' eyes?",
       "items": [
         {
-          "number": 21,
+          "number": "21",
           "text": "Are there differences in the colors of the twins' eyes?",
           "text_de": "Gibt es Unterschiede in den Augenfarben der Zwillinge?",
           "answer_list": "zyg0300",
@@ -373,7 +373,7 @@
       "label": "Are there differences in the shape of the twins' earlobes?",
       "items": [
         {
-          "number": 22,
+          "number": "22",
           "text": "Are there differences in the shape of the twins' earlobes?",
           "text_de": "Gibt es Unterscheide in der Form der Ohrlaeppchen der Zwillinge?",
           "answer_list": "zyg0300",
@@ -419,7 +419,7 @@
       "label": "Did both twins get their first teeth at the same time?",
       "items": [
         {
-          "number": 23,
+          "number": "23",
           "text": "Did both twins get their first teeth at the same time?",
           "text_de": "Haben die Zwillinge in etwa zur gleichen Zeit Zaehne bekommen?",
           "answer_list": "zyg0400",
@@ -470,7 +470,7 @@
       "label": "Do you know the blood groups (A,B,AB,0) and/or the Rhesus factors (RH+/RH-) of your twins?",
       "items": [
         {
-          "number": 24,
+          "number": "24",
           "text": "Do you know the blood groups (A,B,AB,0) and/or the Rhesus factors (RH+/RH-) of your twins?",
           "text_de": "Kennen Sie die Blutgruppen (A, B, AB, 0) und / oder den Rhesusfaktoren (Rh+, Rh-) Ihrer Zwillinge?",
           "answer_list": "yn",
@@ -516,7 +516,7 @@
       "label": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
       "items": [
         {
-          "number": 25,
+          "number": "25",
           "text": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
           "text_de": "Kreuzen Sie bitte die jeweilige Blutgruppe und den jeweiligen Rhesusfaktor des Zwillings an.",
           "answer_list": "zyg0501",
@@ -568,7 +568,7 @@
       "label": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
       "items": [
         {
-          "number": 26,
+          "number": "26",
           "text": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
           "text_de": "Kreuzen Sie bitte die jeweilige Blutgruppe und den jeweiligen Rhesusfaktor des Zwillings an.",
           "answer_list": "zyg0502",
@@ -610,7 +610,7 @@
       "label": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
       "items": [
         {
-          "number": 27,
+          "number": "27",
           "text": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
           "text_de": "Kreuzen Sie bitte die jeweilige Blutgruppe und den jeweiligen Rhesusfaktor des Zwillings an.",
           "answer_list": "zyg0501",
@@ -662,7 +662,7 @@
       "label": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
       "items": [
         {
-          "number": 28,
+          "number": "28",
           "text": "Please tick the respective blood group and the respective Rhesus factor of the twin.",
           "text_de": "Kreuzen Sie bitte die jeweilige Blutgruppe und den jeweiligen Rhesusfaktor des Zwillings an.",
           "answer_list": "zyg0502",
@@ -704,7 +704,7 @@
       "label": "Are there any differences between the twins caused by problems in childbirth, by an accident or an illness?",
       "items": [
         {
-          "number": 29,
+          "number": "29",
           "text": "Are there any differences between the twins caused by problems in childbirth, by an accident or an illness?",
           "text_de": "Gibt es Unterschiede zwischen den Zwillingen, die durch Probleme bei der Geburt, durch einen Unfall oder Krankheit verursacht sind?",
           "answer_list": "yn",
@@ -750,7 +750,7 @@
       "label": "Please give more details about these differences.",
       "items": [
         {
-          "number": 30,
+          "number": "30",
           "text": "Please give more details about these differences.",
           "text_de": "Bitte beschreiben Sie diese Unterschiede naeher!",
           "scale": "chr",
@@ -769,7 +769,7 @@
       "label": "What about the similarities between the twins as they are getting older? As they are getting older, the similarities:",
       "items": [
         {
-          "number": 31,
+          "number": "31",
           "text": "What about the similarities between the twins as they are getting older? As they are getting older, the similarities:",
           "text_de": "Wie verhaelt es sich mit der Aehnlichkeit der Zwillinge mit zunehmendem Alter? Die Aehnlichkeit der Zwillinge mit zunehmendem Alter:",
           "answer_list": "zyg0602",
@@ -815,7 +815,7 @@
       "label": "What do you think: Are your twins monozygotic (identical) or dizygotic (non-identical)?",
       "items": [
         {
-          "number": 32,
+          "number": "32",
           "text": "What do you think: Are your twins monozygotic (identical) or dizygotic (non-identical)?",
           "text_de": "Was glauben Sie persoenlich? Sind Ihre Zwillinge eineiig oder zweieiig?",
           "answer_list": "zyg0700",
@@ -866,7 +866,7 @@
       "label": "What makes you think that?",
       "items": [
         {
-          "number": 33,
+          "number": "33",
           "text": "What makes you think that?",
           "text_de": "Wie kommen Sie zu dieser Annahme?",
           "scale": "chr",
@@ -885,7 +885,7 @@
       "label": "Did a medical professional (e.g., family doctor, nurse, physician) ever tell you your twins' zygosity?",
       "items": [
         {
-          "number": 34,
+          "number": "34",
           "text": "Did a medical professional (e.g., family doctor, nurse, physician) ever tell you your twins' zygosity?",
           "text_de": "Wurde Ihnen jemals von medizinischem Personal (z.B. Hausarzt, Krankenschwester, Facharzt) die Eiigkeit Ihrer Zwillinge mitgeteilt?",
           "answer_list": "zyg0702",
@@ -931,7 +931,7 @@
       "label": "How did they make this determination?",
       "items": [
         {
-          "number": 35,
+          "number": "35",
           "text": "How did they make this determination?",
           "text_de": "Wie kam diese Aussage zustande?",
           "scale": "chr",
@@ -950,7 +950,7 @@
       "label": "When you look at early photographs of the twins when they were between 2 and 4, can you tell them apart without hints from clothing or other clues?",
       "items": [
         {
-          "number": 36,
+          "number": "36",
           "text": "When you look at early photographs of the twins when they were between 2 and 4, can you tell them apart without hints from clothing or other clues?",
           "text_de": "Wenn Sie sich fruehe Fotos Ihrer Zwillinge im Alter von 2-4 Jahren anschauen, koennen Sie die beiden auseinanderhalten, ohne Merkmale der Kleidung oder andere Hinweise heranzuziehen?",
           "answer_list": "zyg0800",
@@ -996,7 +996,7 @@
       "label": "Did people confuse the twins when they were very young?",
       "items": [
         {
-          "number": 37,
+          "number": "37",
           "text": "Did people confuse the twins when they were very young?",
           "text_de": "Haben folgende Personen die Zwillinge im fruehen Kindesalter verwechselt?",
           "scale": "txt",
@@ -1005,7 +1005,7 @@
         },
         {
           "item": "1.0",
-          "number": 38,
+          "number": "38",
           "text": "the other parent of the twins",
           "text_de": "Anderer Elternteil der Zwillinge",
           "answer_list": "zyg0801",
@@ -1046,7 +1046,7 @@
         },
         {
           "item": "2.0",
-          "number": 39,
+          "number": "39",
           "text": "(the)older sibling(s)",
           "text_de": "Aeltere/s Geschwister",
           "answer_list": "zyg0801",
@@ -1087,7 +1087,7 @@
         },
         {
           "item": "3.0",
-          "number": 40,
+          "number": "40",
           "text": "other relatives",
           "text_de": "Andere Verwandte",
           "answer_list": "zyg0801",
@@ -1128,7 +1128,7 @@
         },
         {
           "item": "4.0",
-          "number": 41,
+          "number": "41",
           "text": "babysitter/child minder",
           "text_de": "Babysitter/Tagesmutter",
           "answer_list": "zyg0801",
@@ -1169,7 +1169,7 @@
         },
         {
           "item": "5.0",
-          "number": 42,
+          "number": "42",
           "text": "close friends",
           "text_de": "Nahe Freunde von Ihnen",
           "answer_list": "zyg0801",
@@ -1210,7 +1210,7 @@
         },
         {
           "item": "6.0",
-          "number": 43,
+          "number": "43",
           "text": "remote friends",
           "text_de": "Entferntere Freunde von Ihnen",
           "answer_list": "zyg0801",
@@ -1251,7 +1251,7 @@
         },
         {
           "item": "7.0",
-          "number": 44,
+          "number": "44",
           "text": "people who see the twins for the first time",
           "text_de": "Menschen, die die Zwillinge zum ersten Mal sehen",
           "answer_list": "zyg0801",
@@ -1301,7 +1301,7 @@
       "label": "Did people confuse the twins when they were together?",
       "items": [
         {
-          "number": 45,
+          "number": "45",
           "text": "Did people confuse the twins when they were together?",
           "text_de": "Wurden die Zwillinge verwechselt, wenn sie zusammen waren?",
           "answer_list": "zyg0808",
@@ -1352,7 +1352,7 @@
       "label": "Would you say that when the twins were very young, they...",
       "items": [
         {
-          "number": 46,
+          "number": "46",
           "text": "Would you say that when the twins were very young, they...",
           "text_de": "Wuerden Sie sagen, dass Ihre Zwillinge im fruehen Kindesalter. . .",
           "answer_list": "zyg0809",
@@ -1398,7 +1398,7 @@
       "label": "We are also interested in knowing if there are other twins in your family. Which generation and which side of your family are they on (mother's side/father's side)? Multiple answers are possible.",
       "items": [
         {
-          "number": 47,
+          "number": "47",
           "text": "We are also interested in knowing if there are other twins in your family. Which generation and which side of your family are they on (mother's side/father's side)? Multiple answers are possible.",
           "text_de": "Wir sind auch daran interessiert, ob es in Ihrer Familie weitere Zwillingspaare gibt. In welcher Generation und in welchem Teil Ihrer Familie (muetterlicherseits/vaeterlicherseits) gab oder gibt es Zwillinge? Sie koennen mehrere Angaben machen.",
           "scale": "txt",
@@ -1407,7 +1407,7 @@
         },
         {
           "item": "1.0",
-          "number": 48,
+          "number": "48",
           "text": "In the generation of your children (e.g. cousins/cousins of your children) (mother's side)",
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), muetterlicherseits",
           "answer_list": "mn",
@@ -1438,7 +1438,7 @@
         },
         {
           "item": "2.0",
-          "number": 49,
+          "number": "49",
           "text": "In the generation of your children (e.g. cousins/cousins of your children) (father's side)",
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), vaeterlicherseits",
           "answer_list": "mn",
@@ -1469,7 +1469,7 @@
         },
         {
           "item": "3.0",
-          "number": 50,
+          "number": "50",
           "text": "In your generation (e.g. your cousins) (mother's side)",
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), muetterlicherseits",
           "answer_list": "mn",
@@ -1500,7 +1500,7 @@
         },
         {
           "item": "4.0",
-          "number": 51,
+          "number": "51",
           "text": "In your generation (e.g. your cousins) (father's side)",
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), vaeterlicherseits",
           "answer_list": "mn",
@@ -1531,7 +1531,7 @@
         },
         {
           "item": "5.0",
-          "number": 52,
+          "number": "52",
           "text": "In the generation of your parents (mother's side)",
           "text_de": "In der Generation Ihrer Eltern, muetterlicherseits",
           "answer_list": "mn",
@@ -1562,7 +1562,7 @@
         },
         {
           "item": "6.0",
-          "number": 53,
+          "number": "53",
           "text": "In the generation of your parents (father's side)",
           "text_de": "In der Generation Ihrer Eltern, vaeterlicherseits",
           "answer_list": "mn",
@@ -1593,7 +1593,7 @@
         },
         {
           "item": "7.0",
-          "number": 54,
+          "number": "54",
           "text": "No other sets of twins in the family",
           "text_de": "Keine anderen Zwillingspaare in der Familie",
           "answer_list": "mn",
@@ -1633,7 +1633,7 @@
       "label": "For each set of twins in your family, please state whether they are identical/monozygotic or non-identical/dizygotic.",
       "items": [
         {
-          "number": 55,
+          "number": "55",
           "text": "For each set of twins in your family, please state whether they are identical/monozygotic or non-identical/dizygotic.",
           "text_de": "Geben Sie bitte fuer jedes angegebene Zwillingspaar in Ihrer Familie an, ob diese eineiig oder zweieiig sind.",
           "scale": "txt",
@@ -1643,7 +1643,7 @@
         },
         {
           "item": "1.0",
-          "number": 56,
+          "number": "56",
           "text": "In the generation of your children (e.g. cousins/cousins of your children) (mother's side)",
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), muetterlicherseits",
           "answer_list": "zyg0700",
@@ -1684,7 +1684,7 @@
         },
         {
           "item": "2.0",
-          "number": 57,
+          "number": "57",
           "text": "In the generation of your children (e.g. cousins/cousins of your children) (father's side)",
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), vaeterlicherseits",
           "answer_list": "zyg0700",
@@ -1725,7 +1725,7 @@
         },
         {
           "item": "3.0",
-          "number": 58,
+          "number": "58",
           "text": "In your generation (e.g. your cousins) (mother's side)",
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), muetterlicherseits",
           "answer_list": "zyg0700",
@@ -1766,7 +1766,7 @@
         },
         {
           "item": "4.0",
-          "number": 59,
+          "number": "59",
           "text": "In your generation (e.g. your cousins) (father's side)",
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), vaeterlicherseits",
           "answer_list": "zyg0700",
@@ -1807,7 +1807,7 @@
         },
         {
           "item": "5.0",
-          "number": 60,
+          "number": "60",
           "text": "In the generation of your parents (mother's side)",
           "text_de": "In der Generation Ihrer Eltern, muetterlicherseits",
           "answer_list": "zyg0700",
@@ -1848,7 +1848,7 @@
         },
         {
           "item": "6.0",
-          "number": 61,
+          "number": "61",
           "text": "In the generation of your parents (father's side)",
           "text_de": "In der Generation Ihrer Eltern, vaeterlicherseits",
           "answer_list": "zyg0700",

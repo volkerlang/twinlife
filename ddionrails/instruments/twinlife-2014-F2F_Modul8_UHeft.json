@@ -13,7 +13,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 9,
+          "number": "9",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -50,7 +50,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 10,
+          "number": "10",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -87,7 +87,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 11,
+          "number": "11",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -124,7 +124,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 12,
+          "number": "12",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -161,7 +161,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 13,
+          "number": "13",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -198,7 +198,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 14,
+          "number": "14",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -235,7 +235,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 15,
+          "number": "15",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -281,7 +281,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 16,
+          "number": "16",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -327,7 +327,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 17,
+          "number": "17",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -374,7 +374,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 18,
+          "number": "18",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -393,7 +393,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 19,
+          "number": "19",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -430,7 +430,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 20,
+          "number": "20",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -467,7 +467,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 21,
+          "number": "21",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -504,7 +504,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 22,
+          "number": "22",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -551,7 +551,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 23,
+          "number": "23",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -588,7 +588,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 24,
+          "number": "24",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "txt",
@@ -598,7 +598,7 @@
         },
         {
           "item": "1.0",
-          "number": 25,
+          "number": "25",
           "text": "U1: risk number 1",
           "text_de": "U1: Risikonummer 1",
           "answer_list": "frisk",
@@ -899,7 +899,7 @@
         },
         {
           "item": "2.0",
-          "number": 26,
+          "number": "26",
           "text": "U1: risk number 2",
           "text_de": "U1: Risikonummer 2",
           "answer_list": "frisk",
@@ -1200,7 +1200,7 @@
         },
         {
           "item": "3.0",
-          "number": 27,
+          "number": "27",
           "text": "U1: risk number 3",
           "text_de": "U1: Risikonummer 3",
           "answer_list": "frisk",
@@ -1501,7 +1501,7 @@
         },
         {
           "item": "4.0",
-          "number": 28,
+          "number": "28",
           "text": "U1: risk number 4",
           "text_de": "U1: Risikonummer 4",
           "answer_list": "frisk",
@@ -1802,7 +1802,7 @@
         },
         {
           "item": "5.0",
-          "number": 29,
+          "number": "29",
           "text": "U1: risk number 5",
           "text_de": "U1: Risikonummer 5",
           "answer_list": "frisk",
@@ -2103,7 +2103,7 @@
         },
         {
           "item": "6.0",
-          "number": 30,
+          "number": "30",
           "text": "U1: risk number 6",
           "text_de": "U1: Risikonummer 6",
           "answer_list": "frisk",
@@ -2413,7 +2413,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 31,
+          "number": "31",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2450,7 +2450,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 32,
+          "number": "32",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2487,7 +2487,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 33,
+          "number": "33",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2524,7 +2524,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 34,
+          "number": "34",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2561,7 +2561,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 35,
+          "number": "35",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2580,7 +2580,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 36,
+          "number": "36",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2599,7 +2599,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 37,
+          "number": "37",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -2646,7 +2646,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 38,
+          "number": "38",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2683,7 +2683,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 39,
+          "number": "39",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2720,7 +2720,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 40,
+          "number": "40",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2757,7 +2757,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 41,
+          "number": "41",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2776,7 +2776,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 42,
+          "number": "42",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2795,7 +2795,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 43,
+          "number": "43",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2814,7 +2814,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 44,
+          "number": "44",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2851,7 +2851,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 45,
+          "number": "45",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -2888,7 +2888,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 46,
+          "number": "46",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2907,7 +2907,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 47,
+          "number": "47",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -2954,7 +2954,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 48,
+          "number": "48",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -2973,7 +2973,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 49,
+          "number": "49",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -3020,7 +3020,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 50,
+          "number": "50",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3057,7 +3057,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 51,
+          "number": "51",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3094,7 +3094,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 52,
+          "number": "52",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3131,7 +3131,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 53,
+          "number": "53",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3150,7 +3150,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 54,
+          "number": "54",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3169,7 +3169,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 55,
+          "number": "55",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3188,7 +3188,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 56,
+          "number": "56",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3225,7 +3225,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 57,
+          "number": "57",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3262,7 +3262,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 58,
+          "number": "58",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3281,7 +3281,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 59,
+          "number": "59",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -3328,7 +3328,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 60,
+          "number": "60",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3347,7 +3347,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 61,
+          "number": "61",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -3394,7 +3394,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 62,
+          "number": "62",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3431,7 +3431,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 63,
+          "number": "63",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3468,7 +3468,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 64,
+          "number": "64",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3505,7 +3505,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 65,
+          "number": "65",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3524,7 +3524,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 66,
+          "number": "66",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3543,7 +3543,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 67,
+          "number": "67",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3562,7 +3562,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 68,
+          "number": "68",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3599,7 +3599,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 69,
+          "number": "69",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3636,7 +3636,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 70,
+          "number": "70",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3655,7 +3655,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 71,
+          "number": "71",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -3702,7 +3702,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 72,
+          "number": "72",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3721,7 +3721,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 73,
+          "number": "73",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -3768,7 +3768,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 74,
+          "number": "74",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3805,7 +3805,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 75,
+          "number": "75",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3842,7 +3842,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 76,
+          "number": "76",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3879,7 +3879,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 77,
+          "number": "77",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3898,7 +3898,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 78,
+          "number": "78",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3917,7 +3917,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 79,
+          "number": "79",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -3936,7 +3936,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 80,
+          "number": "80",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -3973,7 +3973,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 81,
+          "number": "81",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4010,7 +4010,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 82,
+          "number": "82",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4029,7 +4029,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 83,
+          "number": "83",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -4076,7 +4076,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 84,
+          "number": "84",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4095,7 +4095,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 85,
+          "number": "85",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -4142,7 +4142,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 86,
+          "number": "86",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4179,7 +4179,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 87,
+          "number": "87",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4216,7 +4216,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 88,
+          "number": "88",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4253,7 +4253,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 89,
+          "number": "89",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4272,7 +4272,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 90,
+          "number": "90",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4291,7 +4291,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 91,
+          "number": "91",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4310,7 +4310,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 92,
+          "number": "92",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4347,7 +4347,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 93,
+          "number": "93",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4384,7 +4384,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 94,
+          "number": "94",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4403,7 +4403,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 95,
+          "number": "95",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -4450,7 +4450,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 96,
+          "number": "96",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4469,7 +4469,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 97,
+          "number": "97",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -4516,7 +4516,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 98,
+          "number": "98",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4553,7 +4553,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 99,
+          "number": "99",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4590,7 +4590,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 100,
+          "number": "100",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4627,7 +4627,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 101,
+          "number": "101",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4646,7 +4646,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 102,
+          "number": "102",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4665,7 +4665,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 103,
+          "number": "103",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4684,7 +4684,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 104,
+          "number": "104",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4721,7 +4721,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 105,
+          "number": "105",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4758,7 +4758,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 106,
+          "number": "106",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4777,7 +4777,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 107,
+          "number": "107",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -4824,7 +4824,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 108,
+          "number": "108",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -4843,7 +4843,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 109,
+          "number": "109",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -4890,7 +4890,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 110,
+          "number": "110",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4927,7 +4927,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 111,
+          "number": "111",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -4964,7 +4964,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 112,
+          "number": "112",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5001,7 +5001,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 113,
+          "number": "113",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5020,7 +5020,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 114,
+          "number": "114",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5039,7 +5039,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 115,
+          "number": "115",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5058,7 +5058,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 116,
+          "number": "116",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5095,7 +5095,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 117,
+          "number": "117",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5132,7 +5132,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 118,
+          "number": "118",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5151,7 +5151,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 119,
+          "number": "119",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -5198,7 +5198,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 120,
+          "number": "120",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5217,7 +5217,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 121,
+          "number": "121",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -5264,7 +5264,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 122,
+          "number": "122",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5301,7 +5301,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 123,
+          "number": "123",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5338,7 +5338,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 124,
+          "number": "124",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5375,7 +5375,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 125,
+          "number": "125",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5394,7 +5394,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 126,
+          "number": "126",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5413,7 +5413,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 127,
+          "number": "127",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5432,7 +5432,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 128,
+          "number": "128",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5469,7 +5469,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 129,
+          "number": "129",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
@@ -5506,7 +5506,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 130,
+          "number": "130",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
@@ -5525,7 +5525,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 131,
+          "number": "131",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
@@ -5572,7 +5572,7 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": 132,
+          "number": "132",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",

@@ -13,7 +13,7 @@
       "label": "How would you describe your state of health during the last 12 months, in general?",
       "items": [
         {
-          "number": 7,
+          "number": "7",
           "text": "How would you describe your state of health during the last 12 months, in general?",
           "text_de": "Wie wuerden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
           "answer_list": "she0100",
@@ -74,7 +74,7 @@
       "label": "Have you visited a doctor (or dentist) in the last 12 months? (This includes check-ups, visits to psychotherapists, health practitioners, chiropractors, etc.)",
       "items": [
         {
-          "number": 8,
+          "number": "8",
           "text": "Have you visited a doctor (or dentist) in the last 12 months? (This includes check-ups, visits to psychotherapists, health practitioners, chiropractors, etc.)",
           "text_de": "Haben Sie persoenlich in den letzten 12 Monaten Aerzte (inkl. Zahnarzt) aufgesucht? (Hiermit sind auch Vorsorgeuntersuchungen gemeint, Besuche bei Psychotherapeuten, Heilpraktikern, Chiropraktikern, o.Ae.)",
           "answer_list": "yn",
@@ -121,7 +121,7 @@
       "label": "Please state the number of visits to doctors. (Note: total number in the last 12 months. If you are not sure, please estimate.)",
       "items": [
         {
-          "number": 9,
+          "number": "9",
           "text": "Please state the number of visits to doctors. (Note: total number in the last 12 months. If you are not sure, please estimate.)",
           "text_de": "Geben Sie bitte an, wie haeufig das war.",
           "answer_list": "mis",
@@ -158,7 +158,7 @@
       "label": "To what extent would you say your illness limits you in your everyday life?",
       "items": [
         {
-          "number": 10,
+          "number": "10",
           "text": "To what extent would you say your illness limits you in your everyday life?",
           "text_de": "In welchem Ausmass fuehlen Sie sich in Ihrem Alltag durch Erkrankungen beeintraechtigt?",
           "answer_list": "imp0100",
@@ -220,7 +220,7 @@
       "label": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
       "items": [
         {
-          "number": 11,
+          "number": "11",
           "text": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
           "scale": "txt",
@@ -230,7 +230,7 @@
         },
         {
           "item": "1.0",
-          "number": 12,
+          "number": "12",
           "text": "Sleeping disorders",
           "text_de": "Schlafstoerungen",
           "answer_list": "mn",
@@ -261,7 +261,7 @@
         },
         {
           "item": "2.0",
-          "number": 13,
+          "number": "13",
           "text": "Diabetes",
           "text_de": "Diabetes",
           "answer_list": "mn",
@@ -292,7 +292,7 @@
         },
         {
           "item": "3.0",
-          "number": 14,
+          "number": "14",
           "text": "Asthma",
           "text_de": "Asthma",
           "answer_list": "mn",
@@ -323,7 +323,7 @@
         },
         {
           "item": "4.0",
-          "number": 15,
+          "number": "15",
           "text": "Heart problems (also heart failure, congestive heart failure)",
           "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschwaeche)",
           "answer_list": "mn",
@@ -354,7 +354,7 @@
         },
         {
           "item": "5.0",
-          "number": 16,
+          "number": "16",
           "text": "Cancer",
           "text_de": "Krebserkrankungen",
           "answer_list": "mn",
@@ -385,7 +385,7 @@
         },
         {
           "item": "6.0",
-          "number": 17,
+          "number": "17",
           "text": "Stroke",
           "text_de": "Schlaganfall",
           "answer_list": "mn",
@@ -416,7 +416,7 @@
         },
         {
           "item": "7.0",
-          "number": 18,
+          "number": "18",
           "text": "Migraine",
           "text_de": "Migraene",
           "answer_list": "mn",
@@ -447,7 +447,7 @@
         },
         {
           "item": "8.0",
-          "number": 19,
+          "number": "19",
           "text": "High blood pressure",
           "text_de": "Bluthochdruck",
           "answer_list": "mn",
@@ -478,7 +478,7 @@
         },
         {
           "item": "9.0",
-          "number": 20,
+          "number": "20",
           "text": "Anxiety disorder",
           "text_de": "Angsterkrankung",
           "answer_list": "mn",
@@ -509,7 +509,7 @@
         },
         {
           "item": "10.0",
-          "number": 21,
+          "number": "21",
           "text": "Alcohol addiction",
           "text_de": "Alkoholerkrankung",
           "answer_list": "mn",
@@ -540,7 +540,7 @@
         },
         {
           "item": "11.0",
-          "number": 22,
+          "number": "22",
           "text": "Depression",
           "text_de": "Depressive Erkrankung",
           "answer_list": "mn",
@@ -571,7 +571,7 @@
         },
         {
           "item": "12.0",
-          "number": 23,
+          "number": "23",
           "text": "Joint diseases (also arthrosis, rhematism)",
           "text_de": "Gelenkerkrankung (auch Arthrose, Rheuma)",
           "answer_list": "mn",
@@ -602,7 +602,7 @@
         },
         {
           "item": "13.0",
-          "number": 24,
+          "number": "24",
           "text": "Chronic back pains",
           "text_de": "Chronische Rueckenbeschwerden",
           "answer_list": "mn",
@@ -633,7 +633,7 @@
         },
         {
           "item": "14.0",
-          "number": 25,
+          "number": "25",
           "text": "Physical disability",
           "text_de": "Koerperbehinderung",
           "answer_list": "mn",
@@ -664,7 +664,7 @@
         },
         {
           "item": "15.0",
-          "number": 26,
+          "number": "26",
           "text": "Other physical or psychological illness/disease",
           "text_de": "Sonstige koerperliche oder psychische Erkrankungen, und zwar. . .",
           "answer_list": "mn",
@@ -695,7 +695,7 @@
         },
         {
           "item": "17.0",
-          "number": 28,
+          "number": "28",
           "text": "No illness diagnosed",
           "text_de": "Keine Erkrankung festgestellt",
           "answer_list": "mn",
@@ -726,7 +726,7 @@
         },
         {
           "item": "18.0",
-          "number": 29,
+          "number": "29",
           "text": "Don't know",
           "text_de": "Weiss nicht",
           "answer_list": "mn",
@@ -766,7 +766,7 @@
       "label": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
       "items": [
         {
-          "number": 27,
+          "number": "27",
           "text": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
           "scale": "chr",
@@ -785,7 +785,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 30,
+          "number": "30",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -795,7 +795,7 @@
         },
         {
           "item": "1.0",
-          "number": 31,
+          "number": "31",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -821,7 +821,7 @@
         },
         {
           "item": "2.0",
-          "number": 32,
+          "number": "32",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -847,7 +847,7 @@
         },
         {
           "item": "3.0",
-          "number": 33,
+          "number": "33",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -882,7 +882,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 34,
+          "number": "34",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -892,7 +892,7 @@
         },
         {
           "item": "1.0",
-          "number": 35,
+          "number": "35",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -918,7 +918,7 @@
         },
         {
           "item": "2.0",
-          "number": 36,
+          "number": "36",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -944,7 +944,7 @@
         },
         {
           "item": "3.0",
-          "number": 37,
+          "number": "37",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -979,7 +979,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 38,
+          "number": "38",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -989,7 +989,7 @@
         },
         {
           "item": "1.0",
-          "number": 39,
+          "number": "39",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1015,7 +1015,7 @@
         },
         {
           "item": "2.0",
-          "number": 40,
+          "number": "40",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1041,7 +1041,7 @@
         },
         {
           "item": "3.0",
-          "number": 41,
+          "number": "41",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1076,7 +1076,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 42,
+          "number": "42",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1086,7 +1086,7 @@
         },
         {
           "item": "1.0",
-          "number": 43,
+          "number": "43",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1112,7 +1112,7 @@
         },
         {
           "item": "2.0",
-          "number": 44,
+          "number": "44",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1138,7 +1138,7 @@
         },
         {
           "item": "3.0",
-          "number": 45,
+          "number": "45",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1173,7 +1173,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 46,
+          "number": "46",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1183,7 +1183,7 @@
         },
         {
           "item": "1.0",
-          "number": 47,
+          "number": "47",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1209,7 +1209,7 @@
         },
         {
           "item": "2.0",
-          "number": 48,
+          "number": "48",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1235,7 +1235,7 @@
         },
         {
           "item": "3.0",
-          "number": 49,
+          "number": "49",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1270,7 +1270,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 50,
+          "number": "50",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1280,7 +1280,7 @@
         },
         {
           "item": "1.0",
-          "number": 51,
+          "number": "51",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1306,7 +1306,7 @@
         },
         {
           "item": "2.0",
-          "number": 52,
+          "number": "52",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1332,7 +1332,7 @@
         },
         {
           "item": "3.0",
-          "number": 53,
+          "number": "53",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1367,7 +1367,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 54,
+          "number": "54",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1377,7 +1377,7 @@
         },
         {
           "item": "1.0",
-          "number": 55,
+          "number": "55",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1403,7 +1403,7 @@
         },
         {
           "item": "2.0",
-          "number": 56,
+          "number": "56",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1429,7 +1429,7 @@
         },
         {
           "item": "3.0",
-          "number": 57,
+          "number": "57",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1464,7 +1464,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 58,
+          "number": "58",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1474,7 +1474,7 @@
         },
         {
           "item": "1.0",
-          "number": 59,
+          "number": "59",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1500,7 +1500,7 @@
         },
         {
           "item": "2.0",
-          "number": 60,
+          "number": "60",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1526,7 +1526,7 @@
         },
         {
           "item": "3.0",
-          "number": 61,
+          "number": "61",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1561,7 +1561,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 62,
+          "number": "62",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1571,7 +1571,7 @@
         },
         {
           "item": "1.0",
-          "number": 63,
+          "number": "63",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1597,7 +1597,7 @@
         },
         {
           "item": "2.0",
-          "number": 64,
+          "number": "64",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1623,7 +1623,7 @@
         },
         {
           "item": "3.0",
-          "number": 65,
+          "number": "65",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1658,7 +1658,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 66,
+          "number": "66",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1668,7 +1668,7 @@
         },
         {
           "item": "1.0",
-          "number": 67,
+          "number": "67",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1694,7 +1694,7 @@
         },
         {
           "item": "2.0",
-          "number": 68,
+          "number": "68",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1720,7 +1720,7 @@
         },
         {
           "item": "3.0",
-          "number": 69,
+          "number": "69",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1755,7 +1755,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 70,
+          "number": "70",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1765,7 +1765,7 @@
         },
         {
           "item": "1.0",
-          "number": 71,
+          "number": "71",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1791,7 +1791,7 @@
         },
         {
           "item": "2.0",
-          "number": 72,
+          "number": "72",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1817,7 +1817,7 @@
         },
         {
           "item": "3.0",
-          "number": 73,
+          "number": "73",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1852,7 +1852,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 74,
+          "number": "74",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1862,7 +1862,7 @@
         },
         {
           "item": "1.0",
-          "number": 75,
+          "number": "75",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1888,7 +1888,7 @@
         },
         {
           "item": "2.0",
-          "number": 76,
+          "number": "76",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -1914,7 +1914,7 @@
         },
         {
           "item": "3.0",
-          "number": 77,
+          "number": "77",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -1949,7 +1949,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 78,
+          "number": "78",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -1959,7 +1959,7 @@
         },
         {
           "item": "1.0",
-          "number": 79,
+          "number": "79",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -1985,7 +1985,7 @@
         },
         {
           "item": "2.0",
-          "number": 80,
+          "number": "80",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -2011,7 +2011,7 @@
         },
         {
           "item": "3.0",
-          "number": 81,
+          "number": "81",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -2046,7 +2046,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 82,
+          "number": "82",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -2056,7 +2056,7 @@
         },
         {
           "item": "1.0",
-          "number": 83,
+          "number": "83",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -2082,7 +2082,7 @@
         },
         {
           "item": "2.0",
-          "number": 84,
+          "number": "84",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -2108,7 +2108,7 @@
         },
         {
           "item": "3.0",
-          "number": 85,
+          "number": "85",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -2143,7 +2143,7 @@
       "label": "During what period did the illness occur?",
       "items": [
         {
-          "number": 86,
+          "number": "86",
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
@@ -2153,7 +2153,7 @@
         },
         {
           "item": "1.0",
-          "number": 87,
+          "number": "87",
           "text": "from (year)",
           "text_de": "von (Jahr)",
           "answer_list": "dia01",
@@ -2179,7 +2179,7 @@
         },
         {
           "item": "2.0",
-          "number": 88,
+          "number": "88",
           "text": "until (year)",
           "text_de": "bis (Jahr)",
           "answer_list": "dia01",
@@ -2205,7 +2205,7 @@
         },
         {
           "item": "3.0",
-          "number": 89,
+          "number": "89",
           "text": "until today",
           "text_de": "bis heute",
           "answer_list": "dia01",
@@ -2240,7 +2240,7 @@
       "label": "Do you smoke?",
       "items": [
         {
-          "number": 90,
+          "number": "90",
           "text": "Do you smoke?",
           "text_de": "Rauchen Sie?",
           "answer_list": "hbe0100",
@@ -2302,7 +2302,7 @@
       "label": "How old were you when you started smoking (even if you didn't smoke much)?",
       "items": [
         {
-          "number": 91,
+          "number": "91",
           "text": "How old were you when you started smoking (even if you didn't smoke much)?",
           "text_de": "Wie alt waren Sie, als Sie mit dem Rauchen begonnen haben (wenn auch nur in kleinen Mengen)?",
           "answer_list": "mis",
@@ -2339,7 +2339,7 @@
       "label": "How old were you when you started smoking (even if you didn't smoke much)?",
       "items": [
         {
-          "number": 92,
+          "number": "92",
           "text": "How old were you when you started smoking (even if you didn't smoke much)?",
           "text_de": "Wie alt waren Sie, als Sie mit dem Rauchen begonnen haben (wenn auch nur in kleinen Mengen)?",
           "answer_list": "mn",
@@ -2381,7 +2381,7 @@
       "label": "Do you tend to smoke alone or with friends or acquaintances?",
       "items": [
         {
-          "number": 93,
+          "number": "93",
           "text": "Do you tend to smoke alone or with friends or acquaintances?",
           "text_de": "Rauchen Sie eher alleine oder in Gesellschaft von Bekannten oder Freunden?",
           "answer_list": "hbe0102",
@@ -2428,7 +2428,7 @@
       "label": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
       "items": [
         {
-          "number": 94,
+          "number": "94",
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
           "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
           "answer_list": "hbe0200",
@@ -2465,7 +2465,7 @@
       "label": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
       "items": [
         {
-          "number": 95,
+          "number": "95",
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
           "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
           "answer_list": "hbe0200",
@@ -2502,7 +2502,7 @@
       "label": "Do you tend to drink alone or with friends or acquaintances?",
       "items": [
         {
-          "number": 96,
+          "number": "96",
           "text": "Do you tend to drink alone or with friends or acquaintances?",
           "text_de": "Trinken Sie eher alleine oder in Gesellschaft von Bekannten oder Freunden?",
           "answer_list": "hbe0102",
@@ -2549,7 +2549,7 @@
       "label": "How often would you say that you drink \"a lot\"?",
       "items": [
         {
-          "number": 97,
+          "number": "97",
           "text": "How often would you say that you drink \"a lot\"?",
           "text_de": "Wie haeufig kommt es Ihrer Meinung nach vor, dass Sie \"viel\" trinken?",
           "answer_list": "hbe0202",
@@ -2611,7 +2611,7 @@
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
       "items": [
         {
-          "number": 98,
+          "number": "98",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
           "answer_list": "mis",
@@ -2648,7 +2648,7 @@
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
       "items": [
         {
-          "number": 99,
+          "number": "99",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
           "answer_list": "mis",
@@ -2685,7 +2685,7 @@
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
       "items": [
         {
-          "number": 100,
+          "number": "100",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
           "answer_list": "mis",
@@ -2722,7 +2722,7 @@
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
       "items": [
         {
-          "number": 101,
+          "number": "101",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
           "answer_list": "mis",
@@ -2759,7 +2759,7 @@
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
       "items": [
         {
-          "number": 102,
+          "number": "102",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
           "answer_list": "mis",
@@ -2796,7 +2796,7 @@
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
       "items": [
         {
-          "number": 103,
+          "number": "103",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
           "answer_list": "mis",
@@ -2833,7 +2833,7 @@
       "label": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
       "items": [
         {
-          "number": 104,
+          "number": "104",
           "text": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
           "text_de": "Die folgenden Fragen beziehen sich nun auf die letzten 12 Monate. In welchem Ausmass haben Sie waehrend der letzten 12 Monate alkoholische Getraenke konsumiert?",
           "scale": "txt",
@@ -2843,7 +2843,7 @@
         },
         {
           "item": "1.0",
-          "number": 105,
+          "number": "105",
           "text": "Beer (0.3 l)",
           "text_de": "Bier (0,3 l)",
           "answer_list": "hbe0202",
@@ -2894,7 +2894,7 @@
         },
         {
           "item": "2.0",
-          "number": 106,
+          "number": "106",
           "text": "Wine (0.2 l)",
           "text_de": "Wein, Sekt (0,2 l)",
           "answer_list": "hbe0202",
@@ -2945,7 +2945,7 @@
         },
         {
           "item": "3.0",
-          "number": 107,
+          "number": "107",
           "text": "Drinks with high alcohol content (e.g. Schnaps/spirits (2 cl), Longdrinks, cocktails (0.3 l))",
           "text_de": "Hochprozentige alkoholische Getraenke (z.B. Schnaps (2cl), Longdrinks (0,3l))",
           "answer_list": "hbe0202",
@@ -3005,7 +3005,7 @@
       "label": "How often in the last 12 months did you not do your work as well as usual because you had consumed alcohol?",
       "items": [
         {
-          "number": 108,
+          "number": "108",
           "text": "How often in the last 12 months did you not do your work as well as usual because you had consumed alcohol?",
           "text_de": "Wie oft kam es in den letzten 12 Monaten vor, dass Sie wegen des Konsums von Alkohol Ihre Arbeit oder Taetigkeit schlechter als sonst gemacht haben?",
           "answer_list": "fre5_3",
@@ -3062,7 +3062,7 @@
       "label": "Do you regularly take medication that adversely affect your ability to think or your emotions or cause other serious side effects?",
       "items": [
         {
-          "number": 109,
+          "number": "109",
           "text": "Do you regularly take medication that adversely affect your ability to think or your emotions or cause other serious side effects?",
           "text_de": "Nehmen Sie regelmaessig Medikamente ein, die Ihr Denken und Fuehlen beeintraechtigen oder andere gravierende Nebenwirkungen bei Ihnen hervorrufen?",
           "answer_list": "yn",
@@ -3109,7 +3109,7 @@
       "label": "In the following we would like to know what you do to care for your health. To what extent does this statement apply to you personally: I take active steps to stay healthy (e.g., go to regular checkups, follow a healthy diet, and avoid unhealthy behavior, etc.).",
       "items": [
         {
-          "number": 110,
+          "number": "110",
           "text": "In the following we would like to know what you do to care for your health. To what extent does this statement apply to you personally: I take active steps to stay healthy (e.g., go to regular checkups, follow a healthy diet, and avoid unhealthy behavior, etc.).",
           "text_de": "Im Folgenden moechten wir erfahren, inwieweit Sie fuer Ihre Gesundheit vorsorgen. Inwieweit trifft folgende Aussage auf Sie persoenlich zu? Ich sorge fuer die Erhaltung meiner Gesundheit aktiv vor (z.B. durch regelmaessige Vorsorgeuntersuchungen, gesunde Ernaehrung, Vermeidung von gesundheitsschaedlichem Verhalten, etc.).",
           "answer_list": "hbe0400",
@@ -3161,7 +3161,7 @@
       "label": "Please give your height and weight.",
       "items": [
         {
-          "number": 111,
+          "number": "111",
           "text": "Please give your height and weight.",
           "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
           "answer_list": "mis",
@@ -3197,7 +3197,7 @@
       "label": "Please give your height and weight.",
       "items": [
         {
-          "number": 112,
+          "number": "112",
           "text": "Please give your height and weight.",
           "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
           "answer_list": "mis",
@@ -3233,7 +3233,7 @@
       "label": "Please give your height and weight.",
       "items": [
         {
-          "number": 113,
+          "number": "113",
           "text": "Please give your height and weight.",
           "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
           "answer_list": "mis",
@@ -3269,7 +3269,7 @@
       "label": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
       "items": [
         {
-          "number": 114,
+          "number": "114",
           "text": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
           "text_de": "Im Folgenden wuerden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen koennen.",
           "scale": "txt",
@@ -3279,7 +3279,7 @@
         },
         {
           "item": "1.0",
-          "number": 115,
+          "number": "115",
           "text": "In most ways my life is close to my ideal.",
           "text_de": "In den meisten Punkten ist mein Leben meinem Ideal nahe.",
           "answer_list": "agr5_2",
@@ -3325,7 +3325,7 @@
         },
         {
           "item": "2.0",
-          "number": 116,
+          "number": "116",
           "text": "The conditions of my life are excellent.",
           "text_de": "Meine Lebensbedingungen sind hervorragend.",
           "answer_list": "agr5_2",
@@ -3371,7 +3371,7 @@
         },
         {
           "item": "3.0",
-          "number": 117,
+          "number": "117",
           "text": "I am satisfied with my life.",
           "text_de": "Ich bin zufrieden mit meinem Leben.",
           "answer_list": "agr5_2",
@@ -3417,7 +3417,7 @@
         },
         {
           "item": "4.0",
-          "number": 118,
+          "number": "118",
           "text": "So far I have gotten the important things I want in life.",
           "text_de": "Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
           "answer_list": "agr5_2",
@@ -3463,7 +3463,7 @@
         },
         {
           "item": "5.0",
-          "number": 119,
+          "number": "119",
           "text": "If I could live my life over, I would change almost nothing.",
           "text_de": "Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern.",
           "answer_list": "agr5_2",
@@ -3518,7 +3518,7 @@
       "label": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
       "items": [
         {
-          "number": 120,
+          "number": "120",
           "text": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
           "text_de": "Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass Sie in den jeweiligen Gruppen aktiv sind.",
           "scale": "txt",
@@ -3528,7 +3528,7 @@
         },
         {
           "item": "1.0",
-          "number": 121,
+          "number": "121",
           "text": "Sports association or club",
           "text_de": "Sportverein",
           "answer_list": "fre4",
@@ -3569,7 +3569,7 @@
         },
         {
           "item": "2.0",
-          "number": 122,
+          "number": "122",
           "text": "Choir/music or theatre group or similar",
           "text_de": "Gesangs-/Musikverein/Theatergruppe o.ae.",
           "answer_list": "fre4",
@@ -3610,7 +3610,7 @@
         },
         {
           "item": "3.0",
-          "number": 123,
+          "number": "123",
           "text": "Church or religious group",
           "text_de": "Kirchliche/religioese Gruppe",
           "answer_list": "fre4",
@@ -3651,7 +3651,7 @@
         },
         {
           "item": "4.0",
-          "number": 124,
+          "number": "124",
           "text": "Trade union/professional association/student council",
           "text_de": "Gewerkschaft/Berufsverband/Schuelervertretung",
           "answer_list": "fre4",
@@ -3692,7 +3692,7 @@
         },
         {
           "item": "5.0",
-          "number": 125,
+          "number": "125",
           "text": "Voluntary fire and rescue services/technical relief association THW/DLRG German Lifesaving Association etc.",
           "text_de": "Freiwillige Feuerwehr/THW/DLRG, o.ae.",
           "answer_list": "fre4",
@@ -3733,7 +3733,7 @@
         },
         {
           "item": "6.0",
-          "number": 126,
+          "number": "126",
           "text": "Local history association/Citizens association/Shooting club (\"Schuetzenverein\")",
           "text_de": "Heimat-/Buerger-/Schuetzenverein",
           "answer_list": "fre4",
@@ -3774,7 +3774,7 @@
         },
         {
           "item": "7.0",
-          "number": 127,
+          "number": "127",
           "text": "Political organization/party/citizens' initiative",
           "text_de": "Politische Organisation/Partei/Buergerinitiative",
           "answer_list": "fre4",
@@ -3815,7 +3815,7 @@
         },
         {
           "item": "8.0",
-          "number": 128,
+          "number": "128",
           "text": "Other associations/federation",
           "text_de": "Anderer Verein/Verband",
           "answer_list": "fre4",
@@ -3865,7 +3865,7 @@
       "label": "Do you have a (volunteer) position in one of these associations or groups?",
       "items": [
         {
-          "number": 129,
+          "number": "129",
           "text": "Do you have a (volunteer) position in one of these associations or groups?",
           "text_de": "Wenn Sie in einem der Vereine mindestens selten aktiv sind: Haben Sie in einem dieser Vereine oder Gruppen eine (ehrenamtliche) Funktion inne?",
           "answer_list": "yn",
@@ -3912,7 +3912,7 @@
       "label": "Which function?",
       "items": [
         {
-          "number": 130,
+          "number": "130",
           "text": "Which function?",
           "text_de": "Wenn Sie in einem der Vereine mindestens selten aktiv sind: Haben Sie in einem dieser Vereine oder Gruppen eine (ehrenamtliche) Funktion inne? Welche Funktion ist das?",
           "scale": "chr",
@@ -3931,7 +3931,7 @@
       "label": "Generally speaking, how interested are you in politics?",
       "items": [
         {
-          "number": 131,
+          "number": "131",
           "text": "Generally speaking, how interested are you in politics?",
           "text_de": "Einmal ganz allgemein gesprochen, wie stark interessieren Sie sich fuer Politik?",
           "answer_list": "pop0100",
@@ -3983,7 +3983,7 @@
       "label": "Which of the following activities did you take part in within the last 12 months?",
       "items": [
         {
-          "number": 132,
+          "number": "132",
           "text": "Which of the following activities did you take part in within the last 12 months?",
           "text_de": "Welche der folgenden Aktivitaeten haben Sie in den letzten 12 Monaten ausgeuebt?",
           "scale": "txt",
@@ -3993,7 +3993,7 @@
         },
         {
           "item": "1.0",
-          "number": 133,
+          "number": "133",
           "text": "Taken part in a political meeting/a discussion event/a demonstration",
           "text_de": "An einer politischen Versammlung/Diskussionsveranstaltung/Demonstration teilgenommen",
           "answer_list": "yn",
@@ -4029,7 +4029,7 @@
         },
         {
           "item": "2.0",
-          "number": 134,
+          "number": "134",
           "text": "Taken part in an online-petition/a signature collection",
           "text_de": "An einer Unterschriftensammlung teilgenommen/eine Onlinepetition unterstuetzt",
           "answer_list": "yn",
@@ -4065,7 +4065,7 @@
         },
         {
           "item": "3.0",
-          "number": 135,
+          "number": "135",
           "text": "Boycotted a company or products for political or ethical reasons or on environmental grounds, e.g. did not buy products or avoided them",
           "text_de": "Aus politischen, ethischen oder Umweltgruenden Unternehmen oder Waren boykottiert, d.h. zum Beispiel nicht gekauft oder gemieden.",
           "answer_list": "yn",
@@ -4110,7 +4110,7 @@
       "label": "Did you vote in the last election of the federal parliament?",
       "items": [
         {
-          "number": 136,
+          "number": "136",
           "text": "Did you vote in the last election of the federal parliament?",
           "text_de": "Haben Sie bei der letzten Bundestagswahl gewaehlt?",
           "answer_list": "pop0300",
@@ -4157,7 +4157,7 @@
       "label": "If an election for the federal parmliament would take place next Sunday, would you participate in the election? If you are not eligible to vote, please indicate what you would do if you were eligible to vote.",
       "items": [
         {
-          "number": 137,
+          "number": "137",
           "text": "If an election for the federal parmliament would take place next Sunday, would you participate in the election? If you are not eligible to vote, please indicate what you would do if you were eligible to vote.",
           "text_de": "Wenn am naechsten Sonntag Bundestagswahl waere, wuerden Sie an der Wahl teilnehmen? Wenn Sie nicht wahlberechtigt sind, geben Sie bitte an, was Sie tun wuerden, wenn Sie wahlberechtigt waeren.",
           "answer_list": "yn",
@@ -4204,7 +4204,7 @@
       "label": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
       "items": [
         {
-          "number": 138,
+          "number": "138",
           "text": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
           "text_de": "Neigen Sie einer bestimmten politischen Partei zu? Wenn ja, welcher Partei neigen Sie am ehesten zu?",
           "answer_list": "pop0302",
@@ -4286,7 +4286,7 @@
       "label": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
       "items": [
         {
-          "number": 139,
+          "number": "139",
           "text": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
           "text_de": "Neigen Sie einer bestimmten politischen Partei zu? Wenn ja, welcher Partei neigen Sie am ehesten zu? (andere offen)",
           "scale": "chr",
@@ -4305,7 +4305,7 @@
       "label": "Now we have some questions about your personal experiences. During the last 12 months, have you felt that you were disadvantaged or discriminated against due to any personal characteristics (e.g., your ethnic or cultural background, gender, religious beliefs)?",
       "items": [
         {
-          "number": 140,
+          "number": "140",
           "text": "Now we have some questions about your personal experiences. During the last 12 months, have you felt that you were disadvantaged or discriminated against due to any personal characteristics (e.g., your ethnic or cultural background, gender, religious beliefs)?",
           "text_de": "Im Folgenden geht es um Ihre persoenlichen Erfahrungen. Haben Sie in den vergangenen 12 Monaten erlebt, dass Sie aufgrund eines persoenlichen Merkmals (z.B. Ihrer Herkunft, Ihres Geschlechts, Ihrer Religionszugehoerigkeit/Weltanschauung) durch andere benachteiligt oder gegenueber anderen Menschen schlechter gestellt wurden?",
           "answer_list": "yn",
@@ -4352,7 +4352,7 @@
       "label": "If so, what do you think was the reason for the discrimination? Multiple answers possible.",
       "items": [
         {
-          "number": 141,
+          "number": "141",
           "text": "If so, what do you think was the reason for the discrimination? Multiple answers possible.",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet? Ich wurde benachteiligt auf Grund meiner/meines . . .",
           "scale": "txt",
@@ -4364,7 +4364,7 @@
         },
         {
           "item": "1.0",
-          "number": 142,
+          "number": "142",
           "text": "Ethnic background (e.g. nationality, skin colour)",
           "text_de": "Herkunft (z.B. Nationalitaet, Hautfarbe)",
           "answer_list": "mn",
@@ -4397,7 +4397,7 @@
         },
         {
           "item": "2.0",
-          "number": 143,
+          "number": "143",
           "text": "Gender",
           "text_de": "Geschlechts",
           "answer_list": "mn",
@@ -4430,7 +4430,7 @@
         },
         {
           "item": "3.0",
-          "number": 144,
+          "number": "144",
           "text": "Religious orientation/belief",
           "text_de": "Religionszugehoerigkeit/Weltanschauung",
           "answer_list": "mn",
@@ -4463,7 +4463,7 @@
         },
         {
           "item": "4.0",
-          "number": 145,
+          "number": "145",
           "text": "Age",
           "text_de": "Alters",
           "answer_list": "mn",
@@ -4496,7 +4496,7 @@
         },
         {
           "item": "5.0",
-          "number": 146,
+          "number": "146",
           "text": "Sexual identity (e.g. homosexuality)",
           "text_de": "Sexuellen Identitaet (z.B. Homosexualitaet)",
           "answer_list": "mn",
@@ -4529,7 +4529,7 @@
         },
         {
           "item": "6.0",
-          "number": 147,
+          "number": "147",
           "text": "Disability",
           "text_de": "Behinderung",
           "answer_list": "mn",
@@ -4571,7 +4571,7 @@
       "label": "How heavily did this discrimination weigh on you?",
       "items": [
         {
-          "number": 148,
+          "number": "148",
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
           "answer_list": "pop0100",
@@ -4625,7 +4625,7 @@
       "label": "How heavily did this discrimination weigh on you?",
       "items": [
         {
-          "number": 149,
+          "number": "149",
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
           "answer_list": "pop0100",
@@ -4679,7 +4679,7 @@
       "label": "How heavily did this discrimination weigh on you?",
       "items": [
         {
-          "number": 150,
+          "number": "150",
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
           "answer_list": "pop0100",
@@ -4733,7 +4733,7 @@
       "label": "How heavily did this discrimination weigh on you?",
       "items": [
         {
-          "number": 151,
+          "number": "151",
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
           "answer_list": "pop0100",
@@ -4787,7 +4787,7 @@
       "label": "How heavily did this discrimination weigh on you?",
       "items": [
         {
-          "number": 152,
+          "number": "152",
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
           "answer_list": "pop0100",
@@ -4841,7 +4841,7 @@
       "label": "How heavily did this discrimination weigh on you?",
       "items": [
         {
-          "number": 153,
+          "number": "153",
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
           "answer_list": "pop0100",
@@ -4895,7 +4895,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 154,
+          "number": "154",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -4937,7 +4937,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 155,
+          "number": "155",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -4979,7 +4979,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 156,
+          "number": "156",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5021,7 +5021,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 157,
+          "number": "157",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5063,7 +5063,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 158,
+          "number": "158",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5105,7 +5105,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 159,
+          "number": "159",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5147,7 +5147,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 160,
+          "number": "160",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5189,7 +5189,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 161,
+          "number": "161",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5231,7 +5231,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 162,
+          "number": "162",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5273,7 +5273,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 163,
+          "number": "163",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5315,7 +5315,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 164,
+          "number": "164",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5357,7 +5357,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 165,
+          "number": "165",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5399,7 +5399,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 166,
+          "number": "166",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5441,7 +5441,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 167,
+          "number": "167",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5483,7 +5483,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 168,
+          "number": "168",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5525,7 +5525,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 169,
+          "number": "169",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5567,7 +5567,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 170,
+          "number": "170",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5609,7 +5609,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 171,
+          "number": "171",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5651,7 +5651,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 172,
+          "number": "172",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5693,7 +5693,7 @@
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
       "items": [
         {
-          "number": 173,
+          "number": "173",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
@@ -5735,7 +5735,7 @@
       "label": "Below are three statements that you can either agree or disagree with. What is your opinion on the following three statements ?",
       "items": [
         {
-          "number": 174,
+          "number": "174",
           "text": "Below are three statements that you can either agree or disagree with. What is your opinion on the following three statements ?",
           "text_de": "Im Folgenden sehen Sie drei Aussagen, die man ablehnen oder denen man zustimmen kann. Wie ist Ihre Meinung zu den folgenden drei Aussagen?",
           "scale": "txt",
@@ -5745,7 +5745,7 @@
         },
         {
           "item": "1.0",
-          "number": 175,
+          "number": "175",
           "text": "On the whole one can trust people.",
           "text_de": "Im Allgemeinen kann man den Menschen vertrauen.",
           "answer_list": "agr4",
@@ -5788,7 +5788,7 @@
         },
         {
           "item": "2.0",
-          "number": 176,
+          "number": "176",
           "text": "Nowadays one can't rely on anyone.",
           "text_de": "Heutzutage kann man sich auf niemanden mehr verlassen.",
           "answer_list": "agr4",
@@ -5831,7 +5831,7 @@
         },
         {
           "item": "3.0",
-          "number": 177,
+          "number": "177",
           "text": "If one is dealing with strangers, it is better to be careful before one can trust them.",
           "text_de": "Wenn man mit Fremden zu tun hat, ist es besser, vorsichtig zu sein, bevor man ihnen vertraut.",
           "answer_list": "agr4",
@@ -5883,7 +5883,7 @@
       "label": "Now a few general questions about your friends. What applies to you?",
       "items": [
         {
-          "number": 178,
+          "number": "178",
           "text": "Now a few general questions about your friends. What applies to you?",
           "text_de": "Nun noch einige allgemeine Fragen zu Ihren Freunden. Was trifft bei Ihnen zu?",
           "scale": "txt",
@@ -5893,7 +5893,7 @@
         },
         {
           "item": "1.0",
-          "number": 179,
+          "number": "179",
           "text": "Most of my friends know each other.",
           "text_de": "Die meisten meiner Freunde kennen sich untereinander.",
           "answer_list": "agr4_2",
@@ -5936,7 +5936,7 @@
         },
         {
           "item": "2.0",
-          "number": 180,
+          "number": "180",
           "text": "When my friends celebrate their birthdays there are usually many people that I don't know.",
           "text_de": "Auf Geburtstagsfeiern meiner Freunde sind meistens viele Personen, die ich kaum kenne.",
           "answer_list": "agr4_2",
@@ -5979,7 +5979,7 @@
         },
         {
           "item": "3.0",
-          "number": 181,
+          "number": "181",
           "text": "My close friends also know my family.",
           "text_de": "Meine engen Freunde kennen auch meine Familie.",
           "answer_list": "agr4_2",
@@ -6031,7 +6031,7 @@
       "label": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
       "items": [
         {
-          "number": 182,
+          "number": "182",
           "text": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
           "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu zaehlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
           "answer_list": "net0300",
@@ -6070,7 +6070,7 @@
       "label": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
       "items": [
         {
-          "number": 183,
+          "number": "183",
           "text": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
           "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu zaehlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
           "answer_list": "net0300",
@@ -6109,7 +6109,7 @@
       "label": "And how many of them do not live with you?",
       "items": [
         {
-          "number": 184,
+          "number": "184",
           "text": "And how many of them do not live with you?",
           "text_de": "Und wie viele davon leben nicht bei Ihnen im Haushalt?",
           "answer_list": "net0300",
@@ -6148,7 +6148,7 @@
       "label": "And how many of them do not live with you?",
       "items": [
         {
-          "number": 185,
+          "number": "185",
           "text": "And how many of them do not live with you?",
           "text_de": "Und wie viele davon leben nicht bei Ihnen im Haushalt?",
           "answer_list": "net0300",
@@ -6187,7 +6187,7 @@
       "label": "How old is the first person?",
       "items": [
         {
-          "number": 186,
+          "number": "186",
           "text": "How old is the first person?",
           "text_de": "Wie alt ist die erste Person?",
           "answer_list": "net0300",
@@ -6225,7 +6225,7 @@
       "label": "Is the first person male or female?",
       "items": [
         {
-          "number": 187,
+          "number": "187",
           "text": "Is the first person male or female?",
           "text_de": "Welches Geschlecht hat die erste Person?",
           "answer_list": "sex_2",
@@ -6268,7 +6268,7 @@
       "label": "How old is the second person?",
       "items": [
         {
-          "number": 188,
+          "number": "188",
           "text": "How old is the second person?",
           "text_de": "Wie alt ist die zweite Person?",
           "answer_list": "net0300",
@@ -6306,7 +6306,7 @@
       "label": "Is the second person male or female?",
       "items": [
         {
-          "number": 189,
+          "number": "189",
           "text": "Is the second person male or female?",
           "text_de": "Welches Geschlecht hat die zweite Person?",
           "answer_list": "sex_2",
@@ -6349,7 +6349,7 @@
       "label": "How old is the third person?",
       "items": [
         {
-          "number": 190,
+          "number": "190",
           "text": "How old is the third person?",
           "text_de": "Wie alt ist die dritte Person?",
           "answer_list": "net0300",
@@ -6387,7 +6387,7 @@
       "label": "Is the third person male or female?",
       "items": [
         {
-          "number": 191,
+          "number": "191",
           "text": "Is the third person male or female?",
           "text_de": "Welches Geschlecht hat die dritte Person?",
           "answer_list": "sex_2",
@@ -6430,7 +6430,7 @@
       "label": "For me there is no off-houshold person who is important to me.",
       "items": [
         {
-          "number": 192,
+          "number": "192",
           "text": "For me there is no off-houshold person who is important to me.",
           "text_de": "Fuer mich gibt es ausserhalb des Haushalts keine Person, die mir wichtig ist.",
           "answer_list": "net0300",
@@ -6468,7 +6468,7 @@
       "label": "Which is the first person's highest school-leaving certificate?",
       "items": [
         {
-          "number": 193,
+          "number": "193",
           "text": "Which is the first person's highest school-leaving certificate?",
           "text_de": "Welchen hoechsten Schulabschluss hat die erste Person?",
           "answer_list": "eca0100_2",
@@ -6527,7 +6527,7 @@
       "label": "Which is the second person's highest school-leaving certificate?",
       "items": [
         {
-          "number": 194,
+          "number": "194",
           "text": "Which is the second person's highest school-leaving certificate?",
           "text_de": "Welchen hoechsten Schulabschluss hat die zweite Person?",
           "answer_list": "eca0100_2",
@@ -6586,7 +6586,7 @@
       "label": "Which is the third person's highest school-leaving certificate?",
       "items": [
         {
-          "number": 195,
+          "number": "195",
           "text": "Which is the third person's highest school-leaving certificate?",
           "text_de": "Welchen hoechsten Schulabschluss hat die dritte Person?",
           "answer_list": "eca0100_2",
@@ -6645,7 +6645,7 @@
       "label": "What type of school does the first person attend?",
       "items": [
         {
-          "number": 196,
+          "number": "196",
           "text": "What type of school does the first person attend?",
           "text_de": "Welche Schulform besucht die erste Person?",
           "answer_list": "edu0400_2",
@@ -6714,7 +6714,7 @@
       "label": "What type of school does the second person attend?",
       "items": [
         {
-          "number": 197,
+          "number": "197",
           "text": "What type of school does the second person attend?",
           "text_de": "Welche Schulform besucht die zweite Person?",
           "answer_list": "edu0400_2",
@@ -6783,7 +6783,7 @@
       "label": "What type of school does the third person attend?",
       "items": [
         {
-          "number": 198,
+          "number": "198",
           "text": "What type of school does the third person attend?",
           "text_de": "Welche Schulform besucht die dritte Person?",
           "answer_list": "edu0400_2",
@@ -6852,7 +6852,7 @@
       "label": "To what extent does the following statement apply to you?",
       "items": [
         {
-          "number": 199,
+          "number": "199",
           "text": "To what extent does the following statement apply to you?",
           "text_de": "Wie sehr trifft die folgende Aussage auf Sie persoenlich zu?",
           "answer_list": "agr4_2",

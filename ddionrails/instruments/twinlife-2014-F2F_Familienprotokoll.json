@@ -13,7 +13,7 @@
       "label": "person 1",
       "items": [
         {
-          "number": 6,
+          "number": "6",
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "scale": "chr",
@@ -31,7 +31,7 @@
       "label": "person 1",
       "items": [
         {
-          "number": 7,
+          "number": "7",
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "scale": "chr",
@@ -49,7 +49,7 @@
       "label": "person 1",
       "items": [
         {
-          "number": 8,
+          "number": "8",
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "answer_list": "mis",
@@ -85,7 +85,7 @@
       "label": "person 1",
       "items": [
         {
-          "number": 9,
+          "number": "9",
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "answer_list": "mis",
@@ -121,7 +121,7 @@
       "label": "person 1",
       "items": [
         {
-          "number": 10,
+          "number": "10",
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "answer_list": "mis",
@@ -157,7 +157,7 @@
       "label": "person 1",
       "items": [
         {
-          "number": 11,
+          "number": "11",
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "answer_list": "sex",
@@ -198,7 +198,7 @@
       "label": "What relation do you have to the twins?",
       "items": [
         {
-          "number": 12,
+          "number": "12",
           "text": "What relation do you have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste haben Sie zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -344,7 +344,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 13,
+          "number": "13",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -390,7 +390,7 @@
       "label": "person 2",
       "items": [
         {
-          "number": 14,
+          "number": "14",
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "scale": "chr",
@@ -409,7 +409,7 @@
       "label": "person 2",
       "items": [
         {
-          "number": 15,
+          "number": "15",
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "scale": "chr",
@@ -428,7 +428,7 @@
       "label": "person 2",
       "items": [
         {
-          "number": 16,
+          "number": "16",
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "answer_list": "mis",
@@ -465,7 +465,7 @@
       "label": "person 2",
       "items": [
         {
-          "number": 17,
+          "number": "17",
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "answer_list": "mis",
@@ -502,7 +502,7 @@
       "label": "person 2",
       "items": [
         {
-          "number": 18,
+          "number": "18",
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "answer_list": "mis",
@@ -539,7 +539,7 @@
       "label": "person 2",
       "items": [
         {
-          "number": 19,
+          "number": "19",
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "answer_list": "sex",
@@ -581,7 +581,7 @@
       "label": "person 3",
       "items": [
         {
-          "number": 20,
+          "number": "20",
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "scale": "chr",
@@ -600,7 +600,7 @@
       "label": "person 3",
       "items": [
         {
-          "number": 21,
+          "number": "21",
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "scale": "chr",
@@ -619,7 +619,7 @@
       "label": "person 3",
       "items": [
         {
-          "number": 22,
+          "number": "22",
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "answer_list": "mis",
@@ -656,7 +656,7 @@
       "label": "person 3",
       "items": [
         {
-          "number": 23,
+          "number": "23",
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "answer_list": "mis",
@@ -693,7 +693,7 @@
       "label": "person 3",
       "items": [
         {
-          "number": 24,
+          "number": "24",
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "answer_list": "mis",
@@ -730,7 +730,7 @@
       "label": "person 3",
       "items": [
         {
-          "number": 25,
+          "number": "25",
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "answer_list": "sex",
@@ -772,7 +772,7 @@
       "label": "person 4",
       "items": [
         {
-          "number": 26,
+          "number": "26",
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "scale": "chr",
@@ -791,7 +791,7 @@
       "label": "person 4",
       "items": [
         {
-          "number": 27,
+          "number": "27",
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "scale": "chr",
@@ -810,7 +810,7 @@
       "label": "person 4",
       "items": [
         {
-          "number": 28,
+          "number": "28",
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "answer_list": "mis",
@@ -847,7 +847,7 @@
       "label": "person 4",
       "items": [
         {
-          "number": 29,
+          "number": "29",
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "answer_list": "mis",
@@ -884,7 +884,7 @@
       "label": "person 4",
       "items": [
         {
-          "number": 30,
+          "number": "30",
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "answer_list": "mis",
@@ -921,7 +921,7 @@
       "label": "person 4",
       "items": [
         {
-          "number": 31,
+          "number": "31",
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "answer_list": "sex",
@@ -963,7 +963,7 @@
       "label": "person 5",
       "items": [
         {
-          "number": 32,
+          "number": "32",
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "scale": "chr",
@@ -982,7 +982,7 @@
       "label": "person 5",
       "items": [
         {
-          "number": 33,
+          "number": "33",
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "scale": "chr",
@@ -1001,7 +1001,7 @@
       "label": "person 5",
       "items": [
         {
-          "number": 34,
+          "number": "34",
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "answer_list": "mis",
@@ -1038,7 +1038,7 @@
       "label": "person 5",
       "items": [
         {
-          "number": 35,
+          "number": "35",
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "answer_list": "mis",
@@ -1075,7 +1075,7 @@
       "label": "person 5",
       "items": [
         {
-          "number": 36,
+          "number": "36",
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "answer_list": "mis",
@@ -1112,7 +1112,7 @@
       "label": "person 5",
       "items": [
         {
-          "number": 37,
+          "number": "37",
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "answer_list": "sex",
@@ -1154,7 +1154,7 @@
       "label": "person 6",
       "items": [
         {
-          "number": 38,
+          "number": "38",
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "scale": "chr",
@@ -1173,7 +1173,7 @@
       "label": "person 6",
       "items": [
         {
-          "number": 39,
+          "number": "39",
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "scale": "chr",
@@ -1192,7 +1192,7 @@
       "label": "person 6",
       "items": [
         {
-          "number": 40,
+          "number": "40",
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "answer_list": "mis",
@@ -1229,7 +1229,7 @@
       "label": "person 6",
       "items": [
         {
-          "number": 41,
+          "number": "41",
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "answer_list": "mis",
@@ -1266,7 +1266,7 @@
       "label": "person 6",
       "items": [
         {
-          "number": 42,
+          "number": "42",
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "answer_list": "mis",
@@ -1303,7 +1303,7 @@
       "label": "person 6",
       "items": [
         {
-          "number": 43,
+          "number": "43",
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "answer_list": "sex",
@@ -1345,7 +1345,7 @@
       "label": "person 7",
       "items": [
         {
-          "number": 44,
+          "number": "44",
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "scale": "chr",
@@ -1364,7 +1364,7 @@
       "label": "person 7",
       "items": [
         {
-          "number": 45,
+          "number": "45",
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "scale": "chr",
@@ -1383,7 +1383,7 @@
       "label": "person 7",
       "items": [
         {
-          "number": 46,
+          "number": "46",
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "answer_list": "mis",
@@ -1420,7 +1420,7 @@
       "label": "person 7",
       "items": [
         {
-          "number": 47,
+          "number": "47",
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "answer_list": "mis",
@@ -1457,7 +1457,7 @@
       "label": "person 7",
       "items": [
         {
-          "number": 48,
+          "number": "48",
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "answer_list": "mis",
@@ -1494,7 +1494,7 @@
       "label": "person 7",
       "items": [
         {
-          "number": 49,
+          "number": "49",
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "answer_list": "sex",
@@ -1536,7 +1536,7 @@
       "label": "person 8",
       "items": [
         {
-          "number": 50,
+          "number": "50",
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "scale": "chr",
@@ -1555,7 +1555,7 @@
       "label": "person 8",
       "items": [
         {
-          "number": 51,
+          "number": "51",
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "scale": "chr",
@@ -1574,7 +1574,7 @@
       "label": "person 8",
       "items": [
         {
-          "number": 52,
+          "number": "52",
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "answer_list": "mis",
@@ -1611,7 +1611,7 @@
       "label": "person 8",
       "items": [
         {
-          "number": 53,
+          "number": "53",
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "answer_list": "mis",
@@ -1648,7 +1648,7 @@
       "label": "person 8",
       "items": [
         {
-          "number": 54,
+          "number": "54",
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "answer_list": "mis",
@@ -1685,7 +1685,7 @@
       "label": "person 8",
       "items": [
         {
-          "number": 55,
+          "number": "55",
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "answer_list": "sex",
@@ -1727,7 +1727,7 @@
       "label": "person 9",
       "items": [
         {
-          "number": 56,
+          "number": "56",
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "scale": "chr",
@@ -1746,7 +1746,7 @@
       "label": "person 9",
       "items": [
         {
-          "number": 57,
+          "number": "57",
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "scale": "chr",
@@ -1765,7 +1765,7 @@
       "label": "person 9",
       "items": [
         {
-          "number": 58,
+          "number": "58",
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "answer_list": "mis",
@@ -1802,7 +1802,7 @@
       "label": "person 9",
       "items": [
         {
-          "number": 59,
+          "number": "59",
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "answer_list": "mis",
@@ -1839,7 +1839,7 @@
       "label": "person 9",
       "items": [
         {
-          "number": 60,
+          "number": "60",
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "answer_list": "mis",
@@ -1876,7 +1876,7 @@
       "label": "person 9",
       "items": [
         {
-          "number": 61,
+          "number": "61",
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "answer_list": "sex",
@@ -1918,7 +1918,7 @@
       "label": "person 10",
       "items": [
         {
-          "number": 62,
+          "number": "62",
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "scale": "chr",
@@ -1937,7 +1937,7 @@
       "label": "person 10",
       "items": [
         {
-          "number": 63,
+          "number": "63",
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "scale": "chr",
@@ -1956,7 +1956,7 @@
       "label": "person 10",
       "items": [
         {
-          "number": 64,
+          "number": "64",
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "answer_list": "mis",
@@ -1993,7 +1993,7 @@
       "label": "person 10",
       "items": [
         {
-          "number": 65,
+          "number": "65",
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "answer_list": "mis",
@@ -2030,7 +2030,7 @@
       "label": "person 10",
       "items": [
         {
-          "number": 66,
+          "number": "66",
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "answer_list": "mis",
@@ -2067,7 +2067,7 @@
       "label": "person 10",
       "items": [
         {
-          "number": 67,
+          "number": "67",
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "answer_list": "sex",
@@ -2109,7 +2109,7 @@
       "label": "person 11",
       "items": [
         {
-          "number": 68,
+          "number": "68",
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "scale": "chr",
@@ -2128,7 +2128,7 @@
       "label": "person 11",
       "items": [
         {
-          "number": 69,
+          "number": "69",
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "scale": "chr",
@@ -2147,7 +2147,7 @@
       "label": "person 11",
       "items": [
         {
-          "number": 70,
+          "number": "70",
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "answer_list": "mis",
@@ -2184,7 +2184,7 @@
       "label": "person 11",
       "items": [
         {
-          "number": 71,
+          "number": "71",
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "answer_list": "mis",
@@ -2221,7 +2221,7 @@
       "label": "person 11",
       "items": [
         {
-          "number": 72,
+          "number": "72",
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "answer_list": "mis",
@@ -2258,7 +2258,7 @@
       "label": "person 11",
       "items": [
         {
-          "number": 73,
+          "number": "73",
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "answer_list": "sex",
@@ -2300,7 +2300,7 @@
       "label": "person 12",
       "items": [
         {
-          "number": 74,
+          "number": "74",
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "scale": "chr",
@@ -2319,7 +2319,7 @@
       "label": "person 12",
       "items": [
         {
-          "number": 75,
+          "number": "75",
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "scale": "chr",
@@ -2338,7 +2338,7 @@
       "label": "person 12",
       "items": [
         {
-          "number": 76,
+          "number": "76",
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "answer_list": "mis",
@@ -2375,7 +2375,7 @@
       "label": "person 12",
       "items": [
         {
-          "number": 77,
+          "number": "77",
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "answer_list": "mis",
@@ -2412,7 +2412,7 @@
       "label": "person 12",
       "items": [
         {
-          "number": 78,
+          "number": "78",
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "answer_list": "mis",
@@ -2449,7 +2449,7 @@
       "label": "person 12",
       "items": [
         {
-          "number": 79,
+          "number": "79",
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "answer_list": "sex",
@@ -2491,7 +2491,7 @@
       "label": "person 13",
       "items": [
         {
-          "number": 80,
+          "number": "80",
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "scale": "chr",
@@ -2510,7 +2510,7 @@
       "label": "person 13",
       "items": [
         {
-          "number": 81,
+          "number": "81",
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "scale": "chr",
@@ -2529,7 +2529,7 @@
       "label": "person 13",
       "items": [
         {
-          "number": 82,
+          "number": "82",
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "answer_list": "mis",
@@ -2566,7 +2566,7 @@
       "label": "person 13",
       "items": [
         {
-          "number": 83,
+          "number": "83",
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "answer_list": "mis",
@@ -2603,7 +2603,7 @@
       "label": "person 13",
       "items": [
         {
-          "number": 84,
+          "number": "84",
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "answer_list": "mis",
@@ -2640,7 +2640,7 @@
       "label": "person 13",
       "items": [
         {
-          "number": 85,
+          "number": "85",
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "answer_list": "sex",
@@ -2682,7 +2682,7 @@
       "label": "person 14",
       "items": [
         {
-          "number": 86,
+          "number": "86",
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "scale": "chr",
@@ -2701,7 +2701,7 @@
       "label": "person 14",
       "items": [
         {
-          "number": 87,
+          "number": "87",
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "scale": "chr",
@@ -2720,7 +2720,7 @@
       "label": "person 14",
       "items": [
         {
-          "number": 88,
+          "number": "88",
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "answer_list": "mis",
@@ -2757,7 +2757,7 @@
       "label": "person 14",
       "items": [
         {
-          "number": 89,
+          "number": "89",
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "answer_list": "mis",
@@ -2794,7 +2794,7 @@
       "label": "person 14",
       "items": [
         {
-          "number": 90,
+          "number": "90",
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "answer_list": "mis",
@@ -2831,7 +2831,7 @@
       "label": "person 14",
       "items": [
         {
-          "number": 91,
+          "number": "91",
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "answer_list": "sex",
@@ -2873,7 +2873,7 @@
       "label": "person 15",
       "items": [
         {
-          "number": 92,
+          "number": "92",
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "scale": "chr",
@@ -2892,7 +2892,7 @@
       "label": "person 15",
       "items": [
         {
-          "number": 93,
+          "number": "93",
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "scale": "chr",
@@ -2911,7 +2911,7 @@
       "label": "person 15",
       "items": [
         {
-          "number": 94,
+          "number": "94",
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "answer_list": "mis",
@@ -2948,7 +2948,7 @@
       "label": "person 15",
       "items": [
         {
-          "number": 95,
+          "number": "95",
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "answer_list": "mis",
@@ -2985,7 +2985,7 @@
       "label": "person 15",
       "items": [
         {
-          "number": 96,
+          "number": "96",
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "answer_list": "mis",
@@ -3022,7 +3022,7 @@
       "label": "person 15",
       "items": [
         {
-          "number": 97,
+          "number": "97",
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "answer_list": "sex",
@@ -3064,7 +3064,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 98,
+          "number": "98",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -3211,7 +3211,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 99,
+          "number": "99",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -3358,7 +3358,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 100,
+          "number": "100",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -3505,7 +3505,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 101,
+          "number": "101",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -3652,7 +3652,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 102,
+          "number": "102",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -3799,7 +3799,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 103,
+          "number": "103",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -3946,7 +3946,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 104,
+          "number": "104",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4093,7 +4093,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 105,
+          "number": "105",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4240,7 +4240,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 106,
+          "number": "106",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4387,7 +4387,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 107,
+          "number": "107",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4534,7 +4534,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 108,
+          "number": "108",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4681,7 +4681,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 109,
+          "number": "109",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4828,7 +4828,7 @@
       "label": "What relation does [name of person] have to the twins?",
       "items": [
         {
-          "number": 110,
+          "number": "110",
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -4975,7 +4975,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 111,
+          "number": "111",
           "text": "Do other people live in this household?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
           "answer_list": "ptyp2",
@@ -5122,7 +5122,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 112,
+          "number": "112",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5169,7 +5169,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 113,
+          "number": "113",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5216,7 +5216,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 114,
+          "number": "114",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5263,7 +5263,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 115,
+          "number": "115",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5310,7 +5310,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 116,
+          "number": "116",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5357,7 +5357,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 117,
+          "number": "117",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5404,7 +5404,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 118,
+          "number": "118",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5451,7 +5451,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 119,
+          "number": "119",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5498,7 +5498,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 120,
+          "number": "120",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5545,7 +5545,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 121,
+          "number": "121",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5592,7 +5592,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 122,
+          "number": "122",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5639,7 +5639,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 123,
+          "number": "123",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5686,7 +5686,7 @@
       "label": "Do other people live in this household?",
       "items": [
         {
-          "number": 124,
+          "number": "124",
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5733,7 +5733,7 @@
       "label": "Does the other twin live in Germany?",
       "items": [
         {
-          "number": 125,
+          "number": "125",
           "text": "Does the other twin live in Germany?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
@@ -5780,7 +5780,7 @@
       "label": "Does the other twin live in Germany?",
       "items": [
         {
-          "number": 126,
+          "number": "126",
           "text": "Does the other twin live in Germany?",
           "text_de": "Lebt der andere Zwilling in Deutschland?",
           "answer_list": "fpr0200",
@@ -5827,7 +5827,7 @@
       "label": "What is the other twin's first name?",
       "items": [
         {
-          "number": 127,
+          "number": "127",
           "text": "What is the other twin's first name?",
           "text_de": "Wie heisst der andere Zwilling? Vorname",
           "scale": "chr",
@@ -5846,7 +5846,7 @@
       "label": "Does twin 1 live in Germany?",
       "items": [
         {
-          "number": 128,
+          "number": "128",
           "text": "Does twin 1 live in Germany?",
           "text_de": "Lebt Zwilling 1 in Deutschland?",
           "answer_list": "fpr0200",
@@ -5893,7 +5893,7 @@
       "label": "What is twin 1's first name?",
       "items": [
         {
-          "number": 129,
+          "number": "129",
           "text": "What is twin 1's first name?",
           "text_de": "Wie heisst der erstgeborene Zwilling? Vorname",
           "scale": "chr",
@@ -5912,7 +5912,7 @@
       "label": "Does twin 2 live in Germany?",
       "items": [
         {
-          "number": 130,
+          "number": "130",
           "text": "Does twin 2 live in Germany?",
           "text_de": "Lebt Zwilling 2 in Deutschland?",
           "answer_list": "fpr0200",
@@ -5959,7 +5959,7 @@
       "label": "What is twin 2's first name?",
       "items": [
         {
-          "number": 131,
+          "number": "131",
           "text": "What is twin 2's first name?",
           "text_de": "Wie heisst der zweitgeborene Zwilling?",
           "scale": "chr",
@@ -5978,7 +5978,7 @@
       "label": "Are there other siblings (of the twins) that do not live in the household, but live in Germany?",
       "items": [
         {
-          "number": 132,
+          "number": "132",
           "text": "Are there other siblings (of the twins) that do not live in the household, but live in Germany?",
           "text_de": "Gibt es Geschwister (der Zwillinge), die nicht hier in diesem Haushalt, aber in Deutschland leben?",
           "answer_list": "yn",
@@ -6024,7 +6024,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 133,
+          "number": "133",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "scale": "chr",
@@ -6043,7 +6043,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 134,
+          "number": "134",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "scale": "chr",
@@ -6062,7 +6062,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 135,
+          "number": "135",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "answer_list": "mis",
@@ -6099,7 +6099,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 136,
+          "number": "136",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "answer_list": "mis",
@@ -6136,7 +6136,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 137,
+          "number": "137",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "answer_list": "mis",
@@ -6173,7 +6173,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 138,
+          "number": "138",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "answer_list": "sex",
@@ -6215,7 +6215,7 @@
       "label": "Please provide the following details of this sibling.",
       "items": [
         {
-          "number": 139,
+          "number": "139",
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "answer_list": "fpr0307",
@@ -6267,7 +6267,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 140,
+          "number": "140",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6314,7 +6314,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 141,
+          "number": "141",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6361,7 +6361,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 142,
+          "number": "142",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6408,7 +6408,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 143,
+          "number": "143",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6455,7 +6455,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 144,
+          "number": "144",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6502,7 +6502,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 145,
+          "number": "145",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6549,7 +6549,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 146,
+          "number": "146",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6596,7 +6596,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 147,
+          "number": "147",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6643,7 +6643,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 148,
+          "number": "148",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6690,7 +6690,7 @@
       "label": "Are there other siblings in Germany who no longer live in this household?",
       "items": [
         {
-          "number": 149,
+          "number": "149",
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
           "answer_list": "yn",
@@ -6737,7 +6737,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 150,
+          "number": "150",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -6756,7 +6756,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 151,
+          "number": "151",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -6775,7 +6775,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 152,
+          "number": "152",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -6812,7 +6812,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 153,
+          "number": "153",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -6849,7 +6849,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 154,
+          "number": "154",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -6886,7 +6886,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 155,
+          "number": "155",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -6928,7 +6928,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 156,
+          "number": "156",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -6980,7 +6980,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 157,
+          "number": "157",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -6999,7 +6999,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 158,
+          "number": "158",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -7018,7 +7018,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 159,
+          "number": "159",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -7055,7 +7055,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 160,
+          "number": "160",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -7092,7 +7092,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 161,
+          "number": "161",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -7129,7 +7129,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 162,
+          "number": "162",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -7171,7 +7171,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 163,
+          "number": "163",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -7223,7 +7223,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 164,
+          "number": "164",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -7242,7 +7242,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 165,
+          "number": "165",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -7261,7 +7261,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 166,
+          "number": "166",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -7298,7 +7298,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 167,
+          "number": "167",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -7335,7 +7335,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 168,
+          "number": "168",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -7372,7 +7372,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 169,
+          "number": "169",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -7414,7 +7414,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 170,
+          "number": "170",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -7466,7 +7466,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 171,
+          "number": "171",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -7485,7 +7485,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 172,
+          "number": "172",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -7504,7 +7504,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 173,
+          "number": "173",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -7541,7 +7541,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 174,
+          "number": "174",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -7578,7 +7578,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 175,
+          "number": "175",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -7615,7 +7615,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 176,
+          "number": "176",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -7657,7 +7657,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 177,
+          "number": "177",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -7709,7 +7709,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 178,
+          "number": "178",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -7728,7 +7728,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 179,
+          "number": "179",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -7747,7 +7747,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 180,
+          "number": "180",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -7784,7 +7784,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 181,
+          "number": "181",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -7821,7 +7821,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 182,
+          "number": "182",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -7858,7 +7858,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 183,
+          "number": "183",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -7900,7 +7900,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 184,
+          "number": "184",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -7952,7 +7952,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 185,
+          "number": "185",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -7971,7 +7971,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 186,
+          "number": "186",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -7990,7 +7990,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 187,
+          "number": "187",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -8027,7 +8027,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 188,
+          "number": "188",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -8064,7 +8064,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 189,
+          "number": "189",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -8101,7 +8101,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 190,
+          "number": "190",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -8143,7 +8143,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 191,
+          "number": "191",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -8195,7 +8195,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 192,
+          "number": "192",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -8214,7 +8214,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 193,
+          "number": "193",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -8233,7 +8233,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 194,
+          "number": "194",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -8270,7 +8270,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 195,
+          "number": "195",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -8307,7 +8307,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 196,
+          "number": "196",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -8344,7 +8344,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 197,
+          "number": "197",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -8386,7 +8386,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 198,
+          "number": "198",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -8438,7 +8438,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 199,
+          "number": "199",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -8457,7 +8457,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 200,
+          "number": "200",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -8476,7 +8476,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 201,
+          "number": "201",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -8513,7 +8513,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 202,
+          "number": "202",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -8550,7 +8550,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 203,
+          "number": "203",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -8587,7 +8587,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 204,
+          "number": "204",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -8629,7 +8629,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 205,
+          "number": "205",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -8681,7 +8681,7 @@
       "label": "Please provide the following details of this sibling. (First name)",
       "items": [
         {
-          "number": 206,
+          "number": "206",
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
@@ -8700,7 +8700,7 @@
       "label": "Please provide the following details of this sibling. (Last name)",
       "items": [
         {
-          "number": 207,
+          "number": "207",
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
@@ -8719,7 +8719,7 @@
       "label": "Please provide the following details of this sibling. (year of birth)",
       "items": [
         {
-          "number": 208,
+          "number": "208",
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
           "answer_list": "mis",
@@ -8756,7 +8756,7 @@
       "label": "Please provide the following details of this sibling. (month of birth)",
       "items": [
         {
-          "number": 209,
+          "number": "209",
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
           "answer_list": "mis",
@@ -8793,7 +8793,7 @@
       "label": "Please provide the following details of this sibling. (day of birth)",
       "items": [
         {
-          "number": 210,
+          "number": "210",
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
           "answer_list": "mis",
@@ -8830,7 +8830,7 @@
       "label": "Please provide the following details of this sibling. (sex)",
       "items": [
         {
-          "number": 211,
+          "number": "211",
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
           "answer_list": "sex",
@@ -8872,7 +8872,7 @@
       "label": "Please provide the following details of this sibling. (relationship)",
       "items": [
         {
-          "number": 212,
+          "number": "212",
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
           "answer_list": "fpr0307",
@@ -8924,7 +8924,7 @@
       "label": "Does the biological mother live in Germany?",
       "items": [
         {
-          "number": 213,
+          "number": "213",
           "text": "Does the biological mother live in Germany?",
           "text_de": "Lebt die leibliche Mutter der Zwillinge in Deutschland? / Lebt Ihre leibliche Mutter in Deutschland?",
           "answer_list": "fpr0400",
@@ -8971,7 +8971,7 @@
       "label": "Is there contact to the biological mother?",
       "items": [
         {
-          "number": 214,
+          "number": "214",
           "text": "Is there contact to the biological mother?",
           "text_de": "Besteht Kontakt zur leiblichen Mutter der Zwillinge? / Haben Sie Kontakt zu Ihrer leiblichen Mutter?",
           "answer_list": "yn",
@@ -9018,7 +9018,7 @@
       "label": "What is the biological mother's name?",
       "items": [
         {
-          "number": 215,
+          "number": "215",
           "text": "What is the biological mother's name?",
           "text_de": "Wie heisst die leibliche Mutter der Zwillinge? / Wie heisst Ihre leibliche Mutter?",
           "scale": "chr",
@@ -9037,7 +9037,7 @@
       "label": "Since when has the biological mother not been living with the twins?",
       "items": [
         {
-          "number": 216,
+          "number": "216",
           "text": "Since when has the biological mother not been living with the twins?",
           "text_de": "Seit wann lebt die leibliche Mutter nicht mehr mit den Zwillingen in einem Haushalt?",
           "answer_list": "mis2",
@@ -9074,7 +9074,7 @@
       "label": "Since when has the biological mother not been living with the twins?",
       "items": [
         {
-          "number": 217,
+          "number": "217",
           "text": "Since when has the biological mother not been living with the twins?",
           "text_de": "Seit wann lebt die leibliche Mutter nicht mehr mit den Zwillingen in einem Haushalt?",
           "answer_list": "mis2",
@@ -9111,7 +9111,7 @@
       "label": "When did the biological mother die?",
       "items": [
         {
-          "number": 218,
+          "number": "218",
           "text": "When did the biological mother die?",
           "text_de": "Wann ist die leibliche Mutter der Zwillinge gestorben?",
           "answer_list": "mis",
@@ -9148,7 +9148,7 @@
       "label": "When did the biological mother die?",
       "items": [
         {
-          "number": 219,
+          "number": "219",
           "text": "When did the biological mother die?",
           "text_de": "Wann ist die leibliche Mutter der Zwillinge gestorben?",
           "answer_list": "mis",
@@ -9185,7 +9185,7 @@
       "label": "Does the biological father live in Germany?",
       "items": [
         {
-          "number": 220,
+          "number": "220",
           "text": "Does the biological father live in Germany?",
           "text_de": "Lebt der leibliche Vater der Zwillinge in Deutschland? / Lebt Ihr leibliche Vater in Deutschland?",
           "answer_list": "fpr0400",
@@ -9232,7 +9232,7 @@
       "label": "Is there contact to the biological father?",
       "items": [
         {
-          "number": 221,
+          "number": "221",
           "text": "Is there contact to the biological father?",
           "text_de": "Besteht Kontakt zum leiblichen Vater der Zwillinge? / Haben Sie Kontakt zu Ihrem leiblichen Vater?",
           "answer_list": "yn",
@@ -9279,7 +9279,7 @@
       "label": "What is the biological father's name?",
       "items": [
         {
-          "number": 222,
+          "number": "222",
           "text": "What is the biological father's name?",
           "text_de": "Wie heisst der leibliche Vater der Zwillinge? / Wie heisst Ihr leiblicher Vater?",
           "scale": "chr",
@@ -9298,7 +9298,7 @@
       "label": "Since when has the biological father not been living with the twins?",
       "items": [
         {
-          "number": 223,
+          "number": "223",
           "text": "Since when has the biological father not been living with the twins?",
           "text_de": "Seit wann lebt der leibliche Vater nicht mehr mit den Zwillingen in einem Haushalt?",
           "answer_list": "mis2",
@@ -9335,7 +9335,7 @@
       "label": "Since when has the biological father not been living with the twins?",
       "items": [
         {
-          "number": 224,
+          "number": "224",
           "text": "Since when has the biological father not been living with the twins?",
           "text_de": "Seit wann lebt der leibliche Vater nicht mehr mit den Zwillingen in einem Haushalt?",
           "answer_list": "mis2",
@@ -9372,7 +9372,7 @@
       "label": "When did the biological father die?",
       "items": [
         {
-          "number": 225,
+          "number": "225",
           "text": "When did the biological father die?",
           "text_de": "Wann ist der leibliche Vater der Zwillinge gestorben?",
           "answer_list": "mis",
@@ -9409,7 +9409,7 @@
       "label": "When did the biological father die?",
       "items": [
         {
-          "number": 226,
+          "number": "226",
           "text": "When did the biological father die?",
           "text_de": "Wann ist der leibliche Vater der Zwillinge gestorben?",
           "answer_list": "mis",
@@ -9446,7 +9446,7 @@
       "label": "Does the firstborn twin have a partner living in Germany?",
       "items": [
         {
-          "number": 227,
+          "number": "227",
           "text": "Does the firstborn twin have a partner living in Germany?",
           "text_de": "Hat der erstgeborene Zwilling einen Partner / eine Partnerin, der/die in Deutschland lebt?",
           "answer_list": "yn",
@@ -9493,7 +9493,7 @@
       "label": "Does the secondborn twin have a partner living in Germany?",
       "items": [
         {
-          "number": 228,
+          "number": "228",
           "text": "Does the secondborn twin have a partner living in Germany?",
           "text_de": "Hat der zweitgeborene Zwilling einen Partner / eine Partnerin, der/die in Deutschland lebt?",
           "answer_list": "yn",
@@ -9540,7 +9540,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 229,
+          "number": "229",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -9586,7 +9586,7 @@
       "label": "We would like to interview one sibling of the twins for the survey. Please tell us which of the siblings would be most likely to participate.",
       "items": [
         {
-          "number": 230,
+          "number": "230",
           "text": "We would like to interview one sibling of the twins for the survey. Please tell us which of the siblings would be most likely to participate.",
           "text_de": "Wir wuerden gern auch ein Geschwisterkind fuer die Untersuchung gewinnen. Bitte geben Sie an, bei welchem der Geschwister die Wahrscheinlichkeit, dass es teilnimmt, am hoechsten ist.",
           "answer_list": "fil0301",
@@ -9613,7 +9613,7 @@
       "label": "Which parent is also a parent of the twins?",
       "items": [
         {
-          "number": 231,
+          "number": "231",
           "text": "Which parent is also a parent of the twins?",
           "text_de": "Welches Elternteil ist dasselbe wie das der Zwillinge?",
           "answer_list": "fpr0600",
@@ -9655,7 +9655,7 @@
       "label": "Where does the sibling live?",
       "items": [
         {
-          "number": 232,
+          "number": "232",
           "text": "Where does the sibling live?",
           "text_de": "Wo lebt das Geschwister?",
           "answer_list": "fpr0601",
@@ -9707,7 +9707,7 @@
       "label": "What is the sibling's biological father's name?",
       "items": [
         {
-          "number": 233,
+          "number": "233",
           "text": "What is the sibling's biological father's name?",
           "text_de": "Wie heisst der leibliche Vater des Geschwisters?",
           "scale": "chr",
@@ -9726,7 +9726,7 @@
       "label": "What is the sibling's biological mother's name?",
       "items": [
         {
-          "number": 234,
+          "number": "234",
           "text": "What is the sibling's biological mother's name?",
           "text_de": "Wie heisst die leibliche Mutter des Geschwisters?",
           "scale": "chr",
@@ -9745,7 +9745,7 @@
       "label": "notification",
       "items": [
         {
-          "number": 235,
+          "number": "235",
           "text": "notification",
           "text_de": "Mitteilung",
           "answer_list": "fpr0700",
@@ -9786,7 +9786,7 @@
       "label": "Are there other notifications regarding the electronic household protocol?",
       "items": [
         {
-          "number": 236,
+          "number": "236",
           "text": "Are there other notifications regarding the electronic household protocol?",
           "text_de": "Gibt es noch sonstige Hinweise zum elektronischen Haushaltsprotokoll?",
           "scale": "chr",
@@ -9804,7 +9804,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 237,
+          "number": "237",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -9850,7 +9850,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 238,
+          "number": "238",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -9896,7 +9896,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 239,
+          "number": "239",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -9942,7 +9942,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 240,
+          "number": "240",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -9988,7 +9988,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 241,
+          "number": "241",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -10034,7 +10034,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 242,
+          "number": "242",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -10080,7 +10080,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 243,
+          "number": "243",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -10116,7 +10116,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 244,
+          "number": "244",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -10152,7 +10152,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 245,
+          "number": "245",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -10198,7 +10198,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 246,
+          "number": "246",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -10244,7 +10244,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 247,
+          "number": "247",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10275,7 +10275,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 248,
+          "number": "248",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10306,7 +10306,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 249,
+          "number": "249",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10337,7 +10337,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 250,
+          "number": "250",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10368,7 +10368,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 251,
+          "number": "251",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10399,7 +10399,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 252,
+          "number": "252",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10430,7 +10430,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 253,
+          "number": "253",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -10471,7 +10471,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 254,
+          "number": "254",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -10512,7 +10512,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 255,
+          "number": "255",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "yn",
@@ -10559,7 +10559,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 256,
+          "number": "256",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -10596,7 +10596,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 257,
+          "number": "257",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -10633,7 +10633,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 258,
+          "number": "258",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -10670,7 +10670,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 259,
+          "number": "259",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex",
@@ -10712,7 +10712,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 260,
+          "number": "260",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10743,7 +10743,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 261,
+          "number": "261",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10774,7 +10774,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 262,
+          "number": "262",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10805,7 +10805,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 263,
+          "number": "263",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -10846,7 +10846,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 264,
+          "number": "264",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10877,7 +10877,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 265,
+          "number": "265",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10908,7 +10908,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 266,
+          "number": "266",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -10939,7 +10939,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 267,
+          "number": "267",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -10980,7 +10980,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 268,
+          "number": "268",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11011,7 +11011,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 269,
+          "number": "269",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11042,7 +11042,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 270,
+          "number": "270",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11073,7 +11073,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 271,
+          "number": "271",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -11114,7 +11114,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 272,
+          "number": "272",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11145,7 +11145,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 273,
+          "number": "273",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11176,7 +11176,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 274,
+          "number": "274",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11207,7 +11207,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 275,
+          "number": "275",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -11248,7 +11248,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 276,
+          "number": "276",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11279,7 +11279,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 277,
+          "number": "277",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11310,7 +11310,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 278,
+          "number": "278",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11341,7 +11341,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 279,
+          "number": "279",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -11382,7 +11382,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 280,
+          "number": "280",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11413,7 +11413,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 281,
+          "number": "281",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11444,7 +11444,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 282,
+          "number": "282",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis3",
@@ -11475,7 +11475,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 283,
+          "number": "283",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex2",
@@ -11516,7 +11516,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 284,
+          "number": "284",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11553,7 +11553,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 285,
+          "number": "285",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11590,7 +11590,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 286,
+          "number": "286",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11627,7 +11627,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 287,
+          "number": "287",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11664,7 +11664,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 288,
+          "number": "288",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11701,7 +11701,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 289,
+          "number": "289",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11738,7 +11738,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 290,
+          "number": "290",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11775,7 +11775,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 291,
+          "number": "291",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11812,7 +11812,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 292,
+          "number": "292",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
@@ -11849,7 +11849,7 @@
       "label": "generated/assigned variable",
       "items": [
         {
-          "number": 293,
+          "number": "293",
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "nuts1_a",
