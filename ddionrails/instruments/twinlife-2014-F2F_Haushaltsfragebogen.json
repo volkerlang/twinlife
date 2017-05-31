@@ -11,8 +11,8 @@
       "question": "liv0100",
       "name": "liv0100",
       "label": "Since what month / year have you personally been living in this dwelling?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 7,
           "text": "Since what month / year have you personally been living in this dwelling?",
           "text_de": "Nun habe ich noch einige Fragen zu Ihrer Wohnsituation. Seit wann leben Sie in dieser Wohnung / diesem Haus? Bitte geben Sie Monat und Jahr an.",
@@ -35,9 +35,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 0,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -46,8 +47,8 @@
       "question": "liv0101",
       "name": "liv0101",
       "label": "Since what month / year have you personally been living in this dwelling?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 8,
           "text": "Since what month / year have you personally been living in this dwelling?",
           "text_de": "Nun habe ich noch einige Fragen zu Ihrer Wohnsituation. Seit wann leben Sie in dieser Wohnung / diesem Haus? Bitte geben Sie Monat und Jahr an.",
@@ -70,9 +71,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 1,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -81,8 +83,8 @@
       "question": "liv0102",
       "name": "liv0102",
       "label": "Since what month / year have you personally been living in this dwelling?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 9,
           "text": "Since what month / year have you personally been living in this dwelling?",
           "text_de": "Nun habe ich noch einige Fragen zu Ihrer Wohnsituation. Seit wann leben Sie in dieser Wohnung / diesem Haus? Bitte geben Sie Monat und Jahr an.",
@@ -110,9 +112,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 2,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -121,8 +124,8 @@
       "question": "liv0198",
       "name": "liv0198",
       "label": "Since what month / year have you personally been living in this dwelling?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 10,
           "text": "Since what month / year have you personally been living in this dwelling?",
           "text_de": "Nun habe ich noch einige Fragen zu Ihrer Wohnsituation. Seit wann leben Sie in dieser Wohnung / diesem Haus? Bitte geben Sie Monat und Jahr an.",
@@ -150,9 +153,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 3,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -161,8 +165,8 @@
       "question": "liv0199",
       "name": "liv0199",
       "label": "Since what month / year have you personally been living in this dwelling?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 11,
           "text": "Since what month / year have you personally been living in this dwelling?",
           "text_de": "Nun habe ich noch einige Fragen zu Ihrer Wohnsituation. Seit wann leben Sie in dieser Wohnung / diesem Haus? Bitte geben Sie Monat und Jahr an.",
@@ -190,9 +194,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 4,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -201,8 +206,8 @@
       "question": "liv0200",
       "name": "liv0200",
       "label": "Are you the main tenant, subletter, or owner?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 12,
           "text": "Are you the main tenant, subletter, or owner?",
           "text_de": "Wie wohnen Sie hier?",
@@ -256,9 +261,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 5,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -267,16 +273,17 @@
       "question": "liv0201",
       "name": "liv0201",
       "label": "Are you the main tenant, subletter, or owner?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 13,
           "text": "Are you the main tenant, subletter, or owner?",
           "text_de": "Wie wohnen Sie hier? (offen)",
           "scale": "chr",
           "filter": "liv0200 == 7",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 6,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -285,8 +292,8 @@
       "question": "liv0300",
       "name": "liv0300",
       "label": "Are you the main tenant, subletter, or owner?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 14,
           "text": "Are you the main tenant, subletter, or owner?",
           "text_de": "Wie wohnen Sie hier?",
@@ -335,9 +342,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 7,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -346,16 +354,17 @@
       "question": "liv0301",
       "name": "liv0301",
       "label": "Are you the main tenant, subletter, or owner?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 15,
           "text": "Are you the main tenant, subletter, or owner?",
           "text_de": "Wie wohnen Sie hier? (offen)",
           "scale": "chr",
           "filter": "liv0300 == 6",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 8,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -364,8 +373,8 @@
       "question": "liv0400",
       "name": "liv0400",
       "label": "In what type of household do you live?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 16,
           "text": "In what type of household do you live?",
           "text_de": "In welcher Art vor Haushalt leben Sie?",
@@ -409,9 +418,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 9,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -420,16 +430,17 @@
       "question": "inc0300",
       "name": "inc0300",
       "label": "Are you or another household member currently receiving one ore more of the following government benefits?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 17,
           "text": "Are you or another household member currently receiving one ore more of the following government benefits?",
           "text_de": "Erhalten Sie oder ein anderes Haushaltsmitglied derzeit eine der folgenden staatlichen Leistungen?",
           "scale": "txt",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 18,
           "text": "Child benefit",
           "text_de": "Kindergeld",
@@ -459,8 +470,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 19,
           "text": "Supplementary child benefit (\"Kinderzuschlag\" which is paid to low-income earners in addition to the child allowance, \"Kindergeld\")",
           "text_de": "Kinderzuschlag, also zusaetzlich zum Kindergeld beantragte Leistung fuer Geringverdiener",
@@ -490,8 +501,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 20,
           "text": "Parental benefit",
           "text_de": "Elterngeld",
@@ -521,8 +532,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 21,
           "text": "Continued pay in maternity leave",
           "text_de": "Lohnfortzahlung im Mutterschutz",
@@ -552,8 +563,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 22,
           "text": "Short-time working allowance",
           "text_de": "Kurzarbeitergeld",
@@ -583,8 +594,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 23,
           "text": "Unemployment benefit type I",
           "text_de": "Arbeitslosengeld ALG I",
@@ -614,8 +625,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 24,
           "text": "Unemployment benefit II (Harz IV), including social unemployment benefit II (Harz IV), including social benefit and accomodation expenses",
           "text_de": "Arbeitslosengeld II einschliesslich Sozialgeld und Unterkunftskosten",
@@ -645,8 +656,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 25,
           "text": "Monthly subsistence allowance / assistance in special circumstances",
           "text_de": "Laufende Hilfe zum Lebensunterhalt oder Hilfe in besonderen Lebenslagen",
@@ -676,8 +687,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 26,
           "text": "Basic income support for the elderly and those with reduced earning capacity",
           "text_de": "Grundsicherung im Alter und bei Erwerbsminderung",
@@ -707,8 +718,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 27,
           "text": "Housing allowance if not included in the unemployment benefit II / social assistance",
           "text_de": "Wohngeld oder Lastenzuschuss, die nicht im Arbeitslosengeld II oder der Sozialhilfe enthalten ist",
@@ -738,8 +749,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 28,
           "text": "Other social allowances",
           "text_de": "Sonstige Sozialhilfe",
@@ -769,8 +780,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 29,
           "text": "Long-term care insurance benefits (Pflegevers.)",
           "text_de": "Leistungen der Pflegeversicherung",
@@ -800,8 +811,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 30,
           "text": "Child care subsidy",
           "text_de": "Betreuungsgeld",
@@ -831,8 +842,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 31,
           "text": "Alimony payment for children",
           "text_de": "Gesetzliche Unterhaltszahlungen fuer Kinder",
@@ -862,8 +873,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 32,
           "text": "Alimony payment by former partner (not for children)",
           "text_de": "Gesetzliche Unterhaltszahlungen von ehemaligem/r Partner/in (nicht fuer Kinder)",
@@ -893,8 +904,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 33,
           "text": "Retirement pension",
           "text_de": "Rente",
@@ -924,8 +935,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 34,
           "text": "Sick allowance",
           "text_de": "Krankengeld",
@@ -955,8 +966,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 35,
           "text": "Alimony advance",
           "text_de": "Unterhaltsvorschuss",
@@ -986,8 +997,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 36,
           "text": "Other allowances",
           "text_de": "Sonstiges",
@@ -1017,8 +1028,8 @@
           ],
           "sn": 19
         },
-        "20.0": {
-          "item": 20.0,
+        {
+          "item": "20.0",
           "number": 37,
           "text": "None",
           "text_de": "Weder ich noch ein anderes Haushaltsmitglied erhalten eine dieser staatlichen Leistungen.",
@@ -1048,8 +1059,8 @@
           ],
           "sn": 20
         },
-        "21.0": {
-          "item": 21.0,
+        {
+          "item": "21.0",
           "number": 38,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -1079,8 +1090,8 @@
           ],
           "sn": 21
         },
-        "22.0": {
-          "item": 22.0,
+        {
+          "item": "22.0",
           "number": 39,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -1110,7 +1121,7 @@
           ],
           "sn": 22
         }
-      },
+      ],
       "sn": 10,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1119,8 +1130,8 @@
       "question": "inc0400",
       "name": "inc0400",
       "label": "If you look at the total income of all of the members of your household: what is your monthly household income today?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 40,
           "text": "If you look at the total income of all of the members of your household: what is your monthly household income today?",
           "text_de": "Wenn man einmal alle Einkuenfte zusammennimmt: Wie hoch ist das monatliche Haushaltseinkommen aller Haushaltsmitglieder heute?",
@@ -1143,9 +1154,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 11,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1154,8 +1166,8 @@
       "question": "inc0403",
       "name": "inc0403",
       "label": "If you can't or do not wish to tell us the exact amount, then please indicate in which income group your monthly gross income can be classified.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 41,
           "text": "If you can't or do not wish to tell us the exact amount, then please indicate in which income group your monthly gross income can be classified.",
           "text_de": "Wenn Sie einen exakten Betrag nicht nennen koennen oder wollen, dann geben Sie bitte an, in welche Einkommenskategorie das durchschnittliche monatliche Haushaltsnettoeinkommen eingeordnet werden kann.",
@@ -1244,9 +1256,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 12,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1255,16 +1268,17 @@
       "question": "hpr0100",
       "name": "hpr0100",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 42,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 13,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1273,16 +1287,17 @@
       "question": "hpr0200",
       "name": "hpr0200",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 43,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 14,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1291,17 +1306,18 @@
       "question": "hpr0300",
       "name": "hpr0300",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 44,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0200 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 15,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1310,17 +1326,18 @@
       "question": "hpr0400",
       "name": "hpr0400",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 45,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0300 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 16,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1329,17 +1346,18 @@
       "question": "hpr0500",
       "name": "hpr0500",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 46,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0400 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 17,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1348,17 +1366,18 @@
       "question": "hpr0600",
       "name": "hpr0600",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 47,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0500 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 18,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1367,17 +1386,18 @@
       "question": "hpr0700",
       "name": "hpr0700",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 48,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0600 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 19,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1386,17 +1406,18 @@
       "question": "hpr0800",
       "name": "hpr0800",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 49,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0700 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 20,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1405,17 +1426,18 @@
       "question": "hpr0900",
       "name": "hpr0900",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 50,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0800 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 21,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1424,17 +1446,18 @@
       "question": "hpr1000",
       "name": "hpr1000",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 51,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr0900 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 22,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1443,17 +1466,18 @@
       "question": "hpr1100",
       "name": "hpr1100",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 52,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr1000 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 23,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1462,17 +1486,18 @@
       "question": "hpr1200",
       "name": "hpr1200",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 53,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr1100 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 24,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1481,17 +1506,18 @@
       "question": "hpr1300",
       "name": "hpr1300",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 54,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr1200 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 25,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1500,17 +1526,18 @@
       "question": "hpr1400",
       "name": "hpr1400",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 55,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr1300 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 26,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1519,17 +1546,18 @@
       "question": "hpr1500",
       "name": "hpr1500",
       "label": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 56,
           "text": "Now I would like to go once more through the persons who live in this household. I have already noted down. . .. . .",
           "text_de": "Nun moechte ich noch einmal alle Personen durchgehen, die hier im Haushalt leben. Bereits notiert habe ich mir . . .",
           "answer_list": "ptyp",
           "scale": "cat",
           "filter": "hpr1400 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 27,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -1538,16 +1566,17 @@
       "question": "hpr0101",
       "name": "hpr0101",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 57,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 58,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -1577,8 +1606,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 59,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -1608,8 +1637,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 60,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -1639,8 +1668,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 61,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -1670,8 +1699,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 62,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -1701,8 +1730,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 63,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -1732,8 +1761,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 64,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -1763,8 +1792,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 65,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -1794,8 +1823,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 66,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -1825,8 +1854,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 67,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -1856,8 +1885,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 68,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -1887,8 +1916,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 69,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -1918,8 +1947,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 70,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -1949,8 +1978,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 71,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -1980,8 +2009,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 72,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -2011,8 +2040,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 73,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -2042,8 +2071,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 74,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -2073,8 +2102,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 75,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -2104,8 +2133,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 76,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -2135,7 +2164,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 28,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -2144,17 +2173,18 @@
       "question": "hpr0201",
       "name": "hpr0201",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 77,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0200 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 78,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -2184,8 +2214,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 79,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -2215,8 +2245,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 80,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -2246,8 +2276,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 81,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -2277,8 +2307,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 82,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -2308,8 +2338,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 83,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -2339,8 +2369,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 84,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -2370,8 +2400,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 85,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -2401,8 +2431,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 86,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -2432,8 +2462,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 87,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -2463,8 +2493,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 88,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -2494,8 +2524,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 89,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -2525,8 +2555,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 90,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -2556,8 +2586,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 91,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -2587,8 +2617,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 92,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -2618,8 +2648,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 93,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -2649,8 +2679,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 94,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -2680,8 +2710,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 95,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -2711,8 +2741,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 96,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -2742,7 +2772,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 29,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -2751,17 +2781,18 @@
       "question": "hpr0301",
       "name": "hpr0301",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 97,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0300 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 98,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -2791,8 +2822,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 99,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -2822,8 +2853,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 100,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -2853,8 +2884,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 101,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -2884,8 +2915,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 102,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -2915,8 +2946,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 103,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -2946,8 +2977,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 104,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -2977,8 +3008,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 105,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -3008,8 +3039,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 106,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -3039,8 +3070,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 107,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -3070,8 +3101,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 108,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -3101,8 +3132,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 109,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -3132,8 +3163,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 110,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -3163,8 +3194,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 111,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -3194,8 +3225,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 112,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -3225,8 +3256,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 113,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -3256,8 +3287,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 114,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -3287,8 +3318,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 115,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -3318,8 +3349,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 116,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -3349,7 +3380,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 30,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -3358,17 +3389,18 @@
       "question": "hpr0401",
       "name": "hpr0401",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 117,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0400 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 118,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -3398,8 +3430,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 119,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -3429,8 +3461,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 120,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -3460,8 +3492,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 121,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -3491,8 +3523,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 122,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -3522,8 +3554,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 123,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -3553,8 +3585,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 124,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -3584,8 +3616,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 125,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -3615,8 +3647,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 126,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -3646,8 +3678,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 127,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -3677,8 +3709,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 128,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -3708,8 +3740,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 129,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -3739,8 +3771,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 130,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -3770,8 +3802,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 131,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -3801,8 +3833,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 132,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -3832,8 +3864,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 133,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -3863,8 +3895,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 134,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -3894,8 +3926,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 135,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -3925,8 +3957,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 136,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -3956,7 +3988,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 31,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -3965,17 +3997,18 @@
       "question": "hpr0501",
       "name": "hpr0501",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 137,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0500 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 138,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -4005,8 +4038,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 139,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -4036,8 +4069,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 140,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -4067,8 +4100,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 141,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -4098,8 +4131,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 142,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -4129,8 +4162,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 143,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -4160,8 +4193,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 144,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -4191,8 +4224,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 145,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -4222,8 +4255,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 146,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -4253,8 +4286,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 147,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -4284,8 +4317,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 148,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -4315,8 +4348,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 149,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -4346,8 +4379,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 150,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -4377,8 +4410,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 151,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -4408,8 +4441,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 152,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -4439,8 +4472,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 153,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -4470,8 +4503,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 154,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -4501,8 +4534,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 155,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -4532,8 +4565,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 156,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -4563,7 +4596,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 32,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -4572,17 +4605,18 @@
       "question": "hpr0601",
       "name": "hpr0601",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 157,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0600 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 158,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -4612,8 +4646,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 159,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -4643,8 +4677,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 160,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -4674,8 +4708,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 161,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -4705,8 +4739,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 162,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -4736,8 +4770,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 163,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -4767,8 +4801,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 164,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -4798,8 +4832,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 165,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -4829,8 +4863,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 166,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -4860,8 +4894,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 167,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -4891,8 +4925,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 168,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -4922,8 +4956,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 169,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -4953,8 +4987,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 170,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -4984,8 +5018,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 171,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -5015,8 +5049,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 172,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -5046,8 +5080,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 173,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -5077,8 +5111,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 174,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -5108,8 +5142,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 175,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -5139,8 +5173,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 176,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -5170,7 +5204,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 33,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -5179,17 +5213,18 @@
       "question": "hpr0701",
       "name": "hpr0701",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 177,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0700 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 178,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -5219,8 +5254,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 179,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -5250,8 +5285,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 180,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -5281,8 +5316,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 181,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -5312,8 +5347,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 182,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -5343,8 +5378,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 183,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -5374,8 +5409,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 184,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -5405,8 +5440,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 185,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -5436,8 +5471,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 186,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -5467,8 +5502,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 187,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -5498,8 +5533,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 188,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -5529,8 +5564,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 189,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -5560,8 +5595,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 190,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -5591,8 +5626,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 191,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -5622,8 +5657,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 192,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -5653,8 +5688,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 193,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -5684,8 +5719,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 194,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -5715,8 +5750,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 195,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -5746,8 +5781,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 196,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -5777,7 +5812,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 34,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -5786,17 +5821,18 @@
       "question": "hpr0801",
       "name": "hpr0801",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 197,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0800 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 198,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -5826,8 +5862,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 199,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -5857,8 +5893,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 200,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -5888,8 +5924,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 201,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -5919,8 +5955,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 202,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -5950,8 +5986,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 203,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -5981,8 +6017,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 204,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -6012,8 +6048,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 205,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -6043,8 +6079,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 206,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -6074,8 +6110,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 207,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -6105,8 +6141,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 208,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -6136,8 +6172,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 209,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -6167,8 +6203,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 210,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -6198,8 +6234,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 211,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -6229,8 +6265,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 212,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -6260,8 +6296,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 213,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -6291,8 +6327,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 214,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -6322,8 +6358,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 215,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -6353,8 +6389,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 216,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -6384,7 +6420,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 35,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -6393,17 +6429,18 @@
       "question": "hpr0901",
       "name": "hpr0901",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 217,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr0900 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 218,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -6433,8 +6470,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 219,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -6464,8 +6501,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 220,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -6495,8 +6532,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 221,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -6526,8 +6563,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 222,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -6557,8 +6594,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 223,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -6588,8 +6625,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 224,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -6619,8 +6656,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 225,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -6650,8 +6687,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 226,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -6681,8 +6718,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 227,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -6712,8 +6749,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 228,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -6743,8 +6780,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 229,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -6774,8 +6811,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 230,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -6805,8 +6842,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 231,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -6836,8 +6873,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 232,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -6867,8 +6904,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 233,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -6898,8 +6935,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 234,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -6929,8 +6966,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 235,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -6960,8 +6997,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 236,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -6991,7 +7028,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 36,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -7000,17 +7037,18 @@
       "question": "hpr1001",
       "name": "hpr1001",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 237,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr1000 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 238,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -7040,8 +7078,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 239,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -7071,8 +7109,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 240,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -7102,8 +7140,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 241,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -7133,8 +7171,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 242,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -7164,8 +7202,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 243,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -7195,8 +7233,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 244,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -7226,8 +7264,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 245,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -7257,8 +7295,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 246,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -7288,8 +7326,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 247,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -7319,8 +7357,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 248,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -7350,8 +7388,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 249,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -7381,8 +7419,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 250,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -7412,8 +7450,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 251,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -7443,8 +7481,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 252,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -7474,8 +7512,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 253,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -7505,8 +7543,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 254,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -7536,8 +7574,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 255,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -7567,8 +7605,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 256,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -7598,7 +7636,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 37,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -7607,17 +7645,18 @@
       "question": "hpr1101",
       "name": "hpr1101",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 257,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr1100 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 258,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -7647,8 +7686,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 259,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -7678,8 +7717,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 260,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -7709,8 +7748,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 261,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -7740,8 +7779,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 262,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -7771,8 +7810,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 263,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -7802,8 +7841,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 264,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -7833,8 +7872,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 265,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -7864,8 +7903,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 266,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -7895,8 +7934,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 267,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -7926,8 +7965,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 268,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -7957,8 +7996,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 269,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -7988,8 +8027,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 270,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -8019,8 +8058,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 271,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -8050,8 +8089,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 272,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -8081,8 +8120,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 273,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -8112,8 +8151,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 274,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -8143,8 +8182,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 275,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -8174,8 +8213,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 276,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -8205,7 +8244,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 38,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -8214,17 +8253,18 @@
       "question": "hpr1201",
       "name": "hpr1201",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 277,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr1200 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 278,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -8254,8 +8294,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 279,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -8285,8 +8325,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 280,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -8316,8 +8356,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 281,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -8347,8 +8387,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 282,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -8378,8 +8418,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 283,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -8409,8 +8449,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 284,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -8440,8 +8480,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 285,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -8471,8 +8511,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 286,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -8502,8 +8542,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 287,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -8533,8 +8573,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 288,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -8564,8 +8604,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 289,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -8595,8 +8635,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 290,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -8626,8 +8666,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 291,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -8657,8 +8697,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 292,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -8688,8 +8728,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 293,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -8719,8 +8759,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 294,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -8750,8 +8790,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 295,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -8781,8 +8821,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 296,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -8812,7 +8852,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 39,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -8821,17 +8861,18 @@
       "question": "hpr1301",
       "name": "hpr1301",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 297,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr1300 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 298,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -8861,8 +8902,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 299,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -8892,8 +8933,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 300,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -8923,8 +8964,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 301,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -8954,8 +8995,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 302,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -8985,8 +9026,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 303,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -9016,8 +9057,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 304,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -9047,8 +9088,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 305,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -9078,8 +9119,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 306,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -9109,8 +9150,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 307,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -9140,8 +9181,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 308,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -9171,8 +9212,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 309,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -9202,8 +9243,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 310,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -9233,8 +9274,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 311,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -9264,8 +9305,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 312,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -9295,8 +9336,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 313,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -9326,8 +9367,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 314,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -9357,8 +9398,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 315,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -9388,8 +9429,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 316,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -9419,7 +9460,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 40,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -9428,17 +9469,18 @@
       "question": "hpr1401",
       "name": "hpr1401",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 317,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr1400 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 318,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -9468,8 +9510,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 319,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -9499,8 +9541,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 320,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -9530,8 +9572,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 321,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -9561,8 +9603,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 322,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -9592,8 +9634,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 323,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -9623,8 +9665,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 324,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -9654,8 +9696,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 325,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -9685,8 +9727,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 326,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -9716,8 +9758,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 327,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -9747,8 +9789,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 328,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -9778,8 +9820,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 329,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -9809,8 +9851,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 330,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -9840,8 +9882,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 331,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -9871,8 +9913,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 332,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -9902,8 +9944,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 333,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -9933,8 +9975,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 334,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -9964,8 +10006,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 335,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -9995,8 +10037,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 336,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -10026,7 +10068,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 41,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -10035,17 +10077,18 @@
       "question": "hpr1501",
       "name": "hpr1501",
       "label": "Please state what applies to the person.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 337,
           "text": "Please state what applies to the person.",
           "text_de": "Wenn mehr als 1 Person im HH: Bitte geben Sie an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft. / Wenn 1 Person im HH: Bitte geben Sie jeweils an, was in Bezug auf Schule oder Erwerbstaetigkeit aktuell auf diese Personen zutrifft.",
           "scale": "txt",
           "filter": "hpr1500 != -95",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 338,
           "text": "Kindergarten / KITA",
           "text_de": "Kindergarten / KITA",
@@ -10075,8 +10118,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 339,
           "text": "General School (standard education path)",
           "text_de": "Allgemein bildende Schule (1. Bildungsweg)",
@@ -10106,8 +10149,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 340,
           "text": "Training, higher education institution, further training, other schools (e.g. second chance education)",
           "text_de": "Ausbildung, Hochschule, Weiterbildung, andere Schule (z.B. 2. Bildungsweg)",
@@ -10137,8 +10180,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 341,
           "text": "Full-time employment",
           "text_de": "Voll erwerbstaetig",
@@ -10168,8 +10211,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 342,
           "text": "Employed on a part-time basis (also with several part-time employments)",
           "text_de": "Teilzeitbeschaeftigt (auch bei parallelen Teilzeittaetigkeiten)",
@@ -10199,8 +10242,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 343,
           "text": "In-company training/apprenticeship or vocational retraining",
           "text_de": "In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung",
@@ -10230,8 +10273,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 344,
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
           "text_de": "Geringfuegig erwerbstaetig, Mini Job, Ein-Euro-Job (bei Bezug von Arbeitslosengeld 2)",
@@ -10261,8 +10304,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 345,
           "text": "Occasionally or irregularly employed",
           "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
@@ -10292,8 +10335,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 346,
           "text": "Voluntary military service",
           "text_de": "Freiwilliger Wehrdienst",
@@ -10323,8 +10366,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 347,
           "text": "Voluntary social/ecological year, German federal volunteer service",
           "text_de": "Freiwilliges soziales / oekologisches Jahr, Bundesfreiwilligendienst",
@@ -10354,8 +10397,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 348,
           "text": "Unemployed, registered as searching for employment (at job centre)",
           "text_de": "Arbeitslos, arbeitsuchend gemeldet (beim der Agentur fuer Arbeit, Arbeitsamt)",
@@ -10385,8 +10428,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 349,
           "text": "Maternity leave, paternal leave, on leave of absence / Special leave for childcare",
           "text_de": "Mutterschutz, Elternzeit, Beurlaubung / Sonderurlaub wegen Kinderbetreuung",
@@ -10416,8 +10459,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 350,
           "text": "Housewife/Houseman",
           "text_de": "Hausfrau / Hausmann",
@@ -10447,8 +10490,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 351,
           "text": "In (early) retirement, disabled",
           "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
@@ -10478,8 +10521,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 352,
           "text": "In early retirement with zero working hours",
           "text_de": "In Altersteilzeit mit Arbeitszeit Null",
@@ -10509,8 +10552,8 @@
           ],
           "sn": 15
         },
-        "16.0": {
-          "item": 16.0,
+        {
+          "item": "16.0",
           "number": 353,
           "text": "Not gainfully employed",
           "text_de": "Nicht erwerbstaetig",
@@ -10540,8 +10583,8 @@
           ],
           "sn": 16
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 354,
           "text": "Other",
           "text_de": "Sonstiges",
@@ -10571,8 +10614,8 @@
           ],
           "sn": 17
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 355,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -10602,8 +10645,8 @@
           ],
           "sn": 18
         },
-        "19.0": {
-          "item": 19.0,
+        {
+          "item": "19.0",
           "number": 356,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -10633,7 +10676,7 @@
           ],
           "sn": 19
         }
-      },
+      ],
       "sn": 42,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -10642,16 +10685,17 @@
       "question": "iva0100",
       "name": "iva0100",
       "label": "What is your general impression of the home?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 357,
           "text": "What is your general impression of the home?",
           "text_de": "Wie ist Ihr Gesamteindruck von der Wohnung?",
           "scale": "txt",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 358,
           "text": "tidy - untidy",
           "text_de": "aufgeraeumt / unaufgeraeumt",
@@ -10696,8 +10740,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 359,
           "text": "cheap furnishings - expensive furnishings",
           "text_de": "billige Ausstattung / teure Ausstattung",
@@ -10742,8 +10786,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 360,
           "text": "tidy - neglected",
           "text_de": "gepflegt / vernachlaessigt",
@@ -10788,8 +10832,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 361,
           "text": "restricted - roomy",
           "text_de": "beengt / geraeumig",
@@ -10834,7 +10878,7 @@
           ],
           "sn": 4
         }
-      },
+      ],
       "sn": 43,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -10843,8 +10887,8 @@
       "question": "iva0104",
       "name": "iva0104",
       "label": "How many books would you estimate are in the house?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 362,
           "text": "How many books would you estimate are in the house?",
           "text_de": "Wie viele Buecher befinden sich wohl in dem Haushalt?",
@@ -10897,9 +10941,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 44,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -10908,8 +10953,8 @@
       "question": "iva0201",
       "name": "iva0201",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 363,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -10952,9 +10997,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 45,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -10963,8 +11009,8 @@
       "question": "iva0202",
       "name": "iva0202",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 364,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11008,9 +11054,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 46,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11019,8 +11066,8 @@
       "question": "iva0203",
       "name": "iva0203",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 365,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11064,9 +11111,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 47,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11075,8 +11123,8 @@
       "question": "iva0204",
       "name": "iva0204",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 366,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11120,9 +11168,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 48,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11131,8 +11180,8 @@
       "question": "iva0205",
       "name": "iva0205",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 367,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11176,9 +11225,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 49,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11187,8 +11237,8 @@
       "question": "iva0206",
       "name": "iva0206",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 368,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11232,9 +11282,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 50,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11243,8 +11294,8 @@
       "question": "iva0207",
       "name": "iva0207",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 369,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11288,9 +11339,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 51,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11299,8 +11351,8 @@
       "question": "iva0208",
       "name": "iva0208",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 370,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11344,9 +11396,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 52,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11355,8 +11408,8 @@
       "question": "iva0209",
       "name": "iva0209",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 371,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11400,9 +11453,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 53,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11411,8 +11465,8 @@
       "question": "iva0210",
       "name": "iva0210",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 372,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11456,9 +11510,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 54,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11467,8 +11522,8 @@
       "question": "iva0211",
       "name": "iva0211",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 373,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11512,9 +11567,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 55,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11523,8 +11579,8 @@
       "question": "iva0212",
       "name": "iva0212",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 374,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11568,9 +11624,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 56,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11579,8 +11636,8 @@
       "question": "iva0213",
       "name": "iva0213",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 375,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11624,9 +11681,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 57,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11635,8 +11693,8 @@
       "question": "iva0214",
       "name": "iva0214",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 376,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11680,9 +11738,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 58,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11691,8 +11750,8 @@
       "question": "iva0215",
       "name": "iva0215",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 377,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut versteht der/die Befragte deutsch?",
@@ -11736,9 +11795,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 59,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11747,8 +11807,8 @@
       "question": "iva0301",
       "name": "iva0301",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 378,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -11791,9 +11851,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 60,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11802,8 +11863,8 @@
       "question": "iva0302",
       "name": "iva0302",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 379,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -11847,9 +11908,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 61,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11858,8 +11920,8 @@
       "question": "iva0303",
       "name": "iva0303",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 380,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -11903,9 +11965,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 62,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11914,8 +11977,8 @@
       "question": "iva0304",
       "name": "iva0304",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 381,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -11959,9 +12022,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 63,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -11970,8 +12034,8 @@
       "question": "iva0305",
       "name": "iva0305",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 382,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12015,9 +12079,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 64,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12026,8 +12091,8 @@
       "question": "iva0306",
       "name": "iva0306",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 383,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12071,9 +12136,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 65,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12082,8 +12148,8 @@
       "question": "iva0307",
       "name": "iva0307",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 384,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12127,9 +12193,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 66,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12138,8 +12205,8 @@
       "question": "iva0308",
       "name": "iva0308",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 385,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12183,9 +12250,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 67,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12194,8 +12262,8 @@
       "question": "iva0309",
       "name": "iva0309",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 386,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12239,9 +12307,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 68,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12250,8 +12319,8 @@
       "question": "iva0310",
       "name": "iva0310",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 387,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12295,9 +12364,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 69,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12306,8 +12376,8 @@
       "question": "iva0311",
       "name": "iva0311",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 388,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12351,9 +12421,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 70,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12362,8 +12433,8 @@
       "question": "iva0312",
       "name": "iva0312",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 389,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12407,9 +12478,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 71,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12418,8 +12490,8 @@
       "question": "iva0313",
       "name": "iva0313",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 390,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12463,9 +12535,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 72,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12474,8 +12547,8 @@
       "question": "iva0314",
       "name": "iva0314",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 391,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12519,9 +12592,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 73,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12530,8 +12604,8 @@
       "question": "iva0315",
       "name": "iva0315",
       "label": "How well does the respondent speak German?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 392,
           "text": "How well does the respondent speak German?",
           "text_de": "Wie gut spricht der/die Befragte deutsch?",
@@ -12575,9 +12649,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 74,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12586,16 +12661,17 @@
       "question": "iva0400",
       "name": "iva0400",
       "label": "Did other persons interfere in the interview?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 393,
           "text": "Did other persons interfere in the interview?",
           "text_de": "Wurde von anderen anwesenden Personen in die Befragung eingegriffen?",
           "scale": "txt",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 394,
           "text": "By the parents in the interview of the twins or the sibling",
           "text_de": "Von den Eltern bei der Befragung der Zwillinge / Geschwister",
@@ -12630,8 +12706,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 395,
           "text": "By the parents in the testing of the twins or the sibling",
           "text_de": "Von den Eltern bei der Testung der Zwillinge / Geschwister",
@@ -12666,8 +12742,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 396,
           "text": "By the children among each other (by one twin or sibling in the interview of the other twin)",
           "text_de": "Von den Kindern untereinander (einem Zwilling/Geschwisterkind bei der Befragung des anderen Zwillings)",
@@ -12702,8 +12778,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 397,
           "text": "By the parents among each other",
           "text_de": "Von den Eltern untereinander",
@@ -12738,7 +12814,7 @@
           ],
           "sn": 4
         }
-      },
+      ],
       "sn": 75,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12747,16 +12823,17 @@
       "question": "iva0410",
       "name": "iva0410",
       "label": "Please describe the interference.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 398,
           "text": "Please describe the interference.",
           "text_de": "Beschreiben Sie bitte genau den Eingriff in das Interview.",
           "scale": "chr",
           "filter": "iva0400 == 1 | iva0400 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 76,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12765,16 +12842,17 @@
       "question": "iva0411",
       "name": "iva0411",
       "label": "Please describe the interference.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 399,
           "text": "Please describe the interference.",
           "text_de": "Beschreiben Sie bitte genau den Eingriff in das Interview.",
           "scale": "chr",
           "filter": "iva0401 == 1 | iva0401 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 77,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12783,16 +12861,17 @@
       "question": "iva0412",
       "name": "iva0412",
       "label": "Please describe the interference.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 400,
           "text": "Please describe the interference.",
           "text_de": "Beschreiben Sie bitte genau den Eingriff in das Interview.",
           "scale": "chr",
           "filter": "iva0402 == 1 | iva0402 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 78,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12801,16 +12880,17 @@
       "question": "iva0413",
       "name": "iva0413",
       "label": "Please describe the interference.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 401,
           "text": "Please describe the interference.",
           "text_de": "Beschreiben Sie bitte genau den Eingriff in das Interview.",
           "scale": "chr",
           "filter": "iva0403 == 1 | iva0403 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 79,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12819,8 +12899,8 @@
       "question": "iva0500",
       "name": "iva0500",
       "label": "How many visits were necessary to complete the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 402,
           "text": "How many visits were necessary to complete the household?",
           "text_de": "Wie viele Besuche waren notwendig, um den Haushalt komplett zu bearbeiten?",
@@ -12843,9 +12923,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 80,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12854,8 +12935,8 @@
       "question": "iva0600",
       "name": "iva0600",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 403,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -12878,9 +12959,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 81,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12889,8 +12971,8 @@
       "question": "iva0601",
       "name": "iva0601",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 404,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -12913,9 +12995,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 82,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12924,8 +13007,8 @@
       "question": "iva0602",
       "name": "iva0602",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 405,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -12949,9 +13032,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 83,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12960,8 +13044,8 @@
       "question": "iva0603",
       "name": "iva0603",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 406,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -12985,9 +13069,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 84,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -12996,8 +13081,8 @@
       "question": "iva0604",
       "name": "iva0604",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 407,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13021,9 +13106,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 85,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13032,8 +13118,8 @@
       "question": "iva0605",
       "name": "iva0605",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 408,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13057,9 +13143,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 86,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13068,8 +13155,8 @@
       "question": "iva0606",
       "name": "iva0606",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 409,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13093,9 +13180,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 87,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13104,8 +13192,8 @@
       "question": "iva0607",
       "name": "iva0607",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 410,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13129,9 +13217,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 88,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13140,8 +13229,8 @@
       "question": "iva0608",
       "name": "iva0608",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 411,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13165,9 +13254,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 89,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13176,8 +13266,8 @@
       "question": "iva0609",
       "name": "iva0609",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 412,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13201,9 +13291,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 90,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13212,8 +13303,8 @@
       "question": "iva0610",
       "name": "iva0610",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 413,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13237,9 +13328,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 91,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13248,8 +13340,8 @@
       "question": "iva0611",
       "name": "iva0611",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 414,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13273,9 +13365,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 92,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13284,8 +13377,8 @@
       "question": "iva0612",
       "name": "iva0612",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 415,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13309,9 +13402,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 93,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13320,8 +13414,8 @@
       "question": "iva0613",
       "name": "iva0613",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 416,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13345,9 +13439,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 94,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13356,8 +13451,8 @@
       "question": "iva0614",
       "name": "iva0614",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 417,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13381,9 +13476,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 95,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13392,8 +13488,8 @@
       "question": "iva0615",
       "name": "iva0615",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 418,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13417,9 +13513,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 96,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13428,8 +13525,8 @@
       "question": "iva0616",
       "name": "iva0616",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 419,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13453,9 +13550,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 97,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13464,8 +13562,8 @@
       "question": "iva0617",
       "name": "iva0617",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 420,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13489,9 +13587,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 98,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13500,8 +13599,8 @@
       "question": "iva0618",
       "name": "iva0618",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 421,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13525,9 +13624,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 99,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13536,8 +13636,8 @@
       "question": "iva0619",
       "name": "iva0619",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 422,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13561,9 +13661,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 100,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13572,8 +13673,8 @@
       "question": "iva0620",
       "name": "iva0620",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 423,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13597,9 +13698,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 101,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13608,8 +13710,8 @@
       "question": "iva0621",
       "name": "iva0621",
       "label": "How much time did you spend in this household altogether?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 424,
           "text": "How much time did you spend in this household altogether?",
           "text_de": "Wie viel Zeit haben Sie insgesamt in diesem Haushalt verbracht?",
@@ -13633,9 +13735,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 102,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13644,8 +13747,8 @@
       "question": "iva0700",
       "name": "iva0700",
       "label": "How many contacts were necessary to complete the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 425,
           "text": "How many contacts were necessary to complete the household?",
           "text_de": "Wieviele Kontakte waren noetig, um den Haushalt abschliessend zu bearbeiten?",
@@ -13668,9 +13771,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 103,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13679,8 +13783,8 @@
       "question": "iva0701",
       "name": "iva0701",
       "label": "How many contacts were necessary to complete the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 426,
           "text": "How many contacts were necessary to complete the household?",
           "text_de": "Wieviele Kontakte waren noetig, um den Haushalt abschliessend zu bearbeiten?",
@@ -13703,9 +13807,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 104,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13714,8 +13819,8 @@
       "question": "iva0702",
       "name": "iva0702",
       "label": "How many contacts were necessary to complete the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 427,
           "text": "How many contacts were necessary to complete the household?",
           "text_de": "Wieviele Kontakte waren noetig, um den Haushalt abschliessend zu bearbeiten?",
@@ -13738,9 +13843,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 105,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"
@@ -13749,8 +13855,8 @@
       "question": "iva0800",
       "name": "iva0800",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 428,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -13773,9 +13879,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 106,
       "instrument": "twinlife-2014-F2F_Haushaltsfragebogen",
       "study": "twinlife"

@@ -11,15 +11,16 @@
       "question": "fpr0101_1",
       "name": "fpr0101_1",
       "label": "person 1",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 6,
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "scale": "chr",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 0,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -28,15 +29,16 @@
       "question": "fpr0102_1",
       "name": "fpr0102_1",
       "label": "person 1",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 7,
           "text": "person 1",
           "text_de": "Person Nr. 1",
           "scale": "chr",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 1,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -45,8 +47,8 @@
       "question": "fpr0105_1",
       "name": "fpr0105_1",
       "label": "person 1",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 8,
           "text": "person 1",
           "text_de": "Person Nr. 1",
@@ -69,9 +71,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 2,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -80,8 +83,8 @@
       "question": "fpr0104_1",
       "name": "fpr0104_1",
       "label": "person 1",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 9,
           "text": "person 1",
           "text_de": "Person Nr. 1",
@@ -104,9 +107,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 3,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -115,8 +119,8 @@
       "question": "fpr0103_1",
       "name": "fpr0103_1",
       "label": "person 1",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 10,
           "text": "person 1",
           "text_de": "Person Nr. 1",
@@ -139,9 +143,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 4,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -150,8 +155,8 @@
       "question": "fpr0106_1",
       "name": "fpr0106_1",
       "label": "person 1",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 11,
           "text": "person 1",
           "text_de": "Person Nr. 1",
@@ -179,9 +184,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 5,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -190,8 +196,8 @@
       "question": "fpr0107_1",
       "name": "fpr0107_1",
       "label": "What relation do you have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 12,
           "text": "What relation do you have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste haben Sie zu den Zwillingen?",
@@ -324,9 +330,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 6,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -335,8 +342,8 @@
       "question": "fil0200_1",
       "name": "fil0200_1",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 13,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -369,9 +376,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 7,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -380,16 +388,17 @@
       "question": "fpr0101_2",
       "name": "fpr0101_2",
       "label": "person 2",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 14,
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "scale": "chr",
           "filter": "fil0200_1 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 8,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -398,16 +407,17 @@
       "question": "fpr0102_2",
       "name": "fpr0102_2",
       "label": "person 2",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 15,
           "text": "person 2",
           "text_de": "Person Nr. 2",
           "scale": "chr",
           "filter": "fil0200_1 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 9,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -416,8 +426,8 @@
       "question": "fpr0105_2",
       "name": "fpr0105_2",
       "label": "person 2",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 16,
           "text": "person 2",
           "text_de": "Person Nr. 2",
@@ -441,9 +451,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 10,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -452,8 +463,8 @@
       "question": "fpr0104_2",
       "name": "fpr0104_2",
       "label": "person 2",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 17,
           "text": "person 2",
           "text_de": "Person Nr. 2",
@@ -477,9 +488,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 11,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -488,8 +500,8 @@
       "question": "fpr0103_2",
       "name": "fpr0103_2",
       "label": "person 2",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 18,
           "text": "person 2",
           "text_de": "Person Nr. 2",
@@ -513,9 +525,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 12,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -524,8 +537,8 @@
       "question": "fpr0106_2",
       "name": "fpr0106_2",
       "label": "person 2",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 19,
           "text": "person 2",
           "text_de": "Person Nr. 2",
@@ -554,9 +567,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 13,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -565,16 +579,17 @@
       "question": "fpr0101_3",
       "name": "fpr0101_3",
       "label": "person 3",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 20,
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "scale": "chr",
           "filter": "fil0200_2 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 14,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -583,16 +598,17 @@
       "question": "fpr0102_3",
       "name": "fpr0102_3",
       "label": "person 3",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 21,
           "text": "person 3",
           "text_de": "Person Nr. 3",
           "scale": "chr",
           "filter": "fil0200_2 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 15,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -601,8 +617,8 @@
       "question": "fpr0105_3",
       "name": "fpr0105_3",
       "label": "person 3",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 22,
           "text": "person 3",
           "text_de": "Person Nr. 3",
@@ -626,9 +642,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 16,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -637,8 +654,8 @@
       "question": "fpr0104_3",
       "name": "fpr0104_3",
       "label": "person 3",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 23,
           "text": "person 3",
           "text_de": "Person Nr. 3",
@@ -662,9 +679,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 17,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -673,8 +691,8 @@
       "question": "fpr0103_3",
       "name": "fpr0103_3",
       "label": "person 3",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 24,
           "text": "person 3",
           "text_de": "Person Nr. 3",
@@ -698,9 +716,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 18,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -709,8 +728,8 @@
       "question": "fpr0106_3",
       "name": "fpr0106_3",
       "label": "person 3",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 25,
           "text": "person 3",
           "text_de": "Person Nr. 3",
@@ -739,9 +758,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 19,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -750,16 +770,17 @@
       "question": "fpr0101_4",
       "name": "fpr0101_4",
       "label": "person 4",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 26,
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "scale": "chr",
           "filter": "fil0200_3 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 20,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -768,16 +789,17 @@
       "question": "fpr0102_4",
       "name": "fpr0102_4",
       "label": "person 4",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 27,
           "text": "person 4",
           "text_de": "Person Nr. 4",
           "scale": "chr",
           "filter": "fil0200_3 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 21,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -786,8 +808,8 @@
       "question": "fpr0105_4",
       "name": "fpr0105_4",
       "label": "person 4",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 28,
           "text": "person 4",
           "text_de": "Person Nr. 4",
@@ -811,9 +833,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 22,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -822,8 +845,8 @@
       "question": "fpr0104_4",
       "name": "fpr0104_4",
       "label": "person 4",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 29,
           "text": "person 4",
           "text_de": "Person Nr. 4",
@@ -847,9 +870,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 23,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -858,8 +882,8 @@
       "question": "fpr0103_4",
       "name": "fpr0103_4",
       "label": "person 4",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 30,
           "text": "person 4",
           "text_de": "Person Nr. 4",
@@ -883,9 +907,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 24,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -894,8 +919,8 @@
       "question": "fpr0106_4",
       "name": "fpr0106_4",
       "label": "person 4",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 31,
           "text": "person 4",
           "text_de": "Person Nr. 4",
@@ -924,9 +949,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 25,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -935,16 +961,17 @@
       "question": "fpr0101_5",
       "name": "fpr0101_5",
       "label": "person 5",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 32,
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "scale": "chr",
           "filter": "fil0200_4 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 26,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -953,16 +980,17 @@
       "question": "fpr0102_5",
       "name": "fpr0102_5",
       "label": "person 5",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 33,
           "text": "person 5",
           "text_de": "Person Nr. 5",
           "scale": "chr",
           "filter": "fil0200_4 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 27,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -971,8 +999,8 @@
       "question": "fpr0105_5",
       "name": "fpr0105_5",
       "label": "person 5",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 34,
           "text": "person 5",
           "text_de": "Person Nr. 5",
@@ -996,9 +1024,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 28,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1007,8 +1036,8 @@
       "question": "fpr0104_5",
       "name": "fpr0104_5",
       "label": "person 5",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 35,
           "text": "person 5",
           "text_de": "Person Nr. 5",
@@ -1032,9 +1061,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 29,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1043,8 +1073,8 @@
       "question": "fpr0103_5",
       "name": "fpr0103_5",
       "label": "person 5",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 36,
           "text": "person 5",
           "text_de": "Person Nr. 5",
@@ -1068,9 +1098,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 30,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1079,8 +1110,8 @@
       "question": "fpr0106_5",
       "name": "fpr0106_5",
       "label": "person 5",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 37,
           "text": "person 5",
           "text_de": "Person Nr. 5",
@@ -1109,9 +1140,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 31,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1120,16 +1152,17 @@
       "question": "fpr0101_6",
       "name": "fpr0101_6",
       "label": "person 6",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 38,
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "scale": "chr",
           "filter": "fil0200_5 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 32,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1138,16 +1171,17 @@
       "question": "fpr0102_6",
       "name": "fpr0102_6",
       "label": "person 6",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 39,
           "text": "person 6",
           "text_de": "Person Nr. 6",
           "scale": "chr",
           "filter": "fil0200_5 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 33,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1156,8 +1190,8 @@
       "question": "fpr0105_6",
       "name": "fpr0105_6",
       "label": "person 6",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 40,
           "text": "person 6",
           "text_de": "Person Nr. 6",
@@ -1181,9 +1215,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 34,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1192,8 +1227,8 @@
       "question": "fpr0104_6",
       "name": "fpr0104_6",
       "label": "person 6",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 41,
           "text": "person 6",
           "text_de": "Person Nr. 6",
@@ -1217,9 +1252,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 35,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1228,8 +1264,8 @@
       "question": "fpr0103_6",
       "name": "fpr0103_6",
       "label": "person 6",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 42,
           "text": "person 6",
           "text_de": "Person Nr. 6",
@@ -1253,9 +1289,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 36,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1264,8 +1301,8 @@
       "question": "fpr0106_6",
       "name": "fpr0106_6",
       "label": "person 6",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 43,
           "text": "person 6",
           "text_de": "Person Nr. 6",
@@ -1294,9 +1331,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 37,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1305,16 +1343,17 @@
       "question": "fpr0101_7",
       "name": "fpr0101_7",
       "label": "person 7",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 44,
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "scale": "chr",
           "filter": "fil0200_6 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 38,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1323,16 +1362,17 @@
       "question": "fpr0102_7",
       "name": "fpr0102_7",
       "label": "person 7",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 45,
           "text": "person 7",
           "text_de": "Person Nr. 7",
           "scale": "chr",
           "filter": "fil0200_6 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 39,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1341,8 +1381,8 @@
       "question": "fpr0105_7",
       "name": "fpr0105_7",
       "label": "person 7",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 46,
           "text": "person 7",
           "text_de": "Person Nr. 7",
@@ -1366,9 +1406,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 40,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1377,8 +1418,8 @@
       "question": "fpr0104_7",
       "name": "fpr0104_7",
       "label": "person 7",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 47,
           "text": "person 7",
           "text_de": "Person Nr. 7",
@@ -1402,9 +1443,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 41,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1413,8 +1455,8 @@
       "question": "fpr0103_7",
       "name": "fpr0103_7",
       "label": "person 7",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 48,
           "text": "person 7",
           "text_de": "Person Nr. 7",
@@ -1438,9 +1480,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 42,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1449,8 +1492,8 @@
       "question": "fpr0106_7",
       "name": "fpr0106_7",
       "label": "person 7",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 49,
           "text": "person 7",
           "text_de": "Person Nr. 7",
@@ -1479,9 +1522,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 43,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1490,16 +1534,17 @@
       "question": "fpr0101_8",
       "name": "fpr0101_8",
       "label": "person 8",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 50,
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "scale": "chr",
           "filter": "fil0200_7 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 44,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1508,16 +1553,17 @@
       "question": "fpr0102_8",
       "name": "fpr0102_8",
       "label": "person 8",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 51,
           "text": "person 8",
           "text_de": "Person Nr. 8",
           "scale": "chr",
           "filter": "fil0200_7 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 45,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1526,8 +1572,8 @@
       "question": "fpr0105_8",
       "name": "fpr0105_8",
       "label": "person 8",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 52,
           "text": "person 8",
           "text_de": "Person Nr. 8",
@@ -1551,9 +1597,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 46,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1562,8 +1609,8 @@
       "question": "fpr0104_8",
       "name": "fpr0104_8",
       "label": "person 8",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 53,
           "text": "person 8",
           "text_de": "Person Nr. 8",
@@ -1587,9 +1634,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 47,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1598,8 +1646,8 @@
       "question": "fpr0103_8",
       "name": "fpr0103_8",
       "label": "person 8",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 54,
           "text": "person 8",
           "text_de": "Person Nr. 8",
@@ -1623,9 +1671,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 48,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1634,8 +1683,8 @@
       "question": "fpr0106_8",
       "name": "fpr0106_8",
       "label": "person 8",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 55,
           "text": "person 8",
           "text_de": "Person Nr. 8",
@@ -1664,9 +1713,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 49,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1675,16 +1725,17 @@
       "question": "fpr0101_9",
       "name": "fpr0101_9",
       "label": "person 9",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 56,
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "scale": "chr",
           "filter": "fil0200_8 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 50,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1693,16 +1744,17 @@
       "question": "fpr0102_9",
       "name": "fpr0102_9",
       "label": "person 9",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 57,
           "text": "person 9",
           "text_de": "Person Nr. 9",
           "scale": "chr",
           "filter": "fil0200_8 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 51,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1711,8 +1763,8 @@
       "question": "fpr0105_9",
       "name": "fpr0105_9",
       "label": "person 9",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 58,
           "text": "person 9",
           "text_de": "Person Nr. 9",
@@ -1736,9 +1788,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 52,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1747,8 +1800,8 @@
       "question": "fpr0104_9",
       "name": "fpr0104_9",
       "label": "person 9",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 59,
           "text": "person 9",
           "text_de": "Person Nr. 9",
@@ -1772,9 +1825,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 53,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1783,8 +1837,8 @@
       "question": "fpr0103_9",
       "name": "fpr0103_9",
       "label": "person 9",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 60,
           "text": "person 9",
           "text_de": "Person Nr. 9",
@@ -1808,9 +1862,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 54,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1819,8 +1874,8 @@
       "question": "fpr0106_9",
       "name": "fpr0106_9",
       "label": "person 9",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 61,
           "text": "person 9",
           "text_de": "Person Nr. 9",
@@ -1849,9 +1904,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 55,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1860,16 +1916,17 @@
       "question": "fpr0101_10",
       "name": "fpr0101_10",
       "label": "person 10",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 62,
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "scale": "chr",
           "filter": "fil0200_9 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 56,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1878,16 +1935,17 @@
       "question": "fpr0102_10",
       "name": "fpr0102_10",
       "label": "person 10",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 63,
           "text": "person 10",
           "text_de": "Person Nr. 10",
           "scale": "chr",
           "filter": "fil0200_9 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 57,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1896,8 +1954,8 @@
       "question": "fpr0105_10",
       "name": "fpr0105_10",
       "label": "person 10",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 64,
           "text": "person 10",
           "text_de": "Person Nr. 10",
@@ -1921,9 +1979,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 58,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1932,8 +1991,8 @@
       "question": "fpr0104_10",
       "name": "fpr0104_10",
       "label": "person 10",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 65,
           "text": "person 10",
           "text_de": "Person Nr. 10",
@@ -1957,9 +2016,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 59,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -1968,8 +2028,8 @@
       "question": "fpr0103_10",
       "name": "fpr0103_10",
       "label": "person 10",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 66,
           "text": "person 10",
           "text_de": "Person Nr. 10",
@@ -1993,9 +2053,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 60,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2004,8 +2065,8 @@
       "question": "fpr0106_10",
       "name": "fpr0106_10",
       "label": "person 10",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 67,
           "text": "person 10",
           "text_de": "Person Nr. 10",
@@ -2034,9 +2095,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 61,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2045,16 +2107,17 @@
       "question": "fpr0101_11",
       "name": "fpr0101_11",
       "label": "person 11",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 68,
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "scale": "chr",
           "filter": "fil0200_10 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 62,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2063,16 +2126,17 @@
       "question": "fpr0102_11",
       "name": "fpr0102_11",
       "label": "person 11",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 69,
           "text": "person 11",
           "text_de": "Person Nr. 11",
           "scale": "chr",
           "filter": "fil0200_10 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 63,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2081,8 +2145,8 @@
       "question": "fpr0105_11",
       "name": "fpr0105_11",
       "label": "person 11",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 70,
           "text": "person 11",
           "text_de": "Person Nr. 11",
@@ -2106,9 +2170,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 64,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2117,8 +2182,8 @@
       "question": "fpr0104_11",
       "name": "fpr0104_11",
       "label": "person 11",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 71,
           "text": "person 11",
           "text_de": "Person Nr. 11",
@@ -2142,9 +2207,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 65,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2153,8 +2219,8 @@
       "question": "fpr0103_11",
       "name": "fpr0103_11",
       "label": "person 11",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 72,
           "text": "person 11",
           "text_de": "Person Nr. 11",
@@ -2178,9 +2244,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 66,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2189,8 +2256,8 @@
       "question": "fpr0106_11",
       "name": "fpr0106_11",
       "label": "person 11",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 73,
           "text": "person 11",
           "text_de": "Person Nr. 11",
@@ -2219,9 +2286,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 67,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2230,16 +2298,17 @@
       "question": "fpr0101_12",
       "name": "fpr0101_12",
       "label": "person 12",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 74,
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "scale": "chr",
           "filter": "fil0200_11 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 68,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2248,16 +2317,17 @@
       "question": "fpr0102_12",
       "name": "fpr0102_12",
       "label": "person 12",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 75,
           "text": "person 12",
           "text_de": "Person Nr. 12",
           "scale": "chr",
           "filter": "fil0200_11 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 69,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2266,8 +2336,8 @@
       "question": "fpr0105_12",
       "name": "fpr0105_12",
       "label": "person 12",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 76,
           "text": "person 12",
           "text_de": "Person Nr. 12",
@@ -2291,9 +2361,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 70,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2302,8 +2373,8 @@
       "question": "fpr0104_12",
       "name": "fpr0104_12",
       "label": "person 12",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 77,
           "text": "person 12",
           "text_de": "Person Nr. 12",
@@ -2327,9 +2398,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 71,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2338,8 +2410,8 @@
       "question": "fpr0103_12",
       "name": "fpr0103_12",
       "label": "person 12",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 78,
           "text": "person 12",
           "text_de": "Person Nr. 12",
@@ -2363,9 +2435,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 72,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2374,8 +2447,8 @@
       "question": "fpr0106_12",
       "name": "fpr0106_12",
       "label": "person 12",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 79,
           "text": "person 12",
           "text_de": "Person Nr. 12",
@@ -2404,9 +2477,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 73,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2415,16 +2489,17 @@
       "question": "fpr0101_13",
       "name": "fpr0101_13",
       "label": "person 13",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 80,
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "scale": "chr",
           "filter": "fil0200_12 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 74,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2433,16 +2508,17 @@
       "question": "fpr0102_13",
       "name": "fpr0102_13",
       "label": "person 13",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 81,
           "text": "person 13",
           "text_de": "Person Nr. 13",
           "scale": "chr",
           "filter": "fil0200_12 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 75,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2451,8 +2527,8 @@
       "question": "fpr0105_13",
       "name": "fpr0105_13",
       "label": "person 13",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 82,
           "text": "person 13",
           "text_de": "Person Nr. 13",
@@ -2476,9 +2552,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 76,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2487,8 +2564,8 @@
       "question": "fpr0104_13",
       "name": "fpr0104_13",
       "label": "person 13",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 83,
           "text": "person 13",
           "text_de": "Person Nr. 13",
@@ -2512,9 +2589,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 77,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2523,8 +2601,8 @@
       "question": "fpr0103_13",
       "name": "fpr0103_13",
       "label": "person 13",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 84,
           "text": "person 13",
           "text_de": "Person Nr. 13",
@@ -2548,9 +2626,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 78,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2559,8 +2638,8 @@
       "question": "fpr0106_13",
       "name": "fpr0106_13",
       "label": "person 13",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 85,
           "text": "person 13",
           "text_de": "Person Nr. 13",
@@ -2589,9 +2668,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 79,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2600,16 +2680,17 @@
       "question": "fpr0101_14",
       "name": "fpr0101_14",
       "label": "person 14",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 86,
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "scale": "chr",
           "filter": "fil0200_13 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 80,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2618,16 +2699,17 @@
       "question": "fpr0102_14",
       "name": "fpr0102_14",
       "label": "person 14",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 87,
           "text": "person 14",
           "text_de": "Person Nr. 14",
           "scale": "chr",
           "filter": "fil0200_13 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 81,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2636,8 +2718,8 @@
       "question": "fpr0105_14",
       "name": "fpr0105_14",
       "label": "person 14",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 88,
           "text": "person 14",
           "text_de": "Person Nr. 14",
@@ -2661,9 +2743,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 82,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2672,8 +2755,8 @@
       "question": "fpr0104_14",
       "name": "fpr0104_14",
       "label": "person 14",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 89,
           "text": "person 14",
           "text_de": "Person Nr. 14",
@@ -2697,9 +2780,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 83,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2708,8 +2792,8 @@
       "question": "fpr0103_14",
       "name": "fpr0103_14",
       "label": "person 14",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 90,
           "text": "person 14",
           "text_de": "Person Nr. 14",
@@ -2733,9 +2817,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 84,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2744,8 +2829,8 @@
       "question": "fpr0106_14",
       "name": "fpr0106_14",
       "label": "person 14",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 91,
           "text": "person 14",
           "text_de": "Person Nr. 14",
@@ -2774,9 +2859,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 85,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2785,16 +2871,17 @@
       "question": "fpr0101_15",
       "name": "fpr0101_15",
       "label": "person 15",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 92,
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "scale": "chr",
           "filter": "fil0200_14 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 86,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2803,16 +2890,17 @@
       "question": "fpr0102_15",
       "name": "fpr0102_15",
       "label": "person 15",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 93,
           "text": "person 15",
           "text_de": "Person Nr. 15",
           "scale": "chr",
           "filter": "fil0200_14 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 87,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2821,8 +2909,8 @@
       "question": "fpr0105_15",
       "name": "fpr0105_15",
       "label": "person 15",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 94,
           "text": "person 15",
           "text_de": "Person Nr. 15",
@@ -2846,9 +2934,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 88,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2857,8 +2946,8 @@
       "question": "fpr0104_15",
       "name": "fpr0104_15",
       "label": "person 15",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 95,
           "text": "person 15",
           "text_de": "Person Nr. 15",
@@ -2882,9 +2971,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 89,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2893,8 +2983,8 @@
       "question": "fpr0103_15",
       "name": "fpr0103_15",
       "label": "person 15",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 96,
           "text": "person 15",
           "text_de": "Person Nr. 15",
@@ -2918,9 +3008,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 90,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2929,8 +3020,8 @@
       "question": "fpr0106_15",
       "name": "fpr0106_15",
       "label": "person 15",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 97,
           "text": "person 15",
           "text_de": "Person Nr. 15",
@@ -2959,9 +3050,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 91,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -2970,8 +3062,8 @@
       "question": "fpr0107_2",
       "name": "fpr0107_2",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 98,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3105,9 +3197,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 92,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3116,8 +3209,8 @@
       "question": "fpr0107_3",
       "name": "fpr0107_3",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 99,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3251,9 +3344,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 93,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3262,8 +3356,8 @@
       "question": "fpr0107_4",
       "name": "fpr0107_4",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 100,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3397,9 +3491,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 94,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3408,8 +3503,8 @@
       "question": "fpr0107_5",
       "name": "fpr0107_5",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 101,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3543,9 +3638,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 95,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3554,8 +3650,8 @@
       "question": "fpr0107_6",
       "name": "fpr0107_6",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 102,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3689,9 +3785,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 96,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3700,8 +3797,8 @@
       "question": "fpr0107_7",
       "name": "fpr0107_7",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 103,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3835,9 +3932,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 97,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3846,8 +3944,8 @@
       "question": "fpr0107_8",
       "name": "fpr0107_8",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 104,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -3981,9 +4079,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 98,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -3992,8 +4091,8 @@
       "question": "fpr0107_9",
       "name": "fpr0107_9",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 105,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -4127,9 +4226,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 99,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -4138,8 +4238,8 @@
       "question": "fpr0107_10",
       "name": "fpr0107_10",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 106,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -4273,9 +4373,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 100,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -4284,8 +4385,8 @@
       "question": "fpr0107_11",
       "name": "fpr0107_11",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 107,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -4419,9 +4520,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 101,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -4430,8 +4532,8 @@
       "question": "fpr0107_12",
       "name": "fpr0107_12",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 108,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -4565,9 +4667,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 102,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -4576,8 +4679,8 @@
       "question": "fpr0107_13",
       "name": "fpr0107_13",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 109,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -4711,9 +4814,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 103,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -4722,8 +4826,8 @@
       "question": "fpr0107_14",
       "name": "fpr0107_14",
       "label": "What relation does [name of person] have to the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 110,
           "text": "What relation does [name of person] have to the twins?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -4857,9 +4961,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 104,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -4868,8 +4973,8 @@
       "question": "fpr0107_15",
       "name": "fpr0107_15",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 111,
           "text": "Do other people live in this household?",
           "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung aus folgender Liste hat [Name der erfassten Person (geboren [Jahr einblenden]) zu den Zwillingen?",
@@ -5003,9 +5108,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 105,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5014,8 +5120,8 @@
       "question": "fil0200_2",
       "name": "fil0200_2",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 112,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5049,9 +5155,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 106,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5060,8 +5167,8 @@
       "question": "fil0200_3",
       "name": "fil0200_3",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 113,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5095,9 +5202,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 107,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5106,8 +5214,8 @@
       "question": "fil0200_4",
       "name": "fil0200_4",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 114,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5141,9 +5249,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 108,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5152,8 +5261,8 @@
       "question": "fil0200_5",
       "name": "fil0200_5",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 115,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5187,9 +5296,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 109,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5198,8 +5308,8 @@
       "question": "fil0200_6",
       "name": "fil0200_6",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 116,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5233,9 +5343,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 110,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5244,8 +5355,8 @@
       "question": "fil0200_7",
       "name": "fil0200_7",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 117,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5279,9 +5390,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 111,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5290,8 +5402,8 @@
       "question": "fil0200_8",
       "name": "fil0200_8",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 118,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5325,9 +5437,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 112,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5336,8 +5449,8 @@
       "question": "fil0200_9",
       "name": "fil0200_9",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 119,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5371,9 +5484,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 113,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5382,8 +5496,8 @@
       "question": "fil0200_10",
       "name": "fil0200_10",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 120,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5417,9 +5531,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 114,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5428,8 +5543,8 @@
       "question": "fil0200_11",
       "name": "fil0200_11",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 121,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5463,9 +5578,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 115,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5474,8 +5590,8 @@
       "question": "fil0200_12",
       "name": "fil0200_12",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 122,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5509,9 +5625,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 116,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5520,8 +5637,8 @@
       "question": "fil0200_13",
       "name": "fil0200_13",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 123,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5555,9 +5672,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 117,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5566,8 +5684,8 @@
       "question": "fil0200_14",
       "name": "fil0200_14",
       "label": "Do other people live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 124,
           "text": "Do other people live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5601,9 +5719,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 118,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5612,8 +5731,8 @@
       "question": "fil0200_15",
       "name": "fil0200_15",
       "label": "Does the other twin live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 125,
           "text": "Does the other twin live in Germany?",
           "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
@@ -5647,9 +5766,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 119,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5658,8 +5778,8 @@
       "question": "fpr0200",
       "name": "fpr0200",
       "label": "Does the other twin live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 126,
           "text": "Does the other twin live in Germany?",
           "text_de": "Lebt der andere Zwilling in Deutschland?",
@@ -5693,9 +5813,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 120,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5704,16 +5825,17 @@
       "question": "fpr0201",
       "name": "fpr0201",
       "label": "What is the other twin's first name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 127,
           "text": "What is the other twin's first name?",
           "text_de": "Wie heisst der andere Zwilling? Vorname",
           "scale": "chr",
           "filter": "(fpr0107_x != 11 & fpr0107_y == 12) | (fpr0107_x != 12 & fpr0107_y == 11) [x, y = {1/15}]",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 121,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5722,8 +5844,8 @@
       "question": "fpr0200t",
       "name": "fpr0200t",
       "label": "Does twin 1 live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 128,
           "text": "Does twin 1 live in Germany?",
           "text_de": "Lebt Zwilling 1 in Deutschland?",
@@ -5757,9 +5879,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 122,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5768,16 +5891,17 @@
       "question": "fpr0201t",
       "name": "fpr0201t",
       "label": "What is twin 1's first name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 129,
           "text": "What is twin 1's first name?",
           "text_de": "Wie heisst der erstgeborene Zwilling? Vorname",
           "scale": "chr",
           "filter": "(fpr0107_x != 11 & fpr0107_x != 12) [x = {1/15}]",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 123,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5786,8 +5910,8 @@
       "question": "fpr0200u",
       "name": "fpr0200u",
       "label": "Does twin 2 live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 130,
           "text": "Does twin 2 live in Germany?",
           "text_de": "Lebt Zwilling 2 in Deutschland?",
@@ -5821,9 +5945,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 124,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5832,16 +5957,17 @@
       "question": "fpr0201u",
       "name": "fpr0201u",
       "label": "What is twin 2's first name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 131,
           "text": "What is twin 2's first name?",
           "text_de": "Wie heisst der zweitgeborene Zwilling?",
           "scale": "chr",
           "filter": "(fpr0107_x != 11 & fpr0107_x != 12) [x = {1/15}]",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 125,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5850,8 +5976,8 @@
       "question": "fil0300_1",
       "name": "fil0300_1",
       "label": "Are there other siblings (of the twins) that do not live in the household, but live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 132,
           "text": "Are there other siblings (of the twins) that do not live in the household, but live in Germany?",
           "text_de": "Gibt es Geschwister (der Zwillinge), die nicht hier in diesem Haushalt, aber in Deutschland leben?",
@@ -5884,9 +6010,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 126,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5895,16 +6022,17 @@
       "question": "fpr0301_1",
       "name": "fpr0301_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 133,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "scale": "chr",
           "filter": "fil0300_1 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 127,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5913,16 +6041,17 @@
       "question": "fpr0302_1",
       "name": "fpr0302_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 134,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
           "scale": "chr",
           "filter": "fil0300_1 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 128,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5931,8 +6060,8 @@
       "question": "fpr0305_1",
       "name": "fpr0305_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 135,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
@@ -5956,9 +6085,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 129,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -5967,8 +6097,8 @@
       "question": "fpr0304_1",
       "name": "fpr0304_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 136,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
@@ -5992,9 +6122,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 130,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6003,8 +6134,8 @@
       "question": "fpr0303_1",
       "name": "fpr0303_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 137,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
@@ -6028,9 +6159,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 131,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6039,8 +6171,8 @@
       "question": "fpr0306_1",
       "name": "fpr0306_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 138,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
@@ -6069,9 +6201,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 132,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6080,8 +6213,8 @@
       "question": "fpr0307_1",
       "name": "fpr0307_1",
       "label": "Please provide the following details of this sibling.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 139,
           "text": "Please provide the following details of this sibling.",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister.",
@@ -6120,9 +6253,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 133,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6131,8 +6265,8 @@
       "question": "fil0300_2",
       "name": "fil0300_2",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 140,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6166,9 +6300,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 134,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6177,8 +6312,8 @@
       "question": "fil0300_3",
       "name": "fil0300_3",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 141,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6212,9 +6347,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 135,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6223,8 +6359,8 @@
       "question": "fil0300_4",
       "name": "fil0300_4",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 142,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6258,9 +6394,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 136,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6269,8 +6406,8 @@
       "question": "fil0300_5",
       "name": "fil0300_5",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 143,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6304,9 +6441,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 137,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6315,8 +6453,8 @@
       "question": "fil0300_6",
       "name": "fil0300_6",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 144,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6350,9 +6488,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 138,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6361,8 +6500,8 @@
       "question": "fil0300_7",
       "name": "fil0300_7",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 145,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6396,9 +6535,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 139,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6407,8 +6547,8 @@
       "question": "fil0300_8",
       "name": "fil0300_8",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 146,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6442,9 +6582,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 140,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6453,8 +6594,8 @@
       "question": "fil0300_9",
       "name": "fil0300_9",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 147,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6488,9 +6629,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 141,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6499,8 +6641,8 @@
       "question": "fil0300_10",
       "name": "fil0300_10",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 148,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6534,9 +6676,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 142,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6545,8 +6688,8 @@
       "question": "fil0300_11",
       "name": "fil0300_11",
       "label": "Are there other siblings in Germany who no longer live in this household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 149,
           "text": "Are there other siblings in Germany who no longer live in this household?",
           "text_de": "Leben darueber hinaus noch weitere Geschwister in Deutschland, die nicht (mehr) in diesem Haushalt wohnen?",
@@ -6580,9 +6723,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 143,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6591,16 +6735,17 @@
       "question": "fpr0301_2",
       "name": "fpr0301_2",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 150,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_2 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 144,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6609,16 +6754,17 @@
       "question": "fpr0302_2",
       "name": "fpr0302_2",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 151,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_2 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 145,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6627,8 +6773,8 @@
       "question": "fpr0305_2",
       "name": "fpr0305_2",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 152,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -6652,9 +6798,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 146,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6663,8 +6810,8 @@
       "question": "fpr0304_2",
       "name": "fpr0304_2",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 153,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -6688,9 +6835,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 147,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6699,8 +6847,8 @@
       "question": "fpr0303_2",
       "name": "fpr0303_2",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 154,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -6724,9 +6872,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 148,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6735,8 +6884,8 @@
       "question": "fpr0306_2",
       "name": "fpr0306_2",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 155,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -6765,9 +6914,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 149,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6776,8 +6926,8 @@
       "question": "fpr0307_2",
       "name": "fpr0307_2",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 156,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -6816,9 +6966,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 150,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6827,16 +6978,17 @@
       "question": "fpr0301_3",
       "name": "fpr0301_3",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 157,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_3 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 151,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6845,16 +6997,17 @@
       "question": "fpr0302_3",
       "name": "fpr0302_3",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 158,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_3 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 152,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6863,8 +7016,8 @@
       "question": "fpr0305_3",
       "name": "fpr0305_3",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 159,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -6888,9 +7041,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 153,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6899,8 +7053,8 @@
       "question": "fpr0304_3",
       "name": "fpr0304_3",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 160,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -6924,9 +7078,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 154,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6935,8 +7090,8 @@
       "question": "fpr0303_3",
       "name": "fpr0303_3",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 161,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -6960,9 +7115,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 155,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -6971,8 +7127,8 @@
       "question": "fpr0306_3",
       "name": "fpr0306_3",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 162,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -7001,9 +7157,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 156,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7012,8 +7169,8 @@
       "question": "fpr0307_3",
       "name": "fpr0307_3",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 163,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -7052,9 +7209,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 157,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7063,16 +7221,17 @@
       "question": "fpr0301_4",
       "name": "fpr0301_4",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 164,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_4 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 158,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7081,16 +7240,17 @@
       "question": "fpr0302_4",
       "name": "fpr0302_4",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 165,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_4 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 159,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7099,8 +7259,8 @@
       "question": "fpr0305_4",
       "name": "fpr0305_4",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 166,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -7124,9 +7284,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 160,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7135,8 +7296,8 @@
       "question": "fpr0304_4",
       "name": "fpr0304_4",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 167,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -7160,9 +7321,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 161,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7171,8 +7333,8 @@
       "question": "fpr0303_4",
       "name": "fpr0303_4",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 168,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -7196,9 +7358,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 162,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7207,8 +7370,8 @@
       "question": "fpr0306_4",
       "name": "fpr0306_4",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 169,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -7237,9 +7400,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 163,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7248,8 +7412,8 @@
       "question": "fpr0307_4",
       "name": "fpr0307_4",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 170,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -7288,9 +7452,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 164,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7299,16 +7464,17 @@
       "question": "fpr0301_5",
       "name": "fpr0301_5",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 171,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_5 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 165,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7317,16 +7483,17 @@
       "question": "fpr0302_5",
       "name": "fpr0302_5",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 172,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_5 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 166,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7335,8 +7502,8 @@
       "question": "fpr0305_5",
       "name": "fpr0305_5",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 173,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -7360,9 +7527,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 167,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7371,8 +7539,8 @@
       "question": "fpr0304_5",
       "name": "fpr0304_5",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 174,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -7396,9 +7564,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 168,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7407,8 +7576,8 @@
       "question": "fpr0303_5",
       "name": "fpr0303_5",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 175,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -7432,9 +7601,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 169,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7443,8 +7613,8 @@
       "question": "fpr0306_5",
       "name": "fpr0306_5",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 176,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -7473,9 +7643,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 170,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7484,8 +7655,8 @@
       "question": "fpr0307_5",
       "name": "fpr0307_5",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 177,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -7524,9 +7695,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 171,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7535,16 +7707,17 @@
       "question": "fpr0301_6",
       "name": "fpr0301_6",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 178,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_6 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 172,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7553,16 +7726,17 @@
       "question": "fpr0302_6",
       "name": "fpr0302_6",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 179,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_6 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 173,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7571,8 +7745,8 @@
       "question": "fpr0305_6",
       "name": "fpr0305_6",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 180,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -7596,9 +7770,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 174,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7607,8 +7782,8 @@
       "question": "fpr0304_6",
       "name": "fpr0304_6",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 181,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -7632,9 +7807,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 175,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7643,8 +7819,8 @@
       "question": "fpr0303_6",
       "name": "fpr0303_6",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 182,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -7668,9 +7844,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 176,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7679,8 +7856,8 @@
       "question": "fpr0306_6",
       "name": "fpr0306_6",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 183,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -7709,9 +7886,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 177,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7720,8 +7898,8 @@
       "question": "fpr0307_6",
       "name": "fpr0307_6",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 184,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -7760,9 +7938,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 178,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7771,16 +7950,17 @@
       "question": "fpr0301_7",
       "name": "fpr0301_7",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 185,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_7 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 179,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7789,16 +7969,17 @@
       "question": "fpr0302_7",
       "name": "fpr0302_7",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 186,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_7 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 180,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7807,8 +7988,8 @@
       "question": "fpr0305_7",
       "name": "fpr0305_7",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 187,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -7832,9 +8013,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 181,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7843,8 +8025,8 @@
       "question": "fpr0304_7",
       "name": "fpr0304_7",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 188,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -7868,9 +8050,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 182,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7879,8 +8062,8 @@
       "question": "fpr0303_7",
       "name": "fpr0303_7",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 189,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -7904,9 +8087,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 183,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7915,8 +8099,8 @@
       "question": "fpr0306_7",
       "name": "fpr0306_7",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 190,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -7945,9 +8129,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 184,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -7956,8 +8141,8 @@
       "question": "fpr0307_7",
       "name": "fpr0307_7",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 191,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -7996,9 +8181,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 185,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8007,16 +8193,17 @@
       "question": "fpr0301_8",
       "name": "fpr0301_8",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 192,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_8 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 186,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8025,16 +8212,17 @@
       "question": "fpr0302_8",
       "name": "fpr0302_8",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 193,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_8 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 187,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8043,8 +8231,8 @@
       "question": "fpr0305_8",
       "name": "fpr0305_8",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 194,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -8068,9 +8256,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 188,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8079,8 +8268,8 @@
       "question": "fpr0304_8",
       "name": "fpr0304_8",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 195,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -8104,9 +8293,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 189,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8115,8 +8305,8 @@
       "question": "fpr0303_8",
       "name": "fpr0303_8",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 196,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -8140,9 +8330,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 190,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8151,8 +8342,8 @@
       "question": "fpr0306_8",
       "name": "fpr0306_8",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 197,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -8181,9 +8372,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 191,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8192,8 +8384,8 @@
       "question": "fpr0307_8",
       "name": "fpr0307_8",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 198,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -8232,9 +8424,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 192,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8243,16 +8436,17 @@
       "question": "fpr0301_9",
       "name": "fpr0301_9",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 199,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_9 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 193,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8261,16 +8455,17 @@
       "question": "fpr0302_9",
       "name": "fpr0302_9",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 200,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_9 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 194,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8279,8 +8474,8 @@
       "question": "fpr0305_9",
       "name": "fpr0305_9",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 201,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -8304,9 +8499,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 195,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8315,8 +8511,8 @@
       "question": "fpr0304_9",
       "name": "fpr0304_9",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 202,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -8340,9 +8536,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 196,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8351,8 +8548,8 @@
       "question": "fpr0303_9",
       "name": "fpr0303_9",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 203,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -8376,9 +8573,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 197,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8387,8 +8585,8 @@
       "question": "fpr0306_9",
       "name": "fpr0306_9",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 204,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -8417,9 +8615,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 198,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8428,8 +8627,8 @@
       "question": "fpr0307_9",
       "name": "fpr0307_9",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 205,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -8468,9 +8667,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 199,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8479,16 +8679,17 @@
       "question": "fpr0301_10",
       "name": "fpr0301_10",
       "label": "Please provide the following details of this sibling. (First name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 206,
           "text": "Please provide the following details of this sibling. (First name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Vorname)",
           "scale": "chr",
           "filter": "fil0300_10 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 200,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8497,16 +8698,17 @@
       "question": "fpr0302_10",
       "name": "fpr0302_10",
       "label": "Please provide the following details of this sibling. (Last name)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 207,
           "text": "Please provide the following details of this sibling. (Last name)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Nachname)",
           "scale": "chr",
           "filter": "fil0300_10 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 201,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8515,8 +8717,8 @@
       "question": "fpr0305_10",
       "name": "fpr0305_10",
       "label": "Please provide the following details of this sibling. (year of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 208,
           "text": "Please provide the following details of this sibling. (year of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsjahr)",
@@ -8540,9 +8742,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 202,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8551,8 +8754,8 @@
       "question": "fpr0304_10",
       "name": "fpr0304_10",
       "label": "Please provide the following details of this sibling. (month of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 209,
           "text": "Please provide the following details of this sibling. (month of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtsmonat)",
@@ -8576,9 +8779,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 203,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8587,8 +8791,8 @@
       "question": "fpr0303_10",
       "name": "fpr0303_10",
       "label": "Please provide the following details of this sibling. (day of birth)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 210,
           "text": "Please provide the following details of this sibling. (day of birth)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geburtstag)",
@@ -8612,9 +8816,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 204,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8623,8 +8828,8 @@
       "question": "fpr0306_10",
       "name": "fpr0306_10",
       "label": "Please provide the following details of this sibling. (sex)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 211,
           "text": "Please provide the following details of this sibling. (sex)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Geschlecht)",
@@ -8653,9 +8858,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 205,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8664,8 +8870,8 @@
       "question": "fpr0307_10",
       "name": "fpr0307_10",
       "label": "Please provide the following details of this sibling. (relationship)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 212,
           "text": "Please provide the following details of this sibling. (relationship)",
           "text_de": "Bitte machen Sie folgende Angaben zu diesem Geschwister. (Verwandtschaft zu Zwillingen)",
@@ -8704,9 +8910,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 206,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8715,8 +8922,8 @@
       "question": "fpr0400m",
       "name": "fpr0400m",
       "label": "Does the biological mother live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 213,
           "text": "Does the biological mother live in Germany?",
           "text_de": "Lebt die leibliche Mutter der Zwillinge in Deutschland? / Lebt Ihre leibliche Mutter in Deutschland?",
@@ -8750,9 +8957,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 207,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8761,8 +8969,8 @@
       "question": "fpr0401m",
       "name": "fpr0401m",
       "label": "Is there contact to the biological mother?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 214,
           "text": "Is there contact to the biological mother?",
           "text_de": "Besteht Kontakt zur leiblichen Mutter der Zwillinge? / Haben Sie Kontakt zu Ihrer leiblichen Mutter?",
@@ -8796,9 +9004,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 208,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8807,16 +9016,17 @@
       "question": "fpr0402m",
       "name": "fpr0402m",
       "label": "What is the biological mother's name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 215,
           "text": "What is the biological mother's name?",
           "text_de": "Wie heisst die leibliche Mutter der Zwillinge? / Wie heisst Ihre leibliche Mutter?",
           "scale": "chr",
           "filter": "fpr0401m == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 209,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8825,8 +9035,8 @@
       "question": "fpr0403m",
       "name": "fpr0403m",
       "label": "Since when has the biological mother not been living with the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 216,
           "text": "Since when has the biological mother not been living with the twins?",
           "text_de": "Seit wann lebt die leibliche Mutter nicht mehr mit den Zwillingen in einem Haushalt?",
@@ -8850,9 +9060,10 @@
               "label_de": "97: hat noch nie mit den Zwillingen in einem Haushalt zusammen gelebt"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 210,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8861,8 +9072,8 @@
       "question": "fpr0404m",
       "name": "fpr0404m",
       "label": "Since when has the biological mother not been living with the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 217,
           "text": "Since when has the biological mother not been living with the twins?",
           "text_de": "Seit wann lebt die leibliche Mutter nicht mehr mit den Zwillingen in einem Haushalt?",
@@ -8886,9 +9097,10 @@
               "label_de": "97: hat noch nie mit den Zwillingen in einem Haushalt zusammen gelebt"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 211,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8897,8 +9109,8 @@
       "question": "fpr0405m",
       "name": "fpr0405m",
       "label": "When did the biological mother die?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 218,
           "text": "When did the biological mother die?",
           "text_de": "Wann ist die leibliche Mutter der Zwillinge gestorben?",
@@ -8922,9 +9134,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 212,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8933,8 +9146,8 @@
       "question": "fpr0406m",
       "name": "fpr0406m",
       "label": "When did the biological mother die?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 219,
           "text": "When did the biological mother die?",
           "text_de": "Wann ist die leibliche Mutter der Zwillinge gestorben?",
@@ -8958,9 +9171,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 213,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -8969,8 +9183,8 @@
       "question": "fpr0400f",
       "name": "fpr0400f",
       "label": "Does the biological father live in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 220,
           "text": "Does the biological father live in Germany?",
           "text_de": "Lebt der leibliche Vater der Zwillinge in Deutschland? / Lebt Ihr leibliche Vater in Deutschland?",
@@ -9004,9 +9218,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 214,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9015,8 +9230,8 @@
       "question": "fpr0401f",
       "name": "fpr0401f",
       "label": "Is there contact to the biological father?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 221,
           "text": "Is there contact to the biological father?",
           "text_de": "Besteht Kontakt zum leiblichen Vater der Zwillinge? / Haben Sie Kontakt zu Ihrem leiblichen Vater?",
@@ -9050,9 +9265,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 215,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9061,16 +9277,17 @@
       "question": "fpr0402f",
       "name": "fpr0402f",
       "label": "What is the biological father's name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 222,
           "text": "What is the biological father's name?",
           "text_de": "Wie heisst der leibliche Vater der Zwillinge? / Wie heisst Ihr leiblicher Vater?",
           "scale": "chr",
           "filter": "fpr0401f == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 216,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9079,8 +9296,8 @@
       "question": "fpr0403f",
       "name": "fpr0403f",
       "label": "Since when has the biological father not been living with the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 223,
           "text": "Since when has the biological father not been living with the twins?",
           "text_de": "Seit wann lebt der leibliche Vater nicht mehr mit den Zwillingen in einem Haushalt?",
@@ -9104,9 +9321,10 @@
               "label_de": "97: hat noch nie mit den Zwillingen in einem Haushalt zusammen gelebt"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 217,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9115,8 +9333,8 @@
       "question": "fpr0404f",
       "name": "fpr0404f",
       "label": "Since when has the biological father not been living with the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 224,
           "text": "Since when has the biological father not been living with the twins?",
           "text_de": "Seit wann lebt der leibliche Vater nicht mehr mit den Zwillingen in einem Haushalt?",
@@ -9140,9 +9358,10 @@
               "label_de": "97: hat noch nie mit den Zwillingen in einem Haushalt zusammen gelebt"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 218,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9151,8 +9370,8 @@
       "question": "fpr0405f",
       "name": "fpr0405f",
       "label": "When did the biological father die?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 225,
           "text": "When did the biological father die?",
           "text_de": "Wann ist der leibliche Vater der Zwillinge gestorben?",
@@ -9176,9 +9395,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 219,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9187,8 +9407,8 @@
       "question": "fpr0406f",
       "name": "fpr0406f",
       "label": "When did the biological father die?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 226,
           "text": "When did the biological father die?",
           "text_de": "Wann ist der leibliche Vater der Zwillinge gestorben?",
@@ -9212,9 +9432,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 220,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9223,8 +9444,8 @@
       "question": "fpr0500t",
       "name": "fpr0500t",
       "label": "Does the firstborn twin have a partner living in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 227,
           "text": "Does the firstborn twin have a partner living in Germany?",
           "text_de": "Hat der erstgeborene Zwilling einen Partner / eine Partnerin, der/die in Deutschland lebt?",
@@ -9258,9 +9479,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 221,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9269,8 +9491,8 @@
       "question": "fpr0500u",
       "name": "fpr0500u",
       "label": "Does the secondborn twin have a partner living in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 228,
           "text": "Does the secondborn twin have a partner living in Germany?",
           "text_de": "Hat der zweitgeborene Zwilling einen Partner / eine Partnerin, der/die in Deutschland lebt?",
@@ -9304,9 +9526,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 222,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9315,8 +9538,8 @@
       "question": "fil0301g",
       "name": "fil0301g",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 229,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9349,9 +9572,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 223,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9360,8 +9584,8 @@
       "question": "fil0301",
       "name": "fil0301",
       "label": "We would like to interview one sibling of the twins for the survey. Please tell us which of the siblings would be most likely to participate.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 230,
           "text": "We would like to interview one sibling of the twins for the survey. Please tell us which of the siblings would be most likely to participate.",
           "text_de": "Wir wuerden gern auch ein Geschwisterkind fuer die Untersuchung gewinnen. Bitte geben Sie an, bei welchem der Geschwister die Wahrscheinlichkeit, dass es teilnimmt, am hoechsten ist.",
@@ -9375,9 +9599,10 @@
               "label_de": "99: kein Geschwister wird teilnehmen"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 224,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9386,8 +9611,8 @@
       "question": "fpr0600",
       "name": "fpr0600",
       "label": "Which parent is also a parent of the twins?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 231,
           "text": "Which parent is also a parent of the twins?",
           "text_de": "Welches Elternteil ist dasselbe wie das der Zwillinge?",
@@ -9416,9 +9641,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 225,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9427,8 +9653,8 @@
       "question": "fpr0601",
       "name": "fpr0601",
       "label": "Where does the sibling live?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 232,
           "text": "Where does the sibling live?",
           "text_de": "Wo lebt das Geschwister?",
@@ -9467,9 +9693,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 226,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9478,16 +9705,17 @@
       "question": "fpr0602f",
       "name": "fpr0602f",
       "label": "What is the sibling's biological father's name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 233,
           "text": "What is the sibling's biological father's name?",
           "text_de": "Wie heisst der leibliche Vater des Geschwisters?",
           "scale": "chr",
           "filter": "(fpr0107_x == 42 | fpr0307_y == 2) [x = {1/15}] [y = {1/10}]",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 227,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9496,16 +9724,17 @@
       "question": "fpr0602m",
       "name": "fpr0602m",
       "label": "What is the sibling's biological mother's name?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 234,
           "text": "What is the sibling's biological mother's name?",
           "text_de": "Wie heisst die leibliche Mutter des Geschwisters?",
           "scale": "chr",
           "filter": "(fpr0107_x == 42 | fpr0307_y == 2) [x = {1/15}] [y = {1/10}]",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 228,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9514,8 +9743,8 @@
       "question": "fpr0700",
       "name": "fpr0700",
       "label": "notification",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 235,
           "text": "notification",
           "text_de": "Mitteilung",
@@ -9543,9 +9772,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 229,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9554,15 +9784,16 @@
       "question": "fpr0701",
       "name": "fpr0701",
       "label": "Are there other notifications regarding the electronic household protocol?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 236,
           "text": "Are there other notifications regarding the electronic household protocol?",
           "text_de": "Gibt es noch sonstige Hinweise zum elektronischen Haushaltsprotokoll?",
           "scale": "chr",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 230,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9571,8 +9802,8 @@
       "question": "fpr1100",
       "name": "fpr1100",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 237,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9605,9 +9836,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 231,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9616,8 +9848,8 @@
       "question": "fpr1101",
       "name": "fpr1101",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 238,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9650,9 +9882,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 232,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9661,8 +9894,8 @@
       "question": "fpr1102",
       "name": "fpr1102",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 239,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9695,9 +9928,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 233,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9706,8 +9940,8 @@
       "question": "fpr1103",
       "name": "fpr1103",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 240,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9740,9 +9974,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 234,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9751,8 +9986,8 @@
       "question": "fpr1104",
       "name": "fpr1104",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 241,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9785,9 +10020,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 235,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9796,8 +10032,8 @@
       "question": "fpr1105",
       "name": "fpr1105",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 242,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9830,9 +10066,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 236,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9841,8 +10078,8 @@
       "question": "fpr1106",
       "name": "fpr1106",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 243,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9865,9 +10102,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 237,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9876,8 +10114,8 @@
       "question": "fpr1107",
       "name": "fpr1107",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 244,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9900,9 +10138,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 238,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9911,8 +10150,8 @@
       "question": "fpr1108",
       "name": "fpr1108",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 245,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9945,9 +10184,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 239,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -9956,8 +10196,8 @@
       "question": "fpr1109",
       "name": "fpr1109",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 246,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -9990,9 +10230,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 240,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10001,8 +10242,8 @@
       "question": "fpr1201",
       "name": "fpr1201",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 247,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10020,9 +10261,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 241,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10031,8 +10273,8 @@
       "question": "fpr1211",
       "name": "fpr1211",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 248,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10050,9 +10292,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 242,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10061,8 +10304,8 @@
       "question": "fpr1202",
       "name": "fpr1202",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 249,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10080,9 +10323,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 243,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10091,8 +10335,8 @@
       "question": "fpr1212",
       "name": "fpr1212",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 250,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10110,9 +10354,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 244,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10121,8 +10366,8 @@
       "question": "fpr1203",
       "name": "fpr1203",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 251,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10140,9 +10385,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 245,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10151,8 +10397,8 @@
       "question": "fpr1213",
       "name": "fpr1213",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 252,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10170,9 +10416,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 246,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10181,8 +10428,8 @@
       "question": "fpr1204",
       "name": "fpr1204",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 253,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10210,9 +10457,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 247,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10221,8 +10469,8 @@
       "question": "fpr1214",
       "name": "fpr1214",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 254,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10250,9 +10498,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 248,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10261,8 +10510,8 @@
       "question": "fpr1225",
       "name": "fpr1225",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 255,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10296,9 +10545,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 249,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10307,8 +10557,8 @@
       "question": "fpr1221",
       "name": "fpr1221",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 256,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10332,9 +10582,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 250,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10343,8 +10594,8 @@
       "question": "fpr1222",
       "name": "fpr1222",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 257,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10368,9 +10619,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 251,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10379,8 +10631,8 @@
       "question": "fpr1223",
       "name": "fpr1223",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 258,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10404,9 +10656,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 252,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10415,8 +10668,8 @@
       "question": "fpr1224",
       "name": "fpr1224",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 259,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10445,9 +10698,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 253,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10456,8 +10710,8 @@
       "question": "fpr1231",
       "name": "fpr1231",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 260,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10475,9 +10729,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 254,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10486,8 +10741,8 @@
       "question": "fpr1232",
       "name": "fpr1232",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 261,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10505,9 +10760,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 255,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10516,8 +10772,8 @@
       "question": "fpr1233",
       "name": "fpr1233",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 262,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10535,9 +10791,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 256,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10546,8 +10803,8 @@
       "question": "fpr1234",
       "name": "fpr1234",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 263,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10575,9 +10832,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 257,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10586,8 +10844,8 @@
       "question": "fpr1241",
       "name": "fpr1241",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 264,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10605,9 +10863,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 258,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10616,8 +10875,8 @@
       "question": "fpr1242",
       "name": "fpr1242",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 265,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10635,9 +10894,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 259,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10646,8 +10906,8 @@
       "question": "fpr1243",
       "name": "fpr1243",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 266,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10665,9 +10925,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 260,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10676,8 +10937,8 @@
       "question": "fpr1244",
       "name": "fpr1244",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 267,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10705,9 +10966,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 261,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10716,8 +10978,8 @@
       "question": "fpr1251",
       "name": "fpr1251",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 268,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10735,9 +10997,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 262,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10746,8 +11009,8 @@
       "question": "fpr1252",
       "name": "fpr1252",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 269,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10765,9 +11028,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 263,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10776,8 +11040,8 @@
       "question": "fpr1253",
       "name": "fpr1253",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 270,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10795,9 +11059,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 264,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10806,8 +11071,8 @@
       "question": "fpr1254",
       "name": "fpr1254",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 271,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10835,9 +11100,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 265,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10846,8 +11112,8 @@
       "question": "fpr1261",
       "name": "fpr1261",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 272,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10865,9 +11131,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 266,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10876,8 +11143,8 @@
       "question": "fpr1262",
       "name": "fpr1262",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 273,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10895,9 +11162,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 267,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10906,8 +11174,8 @@
       "question": "fpr1263",
       "name": "fpr1263",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 274,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10925,9 +11193,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 268,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10936,8 +11205,8 @@
       "question": "fpr1264",
       "name": "fpr1264",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 275,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10965,9 +11234,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 269,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -10976,8 +11246,8 @@
       "question": "fpr1271",
       "name": "fpr1271",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 276,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -10995,9 +11265,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 270,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11006,8 +11277,8 @@
       "question": "fpr1272",
       "name": "fpr1272",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 277,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11025,9 +11296,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 271,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11036,8 +11308,8 @@
       "question": "fpr1273",
       "name": "fpr1273",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 278,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11055,9 +11327,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 272,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11066,8 +11339,8 @@
       "question": "fpr1274",
       "name": "fpr1274",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 279,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11095,9 +11368,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 273,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11106,8 +11380,8 @@
       "question": "fpr1281",
       "name": "fpr1281",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 280,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11125,9 +11399,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 274,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11136,8 +11411,8 @@
       "question": "fpr1282",
       "name": "fpr1282",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 281,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11155,9 +11430,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 275,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11166,8 +11442,8 @@
       "question": "fpr1283",
       "name": "fpr1283",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 282,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11185,9 +11461,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 276,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11196,8 +11473,8 @@
       "question": "fpr1284",
       "name": "fpr1284",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 283,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11225,9 +11502,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 277,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11236,8 +11514,8 @@
       "question": "fpr1300",
       "name": "fpr1300",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 284,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11261,9 +11539,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 278,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11272,8 +11551,8 @@
       "question": "fpr1301",
       "name": "fpr1301",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 285,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11297,9 +11576,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 279,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11308,8 +11588,8 @@
       "question": "fpr1302",
       "name": "fpr1302",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 286,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11333,9 +11613,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 280,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11344,8 +11625,8 @@
       "question": "fpr1303",
       "name": "fpr1303",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 287,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11369,9 +11650,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 281,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11380,8 +11662,8 @@
       "question": "fpr1304",
       "name": "fpr1304",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 288,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11405,9 +11687,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 282,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11416,8 +11699,8 @@
       "question": "fpr1305",
       "name": "fpr1305",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 289,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11441,9 +11724,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 283,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11452,8 +11736,8 @@
       "question": "fpr1307",
       "name": "fpr1307",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 290,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11477,9 +11761,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 284,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11488,8 +11773,8 @@
       "question": "fpr1306",
       "name": "fpr1306",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 291,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11513,9 +11798,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 285,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11524,8 +11810,8 @@
       "question": "fpr1308",
       "name": "fpr1308",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 292,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11549,9 +11835,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 286,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"
@@ -11560,8 +11847,8 @@
       "question": "nuts1_a",
       "name": "nuts1_a",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 293,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
@@ -11574,9 +11861,10 @@
               "label_de": "1: Baden-Wuerttemberg"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 287,
       "instrument": "twinlife-2014-F2F_Familienprotokoll",
       "study": "twinlife"

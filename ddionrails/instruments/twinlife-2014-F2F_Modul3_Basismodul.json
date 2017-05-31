@@ -11,15 +11,16 @@
       "question": "bas0100",
       "name": "bas0100",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 9,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 0,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -28,15 +29,16 @@
       "question": "bas0101",
       "name": "bas0101",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 10,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 1,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -45,8 +47,8 @@
       "question": "bas0103",
       "name": "bas0103",
       "label": "Interviewer: Please record the age of the twins:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 11,
           "text": "Interviewer: Please record the age of the twins:",
           "text_de": "Interviewer: Bitte tragen Sie das Alter der Zwillinge ein:",
@@ -69,9 +71,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 2,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -80,16 +83,17 @@
       "question": "bas0104",
       "name": "bas0104",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 12,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "bas0104 == \"Geschwister\"",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 3,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -98,8 +102,8 @@
       "question": "bas0105",
       "name": "bas0105",
       "label": "Interviewer: Please record the age of the twins:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 13,
           "text": "Interviewer: Please record the age of the twins:",
           "text_de": "Interviewer: Bitte tragen Sie das Alter der Zwillinge ein:",
@@ -123,9 +127,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 4,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -134,8 +139,8 @@
       "question": "bas0200",
       "name": "bas0200",
       "label": "Does the respondent's biological mother (adoptive/foster mother) live in the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 14,
           "text": "Does the respondent's biological mother (adoptive/foster mother) live in the household?",
           "text_de": "Lebt die leibliche Mutter (Adoptiv-/Pflegemutter) der Befragungsperson im Haushalt?",
@@ -169,9 +174,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 5,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -180,16 +186,17 @@
       "question": "bas0201",
       "name": "bas0201",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 15,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "bas0200 == 1 & bas0200 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 6,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -198,8 +205,8 @@
       "question": "bas0300",
       "name": "bas0300",
       "label": "Does the respondent's biological father (adoptive/foster father) live in the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 16,
           "text": "Does the respondent's biological father (adoptive/foster father) live in the household?",
           "text_de": "Lebt der leibliche Vater (Adoptiv-/Pflegevater) der Befragungsperson im Haushalt?",
@@ -233,9 +240,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 7,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -244,16 +252,17 @@
       "question": "bas0301",
       "name": "bas0301",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 17,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "bas0300 == 1 & bas0300 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 8,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -262,16 +271,17 @@
       "question": "bas0400",
       "name": "bas0400",
       "label": "Does the respondent's stepfather or his/her mother's partner live in the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 18,
           "text": "Does the respondent's stepfather or his/her mother's partner live in the household?",
           "text_de": "Lebt ein Stiefvater bzw. Partner/in der Mutter von der Befragungsperson im Haushalt?",
           "scale": "chr",
           "filter": "(ptyp == 1 | ptyp == 2 | ptyp == 200) & age < 10",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 9,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -280,16 +290,17 @@
       "question": "bas0401",
       "name": "bas0401",
       "label": "Does the respondent's stepmother or his/her father's partner live in the household?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 19,
           "text": "Does the respondent's stepmother or his/her father's partner live in the household?",
           "text_de": "Lebt eine Stiefmutter bzw. Partner/in des Vaters von der Befragungsperson im Haushalt?",
           "scale": "chr",
           "filter": "(ptyp == 1 | ptyp == 2 | ptyp == 200) & age < 10",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 10,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -298,8 +309,8 @@
       "question": "fam0100",
       "name": "fam0100",
       "label": "What is your marital status?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 20,
           "text": "What is your marital status?",
           "text_de": "Welchen Familienstand haben Sie?",
@@ -355,9 +366,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 11,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -366,8 +378,8 @@
       "question": "fam0200",
       "name": "fam0200",
       "label": "Are you in a serious / permanent relationship?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 21,
           "text": "Are you in a serious / permanent relationship?",
           "text_de": "Haben Sie derzeit eine feste Partnerschaft?",
@@ -403,9 +415,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 12,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -414,8 +427,8 @@
       "question": "fam0300",
       "name": "fam0300",
       "label": "What is your partner's sex?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 22,
           "text": "What is your partner's sex?",
           "text_de": "Welches Geschlecht hat Ihr Partner?",
@@ -446,9 +459,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 13,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -457,8 +471,8 @@
       "question": "edu0100",
       "name": "edu0100",
       "label": "Do you go to school?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 23,
           "text": "Do you go to school?",
           "text_de": "Alter 4-15 Jahre: Gehst Du in die Schule? / Alter 16-20 Jahre: Besuchen Sie derzeit eine allgemeinbildende Schule?",
@@ -494,9 +508,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 14,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -505,8 +520,8 @@
       "question": "edu0200",
       "name": "edu0200",
       "label": "Do you have an after-school job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 24,
           "text": "Do you have an after-school job?",
           "text_de": "Arbeitest Du neben der Schule?",
@@ -540,9 +555,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 15,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -551,16 +567,17 @@
       "question": "edu0201",
       "name": "edu0201",
       "label": "What do you do in your job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 25,
           "text": "What do you do in your job?",
           "text_de": "Was machst Du in Deinem Schuelerjob?",
           "scale": "chr",
           "filter": "edu0200 == 1 & edu0200 == 2",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 16,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -569,8 +586,8 @@
       "question": "edu0202",
       "name": "edu0202",
       "label": "How many hours a week do you work in your job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 26,
           "text": "How many hours a week do you work in your job?",
           "text_de": "Wie viel Stunden pro Woche arbeitest Du normal in Deinem Schuelerjob?",
@@ -594,9 +611,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 17,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -605,8 +623,8 @@
       "question": "edu0203",
       "name": "edu0203",
       "label": "How much do you earn per hour in this job? Please give your hourly wage in euros.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 27,
           "text": "How much do you earn per hour in this job? Please give your hourly wage in euros.",
           "text_de": "Wie viel verdienst Du in Deinem Schuelerjob pro Stunde? Bitte Betrag in \u20ac pro Stunde angeben.",
@@ -630,9 +648,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 18,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -641,8 +660,8 @@
       "question": "emp0100",
       "name": "emp0100",
       "label": "Have you done paid work during the last 7 days, even if only for an hour or a few hours?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 28,
           "text": "Have you done paid work during the last 7 days, even if only for an hour or a few hours?",
           "text_de": "Haben Sie waehrend der letzten 7 Tage irgendeine bezahlte Arbeit ausgeuebt, auch wenn dies nur fuer eine Stunde oder fuer wenige Stunden war?",
@@ -678,9 +697,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 19,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -689,8 +709,8 @@
       "question": "emp0200",
       "name": "emp0200",
       "label": "Are you currently on maternity leave (Mutterschutz) or on statutory parental leave (Elternzeit)?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 29,
           "text": "Are you currently on maternity leave (Mutterschutz) or on statutory parental leave (Elternzeit)?",
           "text_de": "Sind Sie zurzeit im Mutterschutz oder in der gesetzlich geregelten Elternzeit?",
@@ -731,9 +751,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 20,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -742,8 +763,8 @@
       "question": "emp0300",
       "name": "emp0300",
       "label": "Are you officially registered unemployed at the Federal Employment Agency (Agentur fuer Arbeit)?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 30,
           "text": "Are you officially registered unemployed at the Federal Employment Agency (Agentur fuer Arbeit)?",
           "text_de": "Sind Sie zurzeit beim Arbeitsamt arbeitslos gemeldet?",
@@ -779,9 +800,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 21,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -790,8 +812,8 @@
       "question": "edu0300",
       "name": "edu0300",
       "label": "Are you currently in education or training? In other words, are you attending school or higher education (including doctorate / Ph.D.), completing an apprenticeship or vocational training, or in further education or training?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 31,
           "text": "Are you currently in education or training? In other words, are you attending school or higher education (including doctorate / Ph.D.), completing an apprenticeship or vocational training, or in further education or training?",
           "text_de": "Sind Sie derzeit in Ausbildung? Das heisst: Besuchen Sie eine Schule oder Hochschule (einschliesslich Promotion), machen Sie eine Berufsausbildung oder nehmen Sie an einem Weiterbildungslehrgang teil?",
@@ -827,9 +849,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 22,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -838,8 +861,8 @@
       "question": "edu0301",
       "name": "edu0301",
       "label": "What type of education or training are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 32,
           "text": "What type of education or training are you pursuing?",
           "text_de": "Was fuer eine Ausbildung oder Weiterbildung ist das genau?",
@@ -880,9 +903,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 23,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -891,8 +915,8 @@
       "question": "edu0303",
       "name": "edu0303",
       "label": "What type of higher education are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 33,
           "text": "What type of higher education are you pursuing?",
           "text_de": "Was fuer eine Hochschulausbildung ist das?",
@@ -933,9 +957,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 24,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -944,8 +969,8 @@
       "question": "edu0304",
       "name": "edu0304",
       "label": "What type of higher education are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 34,
           "text": "What type of higher education are you pursuing?",
           "text_de": "Was fuer eine Hochschulausbildung ist das? (offen)",
@@ -953,9 +978,10 @@
           "filter": "edu0303 == 4",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 25,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -964,8 +990,8 @@
       "question": "edu0305",
       "name": "edu0305",
       "label": "What type of further training/retraining are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 35,
           "text": "What type of further training/retraining are you pursuing?",
           "text_de": "Was fuer eine Weiterbildung/Umschulung ist das?",
@@ -1011,9 +1037,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 26,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1022,8 +1049,8 @@
       "question": "edu0306",
       "name": "edu0306",
       "label": "What type of further training/retraining are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 36,
           "text": "What type of further training/retraining are you pursuing?",
           "text_de": "Was fuer eine Weiterbildung/Umschulung ist das? (offen)",
@@ -1031,9 +1058,10 @@
           "filter": "edu0305 == 5",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 27,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1042,8 +1070,8 @@
       "question": "edu0307",
       "name": "edu0307",
       "label": "What type of vocational training are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 37,
           "text": "What type of vocational training are you pursuing?",
           "text_de": "Was fuer eine berufliche Ausbildung ist das?",
@@ -1109,9 +1137,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 28,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1120,8 +1149,8 @@
       "question": "edu0308",
       "name": "edu0308",
       "label": "What type of vocational training are you pursuing?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 38,
           "text": "What type of vocational training are you pursuing?",
           "text_de": "Was fuer eine berufliche Ausbildung ist das? (offen)",
@@ -1129,9 +1158,10 @@
           "filter": "edu0307 == 7",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 29,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1140,8 +1170,8 @@
       "question": "emp0400",
       "name": "emp0400",
       "label": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 39,
           "text": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
           "text_de": "Ueben Sie derzeit eine Erwerbstaetigkeit aus? Was trifft fuer Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbstaetig.",
@@ -1217,9 +1247,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 30,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1228,8 +1259,8 @@
       "question": "emp0401",
       "name": "emp0401",
       "label": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 40,
           "text": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
           "text_de": "Ueben Sie derzeit eine Erwerbstaetigkeit aus? Was trifft fuer Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbstaetig.",
@@ -1237,9 +1268,10 @@
           "filter": "emp0400 == 14",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 31,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1248,8 +1280,8 @@
       "question": "edu0400",
       "name": "edu0400",
       "label": "What school are you currently attending?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 41,
           "text": "What school are you currently attending?",
           "text_de": "Alter 11 bis 15 Jahre: Welche Schule besuchst Du zurzeit? / Alter 16 bis 20 Jahre: Welche Schule besuchen Sie zurzeit?",
@@ -1320,9 +1352,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 32,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1331,8 +1364,8 @@
       "question": "edu0401",
       "name": "edu0401",
       "label": "What school are you currently attending?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 42,
           "text": "What school are you currently attending?",
           "text_de": "Alter 11 bis 15 Jahre: Welche Schule besuchst Du zurzeit? / Alter 16 bis 20 Jahre: Welche Schule besuchen Sie zurzeit? (offen)",
@@ -1340,9 +1373,10 @@
           "filter": "edu0400 == 10",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 33,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1351,8 +1385,8 @@
       "question": "edu0402",
       "name": "edu0402",
       "label": "What grade are you in at this school? Note: If on summer vacation, please state the grade you will start in fall.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 43,
           "text": "What grade are you in at this school? Note: If on summer vacation, please state the grade you will start in fall.",
           "text_de": "Alter 11 bis 15 Jahre: Welche Klasse besuchst Du auf dieser Schule? Anmerkung: Wenn gerade Sommerferien sind, gib bitte an, in welche Klasse Du nach den Sommerferien kommst. / Alter 16 bis 20 Jahre: Welche Klasse besuchen Sie auf dieser Schule? Anmerkung: Wenn gerade Sommerferien sind, geben Sie bitte an, in welche Klasse Sie nach den Sommerferien kommen.",
@@ -1378,9 +1412,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 34,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1389,8 +1424,8 @@
       "question": "edu0403",
       "name": "edu0403",
       "label": "Which federal state are you going to school in?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 44,
           "text": "Which federal state are you going to school in?",
           "text_de": "Alter 11 bis 15 Jahre: In welchem Bundesland gehst Du zur Schule? / Alter 16 bis 20 Jahre: In welchem Bundesland gehen Sie zur Schule?",
@@ -1491,9 +1526,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 35,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1502,8 +1538,8 @@
       "question": "edu0404",
       "name": "edu0404",
       "label": "Which federal state are you going to school in?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 45,
           "text": "Which federal state are you going to school in?",
           "text_de": "Alter 11 bis 15 Jahre: In welchem Bundesland gehst Du zur Schule? / Alter 16 bis 20 Jahre: In welchem Bundesland gehen Sie zur Schule? (Offene Angabe der Stadt bei unbekanntem Bundeland)",
@@ -1511,9 +1547,10 @@
           "filter": "edu0403 == -98",
           "description": "SOEP Core study Life Course 2012\nhttp://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.56576.de/lebenslauf_2012.pdf",
           "description_de": "SOEP Core study Life Course 2012\nhttp://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.56576.de/lebenslauf_2012.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 36,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -1522,17 +1559,18 @@
       "question": "inv0100",
       "name": "inv0100",
       "label": "We would like to ask you a few questions about your parents and school. Please tick whether the statements apply to your parents.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 46,
           "text": "We would like to ask you a few questions about your parents and school. Please tick whether the statements apply to your parents.",
           "text_de": "Alter 11 bis 15 Jahre und besucht Schule: Wir wu\u00a8rden Dir zuerst gerne ein paar Fragen zu Deinen Eltern und der Schule stellen. Bitte kreuze an, ob die Aussagen u\u00a8ber Deine Eltern zutreffen. / Alter 16 bis 20 Jahre und besucht Schule: Wir wu\u00a8rden Ihnen zuerst gerne ein paar Fragen zu Ihren Eltern und der Schule stellen. Bitte kreuzen Sie an, ob die Aussagen u\u00a8ber Ihre Eltern zutreffen.",
           "scale": "txt",
           "filter": "age > 9 & (edu0100 == 2 | edu0301 == 1) & ptyp <= 200",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 47,
           "text": "When I study for an exam I know exactly how much effort my parents expect of me.",
           "text_de": "Wenn ich fuer eine Arbeit lerne, weiss ich ganz genau, wie viel Anstrengung meine Eltern von mir erwarten.",
@@ -1577,8 +1615,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 48,
           "text": "I know exactly what my parents expect of me in school.",
           "text_de": "Ich weiss genau, was meine Eltern in der Schule von mir erwarten.",
@@ -1623,8 +1661,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 49,
           "text": "When I come home with a class test, I know beforehand if my parents will be disappointed.",
           "text_de": "Wenn ich eine Klassenarbeit mit nach Hause bringe, weiss ich schon vorher ob meine Eltern enttaeuscht sind.",
@@ -1669,8 +1707,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 50,
           "text": "My parents console me and help me when I have problems in school.",
           "text_de": "Meine Eltern troesten mich und helfen mir, wenn ich in der Schule mal nicht klar komme.",
@@ -1715,8 +1753,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 51,
           "text": "When I do not understand something in class I can talk about it with my parents.",
           "text_de": "Wenn ich im Unterricht etwas nicht verstehe, kann ich mit meinen Eltern darueber reden.",
@@ -1761,8 +1799,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 52,
           "text": "My parents are interested in what I have learned in school.",
           "text_de": "Meine Eltern interessieren sich dafuer, was ich in der Schule gelernt habe.",
@@ -1807,8 +1845,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 53,
           "text": "When my parents help me with my studies they encourage me to find the solution myself.",
           "text_de": "Wenn meine Eltern mit mir lernen, machen sie mir immer Mut, die Loesung selbst zu finden.",
@@ -1853,8 +1891,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 54,
           "text": "My parents explain to me that I can ask if I want to understand something better.",
           "text_de": "Meine Eltern erklaeren mir, dass ich nachfragen kann, wenn ich etwas genauer wissen will.",
@@ -1899,8 +1937,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 55,
           "text": "My parents encourage me to ask questions in class when I didn't understand something.",
           "text_de": "Meine Eltern ermuntern mich im Unterricht Fragen zu stellen, wenn ich etwas nicht verstanden habe.",
@@ -1945,8 +1983,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 56,
           "text": "When I get a poor grade, my parents complain and demand that I work harder.",
           "text_de": "Wenn ich eine schlechte Note bekommen habe, schimpfen meine Eltern mit mir und verlangen von mir, mehr zu lernen.",
@@ -1991,8 +2029,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 57,
           "text": "When I get a poor grade my parents threaten me with punishment (like no TV) if I do not promise to work hard in the future to improve my grades.",
           "text_de": "Wenn ich eine schlechte Note bekommen habe, drohen meine Eltern mir Strafen an (z.B. Fernsehverbot), wenn ich in der naechsten Zeit nicht hart arbeite und meine Leistungen verbessere.",
@@ -2037,8 +2075,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 58,
           "text": "When I get a poor grade, my parents accuse me of thinking about too many other things and not enough about school.",
           "text_de": "Wenn ich eine schlechte Note bekommen habe, werfen meine Eltern mir vor, zu viele andere Dinge im Kopf zu haben und mich nicht genug um die Schule zu kuemmern.",
@@ -2083,7 +2121,7 @@
           ],
           "sn": 12
         }
-      },
+      ],
       "sn": 37,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2092,17 +2130,18 @@
       "question": "asc0100",
       "name": "asc0100",
       "label": "Now I have a few more questions for you:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 59,
           "text": "Now I have a few more questions for you:",
           "text_de": "Jetzt habe ich ein paar Fragen an Dich:",
           "scale": "txt",
           "filter": "age < 8",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 60,
           "text": "Are you good at reading?",
           "text_de": "Bist Du gut im Lesen?",
@@ -2152,8 +2191,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 61,
           "text": "Do you know lots of letters of the alphabet?",
           "text_de": "Kennst Du viele Buchstaben vom Alphabet?",
@@ -2203,8 +2242,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 62,
           "text": "Do you know lots of different words?",
           "text_de": "Kennst Du viele verschiedene Woerter?",
@@ -2254,7 +2293,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 38,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2263,17 +2302,18 @@
       "question": "asc0103",
       "name": "asc0103",
       "label": "Now I have a few more questions for you:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 63,
           "text": "Now I have a few more questions for you:",
           "text_de": "Jetzt habe ich ein paar Fragen an Dich:",
           "scale": "txt",
           "filter": "age < 8",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 64,
           "text": "Are you good at telling the time?",
           "text_de": "Kannst Du gut die Uhr lesen?",
@@ -2323,8 +2363,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 65,
           "text": "Do you know lots of different shapes?",
           "text_de": "Kennst Du viele verschiedene Formen?",
@@ -2374,8 +2414,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 66,
           "text": "Are you good at counting?",
           "text_de": "Bist Du gut im Zaehlen?",
@@ -2425,8 +2465,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 67,
           "text": "Do you know lots of numbers?",
           "text_de": "Kennst Du viele Zahlen?",
@@ -2476,7 +2516,7 @@
           ],
           "sn": 4
         }
-      },
+      ],
       "sn": 39,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2485,17 +2525,18 @@
       "question": "spa0100",
       "name": "spa0100",
       "label": "Please tell me whether the following statements apply to you.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 68,
           "text": "Please tell me whether the following statements apply to you.",
           "text_de": "Sag mir bitte, ob folgende Saetze fuer Dich zutreffen.",
           "scale": "txt",
           "filter": "edu0100 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 69,
           "text": "Do you believe you will do well at school?",
           "text_de": "Glaubst Du, dass Du in der Schule gut sein wirst?",
@@ -2530,8 +2571,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 70,
           "text": "Do you think you'll like school?",
           "text_de": "Glaubst Du, dass Du die Schule moegen wirst?",
@@ -2566,8 +2607,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 71,
           "text": "Do you think that you'll like learning at school?",
           "text_de": "Glaubst Du, dass Du das Lernen in der Schule moegen wirst?",
@@ -2602,8 +2643,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 72,
           "text": "Are you looking forward to school?",
           "text_de": "Freust Du Dich auf die Schule?",
@@ -2638,8 +2679,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 73,
           "text": "Are you looking forward to learning something interesting at school?",
           "text_de": "Freust Du Dich darauf, in der Schule etwas Interessantes zu lernen?",
@@ -2674,8 +2715,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 74,
           "text": "Are you looking forward to understanding difficult things?",
           "text_de": "Freust Du Dich darauf, in der Schule schwierige Dinge zu verstehen?",
@@ -2710,8 +2751,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 75,
           "text": "Are you looking forward to learning as much as possible?",
           "text_de": "Freust Du Dich darauf, in der Schule so viel wie moeglich zu lernen?",
@@ -2746,7 +2787,7 @@
           ],
           "sn": 7
         }
-      },
+      ],
       "sn": 40,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2755,8 +2796,8 @@
       "question": "emp0500",
       "name": "emp0500",
       "label": "What is your current job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 76,
           "text": "What is your current job?",
           "text_de": "Welche berufliche Taetigkeit ueben Sie derzeit aus?",
@@ -2764,9 +2805,10 @@
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 41,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2775,8 +2817,8 @@
       "question": "emp0600",
       "name": "emp0600",
       "label": "What is your current occupational status?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 77,
           "text": "What is your current occupational status?",
           "text_de": "In welcher beruflichen Stellung sind Sie derzeit beschaeftigt?",
@@ -2822,9 +2864,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 42,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2833,8 +2876,8 @@
       "question": "emp0601",
       "name": "emp0601",
       "label": "What is your current occupational status as a blue-collar worker?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 78,
           "text": "What is your current occupational status as a blue-collar worker?",
           "text_de": "In welcher beruflichen Stellung sind Sie derzeit als Arbeiter beschaeftigt?",
@@ -2880,9 +2923,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 43,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2891,8 +2935,8 @@
       "question": "emp0602",
       "name": "emp0602",
       "label": "What is your current occupational status as a self-employed person?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 79,
           "text": "What is your current occupational status as a self-employed person?",
           "text_de": "In welcher beruflichen Stellung sind Sie derzeit als Selbststaendiger beschaeftigt?",
@@ -2933,9 +2977,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 44,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2944,8 +2989,8 @@
       "question": "emp0603",
       "name": "emp0603",
       "label": "Please tell me how many employees you have.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 80,
           "text": "Please tell me how many employees you have.",
           "text_de": "Bitte benennen Sie die Anzahl Ihrer Mitarbeiter und Angestellten.",
@@ -2981,9 +3026,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 45,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -2992,8 +3038,8 @@
       "question": "emp0604",
       "name": "emp0604",
       "label": "What is your current occupational status as an apprentice / trainee / intern.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 81,
           "text": "What is your current occupational status as an apprentice / trainee / intern.",
           "text_de": "In welcher beruflichen Stellung sind Sie derzeit als Auszubildender oder Praktikant beschaeftigt?",
@@ -3029,9 +3075,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 46,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3040,8 +3087,8 @@
       "question": "emp0605",
       "name": "emp0605",
       "label": "What is your current occupational status as a white-collar worker?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 82,
           "text": "What is your current occupational status as a white-collar worker?",
           "text_de": "In welcher beruflichen Stellung sind Sie als Angestellter beschaeftigt?",
@@ -3097,9 +3144,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 47,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3108,8 +3156,8 @@
       "question": "emp0606",
       "name": "emp0606",
       "label": "What kind of managerial position do you hold?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 83,
           "text": "What kind of managerial position do you hold?",
           "text_de": "In welcher Art von Fuehrungsposition sind Sie?",
@@ -3150,9 +3198,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 48,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3161,8 +3210,8 @@
       "question": "emp0607",
       "name": "emp0607",
       "label": "What is your current occupational status as a civil servant?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 84,
           "text": "What is your current occupational status as a civil servant?",
           "text_de": "In welcher beruflichen Stellung sind Sie derzeit als Beamter beschaeftigt?",
@@ -3203,9 +3252,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 49,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3214,8 +3264,8 @@
       "question": "emp0700",
       "name": "emp0700",
       "label": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 85,
           "text": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
           "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber beschaeftigt? Falls Sie Selbstaendiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige Taetigkeit ausueben.",
@@ -3236,9 +3286,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 50,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3247,8 +3298,8 @@
       "question": "emp0701",
       "name": "emp0701",
       "label": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 86,
           "text": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
           "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber beschaeftigt? Falls Sie Selbstaendiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige Taetigkeit ausueben.",
@@ -3274,9 +3325,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 51,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3285,8 +3337,8 @@
       "question": "emp0707",
       "name": "emp0707",
       "label": "What sector of business or industry is your company or institution active in for the most part?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 87,
           "text": "What sector of business or industry is your company or institution active in for the most part?",
           "text_de": "In welchem Wirtschaftszweig/welcher Branche/welchem Dienstleistungsbereich ist das Unternehmen bzw. die Einrichtung ueberwiegend taetig?",
@@ -3294,9 +3346,10 @@
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 52,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3305,8 +3358,8 @@
       "question": "emp0702",
       "name": "emp0702",
       "label": "Do you work for a public sector employer?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 88,
           "text": "Do you work for a public sector employer?",
           "text_de": "Gehoert der Betrieb, in dem Sie arbeiten, zum oeffentlichen Dienst?",
@@ -3342,9 +3395,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 53,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3353,8 +3407,8 @@
       "question": "emp0703",
       "name": "emp0703",
       "label": "Is this work temporary or on a contractual basis?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 89,
           "text": "Is this work temporary or on a contractual basis?",
           "text_de": "Handelt es sich um ein Zeitarbeits- bzw. Leiharbeitsverhaeltnis?",
@@ -3390,9 +3444,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 54,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3401,8 +3456,8 @@
       "question": "emp0704",
       "name": "emp0704",
       "label": "Do you have a fixed-term or permanent employment contract?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 90,
           "text": "Do you have a fixed-term or permanent employment contract?",
           "text_de": "Haben Sie einen unbefristeten Arbeitsvertrag oder einen befristeten Arbeitsvertrag?",
@@ -3433,9 +3488,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 55,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3444,8 +3500,8 @@
       "question": "emp0705",
       "name": "emp0705",
       "label": "How many hours are stipulated in your contract per week excluding overtime?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 91,
           "text": "How many hours are stipulated in your contract per week excluding overtime?",
           "text_de": "Wie viele Wochenstunden betraegt Ihre vereinbarte Arbeitszeit ohne Ueberstunden?",
@@ -3471,9 +3527,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 56,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3482,8 +3539,8 @@
       "question": "emp0706",
       "name": "emp0706",
       "label": "And how many hours do you generally work per week, including any overtime?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 92,
           "text": "And how many hours do you generally work per week, including any overtime?",
           "text_de": "Und wie viel betraegt im Durchschnitt Ihre tatsaechliche Arbeitszeit pro Woche einschliesslich eventueller Ueberstunden?",
@@ -3509,9 +3566,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 57,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3520,8 +3578,8 @@
       "question": "emp0708",
       "name": "emp0708",
       "label": "Is it considered \"marginal employment\" in accordance with the 450/850 euro rule (mini-/midi-job)?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 93,
           "text": "Is it considered \"marginal employment\" in accordance with the 450/850 euro rule (mini-/midi-job)?",
           "text_de": "Ist das eine geringfuegige Beschaeftigung nach der 450- bzw. 850-Euro-Regelung (Mini- bzw. Midi-Job)?",
@@ -3557,9 +3615,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 58,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3568,8 +3627,8 @@
       "question": "emp0800",
       "name": "emp0800",
       "label": "When did you leave your last job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 94,
           "text": "When did you leave your last job?",
           "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgehoert zu arbeiten?",
@@ -3595,9 +3654,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 59,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3606,8 +3666,8 @@
       "question": "emp0801",
       "name": "emp0801",
       "label": "When did you leave your last job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 95,
           "text": "When did you leave your last job?",
           "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgehoert zu arbeiten?",
@@ -3633,9 +3693,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 60,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3644,8 +3705,8 @@
       "question": "emp0802",
       "name": "emp0802",
       "label": "How long were you employed at that job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 96,
           "text": "How long were you employed at that job?",
           "text_de": "Wie lange waren Sie insgesamt in Ihrer letzten Stelle beschaeftigt?",
@@ -3671,9 +3732,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 61,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3682,8 +3744,8 @@
       "question": "emp0803",
       "name": "emp0803",
       "label": "How long were you employed at that job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 97,
           "text": "How long were you employed at that job?",
           "text_de": "Wie lange waren Sie insgesamt in Ihrer letzten Stelle beschaeftigt?",
@@ -3709,9 +3771,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 62,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3720,8 +3783,8 @@
       "question": "emp0804",
       "name": "emp0804",
       "label": "How did that job end?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 98,
           "text": "How did that job end?",
           "text_de": "Auf welche Weise wurde diese Beschaeftigung beendet?",
@@ -3772,9 +3835,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 63,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3783,8 +3847,8 @@
       "question": "emp0900",
       "name": "emp0900",
       "label": "What type of education or training is usually required for your type of work?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 99,
           "text": "What type of education or training is usually required for your type of work?",
           "text_de": "Welche Art von Ausbildung ist fuer Ihre Taetigkeit als [Berufsangabe] in der Regel derzeit erforderlich?",
@@ -3792,10 +3856,11 @@
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
           "description": "SOEP Core 2014 pe english Version\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
           "description_de": "SOEP Core 2014 pe \npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 100,
           "text": "No completed vocational training is required",
           "text_de": "Kein beruflicher Ausbildungsabschluss",
@@ -3825,8 +3890,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 101,
           "text": "Completed vocational training",
           "text_de": "Eine berufliche Ausbildung",
@@ -3858,8 +3923,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 102,
           "text": "Degree from a technical college (Fachhochschule)",
           "text_de": "Ein abgeschlossenes Fachhochschulstudium",
@@ -3891,8 +3956,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 103,
           "text": "Degree from a university",
           "text_de": "Ein abgeschlossenes Universitaets- oder Hochschulstudium",
@@ -3924,8 +3989,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 104,
           "text": "Do not know",
           "text_de": "Weiss nicht",
@@ -3957,8 +4022,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 105,
           "text": "Not specified (refused to answer)",
           "text_de": "Keine Angabe",
@@ -3990,7 +4055,7 @@
           ],
           "sn": 6
         }
-      },
+      ],
       "sn": 64,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -3999,8 +4064,8 @@
       "question": "emp1000",
       "name": "emp1000",
       "label": "Do you currently work in the city where you live?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 106,
           "text": "Do you currently work in the city where you live?",
           "text_de": "Liegt Ihr derzeitiger Arbeitsplatz an Ihrem Wohnort? Erfragt werden soll, ob der Arbeitsplatz in der gleichen Stadt oder Gemeinde liegt wie der Wohnort.",
@@ -4036,9 +4101,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 65,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4047,8 +4113,8 @@
       "question": "emp1001",
       "name": "emp1001",
       "label": "How often do you commute from your dwelling to your place of work?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 107,
           "text": "How often do you commute from your dwelling to your place of work?",
           "text_de": "Wie oft pendeln Sie von Ihrer Hauptwohnung zu Ihrem Arbeitsplatz?",
@@ -4089,9 +4155,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 66,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4100,8 +4167,8 @@
       "question": "emp1002",
       "name": "emp1002",
       "label": "How far (in kilometers) is your job from your place of residence?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 108,
           "text": "How far (in kilometers) is your job from your place of residence?",
           "text_de": "Wie viele Kilometer ist Ihr Arbeitsplatz von Ihrer Hauptwohnung entfernt?",
@@ -4132,9 +4199,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 67,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4143,8 +4211,8 @@
       "question": "emp1100",
       "name": "emp1100",
       "label": "How likely do you think it is that you might lose your job in the next two years?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 109,
           "text": "How likely do you think it is that you might lose your job in the next two years?",
           "text_de": "Fuer wie wahrscheinlich halten Sie es, dass Sie in den kommenden zwei Jahren den Arbeitsplatz verlieren?",
@@ -4190,9 +4258,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 68,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4201,8 +4270,8 @@
       "question": "emp1200",
       "name": "emp1200",
       "label": "All in all, would you say that what you get paid is fair for the work you do in your job?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 110,
           "text": "All in all, would you say that what you get paid is fair for the work you do in your job?",
           "text_de": "Alles in allem: Ist das, was Sie an Ihrem Arbeitsplatz leisten, und das, was Sie dafuer bekommen, in der Regel ausgeglichen?",
@@ -4248,9 +4317,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 69,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4259,8 +4329,8 @@
       "question": "inc0100",
       "name": "inc0100",
       "label": "What is your monthly gross salary, in other words, your personal income before deductions for tax and social security contributions? If you have a second job, please only state your income from your main job.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 111,
           "text": "What is your monthly gross salary, in other words, your personal income before deductions for tax and social security contributions? If you have a second job, please only state your income from your main job.",
           "text_de": "Wie hoch ist Ihr monatliches Bruttoeinkommen, d.h. Ihr persoenliches monatliches Einkommen vor Abzug von Steuern und Sozialversicherungsbeitraegen? Wenn Sie zusaetzlich eine Nebenbeschaeftigung ausueben, beruecksichtigen Sie bitte nur das Einkommen aus Ihrer Hauptbeschaeftigung.",
@@ -4281,9 +4351,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 70,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4292,8 +4363,8 @@
       "question": "inc0103",
       "name": "inc0103",
       "label": "What is your yearly gross salary, in other words, your personal income before deductions for tax and social security contributions? If you have a second job, please only state your income from your main job.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 113,
           "text": "If you can't or don't wish to state an amount, please indicate which income group your monthly gross income falls into.",
           "text_de": "Wenn Sie einen exakten Betrag nicht nennen koennen oder wollen, dann geben Sie bitte an, in welche Einkommenskategorie Ihr durchschnittliches monatliches Bruttoeinkommen eingeordnet werden kann.",
@@ -4384,9 +4455,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "item": "root"
         }
-      },
+      ],
       "sn": 71,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4395,8 +4467,8 @@
       "question": "inc0200",
       "name": "inc0200",
       "label": "When you think about your current gross income, would you say that what you get paid is fair for the work you do, or is it above or below what you consider fair?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 114,
           "text": "When you think about your current gross income, would you say that what you get paid is fair for the work you do, or is it above or below what you consider fair?",
           "text_de": "Wenn Sie an Ihr gegenwaertiges Bruttoeinkommen denken, wuerden Sie sagen, dass es in Bezug auf Ihre Taetigkeit gerecht oder ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
@@ -4432,9 +4504,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 72,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4443,8 +4516,8 @@
       "question": "inc0201",
       "name": "inc0201",
       "label": "What do you consider a fair gross monthly income for you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 115,
           "text": "What do you consider a fair gross monthly income for you?",
           "text_de": "Was waere in Ihren Augen ein gerechtes monatliches Bruttoeinkommen fuer Sie?",
@@ -4465,9 +4538,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 73,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4476,8 +4550,8 @@
       "question": "inc0202",
       "name": "inc0202",
       "label": "What do you consider a fair gross yearly income for you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 116,
           "text": "What do you consider a fair gross yearly income for you?",
           "text_de": "Was waere in Ihren Augen ein gerechtes jaehrliches Bruttoeinkommen fuer Sie?",
@@ -4498,9 +4572,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 74,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4509,8 +4584,8 @@
       "question": "eca0100",
       "name": "eca0100",
       "label": "What is your highest school-leaving qualification?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 117,
           "text": "What is your highest school-leaving qualification?",
           "text_de": "Welchen hoechsten Schulabschluss haben Sie erreicht?",
@@ -4566,9 +4641,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 75,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4577,8 +4653,8 @@
       "question": "eca0101",
       "name": "eca0101",
       "label": "What is your highest school-leaving qualification?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 118,
           "text": "What is your highest school-leaving qualification?",
           "text_de": "Welchen hoechsten Schulabschluss haben Sie erreicht? (offene Angabe)",
@@ -4586,9 +4662,10 @@
           "filter": "eca0100 == 6",
           "description": "SOEP Core study Life Course 2012\nhttp://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.56576.de/lebenslauf_2012.pdf;",
           "description_de": "SOEP Core study Life Course 2012\nhttp://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.56576.de/lebenslauf_2012.pdf;",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 76,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4597,8 +4674,8 @@
       "question": "eca0102",
       "name": "eca0102",
       "label": "What was the last school you attended?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 119,
           "text": "What was the last school you attended?",
           "text_de": "Welche Schule haben Sie zuletzt besucht?",
@@ -4669,9 +4746,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 77,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4680,8 +4758,8 @@
       "question": "eca0103",
       "name": "eca0103",
       "label": "What was the last school you attended?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 120,
           "text": "What was the last school you attended?",
           "text_de": "Welche Schule haben Sie zuletzt besucht? (offene Angabe)",
@@ -4689,9 +4767,10 @@
           "filter": "eca0102 == 10",
           "description": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014 (Jugendfragebogen)\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 78,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4700,8 +4779,8 @@
       "question": "eca0104",
       "name": "eca0104",
       "label": "What year did you leave secondary school?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 121,
           "text": "What year did you leave secondary school?",
           "text_de": "In welchem Jahr haben Sie die allgemeinbildende Schule beendet?",
@@ -4727,9 +4806,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 79,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4738,8 +4818,8 @@
       "question": "eca0105",
       "name": "eca0105",
       "label": "Please specify your final grade on your highest educational degree/diploma/qualification. Please translate grades for foreign degrees into the German grade system.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 122,
           "text": "Please specify your final grade on your highest educational degree/diploma/qualification. Please translate grades for foreign degrees into the German grade system.",
           "text_de": "Bitte geben Sie die Abschlussnote Ihres hoechsten Schulabschlusses an. Noten aus auslaendischen Abschluessen bitte in das deutsche Notensystem \"umrechnen\".",
@@ -4763,9 +4843,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 80,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4774,8 +4855,8 @@
       "question": "eca0200",
       "name": "eca0200",
       "label": "What educational degree / diploma / qualification did you attain? If you have attained more than one, please state the highest.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 123,
           "text": "What educational degree / diploma / qualification did you attain? If you have attained more than one, please state the highest.",
           "text_de": "Welchen Ausbildungs- oder Studienabschluss haben Sie gemacht? Falls Sie mehrere Ausbildungsabschluesse haben, geben Sie bitte den hoechsten an.",
@@ -4851,9 +4932,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 81,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4862,8 +4944,8 @@
       "question": "eca0201",
       "name": "eca0201",
       "label": "What year did you earn your educational degree/diploma/qualification?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 124,
           "text": "What year did you earn your educational degree/diploma/qualification?",
           "text_de": "In welchem Jahr haben Sie den Ausbildungs- oder Studienabschluss erreicht?",
@@ -4889,9 +4971,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 82,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4900,8 +4983,8 @@
       "question": "eca0202",
       "name": "eca0202",
       "label": "You stated [highest qualification] as your highest educational degree / diploma / qualification. Please state the respective job, career path, or technical field.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 125,
           "text": "You stated [highest qualification] as your highest educational degree / diploma / qualification. Please state the respective job, career path, or technical field.",
           "text_de": "Sie haben folgende Ausbildung angegeben: [hoechsten Ausbildungsabschluss einblenden]. Bitte geben Sie den dazugehoerigen Ausbildungsberuf bzw. die Laufbahn oder Fachrichtung an.",
@@ -4909,9 +4992,10 @@
           "filter": "eca0200 > 1 & eca0200 < 12",
           "description": "SOEP Core study Life Course 2012\nhttp://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.56576.de/lebenslauf_2012.pdf;",
           "description_de": "SOEP Core study Life Course 2012\nhttp://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.56576.de/lebenslauf_2012.pdf;",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 83,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4920,8 +5004,8 @@
       "question": "eca0300",
       "name": "eca0300",
       "label": "Did you ever repeat a grade of school?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 126,
           "text": "Did you ever repeat a grade of school?",
           "text_de": "Haben Sie in Ihrer Schulzeit einmal eine Klasse wiederholt?",
@@ -4957,9 +5041,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 84,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -4968,8 +5053,8 @@
       "question": "eca0301",
       "name": "eca0301",
       "label": "Which grade did you repeat?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 127,
           "text": "Which grade did you repeat?",
           "text_de": "Welche Klasse(n) wurde(n) wiederholt?",
@@ -4977,10 +5062,11 @@
           "filter": "eca0300 == 1",
           "description": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 128,
           "text": "1. grade",
           "text_de": "1. Klasse",
@@ -5012,8 +5098,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 129,
           "text": "2. grade",
           "text_de": "2. Klasse",
@@ -5045,8 +5131,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 130,
           "text": "3. grade",
           "text_de": "3. Klasse",
@@ -5078,8 +5164,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 131,
           "text": "4. grade",
           "text_de": "4. Klasse",
@@ -5111,8 +5197,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 132,
           "text": "5. grade",
           "text_de": "5. Klasse",
@@ -5144,8 +5230,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 133,
           "text": "6. grade",
           "text_de": "6. Klasse",
@@ -5177,8 +5263,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 134,
           "text": "7. grade",
           "text_de": "7. Klasse",
@@ -5210,8 +5296,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 135,
           "text": "8. grade",
           "text_de": "8. Klasse",
@@ -5243,8 +5329,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 136,
           "text": "9. grade",
           "text_de": "9. Klasse",
@@ -5276,8 +5362,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 137,
           "text": "10. grade",
           "text_de": "10. Klasse",
@@ -5309,8 +5395,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 138,
           "text": "11. grade",
           "text_de": "11. Klasse",
@@ -5342,8 +5428,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 139,
           "text": "12. grade",
           "text_de": "12. Klasse",
@@ -5375,8 +5461,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 140,
           "text": "13. grade",
           "text_de": "13. Klasse",
@@ -5408,8 +5494,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 141,
           "text": "don't know",
           "text_de": "weiss nicht",
@@ -5441,8 +5527,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 142,
           "text": "n.a.",
           "text_de": "keine Angabe",
@@ -5474,7 +5560,7 @@
           ],
           "sn": 15
         }
-      },
+      ],
       "sn": 85,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -5483,8 +5569,8 @@
       "question": "eca0400",
       "name": "eca0400",
       "label": "Did you ever skip a grade or grades?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 143,
           "text": "Did you ever skip a grade or grades?",
           "text_de": "Haben Sie schon einmal eine Klasse uebersprungen?",
@@ -5520,9 +5606,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 86,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -5531,8 +5618,8 @@
       "question": "eca0401",
       "name": "eca0401",
       "label": "Which grade(s) did you skip?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 144,
           "text": "Which grade(s) did you skip?",
           "text_de": "Welche Klasse(n) wurde(n) uebersprungen?",
@@ -5540,10 +5627,11 @@
           "filter": "eca0400 == 1",
           "description": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core study Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 145,
           "text": "1. grade",
           "text_de": "1. Klasse",
@@ -5575,8 +5663,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 146,
           "text": "2. grade",
           "text_de": "2. Klasse",
@@ -5608,8 +5696,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 147,
           "text": "3. grade",
           "text_de": "3. Klasse",
@@ -5641,8 +5729,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 148,
           "text": "4. grade",
           "text_de": "4. Klasse",
@@ -5674,8 +5762,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 149,
           "text": "5. grade",
           "text_de": "5. Klasse",
@@ -5707,8 +5795,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 150,
           "text": "6. grade",
           "text_de": "6. Klasse",
@@ -5740,8 +5828,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 151,
           "text": "7. grade",
           "text_de": "7. Klasse",
@@ -5773,8 +5861,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 152,
           "text": "8. grade",
           "text_de": "8. Klasse",
@@ -5806,8 +5894,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 153,
           "text": "9. grade",
           "text_de": "9. Klasse",
@@ -5839,8 +5927,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 154,
           "text": "10. grade",
           "text_de": "10. Klasse",
@@ -5872,8 +5960,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 155,
           "text": "11. grade",
           "text_de": "11. Klasse",
@@ -5905,8 +5993,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 156,
           "text": "12. grade",
           "text_de": "12. Klasse",
@@ -5938,8 +6026,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 157,
           "text": "13. grade",
           "text_de": "13. Klasse",
@@ -5971,8 +6059,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 158,
           "text": "don't know",
           "text_de": "weiss nicht",
@@ -6004,8 +6092,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 159,
           "text": "n.a.",
           "text_de": "keine Angabe",
@@ -6037,7 +6125,7 @@
           ],
           "sn": 15
         }
-      },
+      ],
       "sn": 87,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6046,8 +6134,8 @@
       "question": "eca0500",
       "name": "eca0500",
       "label": "Did you obtain a degree / certificate / diploma in Germany or in another country?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 160,
           "text": "Did you obtain a degree / certificate / diploma in Germany or in another country?",
           "text_de": "Haben Sie in einem anderen Land als Deutschland eine berufliche Ausbildung oder ein Studium absolviert? Dies bezieht sich nur auf abgeschlossene Studien, nicht auf Auslandssemester, Praktika o.ae.",
@@ -6081,9 +6169,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 88,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6092,8 +6181,8 @@
       "question": "eca0600",
       "name": "eca0600",
       "label": "Were you given a recommendation to attend lower, intermediate, or upper secondary school after completing primary school? Please state both binding and non-binding recommendations.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 161,
           "text": "Were you given a recommendation to attend lower, intermediate, or upper secondary school after completing primary school? Please state both binding and non-binding recommendations.",
           "text_de": "Hatten Sie nach Abschluss der Grundschule eine Haupt-, Realschul- oder eine Gymnasialempfehlung? Hier sind sowohl bindende als auch nicht bindende Empfehlungen gemeint.",
@@ -6134,9 +6223,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 89,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6145,8 +6235,8 @@
       "question": "eca0700",
       "name": "eca0700",
       "label": "What type of school-leaving qualification would you like to attain?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 162,
           "text": "What type of school-leaving qualification would you like to attain?",
           "text_de": "Alter 11 bis 15 Jahre: Welchen Schulabschluss moechtest Du einmal erreichen? / Alter ab 16 Jahre: Welchen Schulabschluss moechten Sie einmal erreichen? Wenn mehrere Abschluesse angestrebt/gewuenscht werden, dann bitte den hoechsten Abschluss angeben.",
@@ -6187,9 +6277,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 90,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6198,8 +6289,8 @@
       "question": "eca0701",
       "name": "eca0701",
       "label": "How likely do you think is it that you will attain this school-leaving qualification?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 163,
           "text": "How likely do you think is it that you will attain this school-leaving qualification?",
           "text_de": "Alter 11 bis 15 Jahre: Fuer wie wahrscheinlich haeltst Du es, dass Du diesen Abschluss erreichst? / Alter ab 16 Jahre: Fuer wie wahrscheinlich halten Sie es, dass Sie diesen Abschluss erreichen?",
@@ -6275,9 +6366,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 91,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6286,8 +6378,8 @@
       "question": "eca0800",
       "name": "eca0800",
       "label": "Would you like to earn a (further) vocational training qualification or university diploma in the future? If more than one, please state the highest.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 164,
           "text": "Would you like to earn a (further) vocational training qualification or university diploma in the future? If more than one, please state the highest.",
           "text_de": "Streben Sie in der Zukunft einen (weiteren) beruflichen Ausbildungsabschluss oder Hochschulabschluss an? Wenn mehrere Abschluesse angestrebt werden, dann bitte den hoechsten Abschluss angeben.",
@@ -6323,9 +6415,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 92,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6334,8 +6427,8 @@
       "question": "eca0801",
       "name": "eca0801",
       "label": "How likely do you think is it that you will earn this qualification?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 165,
           "text": "How likely do you think is it that you will earn this qualification?",
           "text_de": "Fuer wie wahrscheinlich halten Sie es, dass Sie diesen Abschluss erreichen?",
@@ -6411,9 +6504,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 93,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6422,8 +6516,8 @@
       "question": "spa0200",
       "name": "spa0200",
       "label": "I am ... in school.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 166,
           "text": "I am ... in school.",
           "text_de": "DP 4 bis 15 Jahre: Jetzt geht es um die Schule im Allgemeinen. Bitte schaetze ein, wie gut jede der folgenden Aussagen auf Dich zutrifft. / DP ab 16 Jahren: Jetzt geht es um die Schule im Allgemeinen. Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Ich bin fuer die Schule . . .",
@@ -6467,9 +6561,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 94,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6478,8 +6573,8 @@
       "question": "spa0201",
       "name": "spa0201",
       "label": "I know . . . in school.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 167,
           "text": "I know . . . in school.",
           "text_de": "Ich kann in der Schule . . ..",
@@ -6523,9 +6618,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 95,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6534,8 +6630,8 @@
       "question": "spa0202",
       "name": "spa0202",
       "label": "In school, many assignments are ... for me.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 168,
           "text": "In school, many assignments are ... for me.",
           "text_de": "In der Schule fallen mir viele Aufgaben . . .",
@@ -6579,9 +6675,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 96,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6590,8 +6687,8 @@
       "question": "spa0300",
       "name": "spa0300",
       "label": "I am . . . in math.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 169,
           "text": "I am . . . in math.",
           "text_de": "DP 4 bis 15 Jahre: Jetzt geht es um die Faecher Mathe und Deutsch. Bitte schaetze ein, wie gut jede der folgenden Aussagen auf Dich zutrifft. / DP ab 16 Jahren: Jetzt geht es um die Faecher Mathe und Deutsch. Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Ich bin fuer Mathe . . .",
@@ -6635,9 +6732,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 97,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6646,8 +6744,8 @@
       "question": "spa0301",
       "name": "spa0301",
       "label": "I know . . . in math.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 170,
           "text": "I know . . . in math.",
           "text_de": "Ich kann in Mathe . . ..",
@@ -6691,9 +6789,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 98,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6702,8 +6801,8 @@
       "question": "spa0302",
       "name": "spa0302",
       "label": "In math, many exercises. . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 171,
           "text": "In math, many exercises. . .",
           "text_de": "In Mathe fallen mir viele Aufgaben . . .",
@@ -6747,9 +6846,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 99,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6758,8 +6858,8 @@
       "question": "spa0400",
       "name": "spa0400",
       "label": "I am . . . in German.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 172,
           "text": "I am . . . in German.",
           "text_de": "Ich bin fuer Deutsch . . .",
@@ -6803,9 +6903,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 100,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6814,8 +6915,8 @@
       "question": "spa0401",
       "name": "spa0401",
       "label": "I know . . . in German.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 173,
           "text": "I know . . . in German.",
           "text_de": "Ich kann in Deutsch . . ..",
@@ -6859,9 +6960,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 101,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6870,8 +6972,8 @@
       "question": "spa0402",
       "name": "spa0402",
       "label": "In German, many assignments...",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 174,
           "text": "In German, many assignments...",
           "text_de": "In Deutsch fallen mir viele Aufgaben . . .",
@@ -6915,9 +7017,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 102,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -6926,17 +7029,18 @@
       "question": "imo0200",
       "name": "imo0200",
       "label": "We would like to ask you some more questions about school in general. Please rate the extent to which each statement applies to you.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 175,
           "text": "We would like to ask you some more questions about school in general. Please rate the extent to which each statement applies to you.",
           "text_de": "Alter 4 bis 15 Jahre: Jetzt geht es wieder um die Schule im Allgemeinen. Bitte schaetze ein, wie gut jede der folgenden Aussagen auf Dich zutrifft. / Alter ab 16 Jahre: Jetzt geht es wieder um die Schule im Allgemeinen. Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
           "scale": "txt",
           "filter": "edu0100 == 2 | edu0301 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 176,
           "text": "I like doing the things that I learn at school.",
           "text_de": "Ich mache die Dinge, die ich in der Schule lerne, gerne.",
@@ -6981,8 +7085,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 177,
           "text": "School is fun.",
           "text_de": "Schule macht mir Spass.",
@@ -7027,8 +7131,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 178,
           "text": "I find the things that I lean at school interesting.",
           "text_de": "Was ich in der Schule lerne, finde ich interessant.",
@@ -7073,7 +7177,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 103,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -7082,17 +7186,18 @@
       "question": "imo0300",
       "name": "imo0300",
       "label": "We would like to ask you some more questions about school in general. Please rate the extent to which each statement applies to you.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 179,
           "text": "We would like to ask you some more questions about school in general. Please rate the extent to which each statement applies to you.",
           "text_de": "Alter 4 bis 15 Jahre: Jetzt geht es wieder um die Faecher Mathe und Deutsch. Bitte schaetze ein, wie gut jede der folgenden Aussagen auf Dich zutrifft. / Alter ab 16 Jahre: Jetzt geht es wieder um die Faecher Mathe und Deutsch. Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
           "scale": "txt",
           "filter": "edu0100 == 2 | edu0301 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 180,
           "text": "I like doing maths.",
           "text_de": "Ich mache Mathe gerne.",
@@ -7137,8 +7242,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 181,
           "text": "Maths is fun.",
           "text_de": "Mathe macht mir Spass.",
@@ -7183,8 +7288,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 182,
           "text": "Maths is interesting.",
           "text_de": "Mathe ist interessant.",
@@ -7229,8 +7334,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 183,
           "text": "I like doing German.",
           "text_de": "Ich mache Deutsch gerne.",
@@ -7275,8 +7380,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 184,
           "text": "German is fun.",
           "text_de": "Deutsch macht mir Spass.",
@@ -7321,8 +7426,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 185,
           "text": "German is interesting.",
           "text_de": "Deutsch ist interessant.",
@@ -7367,7 +7472,7 @@
           ],
           "sn": 6
         }
-      },
+      ],
       "sn": 104,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -7376,17 +7481,18 @@
       "question": "imo0500",
       "name": "imo0500",
       "label": "Please rate the extent to which each statement applies to you. At school, I am interested in . . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 186,
           "text": "Please rate the extent to which each statement applies to you. At school, I am interested in . . .",
           "text_de": "Alter 4 bis 9 Jahre: In der Schule will ich... / Alter 10 bis 15 Jahre: Bitte gib an, wie gut die Angabe auf Dich zutrifft. In der Schule geht es mir darum . . . / Alter ab 16 Jahre: Bitte geben Sie an, wie gut die Angabe auf Sie zutrifft. In der Schule geht es mir darum . . .",
           "scale": "txt",
           "filter": "edu0100 == 2 | edu0301 == 1 & age > 9",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 187,
           "text": ". . . learning something interesting.",
           "text_de": "[DP 4 bis 9 Jahre:]. . .. etwas Interessantes lernen. / [DP ab 10 Jahren:]. . .. etwas Interessantes zu lernen.",
@@ -7431,8 +7537,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 188,
           "text": ". . . learning something interesting.",
           "text_de": "[DP 4 bis 9 Jahre:]. . .. etwas Interessantes lernen. / [DP ab 10 Jahren:]. . .. etwas Interessantes zu lernen.",
@@ -7477,8 +7583,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 189,
           "text": ". . . understand difficult things. / . . . getting motivated to think about things.",
           "text_de": "[DP: 4 bis 9 Jahre] ... schwierige Dinge verstehen. / [DP: ab 10 Jahren:] . . ..zum Nachdenken angeregt zu werden.",
@@ -7523,8 +7629,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 190,
           "text": ". . . understand difficult things. / . . . getting motivated to think about things.",
           "text_de": "[DP: 4 bis 9 Jahre] ... schwierige Dinge verstehen. / [DP: ab 10 Jahren:] . . ..zum Nachdenken angeregt zu werden.",
@@ -7569,8 +7675,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 191,
           "text": ". . . learn as much as possible. / . . . gaining a thorough undestanding of content / really understanding something.",
           "text_de": "[DP: 4 bis 9 Jahre] ... so viel wie moeglich lernen. / [DP: ab 10 Jahren]. . . ein tieferes Verstaendnis fuer die Inhalte zu erwerben / etwas wirklich zu verstehen.",
@@ -7615,8 +7721,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 192,
           "text": ". . . learn as much as possible. / . . . gaining a thorough undestanding of content / really understanding something.",
           "text_de": "[DP: 4 bis 9 Jahre] ... so viel wie moeglich lernen. / [DP: ab 10 Jahren]. . . ein tieferes Verstaendnis fuer die Inhalte zu erwerben / etwas wirklich zu verstehen.",
@@ -7661,7 +7767,7 @@
           ],
           "sn": 6
         }
-      },
+      ],
       "sn": 105,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -7670,17 +7776,18 @@
       "question": "spa0500",
       "name": "spa0500",
       "label": "Please rate the extent to which each statement applies to you.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 193,
           "text": "Please rate the extent to which each statement applies to you.",
           "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 194,
           "text": "I think I am pretty good at my job.",
           "text_de": "Ich glaube, dass ich in meinem Beruf ziemlich gut bin.",
@@ -7725,8 +7832,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 195,
           "text": "I think I am doing pretty well at my job, compared to my colleagues.",
           "text_de": "Ich glaube, dass ich im Vergleich zu meinen Kollegen einen guten Job mache.",
@@ -7771,8 +7878,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 196,
           "text": "After working at my job for a while, I felt pretty competent.",
           "text_de": "Nachdem ich in meinem Job eine Weile gearbeitet hatte, habe ich mich darin ziemlich kompetent gefuehlt.",
@@ -7817,8 +7924,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 197,
           "text": "I am satis?ed with my performance at my job.",
           "text_de": "Ich bin zufrieden mit meiner beruflichen Leistung.",
@@ -7863,8 +7970,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 198,
           "text": "I am pretty skilled at my job/at the things I am doing at my job.",
           "text_de": "Ich bin recht geschickt bei meiner Arbeit.",
@@ -7909,7 +8016,7 @@
           ],
           "sn": 5
         }
-      },
+      ],
       "sn": 106,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -7918,17 +8025,18 @@
       "question": "imo0600",
       "name": "imo0600",
       "label": "Please rate the extent to which each statement applies to you. It is important for me in the context of my professional work . . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 199,
           "text": "Please rate the extent to which each statement applies to you. It is important for me in the context of my professional work . . .",
           "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Mir ist es wichtig, im Rahmen meiner beruflichen Taetigkeit . . .",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 200,
           "text": ". . . to learn something interesting.",
           "text_de": ". . . etwas Interessantes zu lernen.",
@@ -7973,8 +8081,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 201,
           "text": ". . . to get motivated to think about things.",
           "text_de": ". . . zum Nachdenken angeregt zu werden.",
@@ -8019,8 +8127,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 202,
           "text": ". . . to gain a thorough undestanding of content / to really understand something.",
           "text_de": ". . . ein tieferes Verstaendnis fuer die Inhalte zu erwerben / etwas wirklich zu verstehen.",
@@ -8065,7 +8173,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 107,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8074,17 +8182,18 @@
       "question": "imo0700",
       "name": "imo0700",
       "label": "Please rate the extent to which each statement applies to you. It is important for me in the context of my professional work . . .",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 203,
           "text": "Please rate the extent to which each statement applies to you. It is important for me in the context of my professional work . . .",
           "text_de": "Alter 7 bis 15 Jahre: Bitte gib an, wie gut die Angabe auf Dich zutrifft. / Alter ab 16 Jahre: Bitte geben Sie an, wie gut die Angabe auf Sie zutrifft.",
           "scale": "txt",
           "filter": "emp0400 == 1 | emp0400 == 2 | emp0400 == 3 | emp0400 == 4 | emp0400 == 6 | emp0200 == 1 | emp0200 == 2 | emp0200 == 3",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 204,
           "text": "Good achievements mean a lot to me. (Note: If you are still at school or in vocational training, think of your educational achievements.)",
           "text_de": "(nicht mehr in der Schule, aber erwerbstaetig) Gute Leistungen zu erbringen ist mir wichtig.",
@@ -8129,8 +8238,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 205,
           "text": "It is important for me to get good grades.",
           "text_de": "Alter >= 7 and <= 9 und geht noch zur Schule: Mir ist es wichtig, gute Noten zu bekommen.",
@@ -8175,7 +8284,7 @@
           ],
           "sn": 2
         }
-      },
+      ],
       "sn": 108,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8184,8 +8293,8 @@
       "question": "mig0100",
       "name": "mig0100",
       "label": "What country you were born in? Please tell me what the country is called today.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 206,
           "text": "What country you were born in? Please tell me what the country is called today.",
           "text_de": "Im Folgenden geht es um Ihre Herkunft. Wuerden Sie uns bitte sagen, in welchem Land Sie geboren wurden? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
@@ -8276,9 +8385,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 109,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8287,8 +8397,8 @@
       "question": "mig0101",
       "name": "mig0101",
       "label": "What country you were born in? Please tell me what the country is called today.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 207,
           "text": "What country you were born in? Please tell me what the country is called today.",
           "text_de": "Im Folgenden geht es um Ihre Herkunft. Wuerden Sie uns bitte sagen, in welchem Land Sie geboren wurden? (offen) Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
@@ -8296,9 +8406,10 @@
           "filter": "mig0100 == 14",
           "description": "SOEP Core Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 110,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8307,8 +8418,8 @@
       "question": "mig0200",
       "name": "mig0200",
       "label": "What year did you arrive in Germany?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 208,
           "text": "What year did you arrive in Germany?",
           "text_de": "Seit wann leben Sie in Deutschland? Bitte geben Sie das Jahr an.",
@@ -8334,9 +8445,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 111,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8345,8 +8457,8 @@
       "question": "mig0300",
       "name": "mig0300",
       "label": "What country was your mother born in? Please tell me what the country is called today.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 209,
           "text": "What country was your mother born in? Please tell me what the country is called today.",
           "text_de": "In welchem Land ist Ihre Mutter geboren? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
@@ -8437,9 +8549,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 112,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8448,8 +8561,8 @@
       "question": "mig0301",
       "name": "mig0301",
       "label": "What country was your mother born in? Please tell me what the country is called today.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 210,
           "text": "What country was your mother born in? Please tell me what the country is called today.",
           "text_de": "In welchem Land ist Ihre Mutter geboren? (offen) Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
@@ -8457,9 +8570,10 @@
           "filter": "mig0300 == 14",
           "description": "SOEP Core Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
           "description_de": "SOEP Core Youth 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 113,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8468,8 +8582,8 @@
       "question": "mig0400",
       "name": "mig0400",
       "label": "What country was your father born in? Please tell me what the country is called today.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 211,
           "text": "What country was your father born in? Please tell me what the country is called today.",
           "text_de": "In welchem Land ist Ihr Vater geboren? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
@@ -8560,9 +8674,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 114,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8571,8 +8686,8 @@
       "question": "mig0401",
       "name": "mig0401",
       "label": "What country was your father born in? Please tell me what the country is called today.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 212,
           "text": "What country was your father born in? Please tell me what the country is called today.",
           "text_de": "In welchem Land ist Ihr Vater geboren? (offen) Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
@@ -8580,9 +8695,10 @@
           "filter": "mig0400 == 14",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 115,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -8591,8 +8707,8 @@
       "question": "mig0500",
       "name": "mig0500",
       "label": "What is your nationality? If you have more than one, please state all.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 213,
           "text": "What is your nationality? If you have more than one, please state all.",
           "text_de": "Welche Staatsangehoerigkeit haben Sie? Falls Sie mehr als eine Staatsangehoerigkeit haben, nennen Sie bitte alle.",
@@ -8600,10 +8716,11 @@
           "filter": "age > 15",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 214,
           "text": "German",
           "text_de": "Deutsche",
@@ -8635,8 +8752,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 215,
           "text": "Turkish",
           "text_de": "Tuerkische",
@@ -8668,8 +8785,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 216,
           "text": "Russian",
           "text_de": "Russische",
@@ -8701,8 +8818,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 217,
           "text": "Polish",
           "text_de": "Polnische",
@@ -8734,8 +8851,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 218,
           "text": "Italian",
           "text_de": "Italienische",
@@ -8767,8 +8884,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 219,
           "text": "Serbian",
           "text_de": "Serbische",
@@ -8800,8 +8917,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 220,
           "text": "Croatian",
           "text_de": "Kroatische",
@@ -8833,8 +8950,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 221,
           "text": "Greek",
           "text_de": "Griechische",
@@ -8866,8 +8983,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 222,
           "text": "Romanian",
           "text_de": "Rumaenische",
@@ -8899,8 +9016,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 223,
           "text": "Kazakh",
           "text_de": "Kasachische",
@@ -8932,8 +9049,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 224,
           "text": "Bosnian-Herzegovinian",
           "text_de": "Bonisch-herzogowinische",
@@ -8965,8 +9082,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 225,
           "text": "Spanish",
           "text_de": "Spanische",
@@ -8998,8 +9115,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 226,
           "text": "other",
           "text_de": "Andere Staatsangehoerigkeit, und zwar",
@@ -9031,8 +9148,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 227,
           "text": "don't know",
           "text_de": "weiss nicht",
@@ -9064,8 +9181,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 228,
           "text": "n.a.",
           "text_de": "keine Angabe",
@@ -9097,7 +9214,7 @@
           ],
           "sn": 15
         }
-      },
+      ],
       "sn": 116,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9106,8 +9223,8 @@
       "question": "mig0519",
       "name": "mig0519",
       "label": "What is your nationality? If you have more than one, please state all.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 229,
           "text": "What is your nationality? If you have more than one, please state all.",
           "text_de": "Welche Staatsangehoerigkeit haben Sie? (offene Angabe) Falls Sie mehr als eine Staatsangehoerigkeit haben, nennen Sie bitte alle.",
@@ -9115,9 +9232,10 @@
           "filter": "mig0512 == 1",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 117,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9126,8 +9244,8 @@
       "question": "mig0600",
       "name": "mig0600",
       "label": "When did you receive German citizenship?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 230,
           "text": "When did you receive German citizenship?",
           "text_de": "Seit wann haben Sie die deutsche Staatsbuergerschaft?",
@@ -9153,9 +9271,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 118,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9164,8 +9283,8 @@
       "question": "mig0700",
       "name": "mig0700",
       "label": "Residency status: Do you have ...",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 231,
           "text": "Residency status: Do you have ...",
           "text_de": "Haben Sie eine ...",
@@ -9206,9 +9325,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 119,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9217,8 +9337,8 @@
       "question": "mig0701",
       "name": "mig0701",
       "label": "Residency status: Do you have ...",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 232,
           "text": "Residency status: Do you have ...",
           "text_de": "Haben Sie eine . . . (offene Angabe)",
@@ -9226,9 +9346,10 @@
           "filter": "mig0700 == 4",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 120,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9237,8 +9358,8 @@
       "question": "mig0800",
       "name": "mig0800",
       "label": "Do you speak . . . at home?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 233,
           "text": "Do you speak . . . at home?",
           "text_de": "Sprechen Sie zuhause ...",
@@ -9284,9 +9405,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 121,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9295,8 +9417,8 @@
       "question": "mig0801",
       "name": "mig0801",
       "label": "Do you speak . . . at home?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 234,
           "text": "Do you speak . . . at home?",
           "text_de": "Sprechen Sie zuhause . . . (offene Angabe)",
@@ -9304,9 +9426,10 @@
           "filter": "mig0800 == 3",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 122,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9315,8 +9438,8 @@
       "question": "mig0802",
       "name": "mig0802",
       "label": "Do you speak . . . at home?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 235,
           "text": "Do you speak . . . at home?",
           "text_de": "Sprechen Sie zuhause . . . (offene Angabe)",
@@ -9324,9 +9447,10 @@
           "filter": "mig0800 == 4",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 123,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9335,8 +9459,8 @@
       "question": "mig0803",
       "name": "mig0803",
       "label": "Do you speak . . . at home?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 236,
           "text": "Do you speak . . . at home?",
           "text_de": "Sprechen Sie zuhause . . . (offene Angabe)",
@@ -9344,9 +9468,10 @@
           "filter": "mig0800 == 5",
           "description": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
           "description_de": "SOEP Core ll (Lebenslauffragebogen) 2014\npanel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 124,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9355,17 +9480,18 @@
       "question": "pas0200m",
       "name": "pas0200m",
       "label": "How often do the following things usually happen between you and [name mother]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 237,
           "text": "How often do the following things usually happen between you and [name mother]?",
           "text_de": "Im Folgenden moechte ich Dich ein paar Dinge zu Dir und Deiner Familie fragen. Wir fangen an mit Fragen zu Deiner Mutter [Name]. Es gibt keine richtigen und falschen Antworten, bitte sag mir einfach, wie Du darueber denkst. Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und Deiner Mutter [Name] vor?",
           "scale": "txt",
           "filter": "age < 10 & bas0200 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 238,
           "text": "Your mother shows you that she likes you.",
           "text_de": "Deine Mutter zeigt Dir, dass sie Dich gerne hat.",
@@ -9400,8 +9526,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 239,
           "text": "Your mother praises you.",
           "text_de": "Deine Mutter lobt Dich.",
@@ -9436,8 +9562,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 240,
           "text": "Your mother tries to cheer you up when you are sad.",
           "text_de": "Deine Mutter troestet Dich, wenn Du traurig bist.",
@@ -9472,8 +9598,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 241,
           "text": "Your mother gives you advice regarding your personal problems.",
           "text_de": "Deine Mutter unterstuetzt Dich, wenn Du ein Problem hast.",
@@ -9508,8 +9634,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 242,
           "text": "Your mother punishes you when you do something against her will.",
           "text_de": "Deine Mutter bestraft Dich, wenn Du etwas gegen ihren Willen tust.",
@@ -9544,8 +9670,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 243,
           "text": "Your mother is disappointed and sad because you misbehaved.",
           "text_de": "Deine Mutter ist enttaeuscht und traurig, wenn Du Dich schlecht benommen hast.",
@@ -9580,8 +9706,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 244,
           "text": "Your mother makes it clear to you that you are not to break the rules or question her decisions.",
           "text_de": "Deine Mutter gibt Dir zu verstehen, dass Du Dich ihren Anordnungen nicht widersetzen sollst.",
@@ -9616,8 +9742,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 245,
           "text": "Your mother yells at you because you did something wrong.",
           "text_de": "Deine Mutter schreit Dich an, wenn Du etwas falsch gemacht hast.",
@@ -9652,8 +9778,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 246,
           "text": "Your mother scolds you because she is angry at you.",
           "text_de": "Deine Mutter beschimpft Dich, wenn sie wuetend auf Dich ist.",
@@ -9688,8 +9814,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 247,
           "text": "When you make new friends, your mother talks to you about them.",
           "text_de": "Wenn Du neue Freunde hast, unterhaelt sich Deine Mutter mit Dir ueber diese Freunde.",
@@ -9724,8 +9850,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 248,
           "text": "When you make new friends, your mother gets to know them soon thereafter.",
           "text_de": "Wenn Du neue Freunde hast, lernt Deine Mutter diese auch bald kennen.",
@@ -9760,8 +9886,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 249,
           "text": "Your mother threatens you with a punishment but does not actually follows through.",
           "text_de": "Deine Mutter droht Dir eine Strafe an, straft Dich dann aber doch nicht.",
@@ -9796,8 +9922,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 250,
           "text": "Your mother finds it hard to set and keep consistent rules for you.",
           "text_de": "Deiner Mutter faellt es schwer, in ihrer Erziehung konsequent zu sein (z.B. auf die Einhaltung von vereinbarten Regeln oder Verbote zu achten).",
@@ -9832,7 +9958,7 @@
           ],
           "sn": 13
         }
-      },
+      ],
       "sn": 125,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -9841,17 +9967,18 @@
       "question": "pas0200n",
       "name": "pas0200n",
       "label": "How often do the following things usually happen between you and [name stepmother]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 251,
           "text": "How often do the following things usually happen between you and [name stepmother]?",
           "text_de": "Im Folgenden moechte ich Dich ein paar Dinge zu Dir und Deiner Familie fragen. Wir fangen an mit Fragen zu [Name der Stiefmutter]. Es gibt keine richtigen und falschen Antworten, bitte sag mir einfach, wie Du darueber denkst. Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und [Name der Stiefmutter] vor?",
           "scale": "txt",
           "filter": "age < 10 & bas0401 == \"Stiefmutter\"",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 252,
           "text": "[name stepmother] shows you that she likes you.",
           "text_de": "[Name der Stiefmutter] zeigt Dir, dass sie Dich gerne hat.",
@@ -9886,8 +10013,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 253,
           "text": "[name stepmother] praises you.",
           "text_de": "[Name der Stiefmutter] lobt Dich.",
@@ -9922,8 +10049,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 254,
           "text": "[name stepmother] tries to cheer you up when you are sad.",
           "text_de": "[Name der Stiefmutter] troestet Dich, wenn Du traurig bist.",
@@ -9958,8 +10085,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 255,
           "text": "[name of stepmother] gives you advice regarding your personal problems.",
           "text_de": "[Name der Stiefmutter] unterstuetzt Dich, wenn Du ein Problem hast.",
@@ -9994,8 +10121,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 256,
           "text": "[name stepmother] punishes you when you do something against her will.",
           "text_de": "[Name der Stiefmutter] bestraft Dich, wenn Du etwas gegen ihren Willen tust.",
@@ -10030,8 +10157,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 257,
           "text": "[name stepmother] is disappointed and sad because you misbehaved.",
           "text_de": "[Name der Stiefmutter] ist enttaeuscht und traurig, wenn Du Dich schlecht benommen hast.",
@@ -10066,8 +10193,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 258,
           "text": "[name stepmother] makes it clear to you that you are not to break the rules or question her decisions.",
           "text_de": "[Name der Stiefmutter] gibt Dir zu verstehen, dass Du Dich ihren Anordnungen nicht widersetzen sollst.",
@@ -10102,8 +10229,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 259,
           "text": "[name stepmother] yells at you because you did something wrong.",
           "text_de": "[Name der Stiefmutter] schreit Dich an, wenn Du etwas falsch gemacht hast.",
@@ -10138,8 +10265,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 260,
           "text": "[name stepmother] scolds you because she is angry at you.",
           "text_de": "[Name der Stiefmutter] beschimpft Dich, wenn sie wuetend auf Dich ist.",
@@ -10174,8 +10301,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 261,
           "text": "When you make new friends, [name stepmother] talks to you about them.",
           "text_de": "Wenn Du neue Freunde hast, unterhaelt sich [Name der Stiefmutter] mit Dir ueber diese Freunde.",
@@ -10210,8 +10337,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 262,
           "text": "When you make new friends, [name stepmother] gets to know them soon thereafter.",
           "text_de": "Wenn Du neue Freunde hast, lernt [Name der Stiefmutter] diese auch bald kennen.",
@@ -10246,8 +10373,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 263,
           "text": "[name stepmother] threatens you with a punishment but does not actually follows through.",
           "text_de": "[Name der Stiefmutter] droht Dir eine Strafe an, straft Dich dann aber doch nicht.",
@@ -10282,8 +10409,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 264,
           "text": "[name stepmother] finds it hard to set and keep consistent rules for you.",
           "text_de": "[Name der Stiefmutter] faellt es schwer, in ihrer Erziehung konsequent zu sein (z.B. auf die Einhaltung von vereinbarten Regeln oder Verbote zu achten).",
@@ -10318,7 +10445,7 @@
           ],
           "sn": 13
         }
-      },
+      ],
       "sn": 126,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -10327,17 +10454,18 @@
       "question": "pas0200f",
       "name": "pas0200f",
       "label": "How often do the following things usually happen between you and [name father]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 265,
           "text": "How often do the following things usually happen between you and [name father]?",
           "text_de": "Nun moechte ich Dir noch ein paar Fragen zu Deinem Vater [Name] stellen. Auch hier gibt es keine richtigen oder falschen Antworten, sag mir einfach, wie Du darueber denkst. Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und Deinem Vater [Name] vor?",
           "scale": "txt",
           "filter": "age < 10 & bas0300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 266,
           "text": "Your father shows you that he likes you.",
           "text_de": "Dein Vater zeigt Dir, dass er Dich gerne hat.",
@@ -10372,8 +10500,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 267,
           "text": "Your father praises you.",
           "text_de": "Dein Vater lobt Dich.",
@@ -10408,8 +10536,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 268,
           "text": "Your father tries to cheer you up when you are sad.",
           "text_de": "Dein Vater troestet Dich, wenn Du traurig bist.",
@@ -10444,8 +10572,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 269,
           "text": "Your father gives you advice regarding your personal problems.",
           "text_de": "Dein Vater unterstuetzt Dich, wenn Du ein Problem hast.",
@@ -10480,8 +10608,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 270,
           "text": "Your father punishes you when you do something against his will.",
           "text_de": "Dein Vater bestraft Dich, wenn Du etwas gegen seinen Willen tust.",
@@ -10516,8 +10644,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 271,
           "text": "Your father is disappointed and sad because you misbehaved.",
           "text_de": "Dein Vater ist enttaeuscht und traurig, wenn Du Dich schlecht benommen hast.",
@@ -10552,8 +10680,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 272,
           "text": "Your father makes it clear to you that you are not to break the rules or question his decisions.",
           "text_de": "Dein Vater gibt Dir zu verstehen, dass Du Dich seinen Anordnungen nicht widersetzen sollst.",
@@ -10588,8 +10716,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 273,
           "text": "Your father yells at you because you did something wrong.",
           "text_de": "Dein Vater schreit Dich an, wenn Du etwas falsch gemacht hast.",
@@ -10624,8 +10752,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 274,
           "text": "Your father scolds you because he is angry at you.",
           "text_de": "Dein Vater beschimpft Dich, wenn er wuetend auf Dich ist.",
@@ -10660,8 +10788,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 275,
           "text": "When you make new friends, your father talks to you about them.",
           "text_de": "Wenn Du neue Freunde hast, unterhaelt sich Dein Vater mit Dir ueber diese Freunde.",
@@ -10696,8 +10824,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 276,
           "text": "When you make new friends, your father gets to know them soon thereafter.",
           "text_de": "Wenn Du neue Freunde hast, lernt Dein Vater diese auch bald kennen.",
@@ -10732,8 +10860,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 277,
           "text": "Your father threatens you with a punishment but does not actually follows through.",
           "text_de": "Dein Vater droht Dir eine Strafe an, straft Dich dann aber doch nicht.",
@@ -10768,8 +10896,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 278,
           "text": "Your father finds it hard to set and keep consistent rules for you.",
           "text_de": "Deinem Vater faellt es schwer, in seiner Erziehung konsequent zu sein (z.B. auf die Einhaltung von vereinbarten Regeln oder Verbote zu achten).",
@@ -10804,7 +10932,7 @@
           ],
           "sn": 13
         }
-      },
+      ],
       "sn": 127,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -10813,17 +10941,18 @@
       "question": "pas0200g",
       "name": "pas0200g",
       "label": "How often do the following things usually happen between you and [name stepfather]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 279,
           "text": "How often do the following things usually happen between you and [name stepfather]?",
           "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Dir und [Name des Stiefvaters] vor?",
           "scale": "txt",
           "filter": "age < 10 & bas0400 == \"Stiefvater\"",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 280,
           "text": "[name stepfather] shows you that he likes you.",
           "text_de": "[Name des Stiefvaters] zeigt Dir, dass er Dich gerne hat.",
@@ -10858,8 +10987,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 281,
           "text": "[name stepfather] praises you.",
           "text_de": "[Name des Stiefvaters] lobt Dich.",
@@ -10894,8 +11023,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 282,
           "text": "[name stepfather] tries to cheer you up when you are sad.",
           "text_de": "[Name des Stiefvaters] troestet Dich, wenn Du traurig bist.",
@@ -10930,8 +11059,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 283,
           "text": "[name of stepfather] gives you advice regarding your personal problems.",
           "text_de": "[Name des Stiefvaters] unterstuetzt Dich, wenn Du ein Problem hast.",
@@ -10966,8 +11095,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 284,
           "text": "[name stepfather] punishes you when you do something against his will.",
           "text_de": "[Name des Stiefvaters] bestraft Dich, wenn Du etwas gegen seinen Willen tust.",
@@ -11002,8 +11131,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 285,
           "text": "[name stepfather] is disappointed and sad because you misbehaved.",
           "text_de": "[Name des Stiefvaters] ist enttaeuscht und traurig, wenn Du Dich schlecht benommen hast.",
@@ -11038,8 +11167,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 286,
           "text": "[name stepfather] makes it clear to you that you are not to break the rules or question his decisions.",
           "text_de": "[Name des Stiefvaters] gibt Dir zu verstehen, dass Du Dich seinen Anordnungen nicht widersetzen sollst.",
@@ -11074,8 +11203,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 287,
           "text": "[name stepfather] yells at you because you did something wrong.",
           "text_de": "[Name des Stiefvaters] schreit Dich an, wenn Du etwas falsch gemacht hast.",
@@ -11110,8 +11239,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 288,
           "text": "[name stepfather] scolds you because he is angry at you.",
           "text_de": "[Name des Stiefvaters] beschimpft Dich, wenn er wuetend auf Dich ist.",
@@ -11146,8 +11275,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 289,
           "text": "When you make new friends, [name stepfather] talks to you about them.",
           "text_de": "Wenn Du neue Freunde hast, unterhaelt sich [Name des Stiefvaters] mit Dir ueber diese Freunde.",
@@ -11182,8 +11311,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 290,
           "text": "When you make new friends, [name stepfather] gets to know them soon thereafter.",
           "text_de": "Wenn Du neue Freunde hast, lernt [Name des Stiefvaters] diese auch bald kennen.",
@@ -11218,8 +11347,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 291,
           "text": "[name stepfather] threatens you with a punishment but does not actually follows through.",
           "text_de": "[Name des Stiefvaters] droht Dir eine Strafe an, straft Dich dann aber doch nicht.",
@@ -11254,8 +11383,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 292,
           "text": "[name stepfather] finds it hard to set and keep consistent rules for you.",
           "text_de": "[Name Stiefvater] faellt es schwer, in seiner Erziehung konsequent zu sein (z.B. auf die Einhaltung von vereinbarten Regeln oder Verbote zu achten).",
@@ -11290,7 +11419,7 @@
           ],
           "sn": 13
         }
-      },
+      ],
       "sn": 128,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11299,8 +11428,8 @@
       "question": "tsp0100",
       "name": "tsp0100",
       "label": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 293,
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
           "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
@@ -11344,9 +11473,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 129,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11355,8 +11485,8 @@
       "question": "tsp0100_2",
       "name": "tsp0100_2",
       "label": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 294,
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
           "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden? Wenn die Zwillinge schon aelter sind, denken Sie bitte an die Kindheit der Zwillinge zurueck.",
@@ -11400,9 +11530,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 130,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11411,8 +11542,8 @@
       "question": "tsp0101",
       "name": "tsp0101",
       "label": "Up to what age (of the twins) did they do that?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 295,
           "text": "Up to what age (of the twins) did they do that?",
           "text_de": "Bis zu welchem Alter (der Zwillinge) haben Sie das getan?",
@@ -11436,9 +11567,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 131,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11447,8 +11579,8 @@
       "question": "tsp0200",
       "name": "tsp0200",
       "label": "Do the twins (currently) share more or less the same hobbies and interests?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 296,
           "text": "Do the twins (currently) share more or less the same hobbies and interests?",
           "text_de": "Teilen die Zwillinge (aktuell) in etwa die gleichen Hobbies und Interessen?",
@@ -11482,9 +11614,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 132,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11493,8 +11626,8 @@
       "question": "tsp0300",
       "name": "tsp0300",
       "label": "How close would you say the twins are?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 297,
           "text": "How close would you say the twins are?",
           "text_de": "Was wuerden Sie sagen: Wie eng ist das Verhaeltnis der Zwillinge zueinander?",
@@ -11533,9 +11666,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 133,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11544,8 +11678,8 @@
       "question": "tsp0400",
       "name": "tsp0400",
       "label": "Are you sometimes unable to tell the twins apart?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 298,
           "text": "Are you sometimes unable to tell the twins apart?",
           "text_de": "Verwechseln Sie selbst die Zwillinge?",
@@ -11584,9 +11718,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 134,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11595,8 +11730,8 @@
       "question": "tsp0400_2",
       "name": "tsp0400_2",
       "label": "Are you sometimes unable to tell the twins apart?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 299,
           "text": "Are you sometimes unable to tell the twins apart?",
           "text_de": "Haben Sie selbst die Zwillinge im fruehen Kindesalter verwechselt? Sofern ein neuer Partner/Stiefelternteil angibt, die Zwillinge im Kindesalter noch nicht gekannt zu haben, dann bitte \"weiss nicht\" eingeben.",
@@ -11635,9 +11770,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 135,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11646,17 +11782,18 @@
       "question": "dev0100",
       "name": "dev0100",
       "label": "What about you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 300,
           "text": "What about you?",
           "text_de": "Wie ist es bei Dir?",
           "scale": "txt",
           "filter": "age < 10",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 301,
           "text": "Would you say that you are NEVER angry, SOMETIMES angry or VERY OFTEN angry?",
           "text_de": "Wuerdest du sagen, dass du NIE wuetend bist, MANCHMAL wuetend bist oder GANZ OFT wuetend bist?",
@@ -11691,8 +11828,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 302,
           "text": "Would you say that you NEVER listen to your parents, SOMETIMES listen to your parents or VERY OFTEN listen to your parents?",
           "text_de": "Wuerdest Du sagen, dass du NIE auf Deine Eltern hoerst, MANCHMAL auf Deine Eltern hoerst oder GANZ OFT auf Deine Eltern hoerst?",
@@ -11727,8 +11864,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 303,
           "text": "Would you say that you NEVER have arguments with other children, SOMETIMES have arguments with other children or VERY OFTEN have arguments with other children.",
           "text_de": "Wuerdest Du sagen, dass Du Dich NIE mit anderen Kindern streitest, MANCHMAL mit anderen Kindern streitest, oder GANZ OFT mit anderen Kindern streitest?",
@@ -11763,8 +11900,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 304,
           "text": "Would you say that you NEVER cheat or lie, sometimes cheat or lie, or very often cheat or lie?",
           "text_de": "Wuerdest Du sagen, dass Du NIE mogelst oder luegst, MANCHMAL mogelst oder luegst, oder GANZ OFT mogelst oder luegst?",
@@ -11799,7 +11936,7 @@
           ],
           "sn": 4
         }
-      },
+      ],
       "sn": 136,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -11808,17 +11945,18 @@
       "question": "sre0500",
       "name": "sre0500",
       "label": "What about you and [name of other twin]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 305,
           "text": "What about you and [name of other twin]?",
           "text_de": "Wie ist es bei Dir und [Name des anderen Zwillings]?",
           "scale": "txt",
           "filter": "age < 10 & (ptyp == 1 | ptyp == 2)",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 306,
           "text": "What about doing nice things like helping or doing favors for [name of other twin]? How often do you do these kind of things?",
           "text_de": "Manche Kinder tun fuer ihre Geschwister etwas Nettes wie z.B. ihnen zu helfen oder ihnen einen Gefallen zu tun. Wie oft tust Du solche netten Dinge fuer [Name des anderen Zwillings]?",
@@ -11853,8 +11991,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 307,
           "text": "Most children are affectionate with their brother or sister sometimes even though they fight at other times. How often are you physically affectionate with [name of other twin] (such as by hugging, kissing, holding hands)?",
           "text_de": "Manche Kinder gehen liebevoll mit ihrem Bruder/ihrer Schwester um, auch wenn sie manchmal streiten. Wie oft bist Du liebevoll/zaertlich zu [Name des anderen Zwillings], z.B. indem Du ihn/sie umarmst, kuesst oder seine/ihre Hand haeltst?",
@@ -11889,8 +12027,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 308,
           "text": "How about if [name of other twin] is hurt or upset, how often do you try to make [target sibling] feel better?",
           "text_de": "Wie ist das, wenn [Name des anderen Zwillings] sich wehgetan hat oder traurig ist, wie oft versuchst Du [Name des anderen Zwillings] zu troesten?",
@@ -11925,8 +12063,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 309,
           "text": "Some children share secrets with their brothers and sisters and other children don't. How often do you share secrets with [name of other twin]?",
           "text_de": "Kinder haben manchmal Geheimnisse. Wie oft erzaehlst Du [Name des anderen Zwillings] Deine Geheimnisse?",
@@ -11961,8 +12099,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 310,
           "text": "Brothers and sisters sometimes cause trouble or start fights or arguments with one another, even if they love each other a lot. How often would you say that you start fights or cause trouble for [name of other twin]?",
           "text_de": "Brueder und Schwestern fangen manchmal einen Streit oder eine Rauferei miteinander an, auch wenn sie sich eigentlich sehr lieb haben. Was wuerdest Du sagen, wie oft zettelst Du einen Streit an oder bringst [Name des anderen Zwillings] in Schwierigkeiten?",
@@ -11997,8 +12135,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 311,
           "text": "How often do you feel mad or angry at [name of other twin]?",
           "text_de": "Wie oft bist Du boese oder wuetend auf [Name des anderen Zwillings]?",
@@ -12033,8 +12171,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 312,
           "text": "Children sometimes hurt their brother or sister on purpose like by pushing, punching or hitting him or her. How often do you do these kind of things to [name of other twin]?",
           "text_de": "Kinder tun ihren Geschwistern manchmal absichtlich weh, indem sie sie z.B. schubsen, hauen oder kneifen. Wie oft machst Du so etwas bei [Name des anderen Zwillings]?",
@@ -12069,8 +12207,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 313,
           "text": "Some children are mean to their brothers or sisters sometimes, even if they really care about them. How often would you say you do things to [name of other twin] like tease, bug or call him or her names?",
           "text_de": "Manche Kinder sind manchmal gemein zu ihrem Bruder/ihrer Schwester, auch wenn sie ihn/sie wirklich lieb haben. Was wuerdest Du sagen, wie oft tust Du solche Dinge, wie [Name des anderen Zwillings] aergern, oder sie/ihn aufzuziehen?",
@@ -12105,8 +12243,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 314,
           "text": "Many kids complain that their mothers aren't fair about how they treat them compared to how their mothers treat their brothers and sisters. How is this for you? How often do you feel that your mother treats [name of other twin] better than she treats you?",
           "text_de": "Manche Kinder beschweren sich darueber, dass ihre Muetter sie und ihren Bruder/ihre Schwester nicht gleich behandeln. Wie ist das bei Dir? Wie oft hast Du das Gefuehl, dass Deine Mutter [Name des anderen Zwillings] besser behandelt als Dich?",
@@ -12141,8 +12279,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 315,
           "text": "How about with your father? How often do you feel that he treats [name of other twin] better than he treats you?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft hast Du das Gefuehl, dass er [Name des anderen Zwillings] besser behandelt als Dich?",
@@ -12177,8 +12315,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 316,
           "text": "How about with your mother? How often do you feel sort of jealous about your mother's attention or affection toward [name of other twin]?",
           "text_de": "Wie ist es mit Deiner Mutter? Wie oft fuehlst Du so etwas wie Eifersucht, wenn Deine Mutter [Name des anderen Zwillings] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -12213,8 +12351,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 317,
           "text": "How about with your father? How often do you feel sort of jealous about your father's attention or affection toward [name of other twin]?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft fuehlst Du so etwas wie Eifersucht, wenn dein Vater [Name des anderen Zwillings] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -12249,7 +12387,7 @@
           ],
           "sn": 12
         }
-      },
+      ],
       "sn": 137,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -12258,17 +12396,18 @@
       "question": "sre0500s",
       "name": "sre0500s",
       "label": "What about you and [name of other sibling]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 318,
           "text": "What about you and [name of other sibling]?",
           "text_de": "Wie ist es bei Dir und [Name des befragten Geschwisters einblenden]?",
           "scale": "txt",
           "filter": "age < 10 & (ptyp == 1 | ptyp == 2) & bas0104 == \"Geschwister\"",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 319,
           "text": "What about doing nice things like helping or doing favors for [name of sibling]? How often do you do these kind of things?",
           "text_de": "Manche Kinder tun fuer ihre Geschwister etwas Nettes wie z.B. ihnen zu helfen oder ihnen einen Gefallen zu tun. Wie oft tust Du solche netten Dinge fuer [Name des befragten Geschwisters]?",
@@ -12303,8 +12442,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 320,
           "text": "Most children are affectionate with their brother or sister sometimes even though they fight at other times. How often are you physically affectionate with [name of sibling] (such as by hugging, kissing, holding hands)?",
           "text_de": "Manche Kinder gehen liebevoll mit ihrem Bruder/ihrer Schwester um, auch wenn sie manchmal streiten. Wie oft bist Du liebevoll/zaertlich zu [Name des befragten Geschwisters], z.B. indem Du ihn/sie umarmst, kuesst oder seine/ihre Hand haeltst?",
@@ -12339,8 +12478,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 321,
           "text": "How about if [name of sibling] is hurt or upset, how often do you try to make [target sibling] feel better?",
           "text_de": "Wie ist das, wenn [Name des befragten Geschwisters] sich wehgetan hat oder traurig ist, wie oft versuchst Du [Name des befragten Geschwisters] zu troesten?",
@@ -12375,8 +12514,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 322,
           "text": "Some children share secrets with their brothers and sisters and other children don't. How often do you share secrets with [name of sibling]?",
           "text_de": "Kinder haben manchmal Geheimnisse. Wie oft erzaehlst Du [Name des befragten Geschwisters] Deine Geheimnisse?",
@@ -12411,8 +12550,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 323,
           "text": "Brothers and sisters sometimes cause trouble or start fights or arguments with one another, even if they love each other a lot. How often would you say that you start fights or cause trouble for [name of sibling]?",
           "text_de": "Brueder und Schwestern fangen manchmal einen Streit oder eine Rauferei miteinander an, auch wenn sie sich eigentlich sehr lieb haben. Was wuerdest Du sagen, wie oft zettelst Du einen Streit an oder bringst [Name des befragten Geschwisters] in Schwierigkeiten?",
@@ -12447,8 +12586,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 324,
           "text": "How often do you feel mad or angry at [name of sibling]?",
           "text_de": "Wie oft bist Du boese oder wuetend auf [Name des befragten Geschwisters]?",
@@ -12483,8 +12622,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 325,
           "text": "Children sometimes hurt their brother or sister on purpose like by pushing, punching or hitting him or her. How often do you do these kind of things to [name of sibling]?",
           "text_de": "Kinder tun ihren Geschwistern manchmal absichtlich weh, indem sie sie z.B. schubsen, hauen oder kneifen. Wie oft machst Du so etwas bei [Name des befragten Geschwisters]?",
@@ -12519,8 +12658,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 326,
           "text": "Some children are mean to their brothers or sisters sometimes, even if they really care about them. How often would you say you do things to [name of sibling] like tease, bug or call him or her names?",
           "text_de": "Manche Kinder sind manchmal gemein zu ihrem Bruder/ihrer Schwester, auch wenn sie ihn/sie wirklich lieb haben. Was wuerdest Du sagen, wie oft tust Du solche Dinge, wie [Name des befragten Geschwisters] aergern, oder sie/ihn aufzuziehen?",
@@ -12555,8 +12694,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 327,
           "text": "Many kids complain that their mothers aren't fair about how they treat them compared to how their mothers treat their brothers and sisters. How is this for you? How often do you feel that your mother treats [name of sibling] better than she treats you?",
           "text_de": "Manche Kinder beschweren sich darueber, dass ihre Muetter sie und ihren Bruder/ihre Schwester nicht gleich behandeln. Wie ist das bei Dir? Wie oft hast Du das Gefuehl, dass Deine Mutter [Name des befragten Geschwisters] besser behandelt als Dich?",
@@ -12591,8 +12730,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 328,
           "text": "How about with your father? How often do you feel that he treats [name of sibling] better than he treats you?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft hast Du das Gefuehl, dass er [Name des befragten Geschwisters] besser behandelt als Dich?",
@@ -12627,8 +12766,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 329,
           "text": "How about with your mother? How often do you feel sort of jealous about your mother's attention or affection toward [name of sibling]?",
           "text_de": "Wie ist es mit Deiner Mutter? Wie oft fuehlst Du so etwas wie Eifersucht, wenn Deine Mutter [Name des befragten Geschwisters] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -12663,8 +12802,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 330,
           "text": "How about with your father? How often do you feel sort of jealous about your father's attention or affection toward [name of sibling]?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft fuehlst Du so etwas wie Eifersucht, wenn dein Vater [Name des befragten Geschwisters] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -12699,7 +12838,7 @@
           ],
           "sn": 12
         }
-      },
+      ],
       "sn": 138,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -12708,17 +12847,18 @@
       "question": "sre0500t",
       "name": "sre0500t",
       "label": "What about you and [name of other twin 1]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 331,
           "text": "What about you and [name of other twin 1]?",
           "text_de": "Wie ist es bei Dir und [Name des Zwilling 1]?",
           "scale": "txt",
           "filter": "age < 10 & ptyp == 200",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 332,
           "text": "What about doing nice things like helping or doing favors for [name of twin 1]? How often do you do these kind of things?",
           "text_de": "Manche Kinder tun fuer ihre Geschwister etwas Nettes wie z.B. ihnen zu helfen oder ihnen einen Gefallen zu tun. Wie oft tust Du solche netten Dinge fuer [Name Zwilling 1]?",
@@ -12753,8 +12893,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 333,
           "text": "Most children are affectionate with their brother or sister sometimes even though they fight at other times. How often are you physically affectionate with [name of twin 1] (such as by hugging, kissing, holding hands)?",
           "text_de": "Manche Kinder gehen liebevoll mit ihrem Bruder/ihrer Schwester um, auch wenn sie manchmal streiten. Wie oft bist Du liebevoll/zaertlich zu [Name Zwilling 1], z.B. indem Du ihn/sie umarmst, kuesst oder seine/ihre Hand haeltst?",
@@ -12789,8 +12929,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 334,
           "text": "How about if [name of twin 1] is hurt or upset, how often do you try to make [target sibling] feel better?",
           "text_de": "Wie ist das, wenn [Name Zwilling 1] sich wehgetan hat oder traurig ist, wie oft versuchst Du [Name Zwilling 1] zu troesten?",
@@ -12825,8 +12965,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 335,
           "text": "Some children share secrets with their brothers and sisters and other children don't. How often do you share secrets with [name of twin 1]?",
           "text_de": "Kinder haben manchmal Geheimnisse. Wie oft erzaehlst Du [Name Zwilling 1] Deine Geheimnisse?",
@@ -12861,8 +13001,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 336,
           "text": "Brothers and sisters sometimes cause trouble or start fights or arguments with one another, even if they love each other a lot. How often would you say that you start fights or cause trouble for [name of twin 1]?",
           "text_de": "Brueder und Schwestern fangen manchmal einen Streit oder eine Rauferei miteinander an, auch wenn sie sich eigentlich sehr lieb haben. Was wuerdest Du sagen, wie oft zettelst Du einen Streit an oder bringst [Name Zwilling 1] in Schwierigkeiten?",
@@ -12897,8 +13037,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 337,
           "text": "How often do you feel mad or angry at [name of twin 1]?",
           "text_de": "Wie oft bist Du boese oder wuetend auf [Name Zwilling 1]?",
@@ -12933,8 +13073,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 338,
           "text": "Children sometimes hurt their brother or sister on purpose like by pushing, punching or hitting him or her. How often do you do these kind of things to [name of twin 1]?",
           "text_de": "Kinder tun ihren Geschwistern manchmal absichtlich weh, indem sie sie z.B. schubsen, hauen oder kneifen. Wie oft machst Du so etwas bei [Name Zwilling 1]?",
@@ -12969,8 +13109,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 339,
           "text": "Some children are mean to their brothers or sisters sometimes, even if they really care about them. How often would you say you do things to [name of twin 1] like tease, bug or call him or her names?",
           "text_de": "Manche Kinder sind manchmal gemein zu ihrem Bruder/ihrer Schwester, auch wenn sie ihn/sie wirklich lieb haben. Was wuerdest Du sagen, wie oft tust Du solche Dinge, wie [Name Zwilling 1] aergern, oder sie/ihn aufzuziehen?",
@@ -13005,8 +13145,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 340,
           "text": "Many kids complain that their mothers aren't fair about how they treat them compared to how their mothers treat their brothers and sisters. How is this for you? How often do you feel that your mother treats [name of twin 1] better than she treats you?",
           "text_de": "Manche Kinder beschweren sich darueber, dass ihre Muetter sie und ihren Bruder/ihre Schwester nicht gleich behandeln. Wie ist das bei Dir? Wie oft hast Du das Gefuehl, dass Deine Mutter [Name Zwilling 1] besser behandelt als Dich?",
@@ -13041,8 +13181,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 341,
           "text": "How about with your father? How often do you feel that he treats [name of twin 1] better than he treats you?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft hast Du das Gefuehl, dass er [Name Zwilling 1] besser behandelt als Dich?",
@@ -13077,8 +13217,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 342,
           "text": "How about with your mother? How often do you feel sort of jealous about your mother's attention or affection toward [name of twin 1]?",
           "text_de": "Wie ist es mit Deiner Mutter? Wie oft fuehlst Du so etwas wie Eifersucht, wenn Deine Mutter [Name Zwilling 1] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -13113,8 +13253,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 343,
           "text": "How about with your father? How often do you feel sort of jealous about your father's attention or affection toward [name of twin 1]?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft fuehlst Du so etwas wie Eifersucht, wenn dein Vater [Name Zwilling 1] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -13149,7 +13289,7 @@
           ],
           "sn": 12
         }
-      },
+      ],
       "sn": 139,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -13158,17 +13298,18 @@
       "question": "sre0500u",
       "name": "sre0500u",
       "label": "What about you and [name of other twin 2]?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 344,
           "text": "What about you and [name of other twin 2]?",
           "text_de": "Wie ist es bei Dir und [Name des Zwilling 2]?",
           "scale": "txt",
           "filter": "age < 10 & ptyp == 200",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 345,
           "text": "What about doing nice things like helping or doing favors for [name of twin 2]? How often do you do these kind of things?",
           "text_de": "Manche Kinder tun fuer ihre Geschwister etwas Nettes wie z.B. ihnen zu helfen oder ihnen einen Gefallen zu tun. Wie oft tust Du solche netten Dinge fuer [Name Zwilling 2]?",
@@ -13203,8 +13344,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 346,
           "text": "Most children are affectionate with their brother or sister sometimes even though they fight at other times. How often are you physically affectionate with [name of twin 2] (such as by hugging, kissing, holding hands)?",
           "text_de": "Manche Kinder gehen liebevoll mit ihrem Bruder/ihrer Schwester um, auch wenn sie manchmal streiten. Wie oft bist Du liebevoll/zaertlich zu [Name Zwilling 2], z.B. indem Du ihn/sie umarmst, kuesst oder seine/ihre Hand haeltst?",
@@ -13239,8 +13380,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 347,
           "text": "How about if [name of twin 2] is hurt or upset, how often do you try to make [target sibling] feel better?",
           "text_de": "Wie ist das, wenn [Name Zwilling 2] sich wehgetan hat oder traurig ist, wie oft versuchst Du [Name Zwilling 2] zu troesten?",
@@ -13275,8 +13416,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 348,
           "text": "Some children share secrets with their brothers and sisters and other children don't. How often do you share secrets with [name of twin 2]?",
           "text_de": "Kinder haben manchmal Geheimnisse. Wie oft erzaehlst Du [Name Zwilling 2] Deine Geheimnisse?",
@@ -13311,8 +13452,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 349,
           "text": "Brothers and sisters sometimes cause trouble or start fights or arguments with one another, even if they love each other a lot. How often would you say that you start fights or cause trouble for [name of twin 2]?",
           "text_de": "Brueder und Schwestern fangen manchmal einen Streit oder eine Rauferei miteinander an, auch wenn sie sich eigentlich sehr lieb haben. Was wuerdest Du sagen, wie oft zettelst Du einen Streit an oder bringst [Name Zwilling 2] in Schwierigkeiten?",
@@ -13347,8 +13488,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 350,
           "text": "How often do you feel mad or angry at [name of twin 2]?",
           "text_de": "Wie oft bist Du boese oder wuetend auf [Name Zwilling 2]?",
@@ -13383,8 +13524,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 351,
           "text": "Children sometimes hurt their brother or sister on purpose like by pushing, punching or hitting him or her. How often do you do these kind of things to [name of twin 2]?",
           "text_de": "Kinder tun ihren Geschwistern manchmal absichtlich weh, indem sie sie z.B. schubsen, hauen oder kneifen. Wie oft machst Du so etwas bei [Name Zwilling 2]?",
@@ -13419,8 +13560,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 352,
           "text": "Some children are mean to their brothers or sisters sometimes, even if they really care about them. How often would you say you do things to [name of twin 2] like tease, bug or call him or her names?",
           "text_de": "Manche Kinder sind manchmal gemein zu ihrem Bruder/ihrer Schwester, auch wenn sie ihn/sie wirklich lieb haben. Was wuerdest Du sagen, wie oft tust Du solche Dinge, wie [Name Zwilling 2] aergern, oder sie/ihn aufzuziehen?",
@@ -13455,8 +13596,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 353,
           "text": "Many kids complain that their mothers aren't fair about how they treat them compared to how their mothers treat their brothers and sisters. How is this for you? How often do you feel that your mother treats [name of twin 2] better than she treats you?",
           "text_de": "Manche Kinder beschweren sich darueber, dass ihre Muetter sie und ihren Bruder/ihre Schwester nicht gleich behandeln. Wie ist das bei Dir? Wie oft hast Du das Gefuehl, dass Deine Mutter [Name Zwilling 2] besser behandelt als Dich?",
@@ -13491,8 +13632,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 354,
           "text": "How about with your father? How often do you feel that he treats [name of twin 2] better than he treats you?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft hast Du das Gefuehl, dass er [Name Zwilling 2] besser behandelt als Dich?",
@@ -13527,8 +13668,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 355,
           "text": "How about with your mother? How often do you feel sort of jealous about your mother's attention or affection toward [name of twin 2]?",
           "text_de": "Wie ist es mit Deiner Mutter? Wie oft fuehlst Du so etwas wie Eifersucht, wenn Deine Mutter [Name Zwilling 2] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -13563,8 +13704,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 356,
           "text": "How about with your father? How often do you feel sort of jealous about your father's attention or affection toward [name of twin 2]?",
           "text_de": "Wie ist es mit Deinem Vater? Wie oft fuehlst Du so etwas wie Eifersucht, wenn dein Vater [Name Zwilling 2] Aufmerksamkeit oder Zuneigung schenkt?",
@@ -13599,7 +13740,7 @@
           ],
           "sn": 12
         }
-      },
+      ],
       "sn": 140,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -13608,8 +13749,8 @@
       "question": "panel",
       "name": "panel",
       "label": "The survey you are participating in is part of a long-term study of twins and their families. We would like to interview you again in about one year, probably by telephone. Of course, your participation in the telephone survey is voluntary. We adhere to all data protection laws and will not pass your address on to any third party. Would you be willing to participate in the twin survey again next year?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 357,
           "text": "The survey you are participating in is part of a long-term study of twins and their families. We would like to interview you again in about one year, probably by telephone. Of course, your participation in the telephone survey is voluntary. We adhere to all data protection laws and will not pass your address on to any third party. Would you be willing to participate in the twin survey again next year?",
           "text_de": "Alter 14 oder 15 Jahre: Die Befragung, an der Du aktuell teilnimmst, ist Bestandteil einer langfristig angelegten Studie ueber Zwillinge und deren Familien. Wir wuerden Dich daher gern in ungefaehr einem Jahr erneut befragen, wahrscheinlich ueber Telefon. Selbstverstaendlich waere die Teilnahme an der telefonischen Folgebefragung freiwillig und mit keinerlei Verpflichtung verbunden. Die Bestimmungen des Datenschutzes werden eingehalten, und wir versichern, dass Deine Adressinformationen nicht an Dritte weitergegeben werden. Bist Du bereit, die Zwillingsstudie auch weiterhin durch Deiner Mitarbeit zu unterstuetzen? / Alter ab 16 Jahre: Die Befragung, an der Sie aktuell teilnehmen, ist Bestandteil einer langfristig angelegten Studie ueber Zwillinge und deren Familien. Wir wuerden Sie daher gern in ungefaehr einem Jahr erneut befragen, wahrscheinlich ueber Telefon. Selbstverstaendlich waere die Teilnahme an der telefonischen Folgebefragung freiwillig und mit keinerlei Verpflichtung verbunden. Die Bestimmungen des Datenschutzes werden eingehalten, und wir versichern, dass Ihre Adressinformationen nicht an Dritte weitergegeben werden. Sind Sie bereit, die Zwillingsstudie auch weiterhin durch Ihre Mitarbeit zu unterstuetzen?",
@@ -13643,9 +13784,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 141,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"
@@ -13654,17 +13796,18 @@
       "question": "emp0501",
       "name": "emp0501",
       "label": "generated/assigned variable",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 358,
           "text": "generated/assigned variable",
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "kldb10_5",
           "scale": "cat",
           "filter": "emp0500 != \"\"",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 142,
       "instrument": "twinlife-2014-F2F_Modul3_Basismodul",
       "study": "twinlife"

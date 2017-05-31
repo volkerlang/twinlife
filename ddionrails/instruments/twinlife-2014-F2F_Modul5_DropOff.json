@@ -11,8 +11,8 @@
       "question": "she0100",
       "name": "she0100",
       "label": "How would you describe your state of health during the last 12 months, in general?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 7,
           "text": "How would you describe your state of health during the last 12 months, in general?",
           "text_de": "Wie wuerden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
@@ -60,9 +60,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 0,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -71,8 +72,8 @@
       "question": "doc0100",
       "name": "doc0100",
       "label": "Have you visited a doctor (or dentist) in the last 12 months? (This includes check-ups, visits to psychotherapists, health practitioners, chiropractors, etc.)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 8,
           "text": "Have you visited a doctor (or dentist) in the last 12 months? (This includes check-ups, visits to psychotherapists, health practitioners, chiropractors, etc.)",
           "text_de": "Haben Sie persoenlich in den letzten 12 Monaten Aerzte (inkl. Zahnarzt) aufgesucht? (Hiermit sind auch Vorsorgeuntersuchungen gemeint, Besuche bei Psychotherapeuten, Heilpraktikern, Chiropraktikern, o.Ae.)",
@@ -106,9 +107,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 1,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -117,8 +119,8 @@
       "question": "doc0101",
       "name": "doc0101",
       "label": "Please state the number of visits to doctors. (Note: total number in the last 12 months. If you are not sure, please estimate.)",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 9,
           "text": "Please state the number of visits to doctors. (Note: total number in the last 12 months. If you are not sure, please estimate.)",
           "text_de": "Geben Sie bitte an, wie haeufig das war.",
@@ -142,9 +144,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 2,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -153,8 +156,8 @@
       "question": "imp0100",
       "name": "imp0100",
       "label": "To what extent would you say your illness limits you in your everyday life?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 10,
           "text": "To what extent would you say your illness limits you in your everyday life?",
           "text_de": "In welchem Ausmass fuehlen Sie sich in Ihrem Alltag durch Erkrankungen beeintraechtigt?",
@@ -203,9 +206,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 3,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -214,17 +218,18 @@
       "question": "dia0100",
       "name": "dia0100",
       "label": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 11,
           "text": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
           "scale": "txt",
           "filter": "age >= 16",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 12,
           "text": "Sleeping disorders",
           "text_de": "Schlafstoerungen",
@@ -254,8 +259,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 13,
           "text": "Diabetes",
           "text_de": "Diabetes",
@@ -285,8 +290,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 14,
           "text": "Asthma",
           "text_de": "Asthma",
@@ -316,8 +321,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 15,
           "text": "Heart problems (also heart failure, congestive heart failure)",
           "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschwaeche)",
@@ -347,8 +352,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 16,
           "text": "Cancer",
           "text_de": "Krebserkrankungen",
@@ -378,8 +383,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 17,
           "text": "Stroke",
           "text_de": "Schlaganfall",
@@ -409,8 +414,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 18,
           "text": "Migraine",
           "text_de": "Migraene",
@@ -440,8 +445,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 19,
           "text": "High blood pressure",
           "text_de": "Bluthochdruck",
@@ -471,8 +476,8 @@
           ],
           "sn": 8
         },
-        "9.0": {
-          "item": 9.0,
+        {
+          "item": "9.0",
           "number": 20,
           "text": "Anxiety disorder",
           "text_de": "Angsterkrankung",
@@ -502,8 +507,8 @@
           ],
           "sn": 9
         },
-        "10.0": {
-          "item": 10.0,
+        {
+          "item": "10.0",
           "number": 21,
           "text": "Alcohol addiction",
           "text_de": "Alkoholerkrankung",
@@ -533,8 +538,8 @@
           ],
           "sn": 10
         },
-        "11.0": {
-          "item": 11.0,
+        {
+          "item": "11.0",
           "number": 22,
           "text": "Depression",
           "text_de": "Depressive Erkrankung",
@@ -564,8 +569,8 @@
           ],
           "sn": 11
         },
-        "12.0": {
-          "item": 12.0,
+        {
+          "item": "12.0",
           "number": 23,
           "text": "Joint diseases (also arthrosis, rhematism)",
           "text_de": "Gelenkerkrankung (auch Arthrose, Rheuma)",
@@ -595,8 +600,8 @@
           ],
           "sn": 12
         },
-        "13.0": {
-          "item": 13.0,
+        {
+          "item": "13.0",
           "number": 24,
           "text": "Chronic back pains",
           "text_de": "Chronische Rueckenbeschwerden",
@@ -626,8 +631,8 @@
           ],
           "sn": 13
         },
-        "14.0": {
-          "item": 14.0,
+        {
+          "item": "14.0",
           "number": 25,
           "text": "Physical disability",
           "text_de": "Koerperbehinderung",
@@ -657,8 +662,8 @@
           ],
           "sn": 14
         },
-        "15.0": {
-          "item": 15.0,
+        {
+          "item": "15.0",
           "number": 26,
           "text": "Other physical or psychological illness/disease",
           "text_de": "Sonstige koerperliche oder psychische Erkrankungen, und zwar. . .",
@@ -688,8 +693,8 @@
           ],
           "sn": 15
         },
-        "17.0": {
-          "item": 17.0,
+        {
+          "item": "17.0",
           "number": 28,
           "text": "No illness diagnosed",
           "text_de": "Keine Erkrankung festgestellt",
@@ -719,8 +724,8 @@
           ],
           "sn": 16
         },
-        "18.0": {
-          "item": 18.0,
+        {
+          "item": "18.0",
           "number": 29,
           "text": "Don't know",
           "text_de": "Weiss nicht",
@@ -750,7 +755,7 @@
           ],
           "sn": 17
         }
-      },
+      ],
       "sn": 4,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -759,16 +764,17 @@
       "question": "dia1600",
       "name": "dia1600",
       "label": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 27,
           "text": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
           "scale": "chr",
           "filter": "dia1500 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 5,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -777,17 +783,18 @@
       "question": "dia0102",
       "name": "dia0102",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 30,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0100 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 31,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -812,8 +819,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 32,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -838,8 +845,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 33,
           "text": "until today",
           "text_de": "bis heute",
@@ -864,7 +871,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 6,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -873,17 +880,18 @@
       "question": "dia0202",
       "name": "dia0202",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 34,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0200 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 35,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -908,8 +916,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 36,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -934,8 +942,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 37,
           "text": "until today",
           "text_de": "bis heute",
@@ -960,7 +968,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 7,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -969,17 +977,18 @@
       "question": "dia0302",
       "name": "dia0302",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 38,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 39,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1004,8 +1013,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 40,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1030,8 +1039,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 41,
           "text": "until today",
           "text_de": "bis heute",
@@ -1056,7 +1065,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 8,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1065,17 +1074,18 @@
       "question": "dia0402",
       "name": "dia0402",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 42,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0400 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 43,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1100,8 +1110,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 44,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1126,8 +1136,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 45,
           "text": "until today",
           "text_de": "bis heute",
@@ -1152,7 +1162,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 9,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1161,17 +1171,18 @@
       "question": "dia0502",
       "name": "dia0502",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 46,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0500 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 47,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1196,8 +1207,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 48,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1222,8 +1233,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 49,
           "text": "until today",
           "text_de": "bis heute",
@@ -1248,7 +1259,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 10,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1257,17 +1268,18 @@
       "question": "dia0602",
       "name": "dia0602",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 50,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0600 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 51,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1292,8 +1304,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 52,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1318,8 +1330,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 53,
           "text": "until today",
           "text_de": "bis heute",
@@ -1344,7 +1356,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 11,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1353,17 +1365,18 @@
       "question": "dia0702",
       "name": "dia0702",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 54,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0700 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 55,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1388,8 +1401,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 56,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1414,8 +1427,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 57,
           "text": "until today",
           "text_de": "bis heute",
@@ -1440,7 +1453,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 12,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1449,17 +1462,18 @@
       "question": "dia0802",
       "name": "dia0802",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 58,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0800 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 59,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1484,8 +1498,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 60,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1510,8 +1524,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 61,
           "text": "until today",
           "text_de": "bis heute",
@@ -1536,7 +1550,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 13,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1545,17 +1559,18 @@
       "question": "dia0902",
       "name": "dia0902",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 62,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia0900 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 63,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1580,8 +1595,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 64,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1606,8 +1621,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 65,
           "text": "until today",
           "text_de": "bis heute",
@@ -1632,7 +1647,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 14,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1641,17 +1656,18 @@
       "question": "dia1002",
       "name": "dia1002",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 66,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia1000 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 67,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1676,8 +1692,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 68,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1702,8 +1718,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 69,
           "text": "until today",
           "text_de": "bis heute",
@@ -1728,7 +1744,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 15,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1737,17 +1753,18 @@
       "question": "dia1102",
       "name": "dia1102",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 70,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia1100 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 71,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1772,8 +1789,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 72,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1798,8 +1815,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 73,
           "text": "until today",
           "text_de": "bis heute",
@@ -1824,7 +1841,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 16,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1833,17 +1850,18 @@
       "question": "dia1202",
       "name": "dia1202",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 74,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia1200 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 75,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1868,8 +1886,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 76,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1894,8 +1912,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 77,
           "text": "until today",
           "text_de": "bis heute",
@@ -1920,7 +1938,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 17,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -1929,17 +1947,18 @@
       "question": "dia1302",
       "name": "dia1302",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 78,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 79,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -1964,8 +1983,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 80,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -1990,8 +2009,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 81,
           "text": "until today",
           "text_de": "bis heute",
@@ -2016,7 +2035,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 18,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2025,17 +2044,18 @@
       "question": "dia1402",
       "name": "dia1402",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 82,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia1400 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 83,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -2060,8 +2080,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 84,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -2086,8 +2106,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 85,
           "text": "until today",
           "text_de": "bis heute",
@@ -2112,7 +2132,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 19,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2121,17 +2141,18 @@
       "question": "dia1502",
       "name": "dia1502",
       "label": "During what period did the illness occur?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 86,
           "text": "During what period did the illness occur?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt? Falls ja, von wann bis wann haben Sie unter der Erkrankung gelitten (Jahreszahlen)? Wenn Sie heute noch unter der Erkrankung leiden, geben Sie bitte an \"bis heute\".",
           "scale": "txt",
           "filter": "dia1500 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 87,
           "text": "from (year)",
           "text_de": "von (Jahr)",
@@ -2156,8 +2177,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 88,
           "text": "until (year)",
           "text_de": "bis (Jahr)",
@@ -2182,8 +2203,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 89,
           "text": "until today",
           "text_de": "bis heute",
@@ -2208,7 +2229,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 20,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2217,8 +2238,8 @@
       "question": "hbe0100",
       "name": "hbe0100",
       "label": "Do you smoke?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 90,
           "text": "Do you smoke?",
           "text_de": "Rauchen Sie?",
@@ -2267,9 +2288,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 21,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2278,8 +2300,8 @@
       "question": "hbe0101",
       "name": "hbe0101",
       "label": "How old were you when you started smoking (even if you didn't smoke much)?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 91,
           "text": "How old were you when you started smoking (even if you didn't smoke much)?",
           "text_de": "Wie alt waren Sie, als Sie mit dem Rauchen begonnen haben (wenn auch nur in kleinen Mengen)?",
@@ -2303,9 +2325,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 22,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2314,8 +2337,8 @@
       "question": "hbe0198",
       "name": "hbe0198",
       "label": "How old were you when you started smoking (even if you didn't smoke much)?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 92,
           "text": "How old were you when you started smoking (even if you didn't smoke much)?",
           "text_de": "Wie alt waren Sie, als Sie mit dem Rauchen begonnen haben (wenn auch nur in kleinen Mengen)?",
@@ -2344,9 +2367,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 23,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2355,8 +2379,8 @@
       "question": "hbe0102",
       "name": "hbe0102",
       "label": "Do you tend to smoke alone or with friends or acquaintances?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 93,
           "text": "Do you tend to smoke alone or with friends or acquaintances?",
           "text_de": "Rauchen Sie eher alleine oder in Gesellschaft von Bekannten oder Freunden?",
@@ -2390,9 +2414,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 24,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2401,8 +2426,8 @@
       "question": "hbe0200",
       "name": "hbe0200",
       "label": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 94,
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
           "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
@@ -2426,9 +2451,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 25,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2437,8 +2463,8 @@
       "question": "hbe0289",
       "name": "hbe0289",
       "label": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 95,
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
           "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
@@ -2462,9 +2488,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 26,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2473,8 +2500,8 @@
       "question": "hbe0201",
       "name": "hbe0201",
       "label": "Do you tend to drink alone or with friends or acquaintances?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 96,
           "text": "Do you tend to drink alone or with friends or acquaintances?",
           "text_de": "Trinken Sie eher alleine oder in Gesellschaft von Bekannten oder Freunden?",
@@ -2508,9 +2535,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 27,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2519,8 +2547,8 @@
       "question": "hbe0202",
       "name": "hbe0202",
       "label": "How often would you say that you drink \"a lot\"?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 97,
           "text": "How often would you say that you drink \"a lot\"?",
           "text_de": "Wie haeufig kommt es Ihrer Meinung nach vor, dass Sie \"viel\" trinken?",
@@ -2569,9 +2597,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 28,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2580,8 +2609,8 @@
       "question": "hbe0210",
       "name": "hbe0210",
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 98,
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
@@ -2605,9 +2634,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 29,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2616,8 +2646,8 @@
       "question": "hbe0218",
       "name": "hbe0218",
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 99,
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
@@ -2641,9 +2671,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 30,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2652,8 +2683,8 @@
       "question": "hbe0220",
       "name": "hbe0220",
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 100,
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
@@ -2677,9 +2708,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 31,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2688,8 +2720,8 @@
       "question": "hbe0228",
       "name": "hbe0228",
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 101,
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
@@ -2713,9 +2745,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 32,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2724,8 +2757,8 @@
       "question": "hbe0230",
       "name": "hbe0230",
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 102,
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
@@ -2749,9 +2782,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 33,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2760,8 +2794,8 @@
       "question": "hbe0238",
       "name": "hbe0238",
       "label": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 103,
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
           "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
@@ -2785,9 +2819,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 34,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2796,17 +2831,18 @@
       "question": "hbe0240",
       "name": "hbe0240",
       "label": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 104,
           "text": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
           "text_de": "Die folgenden Fragen beziehen sich nun auf die letzten 12 Monate. In welchem Ausmass haben Sie waehrend der letzten 12 Monate alkoholische Getraenke konsumiert?",
           "scale": "txt",
           "filter": "hbe0200 >= -98 & hbe0200 < 97",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 105,
           "text": "Beer (0.3 l)",
           "text_de": "Bier (0,3 l)",
@@ -2856,8 +2892,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 106,
           "text": "Wine (0.2 l)",
           "text_de": "Wein, Sekt (0,2 l)",
@@ -2907,8 +2943,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 107,
           "text": "Drinks with high alcohol content (e.g. Schnaps/spirits (2 cl), Longdrinks, cocktails (0.3 l))",
           "text_de": "Hochprozentige alkoholische Getraenke (z.B. Schnaps (2cl), Longdrinks (0,3l))",
@@ -2958,7 +2994,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 35,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -2967,8 +3003,8 @@
       "question": "hbe0250",
       "name": "hbe0250",
       "label": "How often in the last 12 months did you not do your work as well as usual because you had consumed alcohol?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 108,
           "text": "How often in the last 12 months did you not do your work as well as usual because you had consumed alcohol?",
           "text_de": "Wie oft kam es in den letzten 12 Monaten vor, dass Sie wegen des Konsums von Alkohol Ihre Arbeit oder Taetigkeit schlechter als sonst gemacht haben?",
@@ -3012,9 +3048,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 36,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3023,8 +3060,8 @@
       "question": "hbe0300",
       "name": "hbe0300",
       "label": "Do you regularly take medication that adversely affect your ability to think or your emotions or cause other serious side effects?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 109,
           "text": "Do you regularly take medication that adversely affect your ability to think or your emotions or cause other serious side effects?",
           "text_de": "Nehmen Sie regelmaessig Medikamente ein, die Ihr Denken und Fuehlen beeintraechtigen oder andere gravierende Nebenwirkungen bei Ihnen hervorrufen?",
@@ -3058,9 +3095,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 37,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3069,8 +3107,8 @@
       "question": "hbe0400",
       "name": "hbe0400",
       "label": "In the following we would like to know what you do to care for your health. To what extent does this statement apply to you personally: I take active steps to stay healthy (e.g., go to regular checkups, follow a healthy diet, and avoid unhealthy behavior, etc.).",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 110,
           "text": "In the following we would like to know what you do to care for your health. To what extent does this statement apply to you personally: I take active steps to stay healthy (e.g., go to regular checkups, follow a healthy diet, and avoid unhealthy behavior, etc.).",
           "text_de": "Im Folgenden moechten wir erfahren, inwieweit Sie fuer Ihre Gesundheit vorsorgen. Inwieweit trifft folgende Aussage auf Sie persoenlich zu? Ich sorge fuer die Erhaltung meiner Gesundheit aktiv vor (z.B. durch regelmaessige Vorsorgeuntersuchungen, gesunde Ernaehrung, Vermeidung von gesundheitsschaedlichem Verhalten, etc.).",
@@ -3109,9 +3147,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 38,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3120,8 +3159,8 @@
       "question": "bdy0100",
       "name": "bdy0100",
       "label": "Please give your height and weight.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 111,
           "text": "Please give your height and weight.",
           "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
@@ -3144,9 +3183,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 39,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3155,8 +3195,8 @@
       "question": "bdy0200",
       "name": "bdy0200",
       "label": "Please give your height and weight.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 112,
           "text": "Please give your height and weight.",
           "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
@@ -3179,9 +3219,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 40,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3190,8 +3231,8 @@
       "question": "bdy0298",
       "name": "bdy0298",
       "label": "Please give your height and weight.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 113,
           "text": "Please give your height and weight.",
           "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
@@ -3214,9 +3255,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 41,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3225,17 +3267,18 @@
       "question": "gls0100",
       "name": "gls0100",
       "label": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 114,
           "text": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
           "text_de": "Im Folgenden wuerden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen koennen.",
           "scale": "txt",
           "filter": "age >= 10",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 115,
           "text": "In most ways my life is close to my ideal.",
           "text_de": "In den meisten Punkten ist mein Leben meinem Ideal nahe.",
@@ -3280,8 +3323,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 116,
           "text": "The conditions of my life are excellent.",
           "text_de": "Meine Lebensbedingungen sind hervorragend.",
@@ -3326,8 +3369,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 117,
           "text": "I am satisfied with my life.",
           "text_de": "Ich bin zufrieden mit meinem Leben.",
@@ -3372,8 +3415,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 118,
           "text": "So far I have gotten the important things I want in life.",
           "text_de": "Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
@@ -3418,8 +3461,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 119,
           "text": "If I could live my life over, I would change almost nothing.",
           "text_de": "Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern.",
@@ -3464,7 +3507,7 @@
           ],
           "sn": 5
         }
-      },
+      ],
       "sn": 42,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3473,17 +3516,18 @@
       "question": "sop0100",
       "name": "sop0100",
       "label": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 120,
           "text": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
           "text_de": "Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass Sie in den jeweiligen Gruppen aktiv sind.",
           "scale": "txt",
           "filter": "age > 12",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 121,
           "text": "Sports association or club",
           "text_de": "Sportverein",
@@ -3523,8 +3567,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 122,
           "text": "Choir/music or theatre group or similar",
           "text_de": "Gesangs-/Musikverein/Theatergruppe o.ae.",
@@ -3564,8 +3608,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 123,
           "text": "Church or religious group",
           "text_de": "Kirchliche/religioese Gruppe",
@@ -3605,8 +3649,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 124,
           "text": "Trade union/professional association/student council",
           "text_de": "Gewerkschaft/Berufsverband/Schuelervertretung",
@@ -3646,8 +3690,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 125,
           "text": "Voluntary fire and rescue services/technical relief association THW/DLRG German Lifesaving Association etc.",
           "text_de": "Freiwillige Feuerwehr/THW/DLRG, o.ae.",
@@ -3687,8 +3731,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 126,
           "text": "Local history association/Citizens association/Shooting club (\"Schuetzenverein\")",
           "text_de": "Heimat-/Buerger-/Schuetzenverein",
@@ -3728,8 +3772,8 @@
           ],
           "sn": 6
         },
-        "7.0": {
-          "item": 7.0,
+        {
+          "item": "7.0",
           "number": 127,
           "text": "Political organization/party/citizens' initiative",
           "text_de": "Politische Organisation/Partei/Buergerinitiative",
@@ -3769,8 +3813,8 @@
           ],
           "sn": 7
         },
-        "8.0": {
-          "item": 8.0,
+        {
+          "item": "8.0",
           "number": 128,
           "text": "Other associations/federation",
           "text_de": "Anderer Verein/Verband",
@@ -3810,7 +3854,7 @@
           ],
           "sn": 8
         }
-      },
+      ],
       "sn": 43,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3819,8 +3863,8 @@
       "question": "sop0200",
       "name": "sop0200",
       "label": "Do you have a (volunteer) position in one of these associations or groups?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 129,
           "text": "Do you have a (volunteer) position in one of these associations or groups?",
           "text_de": "Wenn Sie in einem der Vereine mindestens selten aktiv sind: Haben Sie in einem dieser Vereine oder Gruppen eine (ehrenamtliche) Funktion inne?",
@@ -3854,9 +3898,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 44,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3865,16 +3910,17 @@
       "question": "sop0201",
       "name": "sop0201",
       "label": "Which function?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 130,
           "text": "Which function?",
           "text_de": "Wenn Sie in einem der Vereine mindestens selten aktiv sind: Haben Sie in einem dieser Vereine oder Gruppen eine (ehrenamtliche) Funktion inne? Welche Funktion ist das?",
           "scale": "chr",
           "filter": "sop0200 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 45,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3883,8 +3929,8 @@
       "question": "pop0100",
       "name": "pop0100",
       "label": "Generally speaking, how interested are you in politics?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 131,
           "text": "Generally speaking, how interested are you in politics?",
           "text_de": "Einmal ganz allgemein gesprochen, wie stark interessieren Sie sich fuer Politik?",
@@ -3923,9 +3969,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 46,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -3934,17 +3981,18 @@
       "question": "pop0200",
       "name": "pop0200",
       "label": "Which of the following activities did you take part in within the last 12 months?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 132,
           "text": "Which of the following activities did you take part in within the last 12 months?",
           "text_de": "Welche der folgenden Aktivitaeten haben Sie in den letzten 12 Monaten ausgeuebt?",
           "scale": "txt",
           "filter": "age > 12",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 133,
           "text": "Taken part in a political meeting/a discussion event/a demonstration",
           "text_de": "An einer politischen Versammlung/Diskussionsveranstaltung/Demonstration teilgenommen",
@@ -3979,8 +4027,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 134,
           "text": "Taken part in an online-petition/a signature collection",
           "text_de": "An einer Unterschriftensammlung teilgenommen/eine Onlinepetition unterstuetzt",
@@ -4015,8 +4063,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 135,
           "text": "Boycotted a company or products for political or ethical reasons or on environmental grounds, e.g. did not buy products or avoided them",
           "text_de": "Aus politischen, ethischen oder Umweltgruenden Unternehmen oder Waren boykottiert, d.h. zum Beispiel nicht gekauft oder gemieden.",
@@ -4051,7 +4099,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 47,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4060,8 +4108,8 @@
       "question": "pop0300",
       "name": "pop0300",
       "label": "Did you vote in the last election of the federal parliament?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 136,
           "text": "Did you vote in the last election of the federal parliament?",
           "text_de": "Haben Sie bei der letzten Bundestagswahl gewaehlt?",
@@ -4095,9 +4143,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 48,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4106,8 +4155,8 @@
       "question": "pop0301",
       "name": "pop0301",
       "label": "If an election for the federal parmliament would take place next Sunday, would you participate in the election? If you are not eligible to vote, please indicate what you would do if you were eligible to vote.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 137,
           "text": "If an election for the federal parmliament would take place next Sunday, would you participate in the election? If you are not eligible to vote, please indicate what you would do if you were eligible to vote.",
           "text_de": "Wenn am naechsten Sonntag Bundestagswahl waere, wuerden Sie an der Wahl teilnehmen? Wenn Sie nicht wahlberechtigt sind, geben Sie bitte an, was Sie tun wuerden, wenn Sie wahlberechtigt waeren.",
@@ -4141,9 +4190,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 49,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4152,8 +4202,8 @@
       "question": "pop0302",
       "name": "pop0302",
       "label": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 138,
           "text": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
           "text_de": "Neigen Sie einer bestimmten politischen Partei zu? Wenn ja, welcher Partei neigen Sie am ehesten zu?",
@@ -4222,9 +4272,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 50,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4233,16 +4284,17 @@
       "question": "pop0303",
       "name": "pop0303",
       "label": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 139,
           "text": "Do you usually think of yourself as close to any particular party? Which party do you feel closest to?",
           "text_de": "Neigen Sie einer bestimmten politischen Partei zu? Wenn ja, welcher Partei neigen Sie am ehesten zu? (andere offen)",
           "scale": "chr",
           "filter": "pop0302 == 10",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 51,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4251,8 +4303,8 @@
       "question": "dis0100",
       "name": "dis0100",
       "label": "Now we have some questions about your personal experiences. During the last 12 months, have you felt that you were disadvantaged or discriminated against due to any personal characteristics (e.g., your ethnic or cultural background, gender, religious beliefs)?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 140,
           "text": "Now we have some questions about your personal experiences. During the last 12 months, have you felt that you were disadvantaged or discriminated against due to any personal characteristics (e.g., your ethnic or cultural background, gender, religious beliefs)?",
           "text_de": "Im Folgenden geht es um Ihre persoenlichen Erfahrungen. Haben Sie in den vergangenen 12 Monaten erlebt, dass Sie aufgrund eines persoenlichen Merkmals (z.B. Ihrer Herkunft, Ihres Geschlechts, Ihrer Religionszugehoerigkeit/Weltanschauung) durch andere benachteiligt oder gegenueber anderen Menschen schlechter gestellt wurden?",
@@ -4286,9 +4338,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 52,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4297,8 +4350,8 @@
       "question": "dis0200",
       "name": "dis0200",
       "label": "If so, what do you think was the reason for the discrimination? Multiple answers possible.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 141,
           "text": "If so, what do you think was the reason for the discrimination? Multiple answers possible.",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet? Ich wurde benachteiligt auf Grund meiner/meines . . .",
@@ -4306,10 +4359,11 @@
           "filter": "dis0100 == 1",
           "description": "Please note: The answers in the paper-and-pencil questionnaire for questions dis0200 to dis0701 are partly contradictory because of problems with the layout. Therefore, we recommend being cautious and critical when using these items for analyses.",
           "description_de": "Bitte beachten Sie: Die Anworten zu den Fragen dis0200 bis dis0701 in der Paper-and-Pencil-Version des Fragebogens sind aufgrund von Layoutproblemen teilweise widerspruechlich. Deshalb empfehlen wir, bei Analysen mit diesen Items vorsichtig und kritisch zu sein.",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 142,
           "text": "Ethnic background (e.g. nationality, skin colour)",
           "text_de": "Herkunft (z.B. Nationalitaet, Hautfarbe)",
@@ -4341,8 +4395,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 143,
           "text": "Gender",
           "text_de": "Geschlechts",
@@ -4374,8 +4428,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 144,
           "text": "Religious orientation/belief",
           "text_de": "Religionszugehoerigkeit/Weltanschauung",
@@ -4407,8 +4461,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 145,
           "text": "Age",
           "text_de": "Alters",
@@ -4440,8 +4494,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 146,
           "text": "Sexual identity (e.g. homosexuality)",
           "text_de": "Sexuellen Identitaet (z.B. Homosexualitaet)",
@@ -4473,8 +4527,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 147,
           "text": "Disability",
           "text_de": "Behinderung",
@@ -4506,7 +4560,7 @@
           ],
           "sn": 6
         }
-      },
+      ],
       "sn": 53,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4515,8 +4569,8 @@
       "question": "dis0201",
       "name": "dis0201",
       "label": "How heavily did this discrimination weigh on you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 148,
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
@@ -4557,9 +4611,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 54,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4568,8 +4623,8 @@
       "question": "dis0301",
       "name": "dis0301",
       "label": "How heavily did this discrimination weigh on you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 149,
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
@@ -4610,9 +4665,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 55,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4621,8 +4677,8 @@
       "question": "dis0401",
       "name": "dis0401",
       "label": "How heavily did this discrimination weigh on you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 150,
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
@@ -4663,9 +4719,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 56,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4674,8 +4731,8 @@
       "question": "dis0501",
       "name": "dis0501",
       "label": "How heavily did this discrimination weigh on you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 151,
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
@@ -4716,9 +4773,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 57,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4727,8 +4785,8 @@
       "question": "dis0601",
       "name": "dis0601",
       "label": "How heavily did this discrimination weigh on you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 152,
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
@@ -4769,9 +4827,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 58,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4780,8 +4839,8 @@
       "question": "dis0701",
       "name": "dis0701",
       "label": "How heavily did this discrimination weigh on you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 153,
           "text": "How heavily did this discrimination weigh on you?",
           "text_de": "Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Und wie sehr hat Sie diese Benachteiligung belastet?",
@@ -4822,9 +4881,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 59,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4833,8 +4893,8 @@
       "question": "med0100",
       "name": "med0100",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 154,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -4863,9 +4923,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 60,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4874,8 +4935,8 @@
       "question": "med0197",
       "name": "med0197",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 155,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -4904,9 +4965,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 61,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4915,8 +4977,8 @@
       "question": "med0200",
       "name": "med0200",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 156,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -4945,9 +5007,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 62,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4956,8 +5019,8 @@
       "question": "med0297",
       "name": "med0297",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 157,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -4986,9 +5049,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 63,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -4997,8 +5061,8 @@
       "question": "med0300",
       "name": "med0300",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 158,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5027,9 +5091,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 64,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5038,8 +5103,8 @@
       "question": "med0397",
       "name": "med0397",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 159,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5068,9 +5133,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 65,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5079,8 +5145,8 @@
       "question": "med0400",
       "name": "med0400",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 160,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5109,9 +5175,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 66,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5120,8 +5187,8 @@
       "question": "med0497",
       "name": "med0497",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 161,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5150,9 +5217,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 67,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5161,8 +5229,8 @@
       "question": "med0500",
       "name": "med0500",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 162,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5191,9 +5259,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 68,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5202,8 +5271,8 @@
       "question": "med0597",
       "name": "med0597",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 163,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5232,9 +5301,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 69,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5243,8 +5313,8 @@
       "question": "med0600",
       "name": "med0600",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 164,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5273,9 +5343,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 70,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5284,8 +5355,8 @@
       "question": "med0697",
       "name": "med0697",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 165,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5314,9 +5385,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 71,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5325,8 +5397,8 @@
       "question": "med0700",
       "name": "med0700",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 166,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5355,9 +5427,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 72,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5366,8 +5439,8 @@
       "question": "med0797",
       "name": "med0797",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 167,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5396,9 +5469,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 73,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5407,8 +5481,8 @@
       "question": "med0800",
       "name": "med0800",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 168,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5437,9 +5511,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 74,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5448,8 +5523,8 @@
       "question": "med0897",
       "name": "med0897",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 169,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5478,9 +5553,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 75,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5489,8 +5565,8 @@
       "question": "med0900",
       "name": "med0900",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 170,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5519,9 +5595,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 76,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5530,8 +5607,8 @@
       "question": "med0997",
       "name": "med0997",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 171,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5560,9 +5637,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 77,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5571,8 +5649,8 @@
       "question": "med1000",
       "name": "med1000",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 172,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5601,9 +5679,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 78,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5612,8 +5691,8 @@
       "question": "med1097",
       "name": "med1097",
       "label": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 173,
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
           "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
@@ -5642,9 +5721,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 79,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5653,17 +5733,18 @@
       "question": "net0100",
       "name": "net0100",
       "label": "Below are three statements that you can either agree or disagree with. What is your opinion on the following three statements ?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 174,
           "text": "Below are three statements that you can either agree or disagree with. What is your opinion on the following three statements ?",
           "text_de": "Im Folgenden sehen Sie drei Aussagen, die man ablehnen oder denen man zustimmen kann. Wie ist Ihre Meinung zu den folgenden drei Aussagen?",
           "scale": "txt",
           "filter": "age >= 15",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 175,
           "text": "On the whole one can trust people.",
           "text_de": "Im Allgemeinen kann man den Menschen vertrauen.",
@@ -5705,8 +5786,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 176,
           "text": "Nowadays one can't rely on anyone.",
           "text_de": "Heutzutage kann man sich auf niemanden mehr verlassen.",
@@ -5748,8 +5829,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 177,
           "text": "If one is dealing with strangers, it is better to be careful before one can trust them.",
           "text_de": "Wenn man mit Fremden zu tun hat, ist es besser, vorsichtig zu sein, bevor man ihnen vertraut.",
@@ -5791,7 +5872,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 80,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5800,17 +5881,18 @@
       "question": "net0200",
       "name": "net0200",
       "label": "Now a few general questions about your friends. What applies to you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 178,
           "text": "Now a few general questions about your friends. What applies to you?",
           "text_de": "Nun noch einige allgemeine Fragen zu Ihren Freunden. Was trifft bei Ihnen zu?",
           "scale": "txt",
           "filter": "age >= 10",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 179,
           "text": "Most of my friends know each other.",
           "text_de": "Die meisten meiner Freunde kennen sich untereinander.",
@@ -5852,8 +5934,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 180,
           "text": "When my friends celebrate their birthdays there are usually many people that I don't know.",
           "text_de": "Auf Geburtstagsfeiern meiner Freunde sind meistens viele Personen, die ich kaum kenne.",
@@ -5895,8 +5977,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 181,
           "text": "My close friends also know my family.",
           "text_de": "Meine engen Freunde kennen auch meine Familie.",
@@ -5938,7 +6020,7 @@
           ],
           "sn": 3
         }
-      },
+      ],
       "sn": 81,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5947,8 +6029,8 @@
       "question": "net0203",
       "name": "net0203",
       "label": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 182,
           "text": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
           "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu zaehlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
@@ -5974,9 +6056,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 82,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -5985,8 +6068,8 @@
       "question": "net0289",
       "name": "net0289",
       "label": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 183,
           "text": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
           "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu zaehlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
@@ -6012,9 +6095,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 83,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6023,8 +6107,8 @@
       "question": "net0204",
       "name": "net0204",
       "label": "And how many of them do not live with you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 184,
           "text": "And how many of them do not live with you?",
           "text_de": "Und wie viele davon leben nicht bei Ihnen im Haushalt?",
@@ -6050,9 +6134,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 84,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6061,8 +6146,8 @@
       "question": "net0298",
       "name": "net0298",
       "label": "And how many of them do not live with you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 185,
           "text": "And how many of them do not live with you?",
           "text_de": "Und wie viele davon leben nicht bei Ihnen im Haushalt?",
@@ -6088,9 +6173,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 85,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6099,8 +6185,8 @@
       "question": "net0300",
       "name": "net0300",
       "label": "How old is the first person?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 186,
           "text": "How old is the first person?",
           "text_de": "Wie alt ist die erste Person?",
@@ -6125,9 +6211,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 86,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6136,8 +6223,8 @@
       "question": "net0301",
       "name": "net0301",
       "label": "Is the first person male or female?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 187,
           "text": "Is the first person male or female?",
           "text_de": "Welches Geschlecht hat die erste Person?",
@@ -6167,9 +6254,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 87,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6178,8 +6266,8 @@
       "question": "net0400",
       "name": "net0400",
       "label": "How old is the second person?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 188,
           "text": "How old is the second person?",
           "text_de": "Wie alt ist die zweite Person?",
@@ -6204,9 +6292,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 88,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6215,8 +6304,8 @@
       "question": "net0401",
       "name": "net0401",
       "label": "Is the second person male or female?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 189,
           "text": "Is the second person male or female?",
           "text_de": "Welches Geschlecht hat die zweite Person?",
@@ -6246,9 +6335,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 89,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6257,8 +6347,8 @@
       "question": "net0500",
       "name": "net0500",
       "label": "How old is the third person?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 190,
           "text": "How old is the third person?",
           "text_de": "Wie alt ist die dritte Person?",
@@ -6283,9 +6373,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 90,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6294,8 +6385,8 @@
       "question": "net0501",
       "name": "net0501",
       "label": "Is the third person male or female?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 191,
           "text": "Is the third person male or female?",
           "text_de": "Welches Geschlecht hat die dritte Person?",
@@ -6325,9 +6416,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 91,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6336,8 +6428,8 @@
       "question": "net0389",
       "name": "net0389",
       "label": "For me there is no off-houshold person who is important to me.",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 192,
           "text": "For me there is no off-houshold person who is important to me.",
           "text_de": "Fuer mich gibt es ausserhalb des Haushalts keine Person, die mir wichtig ist.",
@@ -6362,9 +6454,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 92,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6373,8 +6466,8 @@
       "question": "net0302",
       "name": "net0302",
       "label": "Which is the first person's highest school-leaving certificate?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 193,
           "text": "Which is the first person's highest school-leaving certificate?",
           "text_de": "Welchen hoechsten Schulabschluss hat die erste Person?",
@@ -6420,9 +6513,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 93,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6431,8 +6525,8 @@
       "question": "net0402",
       "name": "net0402",
       "label": "Which is the second person's highest school-leaving certificate?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 194,
           "text": "Which is the second person's highest school-leaving certificate?",
           "text_de": "Welchen hoechsten Schulabschluss hat die zweite Person?",
@@ -6478,9 +6572,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 94,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6489,8 +6584,8 @@
       "question": "net0502",
       "name": "net0502",
       "label": "Which is the third person's highest school-leaving certificate?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 195,
           "text": "Which is the third person's highest school-leaving certificate?",
           "text_de": "Welchen hoechsten Schulabschluss hat die dritte Person?",
@@ -6536,9 +6631,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 95,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6547,8 +6643,8 @@
       "question": "net0303",
       "name": "net0303",
       "label": "What type of school does the first person attend?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 196,
           "text": "What type of school does the first person attend?",
           "text_de": "Welche Schulform besucht die erste Person?",
@@ -6604,9 +6700,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 96,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6615,8 +6712,8 @@
       "question": "net0403",
       "name": "net0403",
       "label": "What type of school does the second person attend?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 197,
           "text": "What type of school does the second person attend?",
           "text_de": "Welche Schulform besucht die zweite Person?",
@@ -6672,9 +6769,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 97,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6683,8 +6781,8 @@
       "question": "net0503",
       "name": "net0503",
       "label": "What type of school does the third person attend?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 198,
           "text": "What type of school does the third person attend?",
           "text_de": "Welche Schulform besucht die dritte Person?",
@@ -6740,9 +6838,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 98,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"
@@ -6751,8 +6850,8 @@
       "question": "net0600",
       "name": "net0600",
       "label": "To what extent does the following statement apply to you?",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 199,
           "text": "To what extent does the following statement apply to you?",
           "text_de": "Wie sehr trifft die folgende Aussage auf Sie persoenlich zu?",
@@ -6793,9 +6892,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 99,
       "instrument": "twinlife-2014-F2F_Modul5_DropOff",
       "study": "twinlife"

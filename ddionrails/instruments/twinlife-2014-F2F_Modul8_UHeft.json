@@ -11,8 +11,8 @@
       "question": "nbi1000",
       "name": "nbi1000",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 9,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -36,9 +36,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 0,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -47,8 +48,8 @@
       "question": "nbi1099",
       "name": "nbi1099",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 10,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -72,9 +73,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 1,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -83,8 +85,8 @@
       "question": "nbi1100",
       "name": "nbi1100",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 11,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -108,9 +110,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 2,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -119,8 +122,8 @@
       "question": "nbi1199",
       "name": "nbi1199",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 12,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -144,9 +147,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 3,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -155,8 +159,8 @@
       "question": "nbi1200",
       "name": "nbi1200",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 13,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -180,9 +184,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 4,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -191,8 +196,8 @@
       "question": "nbi1299",
       "name": "nbi1299",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 14,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -216,9 +221,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 5,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -227,8 +233,8 @@
       "question": "nbi1300",
       "name": "nbi1300",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 15,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -261,9 +267,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 6,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -272,8 +279,8 @@
       "question": "nbi1301",
       "name": "nbi1301",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 16,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -306,9 +313,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 7,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -317,8 +325,8 @@
       "question": "nbi0100",
       "name": "nbi0100",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 17,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -352,9 +360,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 8,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -363,16 +372,17 @@
       "question": "nbi0102",
       "name": "nbi0102",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 18,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 9,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -381,8 +391,8 @@
       "question": "nbi0103",
       "name": "nbi0103",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 19,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -406,9 +416,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 10,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -417,8 +428,8 @@
       "question": "nbi0104",
       "name": "nbi0104",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 20,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -442,9 +453,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 11,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -453,8 +465,8 @@
       "question": "nbi0105",
       "name": "nbi0105",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 21,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -478,9 +490,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 12,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -489,8 +502,8 @@
       "question": "nbi0106",
       "name": "nbi0106",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 22,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -524,9 +537,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 13,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -535,8 +549,8 @@
       "question": "nbi0107",
       "name": "nbi0107",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 23,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -560,9 +574,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 14,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -571,17 +586,18 @@
       "question": "nbi0108",
       "name": "nbi0108",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 24,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "txt",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         },
-        "1.0": {
-          "item": 1.0,
+        {
+          "item": "1.0",
           "number": 25,
           "text": "U1: risk number 1",
           "text_de": "U1: Risikonummer 1",
@@ -881,8 +897,8 @@
           ],
           "sn": 1
         },
-        "2.0": {
-          "item": 2.0,
+        {
+          "item": "2.0",
           "number": 26,
           "text": "U1: risk number 2",
           "text_de": "U1: Risikonummer 2",
@@ -1182,8 +1198,8 @@
           ],
           "sn": 2
         },
-        "3.0": {
-          "item": 3.0,
+        {
+          "item": "3.0",
           "number": 27,
           "text": "U1: risk number 3",
           "text_de": "U1: Risikonummer 3",
@@ -1483,8 +1499,8 @@
           ],
           "sn": 3
         },
-        "4.0": {
-          "item": 4.0,
+        {
+          "item": "4.0",
           "number": 28,
           "text": "U1: risk number 4",
           "text_de": "U1: Risikonummer 4",
@@ -1784,8 +1800,8 @@
           ],
           "sn": 4
         },
-        "5.0": {
-          "item": 5.0,
+        {
+          "item": "5.0",
           "number": 29,
           "text": "U1: risk number 5",
           "text_de": "U1: Risikonummer 5",
@@ -2085,8 +2101,8 @@
           ],
           "sn": 5
         },
-        "6.0": {
-          "item": 6.0,
+        {
+          "item": "6.0",
           "number": 30,
           "text": "U1: risk number 6",
           "text_de": "U1: Risikonummer 6",
@@ -2386,7 +2402,7 @@
           ],
           "sn": 6
         }
-      },
+      ],
       "sn": 15,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2395,8 +2411,8 @@
       "question": "nbi0114",
       "name": "nbi0114",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 31,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2420,9 +2436,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 16,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2431,8 +2448,8 @@
       "question": "nbi0115",
       "name": "nbi0115",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 32,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2456,9 +2473,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 17,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2467,8 +2485,8 @@
       "question": "nbi0116",
       "name": "nbi0116",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 33,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2492,9 +2510,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 18,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2503,8 +2522,8 @@
       "question": "nbi0117",
       "name": "nbi0117",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 34,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2528,9 +2547,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 19,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2539,16 +2559,17 @@
       "question": "nbi0118",
       "name": "nbi0118",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 35,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 20,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2557,16 +2578,17 @@
       "question": "nbi0119",
       "name": "nbi0119",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 36,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 21,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2575,8 +2597,8 @@
       "question": "nbi0200",
       "name": "nbi0200",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 37,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2610,9 +2632,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 22,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2621,8 +2644,8 @@
       "question": "nbi0201",
       "name": "nbi0201",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 38,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2646,9 +2669,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 23,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2657,8 +2681,8 @@
       "question": "nbi0202",
       "name": "nbi0202",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 39,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2682,9 +2706,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 24,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2693,8 +2718,8 @@
       "question": "nbi0203",
       "name": "nbi0203",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 40,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2718,9 +2743,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 25,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2729,16 +2755,17 @@
       "question": "nbi0204",
       "name": "nbi0204",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 41,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 26,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2747,16 +2774,17 @@
       "question": "nbi0205",
       "name": "nbi0205",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 42,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 27,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2765,16 +2793,17 @@
       "question": "nbi0206",
       "name": "nbi0206",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 43,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 28,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2783,8 +2812,8 @@
       "question": "nbi0207",
       "name": "nbi0207",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 44,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2808,9 +2837,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 29,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2819,8 +2849,8 @@
       "question": "nbi0208",
       "name": "nbi0208",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 45,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2844,9 +2874,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 30,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2855,16 +2886,17 @@
       "question": "nbi0209",
       "name": "nbi0209",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 46,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 31,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2873,8 +2905,8 @@
       "question": "nbi0211",
       "name": "nbi0211",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 47,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2908,9 +2940,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 32,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2919,16 +2952,17 @@
       "question": "nbi0212",
       "name": "nbi0212",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 48,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 33,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2937,8 +2971,8 @@
       "question": "nbi0300",
       "name": "nbi0300",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 49,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -2972,9 +3006,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 34,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -2983,8 +3018,8 @@
       "question": "nbi0301",
       "name": "nbi0301",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 50,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3008,9 +3043,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 35,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3019,8 +3055,8 @@
       "question": "nbi0302",
       "name": "nbi0302",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 51,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3044,9 +3080,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 36,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3055,8 +3092,8 @@
       "question": "nbi0303",
       "name": "nbi0303",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 52,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3080,9 +3117,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 37,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3091,16 +3129,17 @@
       "question": "nbi0304",
       "name": "nbi0304",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 53,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 38,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3109,16 +3148,17 @@
       "question": "nbi0305",
       "name": "nbi0305",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 54,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 39,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3127,16 +3167,17 @@
       "question": "nbi0306",
       "name": "nbi0306",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 55,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 40,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3145,8 +3186,8 @@
       "question": "nbi0307",
       "name": "nbi0307",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 56,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3170,9 +3211,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 41,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3181,8 +3223,8 @@
       "question": "nbi0308",
       "name": "nbi0308",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 57,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3206,9 +3248,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 42,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3217,16 +3260,17 @@
       "question": "nbi0309",
       "name": "nbi0309",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 58,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 43,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3235,8 +3279,8 @@
       "question": "nbi0311",
       "name": "nbi0311",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 59,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3270,9 +3314,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 44,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3281,16 +3326,17 @@
       "question": "nbi0312",
       "name": "nbi0312",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 60,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 45,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3299,8 +3345,8 @@
       "question": "nbi0400",
       "name": "nbi0400",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 61,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3334,9 +3380,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 46,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3345,8 +3392,8 @@
       "question": "nbi0401",
       "name": "nbi0401",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 62,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3370,9 +3417,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 47,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3381,8 +3429,8 @@
       "question": "nbi0402",
       "name": "nbi0402",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 63,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3406,9 +3454,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 48,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3417,8 +3466,8 @@
       "question": "nbi0403",
       "name": "nbi0403",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 64,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3442,9 +3491,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 49,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3453,16 +3503,17 @@
       "question": "nbi0404",
       "name": "nbi0404",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 65,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 50,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3471,16 +3522,17 @@
       "question": "nbi0405",
       "name": "nbi0405",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 66,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 51,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3489,16 +3541,17 @@
       "question": "nbi0406",
       "name": "nbi0406",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 67,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 52,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3507,8 +3560,8 @@
       "question": "nbi0407",
       "name": "nbi0407",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 68,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3532,9 +3585,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 53,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3543,8 +3597,8 @@
       "question": "nbi0408",
       "name": "nbi0408",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 69,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3568,9 +3622,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 54,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3579,16 +3634,17 @@
       "question": "nbi0409",
       "name": "nbi0409",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 70,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 55,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3597,8 +3653,8 @@
       "question": "nbi0411",
       "name": "nbi0411",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 71,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3632,9 +3688,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 56,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3643,16 +3700,17 @@
       "question": "nbi0412",
       "name": "nbi0412",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 72,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 57,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3661,8 +3719,8 @@
       "question": "nbi0500",
       "name": "nbi0500",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 73,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3696,9 +3754,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 58,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3707,8 +3766,8 @@
       "question": "nbi0501",
       "name": "nbi0501",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 74,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3732,9 +3791,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 59,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3743,8 +3803,8 @@
       "question": "nbi0502",
       "name": "nbi0502",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 75,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3768,9 +3828,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 60,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3779,8 +3840,8 @@
       "question": "nbi0503",
       "name": "nbi0503",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 76,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3804,9 +3865,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 61,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3815,16 +3877,17 @@
       "question": "nbi0504",
       "name": "nbi0504",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 77,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 62,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3833,16 +3896,17 @@
       "question": "nbi0505",
       "name": "nbi0505",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 78,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 63,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3851,16 +3915,17 @@
       "question": "nbi0506",
       "name": "nbi0506",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 79,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 64,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3869,8 +3934,8 @@
       "question": "nbi0507",
       "name": "nbi0507",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 80,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3894,9 +3959,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 65,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3905,8 +3971,8 @@
       "question": "nbi0508",
       "name": "nbi0508",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 81,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3930,9 +3996,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 66,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3941,16 +4008,17 @@
       "question": "nbi0509",
       "name": "nbi0509",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 82,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 67,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -3959,8 +4027,8 @@
       "question": "nbi0511",
       "name": "nbi0511",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 83,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -3994,9 +4062,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 68,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4005,16 +4074,17 @@
       "question": "nbi0512",
       "name": "nbi0512",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 84,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 69,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4023,8 +4093,8 @@
       "question": "nbi0600",
       "name": "nbi0600",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 85,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4058,9 +4128,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 70,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4069,8 +4140,8 @@
       "question": "nbi0601",
       "name": "nbi0601",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 86,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4094,9 +4165,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 71,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4105,8 +4177,8 @@
       "question": "nbi0602",
       "name": "nbi0602",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 87,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4130,9 +4202,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 72,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4141,8 +4214,8 @@
       "question": "nbi0603",
       "name": "nbi0603",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 88,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4166,9 +4239,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 73,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4177,16 +4251,17 @@
       "question": "nbi0604",
       "name": "nbi0604",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 89,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 74,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4195,16 +4270,17 @@
       "question": "nbi0605",
       "name": "nbi0605",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 90,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 75,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4213,16 +4289,17 @@
       "question": "nbi0606",
       "name": "nbi0606",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 91,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 76,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4231,8 +4308,8 @@
       "question": "nbi0607",
       "name": "nbi0607",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 92,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4256,9 +4333,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 77,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4267,8 +4345,8 @@
       "question": "nbi0608",
       "name": "nbi0608",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 93,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4292,9 +4370,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 78,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4303,16 +4382,17 @@
       "question": "nbi0609",
       "name": "nbi0609",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 94,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 79,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4321,8 +4401,8 @@
       "question": "nbi0611",
       "name": "nbi0611",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 95,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4356,9 +4436,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 80,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4367,16 +4448,17 @@
       "question": "nbi0612",
       "name": "nbi0612",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 96,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 81,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4385,8 +4467,8 @@
       "question": "nbi0700",
       "name": "nbi0700",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 97,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4420,9 +4502,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 82,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4431,8 +4514,8 @@
       "question": "nbi0701",
       "name": "nbi0701",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 98,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4456,9 +4539,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 83,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4467,8 +4551,8 @@
       "question": "nbi0702",
       "name": "nbi0702",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 99,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4492,9 +4576,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 84,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4503,8 +4588,8 @@
       "question": "nbi0703",
       "name": "nbi0703",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 100,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4528,9 +4613,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 85,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4539,16 +4625,17 @@
       "question": "nbi0704",
       "name": "nbi0704",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 101,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 86,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4557,16 +4644,17 @@
       "question": "nbi0705",
       "name": "nbi0705",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 102,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 87,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4575,16 +4663,17 @@
       "question": "nbi0706",
       "name": "nbi0706",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 103,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 88,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4593,8 +4682,8 @@
       "question": "nbi0707",
       "name": "nbi0707",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 104,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4618,9 +4707,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 89,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4629,8 +4719,8 @@
       "question": "nbi0708",
       "name": "nbi0708",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 105,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4654,9 +4744,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 90,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4665,16 +4756,17 @@
       "question": "nbi0709",
       "name": "nbi0709",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 106,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 91,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4683,8 +4775,8 @@
       "question": "nbi0711",
       "name": "nbi0711",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 107,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4718,9 +4810,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 92,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4729,16 +4822,17 @@
       "question": "nbi0712",
       "name": "nbi0712",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 108,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 93,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4747,8 +4841,8 @@
       "question": "nbi0800",
       "name": "nbi0800",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 109,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4782,9 +4876,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 94,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4793,8 +4888,8 @@
       "question": "nbi0801",
       "name": "nbi0801",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 110,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4818,9 +4913,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 95,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4829,8 +4925,8 @@
       "question": "nbi0802",
       "name": "nbi0802",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 111,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4854,9 +4950,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 96,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4865,8 +4962,8 @@
       "question": "nbi0803",
       "name": "nbi0803",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 112,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4890,9 +4987,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 97,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4901,16 +4999,17 @@
       "question": "nbi0804",
       "name": "nbi0804",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 113,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 98,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4919,16 +5018,17 @@
       "question": "nbi0805",
       "name": "nbi0805",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 114,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 99,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4937,16 +5037,17 @@
       "question": "nbi0806",
       "name": "nbi0806",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 115,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 100,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4955,8 +5056,8 @@
       "question": "nbi0807",
       "name": "nbi0807",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 116,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -4980,9 +5081,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 101,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -4991,8 +5093,8 @@
       "question": "nbi0808",
       "name": "nbi0808",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 117,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5016,9 +5118,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 102,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5027,16 +5130,17 @@
       "question": "nbi0809",
       "name": "nbi0809",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 118,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 103,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5045,8 +5149,8 @@
       "question": "nbi0811",
       "name": "nbi0811",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 119,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5080,9 +5184,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 104,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5091,16 +5196,17 @@
       "question": "nbi0812",
       "name": "nbi0812",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 120,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 105,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5109,8 +5215,8 @@
       "question": "nbi0900",
       "name": "nbi0900",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 121,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5144,9 +5250,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 106,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5155,8 +5262,8 @@
       "question": "nbi0901",
       "name": "nbi0901",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 122,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5180,9 +5287,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 107,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5191,8 +5299,8 @@
       "question": "nbi0902",
       "name": "nbi0902",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 123,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5216,9 +5324,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 108,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5227,8 +5336,8 @@
       "question": "nbi0903",
       "name": "nbi0903",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 124,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5252,9 +5361,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 109,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5263,16 +5373,17 @@
       "question": "nbi0904",
       "name": "nbi0904",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 125,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 110,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5281,16 +5392,17 @@
       "question": "nbi0905",
       "name": "nbi0905",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 126,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 111,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5299,16 +5411,17 @@
       "question": "nbi0906",
       "name": "nbi0906",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 127,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 112,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5317,8 +5430,8 @@
       "question": "nbi0907",
       "name": "nbi0907",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 128,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5342,9 +5455,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 113,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5353,8 +5467,8 @@
       "question": "nbi0908",
       "name": "nbi0908",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 129,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5378,9 +5492,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 114,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5389,16 +5504,17 @@
       "question": "nbi0909",
       "name": "nbi0909",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 130,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 115,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5407,8 +5523,8 @@
       "question": "nbi0911",
       "name": "nbi0911",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 131,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
@@ -5442,9 +5558,10 @@
               "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 116,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
@@ -5453,16 +5570,17 @@
       "question": "nbi0912",
       "name": "nbi0912",
       "label": "Interviewer: Please record:",
-      "items": {
-        "root": {
+      "items": [
+        {
           "number": 132,
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
-          "sn": 0
+          "sn": 0,
+          "item": "root"
         }
-      },
+      ],
       "sn": 117,
       "instrument": "twinlife-2014-F2F_Modul8_UHeft",
       "study": "twinlife"
