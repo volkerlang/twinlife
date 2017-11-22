@@ -1,6 +1,6 @@
 <codebook>
   <dataDscr>
-    <var ID="wav0100" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="wav0100" intrvl="labeled_numeric" files="zygosity">
       <labl>half-wave (HW)</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -70,7 +70,7 @@
         <catStat type="freq">2088</catStat>
       </catgry>
     </var>
-    <var ID="fid" intrvl="numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="fid" intrvl="numeric" files="zygosity">
       <labl>family ID</labl>
       <sumStat type="Min.">110000</sumStat>
       <sumStat type="1st Qu.">233400</sumStat>
@@ -81,7 +81,7 @@
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
     </var>
-    <var ID="fid_hhc" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="fid_hhc" intrvl="labeled_numeric" files="zygosity">
       <labl>household ID</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -17321,7 +17321,7 @@
         <catStat type="freq">0</catStat>
       </catgry>
     </var>
-    <var ID="ptyp" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="ptyp" intrvl="labeled_numeric" files="zygosity">
       <labl>type of respondent</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -17426,7 +17426,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="pid" intrvl="numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="pid" intrvl="numeric" files="zygosity">
       <labl>person ID</labl>
       <sumStat type="Min.">1.1e+08</sumStat>
       <sumStat type="1st Qu.">233400000</sumStat>
@@ -17437,7 +17437,7 @@
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
     </var>
-    <var ID="yea_zq" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="yea_zq" intrvl="labeled_numeric" files="zygosity">
       <labl>year zygosity questionnaire was conducted</labl>
       <sumStat type="valid">5092</sumStat>
       <sumStat type="invalid">9</sumStat>
@@ -17529,7 +17529,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="mon_zq" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="mon_zq" intrvl="labeled_numeric" files="zygosity">
       <labl>month zygosity questionnaire was conducted</labl>
       <sumStat type="valid">5092</sumStat>
       <sumStat type="invalid">9</sumStat>
@@ -17645,7 +17645,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="zyg0100" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0100" intrvl="labeled_numeric" files="zygosity">
       <labl>result zygosity questionnaire</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -17725,7 +17725,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="zyg0109" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0109" intrvl="labeled_numeric" files="zygosity">
       <labl>value of zygosity discriminant function</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -30937,7 +30937,7 @@
         <catStat type="freq"> 2</catStat>
       </catgry>
     </var>
-    <var ID="zyg0110" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0110" intrvl="labeled_numeric" files="zygosity">
       <labl>duplicate of zygosity details used</labl>
       <sumStat type="valid">1982</sumStat>
       <sumStat type="invalid">3119</sumStat>
@@ -31007,7 +31007,7 @@
         <catStat type="freq">   4</catStat>
       </catgry>
     </var>
-    <var ID="zyg0101" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0101" intrvl="labeled_numeric" files="zygosity">
       <labl>result saliva test</labl>
       <sumStat type="valid">390</sumStat>
       <sumStat type="invalid">4711</sumStat>
@@ -31087,7 +31087,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="zyg0102" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0102" intrvl="labeled_numeric" files="zygosity">
       <labl>result zygosity questionnaire corrected by saliva test</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -31167,7 +31167,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="zyg1000" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1000" intrvl="labeled_numeric" files="zygosity">
       <labl>firstborn twin</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -31237,7 +31237,7 @@
         <catStat type="freq"> 993</catStat>
       </catgry>
     </var>
-    <var ID="zyg0200" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0200" intrvl="labeled_numeric" files="zygosity">
       <labl>own height in cm</labl>
       <sumStat type="valid">2950</sumStat>
       <sumStat type="invalid">2151</sumStat>
@@ -31549,7 +31549,7 @@
         <catStat type="freq">  10</catStat>
       </catgry>
     </var>
-    <var ID="zyg0201" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0201" intrvl="labeled_numeric" files="zygosity">
       <labl>height of other twin in cm</labl>
       <sumStat type="valid">2820</sumStat>
       <sumStat type="invalid">2281</sumStat>
@@ -31881,7 +31881,7 @@
         <catStat type="freq">  11</catStat>
       </catgry>
     </var>
-    <var ID="zyg1100" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1100" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: hair texture</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -31956,7 +31956,7 @@
         <catStat type="freq"> 710</catStat>
       </catgry>
     </var>
-    <var ID="zyg1101" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1101" intrvl="labeled_numeric" files="zygosity">
       <labl>additional body hair</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -32041,7 +32041,7 @@
         <catStat type="freq">1495</catStat>
       </catgry>
     </var>
-    <var ID="zyg1102" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1102" intrvl="labeled_numeric" files="zygosity">
       <labl>additional body hair other twin</labl>
       <sumStat type="valid">2862</sumStat>
       <sumStat type="invalid">2239</sumStat>
@@ -32126,7 +32126,7 @@
         <catStat type="freq">1417</catStat>
       </catgry>
     </var>
-    <var ID="zyg1200" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1200" intrvl="labeled_numeric" files="zygosity">
       <labl>own eye color</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -32216,7 +32216,7 @@
         <catStat type="freq"> 580</catStat>
       </catgry>
     </var>
-    <var ID="zyg1202" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1202" intrvl="labeled_numeric" files="zygosity">
       <labl>eye color other twin</labl>
       <sumStat type="valid">2960</sumStat>
       <sumStat type="invalid">2141</sumStat>
@@ -32306,7 +32306,7 @@
         <catStat type="freq"> 537</catStat>
       </catgry>
     </var>
-    <var ID="zyg1204" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1204" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: eye color</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -32381,7 +32381,7 @@
         <catStat type="freq"> 554</catStat>
       </catgry>
     </var>
-    <var ID="zyg1205" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1205" intrvl="labeled_numeric" files="zygosity">
       <labl>own eye color, zyg1200 and open response zyg1201 combined</labl>
       <sumStat type="valid">3033</sumStat>
       <sumStat type="invalid">2068</sumStat>
@@ -32481,7 +32481,7 @@
         <catStat type="freq">  54</catStat>
       </catgry>
     </var>
-    <var ID="zyg1206" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1206" intrvl="labeled_numeric" files="zygosity">
       <labl>eye color other twin, zyg1200 and open response zyg1201 combined</labl>
       <sumStat type="valid">2973</sumStat>
       <sumStat type="invalid">2128</sumStat>
@@ -32581,7 +32581,7 @@
         <catStat type="freq">  37</catStat>
       </catgry>
     </var>
-    <var ID="zyg1207" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1207" intrvl="labeled_numeric" files="zygosity">
       <labl>change zygosity calculation using zyg1205, zyg1206 instead of zyg1200, zyg1202</labl>
       <sumStat type="valid">1982</sumStat>
       <sumStat type="invalid">3119</sumStat>
@@ -32661,7 +32661,7 @@
         <catStat type="freq">  68</catStat>
       </catgry>
     </var>
-    <var ID="zyg1300" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1300" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: earlobes</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -32736,7 +32736,7 @@
         <catStat type="freq"> 284</catStat>
       </catgry>
     </var>
-    <var ID="zyg1400" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1400" intrvl="labeled_numeric" files="zygosity">
       <labl>own skin color</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -32806,7 +32806,7 @@
         <catStat type="freq"> 275</catStat>
       </catgry>
     </var>
-    <var ID="zyg1401" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1401" intrvl="labeled_numeric" files="zygosity">
       <labl>skin color other twin</labl>
       <sumStat type="valid">3021</sumStat>
       <sumStat type="invalid">2080</sumStat>
@@ -32876,7 +32876,7 @@
         <catStat type="freq"> 257</catStat>
       </catgry>
     </var>
-    <var ID="zyg1500" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1500" intrvl="labeled_numeric" files="zygosity">
       <labl>been confused with other twin in the past</labl>
       <sumStat type="valid">2968</sumStat>
       <sumStat type="invalid">2133</sumStat>
@@ -32961,7 +32961,7 @@
         <catStat type="freq"> 670</catStat>
       </catgry>
     </var>
-    <var ID="zyg1501" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1501" intrvl="labeled_numeric" files="zygosity">
       <labl>been confused with other twin in the past: by parents</labl>
       <sumStat type="valid">2298</sumStat>
       <sumStat type="invalid">2803</sumStat>
@@ -33041,7 +33041,7 @@
         <catStat type="freq">1260</catStat>
       </catgry>
     </var>
-    <var ID="zyg1502" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1502" intrvl="labeled_numeric" files="zygosity">
       <labl>been confused with other twin in the past: by sibling(s)</labl>
       <sumStat type="valid">2298</sumStat>
       <sumStat type="invalid">2803</sumStat>
@@ -33121,7 +33121,7 @@
         <catStat type="freq">1836</catStat>
       </catgry>
     </var>
-    <var ID="zyg1503" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1503" intrvl="labeled_numeric" files="zygosity">
       <labl>been confused with other twin in the past: by friends</labl>
       <sumStat type="valid">2298</sumStat>
       <sumStat type="invalid">2803</sumStat>
@@ -33201,7 +33201,7 @@
         <catStat type="freq"> 548</catStat>
       </catgry>
     </var>
-    <var ID="zyg1504" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1504" intrvl="labeled_numeric" files="zygosity">
       <labl>been confused with other twin in the past: by teachers</labl>
       <sumStat type="valid">2298</sumStat>
       <sumStat type="invalid">2803</sumStat>
@@ -33281,7 +33281,7 @@
         <catStat type="freq"> 155</catStat>
       </catgry>
     </var>
-    <var ID="zyg1505" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1505" intrvl="labeled_numeric" files="zygosity">
       <labl>been confused with other twin in the past: by people at first meeting</labl>
       <sumStat type="valid">2298</sumStat>
       <sumStat type="invalid">2803</sumStat>
@@ -33361,7 +33361,7 @@
         <catStat type="freq">  85</catStat>
       </catgry>
     </var>
-    <var ID="zyg1506" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1506" intrvl="labeled_numeric" files="zygosity">
       <labl>in the past: effort to tell twins apart</labl>
       <sumStat type="valid">2698</sumStat>
       <sumStat type="invalid">2403</sumStat>
@@ -33446,7 +33446,7 @@
         <catStat type="freq">1924</catStat>
       </catgry>
     </var>
-    <var ID="zyg1507" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1507" intrvl="labeled_numeric" files="zygosity">
       <labl>telling twins apart in recent photos</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -33521,7 +33521,7 @@
         <catStat type="freq"> 288</catStat>
       </catgry>
     </var>
-    <var ID="zyg0501" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0501" intrvl="labeled_numeric" files="zygosity">
       <labl>own blood group</labl>
       <sumStat type="valid">1250</sumStat>
       <sumStat type="invalid">3851</sumStat>
@@ -33601,7 +33601,7 @@
         <catStat type="freq"> 470</catStat>
       </catgry>
     </var>
-    <var ID="zyg0502" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0502" intrvl="labeled_numeric" files="zygosity">
       <labl>own rhesus factor</labl>
       <sumStat type="valid">1114</sumStat>
       <sumStat type="invalid">3987</sumStat>
@@ -33671,7 +33671,7 @@
         <catStat type="freq"> 241</catStat>
       </catgry>
     </var>
-    <var ID="zyg0503" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0503" intrvl="labeled_numeric" files="zygosity">
       <labl>blood group of other twin</labl>
       <sumStat type="valid">1122</sumStat>
       <sumStat type="invalid">3979</sumStat>
@@ -33751,7 +33751,7 @@
         <catStat type="freq"> 424</catStat>
       </catgry>
     </var>
-    <var ID="zyg0504" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0504" intrvl="labeled_numeric" files="zygosity">
       <labl>rhesus factor of other twin</labl>
       <sumStat type="valid">980</sumStat>
       <sumStat type="invalid">4121</sumStat>
@@ -33821,7 +33821,7 @@
         <catStat type="freq"> 217</catStat>
       </catgry>
     </var>
-    <var ID="zyg1600" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1600" intrvl="labeled_numeric" files="zygosity">
       <labl>own tendency to sweat</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -33906,7 +33906,7 @@
         <catStat type="freq">1642</catStat>
       </catgry>
     </var>
-    <var ID="zyg1601" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1601" intrvl="labeled_numeric" files="zygosity">
       <labl>other twin's tendency to sweat</labl>
       <sumStat type="valid">2427</sumStat>
       <sumStat type="invalid">2674</sumStat>
@@ -33991,7 +33991,7 @@
         <catStat type="freq">1385</catStat>
       </catgry>
     </var>
-    <var ID="zyg1700" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1700" intrvl="labeled_numeric" files="zygosity">
       <labl>twins ill equally often</labl>
       <sumStat type="valid">2585</sumStat>
       <sumStat type="invalid">2516</sumStat>
@@ -34076,7 +34076,7 @@
         <catStat type="freq"> 955</catStat>
       </catgry>
     </var>
-    <var ID="zyg1800" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1800" intrvl="labeled_numeric" files="zygosity">
       <labl>assessment: zygosity of twins</labl>
       <sumStat type="valid">2937</sumStat>
       <sumStat type="invalid">2164</sumStat>
@@ -34161,7 +34161,7 @@
         <catStat type="freq">1565</catStat>
       </catgry>
     </var>
-    <var ID="zyg1801" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg1801" intrvl="labeled_numeric" files="zygosity">
       <labl>information about zygosity</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -34236,7 +34236,7 @@
         <catStat type="freq">1899</catStat>
       </catgry>
     </var>
-    <var ID="zyg0900" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0900" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: children's generation, mother's side</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34316,7 +34316,7 @@
         <catStat type="freq"> 367</catStat>
       </catgry>
     </var>
-    <var ID="zyg0901" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0901" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: children's generation, father's side</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34396,7 +34396,7 @@
         <catStat type="freq"> 325</catStat>
       </catgry>
     </var>
-    <var ID="zyg0902" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0902" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: gen. of children's children, mother's side</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -34476,7 +34476,7 @@
         <catStat type="freq">  28</catStat>
       </catgry>
     </var>
-    <var ID="zyg0903" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0903" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: gen. of children's children, father's side</labl>
       <sumStat type="valid">3029</sumStat>
       <sumStat type="invalid">2072</sumStat>
@@ -34556,7 +34556,7 @@
         <catStat type="freq">  37</catStat>
       </catgry>
     </var>
-    <var ID="zyg0904" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0904" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: parents' generation, mother's side</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34636,7 +34636,7 @@
         <catStat type="freq"> 608</catStat>
       </catgry>
     </var>
-    <var ID="zyg0905" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0905" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: parents' generation, fathers's side</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34716,7 +34716,7 @@
         <catStat type="freq"> 494</catStat>
       </catgry>
     </var>
-    <var ID="zyg0906" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0906" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: grandparents' generation, mother's side</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34796,7 +34796,7 @@
         <catStat type="freq">1069</catStat>
       </catgry>
     </var>
-    <var ID="zyg0907" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0907" intrvl="labeled_numeric" files="zygosity">
       <labl>other twins in family: grandparents' generation, father's side</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34876,7 +34876,7 @@
         <catStat type="freq"> 765</catStat>
       </catgry>
     </var>
-    <var ID="zyg0908" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0908" intrvl="labeled_numeric" files="zygosity">
       <labl>no other twins in family</labl>
       <sumStat type="valid">5097</sumStat>
       <sumStat type="invalid">4</sumStat>
@@ -34956,7 +34956,7 @@
         <catStat type="freq">2479</catStat>
       </catgry>
     </var>
-    <var ID="zyg0920" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0920" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: children's generation, mother's side</labl>
       <sumStat type="valid">263</sumStat>
       <sumStat type="invalid">4838</sumStat>
@@ -35041,7 +35041,7 @@
         <catStat type="freq"> 126</catStat>
       </catgry>
     </var>
-    <var ID="zyg0921" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0921" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: children's generation, father's side</labl>
       <sumStat type="valid">246</sumStat>
       <sumStat type="invalid">4855</sumStat>
@@ -35126,7 +35126,7 @@
         <catStat type="freq"> 107</catStat>
       </catgry>
     </var>
-    <var ID="zyg0922" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0922" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: gen. of children's children, mother's side</labl>
       <sumStat type="valid">15</sumStat>
       <sumStat type="invalid">5086</sumStat>
@@ -35211,7 +35211,7 @@
         <catStat type="freq">   8</catStat>
       </catgry>
     </var>
-    <var ID="zyg0923" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0923" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: gen. of children's children, father's side</labl>
       <sumStat type="valid">19</sumStat>
       <sumStat type="invalid">5082</sumStat>
@@ -35296,7 +35296,7 @@
         <catStat type="freq">   7</catStat>
       </catgry>
     </var>
-    <var ID="zyg0924" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0924" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: parents' generation, mother's side</labl>
       <sumStat type="valid">390</sumStat>
       <sumStat type="invalid">4711</sumStat>
@@ -35381,7 +35381,7 @@
         <catStat type="freq"> 190</catStat>
       </catgry>
     </var>
-    <var ID="zyg0925" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0925" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: parents' generation, fathers's side</labl>
       <sumStat type="valid">315</sumStat>
       <sumStat type="invalid">4786</sumStat>
@@ -35466,7 +35466,7 @@
         <catStat type="freq"> 125</catStat>
       </catgry>
     </var>
-    <var ID="zyg0926" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0926" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: grandparents' generation, mother's side</labl>
       <sumStat type="valid">533</sumStat>
       <sumStat type="invalid">4568</sumStat>
@@ -35551,7 +35551,7 @@
         <catStat type="freq"> 243</catStat>
       </catgry>
     </var>
-    <var ID="zyg0927" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0927" intrvl="labeled_numeric" files="zygosity">
       <labl>zygosity of other twins: grandparents' generation, father's side</labl>
       <sumStat type="valid">373</sumStat>
       <sumStat type="invalid">4728</sumStat>
@@ -35636,7 +35636,7 @@
         <catStat type="freq"> 155</catStat>
       </catgry>
     </var>
-    <var ID="sdc0100" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="sdc0100" intrvl="labeled_numeric" files="zygosity">
       <labl>subsequently surveyed zygosity questionnaire</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -35711,7 +35711,7 @@
         <catStat type="freq">5096</catStat>
       </catgry>
     </var>
-    <var ID="zyg0105" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0105" intrvl="labeled_numeric" files="zygosity">
       <labl>age of twins</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -35847,7 +35847,7 @@
         <catStat type="freq">   0</catStat>
       </catgry>
     </var>
-    <var ID="zyg0106" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0106" intrvl="labeled_numeric" files="zygosity">
       <labl>sex of twins</labl>
       <sumStat type="valid">5101</sumStat>
       <sumStat type="invalid">0</sumStat>
@@ -35917,7 +35917,7 @@
         <catStat type="freq">2815</catStat>
       </catgry>
     </var>
-    <var ID="zyg0200t" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0200t" intrvl="labeled_numeric" files="zygosity">
       <labl>height of twin 1 in cm</labl>
       <sumStat type="valid">1979</sumStat>
       <sumStat type="invalid">3122</sumStat>
@@ -36305,7 +36305,7 @@
         <catStat type="freq">   4</catStat>
       </catgry>
     </var>
-    <var ID="zyg0200u" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0200u" intrvl="labeled_numeric" files="zygosity">
       <labl>height of twin 2 in cm</labl>
       <sumStat type="valid">1980</sumStat>
       <sumStat type="invalid">3121</sumStat>
@@ -36701,7 +36701,7 @@
         <catStat type="freq">   4</catStat>
       </catgry>
     </var>
-    <var ID="zyg0300" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0300" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: twins' hair color</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -36776,7 +36776,7 @@
         <catStat type="freq"> 932</catStat>
       </catgry>
     </var>
-    <var ID="zyg0301" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0301" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: twins' hair texture</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -36851,7 +36851,7 @@
         <catStat type="freq"> 745</catStat>
       </catgry>
     </var>
-    <var ID="zyg0302" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0302" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: twins' eye color</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -36926,7 +36926,7 @@
         <catStat type="freq">1255</catStat>
       </catgry>
     </var>
-    <var ID="zyg0303" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0303" intrvl="labeled_numeric" files="zygosity">
       <labl>difference: twins' earlobes</labl>
       <sumStat type="valid">2067</sumStat>
       <sumStat type="invalid">3034</sumStat>
@@ -37001,7 +37001,7 @@
         <catStat type="freq">1082</catStat>
       </catgry>
     </var>
-    <var ID="zyg0400" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0400" intrvl="labeled_numeric" files="zygosity">
       <labl>twins' tooth development simultaneous</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37081,7 +37081,7 @@
         <catStat type="freq"> 587</catStat>
       </catgry>
     </var>
-    <var ID="zyg0500" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0500" intrvl="labeled_numeric" files="zygosity">
       <labl>twins' blood group known</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37166,7 +37166,7 @@
         <catStat type="freq">1605</catStat>
       </catgry>
     </var>
-    <var ID="zyg0600" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0600" intrvl="labeled_numeric" files="zygosity">
       <labl>differences resulting from difficulties in childbirth, accident, illness</labl>
       <sumStat type="valid">2017</sumStat>
       <sumStat type="invalid">3084</sumStat>
@@ -37251,7 +37251,7 @@
         <catStat type="freq">1630</catStat>
       </catgry>
     </var>
-    <var ID="zyg0602" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0602" intrvl="labeled_numeric" files="zygosity">
       <labl>twins' similarity with increasing age</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37326,7 +37326,7 @@
         <catStat type="freq"> 162</catStat>
       </catgry>
     </var>
-    <var ID="zyg0700" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0700" intrvl="labeled_numeric" files="zygosity">
       <labl>assessment: zygosity of twins</labl>
       <sumStat type="valid">1994</sumStat>
       <sumStat type="invalid">3107</sumStat>
@@ -37411,7 +37411,7 @@
         <catStat type="freq">1245</catStat>
       </catgry>
     </var>
-    <var ID="zyg0702" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0702" intrvl="labeled_numeric" files="zygosity">
       <labl>determination of zygosity</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37486,7 +37486,7 @@
         <catStat type="freq"> 629</catStat>
       </catgry>
     </var>
-    <var ID="zyg0800" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0800" intrvl="labeled_numeric" files="zygosity">
       <labl>similarity of the twins in earlier photographs</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37561,7 +37561,7 @@
         <catStat type="freq"> 194</catStat>
       </catgry>
     </var>
-    <var ID="zyg0801" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0801" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37641,7 +37641,7 @@
         <catStat type="freq"> 426</catStat>
       </catgry>
     </var>
-    <var ID="zyg0802" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0802" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past: by older sibling(s)</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37721,7 +37721,7 @@
         <catStat type="freq">1179</catStat>
       </catgry>
     </var>
-    <var ID="zyg0803" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0803" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past: by other relatives</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37801,7 +37801,7 @@
         <catStat type="freq"> 222</catStat>
       </catgry>
     </var>
-    <var ID="zyg0804" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0804" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past: by babysitter/in-home daycare provider</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37881,7 +37881,7 @@
         <catStat type="freq">1138</catStat>
       </catgry>
     </var>
-    <var ID="zyg0805" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0805" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past: by close friends</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -37961,7 +37961,7 @@
         <catStat type="freq"> 206</catStat>
       </catgry>
     </var>
-    <var ID="zyg0806" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0806" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past: by distant friends</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -38041,7 +38041,7 @@
         <catStat type="freq"> 186</catStat>
       </catgry>
     </var>
-    <var ID="zyg0807" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0807" intrvl="labeled_numeric" files="zygosity">
       <labl>twins confused with each other in past: by people meeting them for the 1st time</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -38121,7 +38121,7 @@
         <catStat type="freq"> 154</catStat>
       </catgry>
     </var>
-    <var ID="zyg0808" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0808" intrvl="labeled_numeric" files="zygosity">
       <labl>frequency of confusion between twins</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -38201,7 +38201,7 @@
         <catStat type="freq"> 307</catStat>
       </catgry>
     </var>
-    <var ID="zyg0809" intrvl="labeled_numeric" files="ZA6701_zygosity_v2-0-0">
+    <var ID="zyg0809" intrvl="labeled_numeric" files="zygosity">
       <labl>resemblance of twins in early childhood</labl>
       <sumStat type="valid">2068</sumStat>
       <sumStat type="invalid">3033</sumStat>
@@ -38277,5 +38277,5 @@
       </catgry>
     </var>
   </dataDscr>
-  <fileDscr ID="ZA6701_zygosity_v2-0-0"/>
+  <fileDscr ID="zygosity"/>
 </codebook>
