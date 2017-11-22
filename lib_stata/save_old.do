@@ -3,8 +3,8 @@ set more off
 
 set maxvar 30000
 
-local allfiles : dir "../../data/twinlife/v1/en" files "*.dta"
+local allfiles : dir "../../data/twinlife/v2/en" files "*.dta"
 foreach file in `allfiles' {
-  use ../../data/twinlife/v1/en/`file', clear
-  saveold temp/v1/en/`file', replace
+  use ../../data/twinlife/v2/en/`file', clear
+  saveold temp/v2/en/`file', replace
 }
