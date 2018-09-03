@@ -29,7 +29,7 @@ def main():
     #copy.f("questionnaires.csv", "instruments.csv")
     questions_variables()
     merge_instruments.main()
-    convert_r2ddi.Parser("twinlife", version="v1").write_json()
+    convert_r2ddi.Parser("twinlife", version="v2").write_json()
 
 if __name__ == "__main__":
     main()

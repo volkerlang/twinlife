@@ -18,6 +18,8 @@
           "text_de": "Alter 10 bis 15 Jahre: Wie wuerdest Du Deinen Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben? / Alter ab 16 Jahre: Wie wuerden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
           "answer_list": "she0100",
           "scale": "cat",
+          "description": "Ellert, U., Lampert, T., & Ravens-Sieberer U. (2005). Messung der gesundheitsbezogenen Lebensqualitaet mit dem SF-8. Eine Normstichprobe fuer Deutschland. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz, 48 (12), 1330-1337: http://download",
+          "description_de": "Ellert, U., Lampert, T., & Ravens-Sieberer U. (2005). Messung der gesundheitsbezogenen Lebensqualitaet mit dem SF-8. Eine Normstichprobe fuer Deutschland. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz, 48 (12), 1330-1337: http://download",
           "answers": [
             {
               "value": 1,
@@ -80,6 +82,8 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age >= 16",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -127,6 +131,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "doc0100 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": -96,
@@ -164,6 +170,8 @@
           "answer_list": "imp0100",
           "scale": "cat",
           "filter": "age >= 16",
+          "description": "Item developed for TwinLife",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": 1,
@@ -225,6 +233,8 @@
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
           "scale": "txt",
           "filter": "age >= 16",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -235,6 +245,8 @@
           "text_de": "Schlafstoerungen",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -266,6 +278,8 @@
           "text_de": "Diabetes",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -297,6 +311,8 @@
           "text_de": "Asthma",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -328,6 +344,8 @@
           "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschwaeche)",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -359,6 +377,8 @@
           "text_de": "Krebserkrankungen",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -390,6 +410,8 @@
           "text_de": "Schlaganfall",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -421,6 +443,8 @@
           "text_de": "Migraene",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -452,6 +476,8 @@
           "text_de": "Bluthochdruck",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -483,6 +509,8 @@
           "text_de": "Angsterkrankung",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -514,6 +542,8 @@
           "text_de": "Alkoholerkrankung",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -545,6 +575,8 @@
           "text_de": "Depressive Erkrankung",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -576,6 +608,8 @@
           "text_de": "Gelenkerkrankung (auch Arthrose, Rheuma)",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -607,6 +641,8 @@
           "text_de": "Chronische Rueckenbeschwerden",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -638,6 +674,8 @@
           "text_de": "Koerperbehinderung",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -669,6 +707,8 @@
           "text_de": "Sonstige koerperliche oder psychische Erkrankung",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -700,6 +740,8 @@
           "text_de": "Keine Erkrankung festgestellt",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -731,6 +773,8 @@
           "text_de": "Weiss nicht",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -762,6 +806,8 @@
           "text_de": "Keine Angabe",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 0,
@@ -802,6 +848,8 @@
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Erkrankungen festgestellt?",
           "scale": "chr",
           "filter": "dia1500 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         }
@@ -821,6 +869,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0100 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -831,6 +881,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -857,6 +909,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -883,6 +937,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -909,6 +965,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -944,6 +1002,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0200 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -954,6 +1014,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -980,6 +1042,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1006,6 +1070,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1032,6 +1098,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1067,6 +1135,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0300 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1077,6 +1147,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1103,6 +1175,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1129,6 +1203,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1155,6 +1231,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1190,6 +1268,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0400 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1200,6 +1280,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1226,6 +1308,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1252,6 +1336,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1278,6 +1364,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1313,6 +1401,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0500 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1323,6 +1413,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1349,6 +1441,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1375,6 +1469,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1401,6 +1497,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1436,6 +1534,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0600 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1446,6 +1546,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1472,6 +1574,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1498,6 +1602,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1524,6 +1630,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1559,6 +1667,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0700 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1569,6 +1679,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1595,6 +1707,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1621,6 +1735,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1647,6 +1763,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1682,6 +1800,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0800 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1692,6 +1812,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1718,6 +1840,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1744,6 +1868,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1770,6 +1896,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1805,6 +1933,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0900 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1815,6 +1945,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1841,6 +1973,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1867,6 +2001,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1893,6 +2029,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1928,6 +2066,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1000 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -1938,6 +2078,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1964,6 +2106,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -1990,6 +2134,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2016,6 +2162,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2051,6 +2199,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1100 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -2061,6 +2211,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2087,6 +2239,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2113,6 +2267,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2139,6 +2295,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2174,6 +2332,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1200 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -2184,6 +2344,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2210,6 +2372,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2236,6 +2400,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2262,6 +2428,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2297,6 +2465,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1300 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -2307,6 +2477,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2333,6 +2505,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2359,6 +2533,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2385,6 +2561,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2420,6 +2598,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1400 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -2430,6 +2610,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2456,6 +2638,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2482,6 +2666,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2508,6 +2694,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2543,6 +2731,8 @@
           "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1500 == 1",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -2553,6 +2743,8 @@
           "text_de": "Erkrankung ist aufgetreten von Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2579,6 +2771,8 @@
           "text_de": "Erkrankung ist aufgetreten von Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2605,6 +2799,8 @@
           "text_de": "bis Monat:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2631,6 +2827,8 @@
           "text_de": "bis Jahr:",
           "answer_list": "dia01",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 9999,
@@ -2667,6 +2865,8 @@
           "answer_list": "hbe0100",
           "scale": "cat",
           "filter": "age >= 16",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -2729,6 +2929,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0100 >= 1 & hbe0100 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -2766,6 +2968,8 @@
           "answer_list": "hbe0102",
           "scale": "cat",
           "filter": "hbe0100 >= 1 & hbe0100 <= 4",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -2813,6 +3017,8 @@
           "answer_list": "hbe0200",
           "scale": "cat",
           "filter": "age >= 16",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 97,
@@ -2850,6 +3056,8 @@
           "answer_list": "hbe0102",
           "scale": "cat",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -2897,6 +3105,8 @@
           "answer_list": "hbe0202",
           "scale": "cat",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -2959,6 +3169,8 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -2996,6 +3208,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3033,6 +3247,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3070,6 +3286,8 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3107,6 +3325,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3144,6 +3364,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3181,6 +3403,8 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3218,6 +3442,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3255,6 +3481,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": -96,
@@ -3291,6 +3519,8 @@
           "text_de": "Die folgenden Fragen beziehen sich nun auf die letzten 12 Monate. In welchem Ausmass haben Sie waehrend der letzten 12 Monate alkoholische Getraenke konsumiert?",
           "scale": "txt",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -3301,6 +3531,8 @@
           "text_de": "Bier (0,3 l)",
           "answer_list": "hbe0202",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -3352,6 +3584,8 @@
           "text_de": "Wein, Sekt (0,2 l)",
           "answer_list": "hbe0202",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -3403,6 +3637,8 @@
           "text_de": "Hochprozentige alkoholische Getraenke (z.B. Schnaps (2cl), Longdrinks (0,3l))",
           "answer_list": "hbe0202",
           "scale": "cat",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -3464,6 +3700,8 @@
           "answer_list": "fre5_3",
           "scale": "cat",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2010: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369781.de/soepfrabo_personen_2010.pdf",
           "answers": [
             {
               "value": 1,
@@ -3521,6 +3759,8 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age >= 16",
+          "description": "Item developed for TwinLife",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": 1,
@@ -3568,6 +3808,8 @@
           "answer_list": "hbe0400",
           "scale": "cat",
           "filter": "age >= 16",
+          "description": "Adapted from: Kornadt, A. E., & Rothermund, K. (2014). Preparation for old age in different life domains. Dimensions and age differences. International Journal of Behavioral Development, 38 (3), 228-238: http://journals.sagepub.com/doi/abs/10.1177/0165025",
+          "description_de": "Adaptiert von: Kornadt, A. E., & Rothermund, K. (2014). Preparation for old age in different life domains. Dimensions and age differences. International Journal of Behavioral Development, 38 (3), 228-238: http://journals.sagepub.com/doi/abs/10.1177/016502",
           "answers": [
             {
               "value": 1,
@@ -3619,6 +3861,8 @@
           "text_de": "Alter 10 bis 15 Jahre und NICHT Zwilling: Bitte gib an, wie gross Du bist und wie viel Du wiegst. / Alter ab 16 Jahre und NICHT Zwilling: Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
           "scale": "txt",
           "filter": "age > 12 & ptyp != 1 & ptyp != 2",
+          "description": "Item developed for TwinLife",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "sn": 0,
           "item": "root"
         },
@@ -3629,6 +3873,8 @@
           "text_de": "Groesse in cm",
           "answer_list": "mis",
           "scale": "cat",
+          "description": "Item developed for TwinLife",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -96,
@@ -3655,6 +3901,8 @@
           "text_de": "Gewicht in kg",
           "answer_list": "mis",
           "scale": "cat",
+          "description": "Item developed for TwinLife",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -96,
@@ -3691,6 +3939,8 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "age > 12 & (ptyp == 1 | ptyp == 2)",
+          "description": "Item developed for TwinLife",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -96,
@@ -3727,6 +3977,8 @@
           "text_de": "ab 16 Jahren: Im Folgenden wuerden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen koennen. / 10 bis 15 Jahre: Im Folgenden wuerden wir gerne wissen, wie zufrieden Du ganz allgemein mit Deinem Leben bist. Es folgen einige Aussagen dazu, denen Du zustimmen bzw. die Du ablehnen kannst.",
           "scale": "txt",
           "filter": "age >= 16",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "sn": 0,
           "item": "root"
         },
@@ -3737,6 +3989,8 @@
           "text_de": "ab 16 Jahren: In den meisten Punkten ist mein Leben meinem Ideal nahe. / 10 bis 15 Jahre: Im Grossen und Ganzen ist mein Leben so wie ich es mir wuensche.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -3783,6 +4037,8 @@
           "text_de": "ab 16 Jahren: In den meisten Punkten ist mein Leben meinem Ideal nahe. / 10 bis 15 Jahre: Im Grossen und Ganzen ist mein Leben so wie ich es mir wuensche.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -3829,6 +4085,8 @@
           "text_de": "ab 16 Jahren: Meine Lebensbedingungen sind hervorragend. / 10 bis 15 Jahre: Mein Leben ist grossartig.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -3875,6 +4133,8 @@
           "text_de": "ab 16 Jahren: Meine Lebensbedingungen sind hervorragend. / 10 bis 15 Jahre: Mein Leben ist grossartig.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -3921,6 +4181,8 @@
           "text_de": "ab 16 Jahren: Ich bin zufrieden mit meinem Leben. / 10 bis 15 Jahre: Ich bin mit meinem Leben gluecklich.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -3967,6 +4229,8 @@
           "text_de": "ab 16 Jahren: Ich bin zufrieden mit meinem Leben. / 10 bis 15 Jahre: Ich bin mit meinem Leben gluecklich.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -4013,6 +4277,8 @@
           "text_de": "ab 16 Jahren: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen. / 10 bis 15 Jahre: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -4059,6 +4325,8 @@
           "text_de": "ab 16 Jahren: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen. / 10 bis 15 Jahre: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -4105,6 +4373,8 @@
           "text_de": "ab 16 Jahren: Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern. / 10 bis 15 Jahre: Wenn ich mein Leben noch einmal leben koennte, wuerde ich es mir genauso wuenschen.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -4151,6 +4421,8 @@
           "text_de": "ab 16 Jahren: Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern. / 10 bis 15 Jahre: Wenn ich mein Leben noch einmal leben koennte, wuerde ich es mir genauso wuenschen.",
           "answer_list": "agr5_2",
           "scale": "cat",
+          "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
+          "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75: http://internal.psychology.illinois.edu/~ediener/SWLS.html",
           "answers": [
             {
               "value": 1,
@@ -4198,14 +4470,16 @@
     "sop0100": {
       "question": "sop0100",
       "name": "sop0100",
-      "label": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
+      "label": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
       "items": [
         {
           "number": "145",
-          "text": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
+          "text": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
           "text_de": "ab 16 Jahren: Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass Sie in den jeweiligen Gruppen aktiv sind: jede Woche, jeden Monat, seltener als 1-mal im Monat, nie. / 13 bis 15 Jahre: Im Folgenden siehst Du eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte gib an, in welchem Ausmass Du in den jeweiligen Gruppen aktiv bist: jede Woche, jeden Monat, seltener als 1-mal im Monat, nie.",
           "scale": "txt",
           "filter": "age > 12",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "sn": 0,
           "item": "root"
         },
@@ -4216,6 +4490,8 @@
           "text_de": "Sportverein",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4257,6 +4533,8 @@
           "text_de": "Gesangs-/Musikverein/Theatergruppe o.ae.",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4298,6 +4576,8 @@
           "text_de": "Kirchliche/religioese Gruppe",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4339,6 +4619,8 @@
           "text_de": "Gewerkschaft/Berufsverband/Schuelervertretung",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4380,6 +4662,8 @@
           "text_de": "Freiwillige Feuerwehr/THW/DLRG, o.ae.",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4417,10 +4701,12 @@
         {
           "item": "6.0",
           "number": "151",
-          "text": "Local history association/Citizens association/Shooting club (\"Schuetzenverein\")",
+          "text": "Local history association/Citizens association/Marksmen club",
           "text_de": "Heimat-/Buerger-/Schuetzenverein",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4462,6 +4748,8 @@
           "text_de": "Politische Organisation/Partei/Buergerinitiative",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4503,6 +4791,8 @@
           "text_de": "Anderer Verein/Verband",
           "answer_list": "fre4",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4554,6 +4844,8 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "(sop0100 > 0 & sop0100 < 4) | (sop0101 > 0 & sop0101 < 4) | (sop0102 > 0 & sop0102 < 4) | (sop0103 > 0 & sop0103 < 4) | (sop0104 > 0 & sop0104 < 4) | (sop0105 > 0 & sop0105 < 4) | (sop0106 > 0 & sop0106 < 4) | (sop0150 > 0 & sop0150 < 4)",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4600,6 +4892,8 @@
           "text_de": "Welche Funktion ist das?",
           "scale": "chr",
           "filter": "sop0200 == 1",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "sn": 0,
           "item": "root"
         }
@@ -4620,6 +4914,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: http://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: http://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -4671,6 +4967,8 @@
           "text_de": "Alter 13 bis 15 Jahre: Welche der folgenden Aktivitaeten hast Du in den letzten 12 Monaten ausgeuebt? / Alter ab 16 Jahre: Welche der folgenden Aktivitaeten haben Sie in den letzten 12 Monaten ausgeuebt?",
           "scale": "txt",
           "filter": "age > 12",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "sn": 0,
           "item": "root"
         },
@@ -4681,6 +4979,8 @@
           "text_de": "An einer politischen Versammlung/Diskussionsveranstaltung/Demonstration teilgenommen",
           "answer_list": "yn",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4717,6 +5017,8 @@
           "text_de": "An einer Unterschriftensammlung teilgenommen/eine Onlinepetition unterstuetzt",
           "answer_list": "yn",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4753,6 +5055,8 @@
           "text_de": "Aus politischen, ethischen oder Umweltgruenden Unternehmen oder Waren boykottiert, d.h. zum Beispiel nicht gekauft oder gemieden",
           "answer_list": "yn",
           "scale": "cat",
+          "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
+          "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27: http://www.dji.de/cgi-bin/projekte/output.php?projekt=1110",
           "answers": [
             {
               "value": 1,
@@ -4799,6 +5103,8 @@
           "answer_list": "pop0300",
           "scale": "cat",
           "filter": "age >= 18",
+          "description": "Adapted from: Harris, K. M. (2009). National Longitudinal Study of Adolescent Health. (2009). Waves I & II, 1994\u20131996; Wave III, 2001\u20132002; Wave IV, 2007\u20132009 [machine-readable data file and documentation]. Chapel Hill, NC: Carolina Population Center, Uni",
+          "description_de": "Adaptiert von: Harris, K. M. (2009). National Longitudinal Study of Adolescent Health. (2009). Waves I & II, 1994\u20131996; Wave III, 2001\u20132002; Wave IV, 2007\u20132009 [machine-readable data file and documentation]. Chapel Hill, NC: Carolina Population Center, Un",
           "answers": [
             {
               "value": 1,
@@ -4846,6 +5152,8 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age > 12",
+          "description": "\"Sonntagsfrage\" - Opinion poll question asking who people would vote for if an election were to be held next Sunday (e.g. http://www.wahlrecht.de/umfragen/)",
+          "description_de": "Sonntagsfrage (http://www.wahlrecht.de/umfragen/)",
           "answers": [
             {
               "value": 1,
@@ -4893,6 +5201,8 @@
           "answer_list": "pop0302",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: http://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: Verfuegbar auf http://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -4974,6 +5284,8 @@
           "text_de": "Alter 10 bis 15 Jahre: Neigst Du einer bestimmten politischen Partei zu? Wenn ja, welcher Partei neigst Du am ehesten zu? / Alter ab 16 Jahren: Neigen Sie einer bestimmten politischen Partei zu? Wenn ja, welcher Partei neigen Sie am ehesten zu? (andere offen)",
           "scale": "chr",
           "filter": "pop0302 == 10",
+          "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: http://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: Verfuegbar auf http://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "sn": 0,
           "item": "root"
         }
@@ -4994,8 +5306,8 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age >= 13",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5042,8 +5354,8 @@
           "text_de": "Alter 13 bis 15 Jahre: Aus welchem Grund wurdest Du Deiner Meinung nach benachteiligt? Ich wurde benachteiligt auf Grund meiner/meines ... / Alter ab 16 Jahre: Aus welchem Grund wurden Sie Ihrer Meinung nach benachteiligt? Ich wurde benachteiligt auf Grund meiner/meines ...",
           "scale": "txt",
           "filter": "dis0100 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "sn": 0,
           "item": "root"
         },
@@ -5054,8 +5366,8 @@
           "text_de": "Herkunft (z.B. Nationalitaet, Hautfarbe)",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5087,8 +5399,8 @@
           "text_de": "Geschlechts",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5120,8 +5432,8 @@
           "text_de": "Religionszugehoerigkeit/Weltanschauung",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5153,8 +5465,8 @@
           "text_de": "Alters",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5186,8 +5498,8 @@
           "text_de": "Sexuellen Identitaet (z.B. Homosexualitaet)",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5219,8 +5531,8 @@
           "text_de": "Behinderung",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5252,8 +5564,8 @@
           "text_de": "Keine Angabe",
           "answer_list": "mn",
           "scale": "cat",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 0,
@@ -5295,8 +5607,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "dis0200 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5349,8 +5661,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "dis0300 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5403,8 +5715,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "dis0400 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5457,8 +5769,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "dis0500 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5511,8 +5823,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "dis0600 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5565,8 +5877,8 @@
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "dis0700 == 1",
-          "description": "Please note: The answers given in the paper-and-pencil questionnaire (\"drop off\") on the topic of \"discrimination\" seem to be not constantly consistent. Therefore, we recommend being very cautious and critical when using these items vor analyses.",
-          "description_de": "Bitte beachten Sie: Die Angaben zum Thema \"Diskriminierung\", die von Befragten im Paper-and-Pencil Modus gemacht wurden, scheinen nicht durchgehend konsistent zu sein. Wir empfehlen, diese Items fuer Analysen mit entsprechender Vorsicht zu nutzen.",
+          "description": "Adopted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswel",
+          "description_de": "Adaptiert von: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., Juergens, O., Mahne, K., Schoellgen, I., Wiest, M., & Tesch-Roemer, C. (2009). Deutscher Alterssurvey: Die zweite Lebenshaelfte. Erhebungsdesign und Instrumente der dritten Befragungswe",
           "answers": [
             {
               "value": 1,
@@ -5619,6 +5931,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5661,6 +5975,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5703,6 +6019,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5745,6 +6063,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5787,6 +6107,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5829,6 +6151,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5871,6 +6195,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5913,6 +6239,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5955,6 +6283,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -5997,6 +6327,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6039,6 +6371,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6081,6 +6415,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6123,6 +6459,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6165,6 +6503,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6207,6 +6547,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6249,6 +6591,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6291,6 +6635,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6333,6 +6679,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6375,6 +6723,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6417,6 +6767,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6459,6 +6811,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6501,6 +6855,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6543,6 +6899,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6585,6 +6943,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6627,6 +6987,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6669,6 +7031,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6711,6 +7075,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6753,6 +7119,8 @@
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6795,6 +7163,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6837,6 +7207,8 @@
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
+          "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
+          "description_de": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels fuer Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universitaet, National Educational Panel Study: https://www.uni-b",
           "answers": [
             {
               "value": 99,
@@ -6888,8 +7260,8 @@
           "text_de": "Im Allgemeinen kann man den Menschen vertrauen.",
           "answer_list": "agr4",
           "scale": "cat",
-          "description": "SOEP Core 2003 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf\nengl: SOEP Core 2003 pe english Version\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
-          "description_de": "SOEP Core 2003 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf\nengl: SOEP Core 2003 pe english Version\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2003: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf",
           "answers": [
             {
               "value": 1,
@@ -6931,8 +7303,8 @@
           "text_de": "Heutzutage kann man sich auf niemanden mehr verlassen.",
           "answer_list": "agr4",
           "scale": "cat",
-          "description": "SOEP Core 2003 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf\nengl: SOEP Core 2003 pe english Version\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
-          "description_de": "SOEP Core 2003 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf\nengl: SOEP Core 2003 pe english Version\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2003: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf",
           "answers": [
             {
               "value": 1,
@@ -6974,8 +7346,8 @@
           "text_de": "Wenn man mit Fremden zu tun hat, ist es besser, vorsichtig zu sein, bevor man ihnen vertraut.",
           "answer_list": "agr4",
           "scale": "cat",
-          "description": "SOEP Core 2003 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf\nengl: SOEP Core 2003 pe english Version\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
-          "description_de": "SOEP Core 2003 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf\nengl: SOEP Core 2003 pe english Version\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2003: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf",
           "answers": [
             {
               "value": 1,
@@ -7026,8 +7398,8 @@
           "text_de": "Alter 10 bis 15 Jahre: Nun noch einige allgemeine Fragen zu Deinen Freunden. Was trifft bei Dir zu? / Alter ab 16 Jahren: Nun noch einige allgemeine Fragen zu Ihren Freunden. Was trifft bei Ihnen zu?",
           "scale": "txt",
           "filter": "age >= 10",
-          "description": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
-          "description_de": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
+          "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013: http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf",
+          "description_de": "Panel Arbeitsmarkt und soziale Sicherung (PASS): PASS Personenfragebogen Welle 6 2013: doku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
           "sn": 0,
           "item": "root"
         },
@@ -7038,8 +7410,8 @@
           "text_de": "Die meisten meiner Freunde kennen sich untereinander.",
           "answer_list": "agr4_2",
           "scale": "cat",
-          "description": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
-          "description_de": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
+          "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013: http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf",
+          "description_de": "Panel Arbeitsmarkt und soziale Sicherung (PASS): PASS Personenfragebogen Welle 6 2013: doku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
           "answers": [
             {
               "value": 1,
@@ -7081,8 +7453,8 @@
           "text_de": "Auf Geburtstagsfeiern meiner Freunde sind meistens viele Personen, die ich kaum kenne.",
           "answer_list": "agr4_2",
           "scale": "cat",
-          "description": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
-          "description_de": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
+          "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013: http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf",
+          "description_de": "Panel Arbeitsmarkt und soziale Sicherung (PASS): PASS Personenfragebogen Welle 6 2013: doku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
           "answers": [
             {
               "value": 1,
@@ -7124,8 +7496,8 @@
           "text_de": "Meine engen Freunde kennen auch meine Familie.",
           "answer_list": "agr4_2",
           "scale": "cat",
-          "description": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
-          "description_de": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
+          "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013: http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf",
+          "description_de": "Panel Arbeitsmarkt und soziale Sicherung (PASS): PASS Personenfragebogen Welle 6 2013: doku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
           "answers": [
             {
               "value": 1,
@@ -7177,8 +7549,8 @@
           "answer_list": "net0300",
           "scale": "int",
           "filter": "age >= 10",
-          "description": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
-          "description_de": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
+          "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013: http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf",
+          "description_de": "Panel Arbeitsmarkt und soziale Sicherung (PASS): PASS Personenfragebogen Welle 6 2013: doku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
           "answers": [
             {
               "value": 999,
@@ -7216,8 +7588,8 @@
           "answer_list": "net0300",
           "scale": "int",
           "filter": "net0203 >= 1 & net0203 != 999",
-          "description": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
-          "description_de": "PASS Personenfragebogen Welle 6 Netzwerke\ndoku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
+          "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013: http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf",
+          "description_de": "Panel Arbeitsmarkt und soziale Sicherung (PASS): PASS Personenfragebogen Welle 6 2013: doku.iab.de/fdz/reporte/2013/DR_06-13_III.pdf",
           "answers": [
             {
               "value": 999,
@@ -7255,8 +7627,8 @@
           "answer_list": "net0300",
           "scale": "int",
           "filter": "age >= 10",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 999,
@@ -7294,8 +7666,8 @@
           "answer_list": "sex_2",
           "scale": "cat",
           "filter": "net0300 >= 1 & net0300 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7338,8 +7710,8 @@
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0300 >= 1 & net0300 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7397,8 +7769,8 @@
           "answer_list": "edu0400_2",
           "scale": "cat",
           "filter": "net0302 == 1",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7466,8 +7838,8 @@
           "answer_list": "net0300",
           "scale": "int",
           "filter": "age >= 10 & net0300 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 999,
@@ -7505,8 +7877,8 @@
           "answer_list": "sex",
           "scale": "cat",
           "filter": "net0400 >= 1 & net0400 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7549,8 +7921,8 @@
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0400 >= 1 & net0400 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7608,8 +7980,8 @@
           "answer_list": "edu0400_2",
           "scale": "cat",
           "filter": "net0402 == 1",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7677,8 +8049,8 @@
           "answer_list": "net0300",
           "scale": "int",
           "filter": "age >= 10 & net0300 != 999 & net0400 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 999,
@@ -7716,8 +8088,8 @@
           "answer_list": "sex",
           "scale": "cat",
           "filter": "net0500 >= 1 & net0500 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7760,8 +8132,8 @@
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0500 >= 1 & net0500 != 999",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7819,8 +8191,8 @@
           "answer_list": "edu0400_2",
           "scale": "cat",
           "filter": "net0502 == 1",
-          "description": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
-          "description_de": "SOEP Core 2011 pe\nwww.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf\nengl: SOEP Core 2011 pe english Version",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2011: www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394133.de/soepfrabo_personen_2011.pdf",
           "answers": [
             {
               "value": 1,
@@ -7888,8 +8260,8 @@
           "answer_list": "agr4_2",
           "scale": "cat",
           "filter": "age >= 10",
-          "description": "SOEP Core study Individual 2008",
-          "description_de": "SOEP Core study Individual 2008",
+          "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2008: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.85645.de/personen_2008_en.pdf",
+          "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2008: https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.85359.de/personen_2008.pdf",
           "answers": [
             {
               "value": 1,

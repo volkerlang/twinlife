@@ -18,6 +18,8 @@
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
           "scale": "dec",
+          "description": "Lenau, F., & Hahn, E. (2017). Documentation TwinLife Data: Zygosity (TwinLife Technical Report Series, 01). Bielefeld: Project TwinLife \u201cGenetic and social causes of life chances\u201d (Bielefeld University / Saarland University). AND Lenau, F., Hahn, E., Pete",
+          "description_de": "Lenau, F., & Hahn, E. (2017). Documentation TwinLife Data: Zygosity (TwinLife Technical Report Series, 01). Bielefeld: Project TwinLife \u201cGenetic and social causes of life chances\u201d (Bielefeld University / Saarland University). UND Lenau, F., Hahn, E., Pete",
           "answers": [
             {
               "value": -96,
@@ -168,6 +170,8 @@
           "text_de": "Wie gross ist der aeltere Zwilling [Name] gegenwaertig in cm?",
           "answer_list": "mis",
           "scale": "int",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065819",
           "answers": [
             {
               "value": -96,
@@ -204,6 +208,8 @@
           "text_de": "Wie gross ist der juengere Zwilling [Name] gegenwaertig?",
           "answer_list": "mis",
           "scale": "int",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065820",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065820",
           "answers": [
             {
               "value": -96,
@@ -240,6 +246,8 @@
           "text_de": "Gibt es Unterschiede bei der farblichen Schattierung der Haare der Zwillinge?",
           "answer_list": "zyg0300",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065821",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -286,6 +294,8 @@
           "text_de": "Gibt es Unterschiede in der Beschaffenheit der Haare der Zwillinge (z.B. fein oder dick, glatt oder gelockt)?",
           "answer_list": "zyg0300",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -332,6 +342,8 @@
           "text_de": "Gibt es Unterschiede in den Augenfarben der Zwillinge?",
           "answer_list": "zyg0300",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065820",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065822",
           "answers": [
             {
               "value": 1,
@@ -378,6 +390,8 @@
           "text_de": "Gibt es Unterscheide in der Form der Ohrlaeppchen der Zwillinge?",
           "answer_list": "zyg0300",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065821",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065823",
           "answers": [
             {
               "value": 1,
@@ -424,6 +438,8 @@
           "text_de": "Haben die Zwillinge in etwa zur gleichen Zeit Zaehne bekommen?",
           "answer_list": "zyg0400",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065822",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065824",
           "answers": [
             {
               "value": 1,
@@ -475,6 +491,8 @@
           "text_de": "Kennen Sie die Blutgruppen (A, B, AB, 0) und / oder den Rhesusfaktoren (Rh+, Rh-) Ihrer Zwillinge?",
           "answer_list": "yn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -522,6 +540,8 @@
           "answer_list": "zyg0501",
           "scale": "cat",
           "filter": "zyg0500 == 1",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -574,6 +594,8 @@
           "answer_list": "zyg0502",
           "scale": "cat",
           "filter": "zyg0500 == 1",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -616,6 +638,8 @@
           "answer_list": "zyg0501",
           "scale": "cat",
           "filter": "zyg0500 == 1",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -668,6 +692,8 @@
           "answer_list": "zyg0502",
           "scale": "cat",
           "filter": "zyg0500 == 1",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065820",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065822",
           "answers": [
             {
               "value": 1,
@@ -709,6 +735,8 @@
           "text_de": "Gibt es Unterschiede zwischen den Zwillingen, die durch Probleme bei der Geburt, durch einen Unfall oder Krankheit verursacht sind?",
           "answer_list": "yn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065821",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065823",
           "answers": [
             {
               "value": 1,
@@ -755,6 +783,8 @@
           "text_de": "Bitte beschreiben Sie diese Unterschiede naeher!",
           "scale": "chr",
           "filter": "zyg0600 == 1",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065822",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065824",
           "sn": 0,
           "item": "root"
         }
@@ -774,6 +804,8 @@
           "text_de": "Wie verhaelt es sich mit der Aehnlichkeit der Zwillinge mit zunehmendem Alter? Die Aehnlichkeit der Zwillinge mit zunehmendem Alter:",
           "answer_list": "zyg0602",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065823",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065825",
           "answers": [
             {
               "value": 1,
@@ -820,6 +852,8 @@
           "text_de": "Was glauben Sie persoenlich? Sind Ihre Zwillinge eineiig oder zweieiig?",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -871,6 +905,8 @@
           "text_de": "Wie kommen Sie zu dieser Annahme?",
           "scale": "chr",
           "filter": "zyg0700 != -98",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "sn": 0,
           "item": "root"
         }
@@ -890,6 +926,8 @@
           "text_de": "Wurde Ihnen jemals von medizinischem Personal (z.B. Hausarzt, Krankenschwester, Facharzt) die Eiigkeit Ihrer Zwillinge mitgeteilt?",
           "answer_list": "zyg0702",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -936,6 +974,8 @@
           "text_de": "Wie kam diese Aussage zustande?",
           "scale": "chr",
           "filter": "zyg0702 == 1 | zyg0702 == 2",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "sn": 0,
           "item": "root"
         }
@@ -955,6 +995,8 @@
           "text_de": "Wenn Sie sich fruehe Fotos Ihrer Zwillinge im Alter von 2-4 Jahren anschauen, koennen Sie die beiden auseinanderhalten, ohne Merkmale der Kleidung oder andere Hinweise heranzuziehen?",
           "answer_list": "zyg0800",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -1000,6 +1042,8 @@
           "text": "Did people confuse the twins when they were very young?",
           "text_de": "Haben folgende Personen die Zwillinge im fruehen Kindesalter verwechselt?",
           "scale": "txt",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "sn": 0,
           "item": "root"
         },
@@ -1010,6 +1054,8 @@
           "text_de": "Anderer Elternteil der Zwillinge",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -1051,6 +1097,8 @@
           "text_de": "Aeltere/s Geschwister",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -1092,6 +1140,8 @@
           "text_de": "Andere Verwandte",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065820",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065822",
           "answers": [
             {
               "value": 1,
@@ -1133,6 +1183,8 @@
           "text_de": "Babysitter/Tagesmutter",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065821",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065823",
           "answers": [
             {
               "value": 1,
@@ -1174,6 +1226,8 @@
           "text_de": "Nahe Freunde von Ihnen",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065822",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065824",
           "answers": [
             {
               "value": 1,
@@ -1215,6 +1269,8 @@
           "text_de": "Entferntere Freunde von Ihnen",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065823",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065825",
           "answers": [
             {
               "value": 1,
@@ -1256,6 +1312,8 @@
           "text_de": "Menschen, die die Zwillinge zum ersten Mal sehen",
           "answer_list": "zyg0801",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065824",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065826",
           "answers": [
             {
               "value": 1,
@@ -1306,6 +1364,8 @@
           "text_de": "Wurden die Zwillinge verwechselt, wenn sie zusammen waren?",
           "answer_list": "zyg0808",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065825",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065827",
           "answers": [
             {
               "value": 1,
@@ -1357,6 +1417,8 @@
           "text_de": "Wuerden Sie sagen, dass Ihre Zwillinge im fruehen Kindesalter. . .",
           "answer_list": "zyg0809",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 1,
@@ -1402,6 +1464,8 @@
           "text": "We are also interested in knowing if there are other twins in your family. Which generation and which side of your family are they on (mother's side/father's side)? Multiple answers are possible.",
           "text_de": "Wir sind auch daran interessiert, ob es in Ihrer Familie weitere Zwillingspaare gibt. In welcher Generation und in welchem Teil Ihrer Familie (muetterlicherseits/vaeterlicherseits) gab oder gibt es Zwillinge? Sie koennen mehrere Angaben machen.",
           "scale": "txt",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "sn": 0,
           "item": "root"
         },
@@ -1412,6 +1476,8 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), muetterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 0,
@@ -1443,6 +1509,8 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), vaeterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065819",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065821",
           "answers": [
             {
               "value": 0,
@@ -1474,6 +1542,8 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), muetterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065820",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065822",
           "answers": [
             {
               "value": 0,
@@ -1505,6 +1575,8 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), vaeterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065821",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065823",
           "answers": [
             {
               "value": 0,
@@ -1536,6 +1608,8 @@
           "text_de": "In der Generation Ihrer Eltern, muetterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065822",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065824",
           "answers": [
             {
               "value": 0,
@@ -1567,6 +1641,8 @@
           "text_de": "In der Generation Ihrer Eltern, vaeterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065823",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065825",
           "answers": [
             {
               "value": 0,
@@ -1598,6 +1674,8 @@
           "text_de": "Keine anderen Zwillingspaare in der Familie",
           "answer_list": "mn",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065824",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065826",
           "answers": [
             {
               "value": 0,
@@ -1638,6 +1716,8 @@
           "text_de": "Geben Sie bitte fuer jedes angegebene Zwillingspaar in Ihrer Familie an, ob diese eineiig oder zweieiig sind.",
           "scale": "txt",
           "filter": "zyg0900 == 1",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065825",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065827",
           "sn": 0,
           "item": "root"
         },
@@ -1648,6 +1728,8 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), muetterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065826",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065828",
           "answers": [
             {
               "value": 1,
@@ -1689,6 +1771,8 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), vaeterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065827",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065829",
           "answers": [
             {
               "value": 1,
@@ -1730,6 +1814,8 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), muetterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065828",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065830",
           "answers": [
             {
               "value": 1,
@@ -1771,6 +1857,8 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), vaeterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065829",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065831",
           "answers": [
             {
               "value": 1,
@@ -1812,6 +1900,8 @@
           "text_de": "In der Generation Ihrer Eltern, muetterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065830",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065832",
           "answers": [
             {
               "value": 1,
@@ -1853,6 +1943,8 @@
           "text_de": "In der Generation Ihrer Eltern, vaeterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269: https://doi.org/10.1007/BF01065831",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21, (3) 257\u2013269: https://doi.org/10.1007/BF01065833",
           "answers": [
             {
               "value": 1,
