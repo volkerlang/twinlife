@@ -1,7 +1,8 @@
 *~
-*swp
-*dta
-ddionrails/*yaml
+*.swp
+*.dta
+ddionrails/*.yaml
 temp
 save_old.log
 nohup.out
+*.log
