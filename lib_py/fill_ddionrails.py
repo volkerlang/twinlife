@@ -1,7 +1,9 @@
 import os, sys
 import pandas as pd
 
-sys.path.append(os.path.expanduser("~/github/ddi.py/"))
+# sys.path.append(os.path.expanduser("~/github/ddi.py/"))
+sys.path.append(os.path.expanduser("~/projects/ddionrails/ddi.py/"))
+
 
 from ddi.onrails.repos import merge_instruments, dor1, copy, convert_r2ddi
 
@@ -29,7 +31,7 @@ def main():
     #copy.f("questionnaires.csv", "instruments.csv")
     questions_variables()
     merge_instruments.main()
-    convert_r2ddi.Parser("twinlife", version="v2").write_json()
+    convert_r2ddi.Parser("twinlife", version="v2-1-0").write_json()
 
 if __name__ == "__main__":
     main()

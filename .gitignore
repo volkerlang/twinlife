@@ -2,6 +2,7 @@
 *.swp
 *.dta
 ddionrails/*.yaml
+DATA/*
 temp
 save_old.log
 nohup.out
