@@ -1,7 +1,7 @@
 import shutil
 
 import pandas as pd
-from ddi.onrails.repos import convert_r2ddi, copy, dor1, merge_instruments
+from ddi.onrails.repos import convert_r2ddi, dor1, merge_instruments
 
 STUDY = "twinlife"
 VERSION = "v3-0-0"
