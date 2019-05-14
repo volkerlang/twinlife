@@ -13,15 +13,25 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "9",
+          "number": "1",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "cer1000",
           "scale": "cat",
           "filter": "always generated",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
             {
               "value": 1,
               "label": "1: enrolled in school",
@@ -36,16 +46,6 @@
               "value": 3,
               "label": "3: not enrolled in school yet - no report card",
               "label_de": "3: geht noch nicht in die Schule - kein Zeugnis vorhanden"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
           "sn": 0,
@@ -62,15 +62,30 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "10",
+          "number": "2",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
           "scale": "cat",
           "filter": "ptyp == 1 | ptyp == 2 | ptyp == 200",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            },
             {
               "value": 1,
               "label": "1: yes",
@@ -80,21 +95,6 @@
               "value": 2,
               "label": "2: no",
               "label_de": "2: nein"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
           "sn": 0,
@@ -111,19 +111,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "11",
+          "number": "3",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "int",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -131,9 +131,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -150,19 +150,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "12",
+          "number": "4",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "int",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -170,9 +170,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -189,19 +189,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "13",
+          "number": "5",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -209,9 +209,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -228,15 +228,25 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "14",
+          "number": "6",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "cer9000",
           "scale": "cat",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
             {
               "value": 1,
               "label": "1: primary school",
@@ -286,16 +296,6 @@
               "value": 10,
               "label": "10: other school, such as",
               "label_de": "10: andere Schule, und zwar"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
           "sn": 0,
@@ -312,13 +312,13 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "15",
+          "number": "7",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "cer1000 == 2 & cer9000 == 7",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "sn": 0,
           "item": "root"
         }
@@ -333,19 +333,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "16",
+          "number": "8",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "int",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -353,9 +353,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -372,19 +372,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "17",
+          "number": "9",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -392,9 +392,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -411,19 +411,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "18",
+          "number": "10",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "dec",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -431,9 +431,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -450,19 +450,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "19",
+          "number": "11",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -470,9 +470,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -489,19 +489,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "20",
+          "number": "12",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "dec",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -509,9 +509,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -528,19 +528,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "21",
+          "number": "13",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -548,9 +548,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -567,19 +567,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "22",
+          "number": "14",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "dec",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -587,9 +587,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -606,19 +606,19 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "23",
+          "number": "15",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
             {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             },
             {
               "value": -98,
@@ -626,9 +626,9 @@
               "label_de": "-98: weiss nicht"
             },
             {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
             }
           ],
           "sn": 0,
@@ -645,15 +645,25 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "24",
+          "number": "16",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "cer1700",
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
             {
               "value": 1,
               "label": "1: primary school",
@@ -693,16 +703,6 @@
               "value": 8,
               "label": "7: other school, such as",
               "label_de": "8: andere Schule, und zwar"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
             }
           ],
           "sn": 0,
@@ -719,64 +719,18 @@
       "label": "Interviewer: Please record:",
       "items": [
         {
-          "number": "25",
+          "number": "17",
           "text": "Interviewer: Please record:",
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "cer1000 == 1 & cer1700 == 8",
           "description": "Item developed for TwinLife",
-          "description_de": "Fuer TwinLife entwickeltes Item",
+          "description_de": "F\u00fcr TwinLife entwickeltes Item",
           "sn": 0,
           "item": "root"
         }
       ],
       "sn": 16,
-      "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
-      "study": "twinlife"
-    },
-    "cer1800": {
-      "question": "cer1800",
-      "name": "cer1800",
-      "label": "generated/assigned variable",
-      "items": [
-        {
-          "number": "26",
-          "text": "generated/assigned variable",
-          "text_de": "generierte/zugespielte Variable",
-          "answer_list": "yn",
-          "scale": "cat",
-          "answers": [
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            }
-          ],
-          "sn": 0,
-          "item": "root"
-        }
-      ],
-      "sn": 17,
       "instrument": "twinlife-2014-F2F_Modul9_Zeugnis",
       "study": "twinlife"
     }
