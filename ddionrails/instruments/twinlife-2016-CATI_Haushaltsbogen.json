@@ -1,0 +1,3598 @@
+{
+  "study": "twinlife",
+  "questionnaire": "twinlife-2016-CATI_Haushaltsbogen",
+  "label": "Household questionnaire",
+  "description": "Information on household composition",
+  "period": "wave 1 CATI",
+  "analysis_unit": "household",
+  "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+  "questions": {
+    "fil0500": {
+      "question": "fil0500",
+      "name": "fil0500",
+      "label": "Text: If only one person lives in household: At the time of our last interview [date] you lived on your own.  Do any other people live in your household now? Please also think of people who moved into your household and newborn children. If more than one",
+      "items": [
+        {
+          "number": "1",
+          "text": "Text: If only one person lives in household: At the time of our last interview [date] you lived on your own.  Do any other people live in your household now? Please also think of people who moved into your household and newborn children. If more than one",
+          "text_de": "Text wenn nur eine Person im HH wohnhaft:\nBei unserer letzten Befragung im [T1_Monat T1_Jahr (aus Datum des Familienprotokolls)] lebten Sie allein in Ihrem Haushalt. Leben heute in Ihrem Haushalt weitere Personen, die bei unserer letzten Befragung noch ni",
+          "answer_list": "yn",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            },
+            {
+              "value": 1,
+              "label": "1: yes",
+              "label_de": "1: ja"
+            },
+            {
+              "value": 2,
+              "label": "2: no",
+              "label_de": "2: nein"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 0,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fil0500_1": {
+      "question": "fil0500_1",
+      "name": "fil0500_1",
+      "label": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+      "items": [
+        {
+          "number": "2",
+          "text": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+          "text_de": "Wer lebt seit unserer letzten Befragung neu in Ihrem Haushalt?\nWenn heute mehrere neue Personen in Ihrem Haushalt leben, beginnen Sie bitte mit der aeltesten Person.\nWie heisst diese Person? (offen)",
+          "answer_list": "mn",
+          "scale": "cat",
+          "filter": "fil0500 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 0,
+              "label": "0: not mentioned",
+              "label_de": "0: nicht genannt"
+            },
+            {
+              "value": 1,
+              "label": "1: mentioned",
+              "label_de": "1: genannt"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 1,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fil0500_2": {
+      "question": "fil0500_2",
+      "name": "fil0500_2",
+      "label": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+      "items": [
+        {
+          "number": "3",
+          "text": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+          "text_de": "Wer lebt seit unserer letzten Befragung neu in Ihrem Haushalt?\nWenn heute mehrere neue Personen in Ihrem Haushalt leben, beginnen Sie bitte mit der aeltesten Person.\nWie heisst diese Person? (offen)",
+          "answer_list": "mn",
+          "scale": "cat",
+          "filter": "fil0500 == 1 & fil0500_1 != -97 & fil0500_1 != -95",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 0,
+              "label": "0: not mentioned",
+              "label_de": "0: nicht genannt"
+            },
+            {
+              "value": 1,
+              "label": "1: mentioned",
+              "label_de": "1: genannt"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 2,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fil0500_3": {
+      "question": "fil0500_3",
+      "name": "fil0500_3",
+      "label": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+      "items": [
+        {
+          "number": "4",
+          "text": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+          "text_de": "Wer lebt seit unserer letzten Befragung neu in Ihrem Haushalt?\nWenn heute mehrere neue Personen in Ihrem Haushalt leben, beginnen Sie bitte mit der aeltesten Person.\nWie heisst diese Person? (offen)",
+          "answer_list": "mn",
+          "scale": "cat",
+          "filter": "fil0500 == 1 & fil0500_2 != -97 & fil0500_2 != -95",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 0,
+              "label": "0: not mentioned",
+              "label_de": "0: nicht genannt"
+            },
+            {
+              "value": 1,
+              "label": "1: mentioned",
+              "label_de": "1: genannt"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 3,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fil0500_4": {
+      "question": "fil0500_4",
+      "name": "fil0500_4",
+      "label": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+      "items": [
+        {
+          "number": "5",
+          "text": "Who has been living in your household since our last interview? If more than one new person lives in household now, please state eldest person first. What's the name of this person (open)?",
+          "text_de": "Wer lebt seit unserer letzten Befragung neu in Ihrem Haushalt?\nWenn heute mehrere neue Personen in Ihrem Haushalt leben, beginnen Sie bitte mit der aeltesten Person.\nWie heisst diese Person? (offen)",
+          "answer_list": "mn",
+          "scale": "cat",
+          "filter": "fil0500 == 1 & fil0500_3 != -97 & fil0500_3 != -95",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 0,
+              "label": "0: not mentioned",
+              "label_de": "0: nicht genannt"
+            },
+            {
+              "value": 1,
+              "label": "1: mentioned",
+              "label_de": "1: genannt"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 4,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0108_1": {
+      "question": "fpr0108_1",
+      "name": "fpr0108_1",
+      "label": "What relation does <new person > have to the twins?",
+      "items": [
+        {
+          "number": "6",
+          "text": "What relation does <new person > have to the twins?",
+          "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung hat <Name neue Person im HH> zu den Zwillingen?",
+          "answer_list": "ptyp2",
+          "scale": "cat",
+          "filter": "fil0500_1 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 11,
+              "label": "11: firstborn twin",
+              "label_de": "11: erstgeborener Zwilling"
+            },
+            {
+              "value": 12,
+              "label": "12: secondborn twin",
+              "label_de": "12: zweitgeborener Zwilling"
+            },
+            {
+              "value": 21,
+              "label": "21: biological mother",
+              "label_de": "21: leibliche Mutter"
+            },
+            {
+              "value": 22,
+              "label": "22: biological father",
+              "label_de": "22: leiblicher Vater"
+            },
+            {
+              "value": 23,
+              "label": "23: adoptive mother",
+              "label_de": "23: Adoptivmutter"
+            },
+            {
+              "value": 24,
+              "label": "24: adoptive father",
+              "label_de": "24: Adoptivvater"
+            },
+            {
+              "value": 25,
+              "label": "25: foster mother",
+              "label_de": "25: Pflegemutter"
+            },
+            {
+              "value": 26,
+              "label": "26: foster father",
+              "label_de": "26: Pflegevater"
+            },
+            {
+              "value": 28,
+              "label": "28: non-biological father, pregnancy by semen donor",
+              "label_de": "28: nicht-biologischer Vater, Schwangerschaft durch Samenspende"
+            },
+            {
+              "value": 31,
+              "label": "31: partner of mother",
+              "label_de": "31: Partner/in der Mutter"
+            },
+            {
+              "value": 32,
+              "label": "32: partner of father",
+              "label_de": "32: Partner/in des Vaters"
+            },
+            {
+              "value": 41,
+              "label": "41: full biological sibling (both parents are the same as twins)",
+              "label_de": "41: Vollgeschwister (beide Elternteile sind dieselben wie bei Zwillingen)"
+            },
+            {
+              "value": 42,
+              "label": "42: half sibling (mother is the same as twins)",
+              "label_de": "42: Halbgeschwister (Mutter ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 43,
+              "label": "43: half sibling (father is the same as twins)",
+              "label_de": "43: Halbgeschwister (Vater ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 44,
+              "label": "44: half sibling (one of the parents is the same as twins, which one is unknown)",
+              "label_de": "44: Halbgeschwister (ein Elternteil ist gleich wie bei den Zwillingen, welcher ist unbekannt)"
+            },
+            {
+              "value": 45,
+              "label": "45: stepsibling (no parent is the same as twins)",
+              "label_de": "45: Stiefgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 46,
+              "label": "46: adoptive sibling (no parent is the same as twins)",
+              "label_de": "46: Adoptivgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 51,
+              "label": "51: grandmother / grandfather",
+              "label_de": "51: Grossmutter / Grossvater"
+            },
+            {
+              "value": 52,
+              "label": "52: aunt / uncle",
+              "label_de": "52: Tante / Onkel"
+            },
+            {
+              "value": 61,
+              "label": "61: partner of firstborn twin",
+              "label_de": "61: Partner/in von Zwilling 1"
+            },
+            {
+              "value": 62,
+              "label": "62: partner of secondborn twin",
+              "label_de": "62: Partner/in von Zwilling 2"
+            },
+            {
+              "value": 71,
+              "label": "71: other relative",
+              "label_de": "71: andere verwandte Person"
+            },
+            {
+              "value": 72,
+              "label": "72: other non-relative",
+              "label_de": "72: andere nicht-verwandte Person"
+            },
+            {
+              "value": 81,
+              "label": "81: child of firstborn twin",
+              "label_de": "81: Kind von erstgeborenem Zwilling"
+            },
+            {
+              "value": 82,
+              "label": "82: child of secondborn twin",
+              "label_de": "82: Kind von zweitgeborenem Zwilling"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 5,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0108_2": {
+      "question": "fpr0108_2",
+      "name": "fpr0108_2",
+      "label": "What relation does <new person > have to the twins?",
+      "items": [
+        {
+          "number": "7",
+          "text": "What relation does <new person > have to the twins?",
+          "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung hat <Name neue Person im HH> zu den Zwillingen?",
+          "answer_list": "ptyp2",
+          "scale": "cat",
+          "filter": "fil0500_2 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 11,
+              "label": "11: firstborn twin",
+              "label_de": "11: erstgeborener Zwilling"
+            },
+            {
+              "value": 12,
+              "label": "12: secondborn twin",
+              "label_de": "12: zweitgeborener Zwilling"
+            },
+            {
+              "value": 21,
+              "label": "21: biological mother",
+              "label_de": "21: leibliche Mutter"
+            },
+            {
+              "value": 22,
+              "label": "22: biological father",
+              "label_de": "22: leiblicher Vater"
+            },
+            {
+              "value": 23,
+              "label": "23: adoptive mother",
+              "label_de": "23: Adoptivmutter"
+            },
+            {
+              "value": 24,
+              "label": "24: adoptive father",
+              "label_de": "24: Adoptivvater"
+            },
+            {
+              "value": 25,
+              "label": "25: foster mother",
+              "label_de": "25: Pflegemutter"
+            },
+            {
+              "value": 26,
+              "label": "26: foster father",
+              "label_de": "26: Pflegevater"
+            },
+            {
+              "value": 28,
+              "label": "28: non-biological father, pregnancy by semen donor",
+              "label_de": "28: nicht-biologischer Vater, Schwangerschaft durch Samenspende"
+            },
+            {
+              "value": 31,
+              "label": "31: partner of mother",
+              "label_de": "31: Partner/in der Mutter"
+            },
+            {
+              "value": 32,
+              "label": "32: partner of father",
+              "label_de": "32: Partner/in des Vaters"
+            },
+            {
+              "value": 41,
+              "label": "41: full biological sibling (both parents are the same as twins)",
+              "label_de": "41: Vollgeschwister (beide Elternteile sind dieselben wie bei Zwillingen)"
+            },
+            {
+              "value": 42,
+              "label": "42: half sibling (mother is the same as twins)",
+              "label_de": "42: Halbgeschwister (Mutter ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 43,
+              "label": "43: half sibling (father is the same as twins)",
+              "label_de": "43: Halbgeschwister (Vater ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 44,
+              "label": "44: half sibling (one of the parents is the same as twins, which one is unknown)",
+              "label_de": "44: Halbgeschwister (ein Elternteil ist gleich wie bei den Zwillingen, welcher ist unbekannt)"
+            },
+            {
+              "value": 45,
+              "label": "45: stepsibling (no parent is the same as twins)",
+              "label_de": "45: Stiefgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 46,
+              "label": "46: adoptive sibling (no parent is the same as twins)",
+              "label_de": "46: Adoptivgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 51,
+              "label": "51: grandmother / grandfather",
+              "label_de": "51: Grossmutter / Grossvater"
+            },
+            {
+              "value": 52,
+              "label": "52: aunt / uncle",
+              "label_de": "52: Tante / Onkel"
+            },
+            {
+              "value": 61,
+              "label": "61: partner of firstborn twin",
+              "label_de": "61: Partner/in von Zwilling 1"
+            },
+            {
+              "value": 62,
+              "label": "62: partner of secondborn twin",
+              "label_de": "62: Partner/in von Zwilling 2"
+            },
+            {
+              "value": 71,
+              "label": "71: other relative",
+              "label_de": "71: andere verwandte Person"
+            },
+            {
+              "value": 72,
+              "label": "72: other non-relative",
+              "label_de": "72: andere nicht-verwandte Person"
+            },
+            {
+              "value": 81,
+              "label": "81: child of firstborn twin",
+              "label_de": "81: Kind von erstgeborenem Zwilling"
+            },
+            {
+              "value": 82,
+              "label": "82: child of secondborn twin",
+              "label_de": "82: Kind von zweitgeborenem Zwilling"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 6,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0108_3": {
+      "question": "fpr0108_3",
+      "name": "fpr0108_3",
+      "label": "What relation does <new person > have to the twins?",
+      "items": [
+        {
+          "number": "8",
+          "text": "What relation does <new person > have to the twins?",
+          "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung hat <Name neue Person im HH> zu den Zwillingen?",
+          "answer_list": "ptyp2",
+          "scale": "cat",
+          "filter": "fil0500_3 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 11,
+              "label": "11: firstborn twin",
+              "label_de": "11: erstgeborener Zwilling"
+            },
+            {
+              "value": 12,
+              "label": "12: secondborn twin",
+              "label_de": "12: zweitgeborener Zwilling"
+            },
+            {
+              "value": 21,
+              "label": "21: biological mother",
+              "label_de": "21: leibliche Mutter"
+            },
+            {
+              "value": 22,
+              "label": "22: biological father",
+              "label_de": "22: leiblicher Vater"
+            },
+            {
+              "value": 23,
+              "label": "23: adoptive mother",
+              "label_de": "23: Adoptivmutter"
+            },
+            {
+              "value": 24,
+              "label": "24: adoptive father",
+              "label_de": "24: Adoptivvater"
+            },
+            {
+              "value": 25,
+              "label": "25: foster mother",
+              "label_de": "25: Pflegemutter"
+            },
+            {
+              "value": 26,
+              "label": "26: foster father",
+              "label_de": "26: Pflegevater"
+            },
+            {
+              "value": 28,
+              "label": "28: non-biological father, pregnancy by semen donor",
+              "label_de": "28: nicht-biologischer Vater, Schwangerschaft durch Samenspende"
+            },
+            {
+              "value": 31,
+              "label": "31: partner of mother",
+              "label_de": "31: Partner/in der Mutter"
+            },
+            {
+              "value": 32,
+              "label": "32: partner of father",
+              "label_de": "32: Partner/in des Vaters"
+            },
+            {
+              "value": 41,
+              "label": "41: full biological sibling (both parents are the same as twins)",
+              "label_de": "41: Vollgeschwister (beide Elternteile sind dieselben wie bei Zwillingen)"
+            },
+            {
+              "value": 42,
+              "label": "42: half sibling (mother is the same as twins)",
+              "label_de": "42: Halbgeschwister (Mutter ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 43,
+              "label": "43: half sibling (father is the same as twins)",
+              "label_de": "43: Halbgeschwister (Vater ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 44,
+              "label": "44: half sibling (one of the parents is the same as twins, which one is unknown)",
+              "label_de": "44: Halbgeschwister (ein Elternteil ist gleich wie bei den Zwillingen, welcher ist unbekannt)"
+            },
+            {
+              "value": 45,
+              "label": "45: stepsibling (no parent is the same as twins)",
+              "label_de": "45: Stiefgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 46,
+              "label": "46: adoptive sibling (no parent is the same as twins)",
+              "label_de": "46: Adoptivgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 51,
+              "label": "51: grandmother / grandfather",
+              "label_de": "51: Grossmutter / Grossvater"
+            },
+            {
+              "value": 52,
+              "label": "52: aunt / uncle",
+              "label_de": "52: Tante / Onkel"
+            },
+            {
+              "value": 61,
+              "label": "61: partner of firstborn twin",
+              "label_de": "61: Partner/in von Zwilling 1"
+            },
+            {
+              "value": 62,
+              "label": "62: partner of secondborn twin",
+              "label_de": "62: Partner/in von Zwilling 2"
+            },
+            {
+              "value": 71,
+              "label": "71: other relative",
+              "label_de": "71: andere verwandte Person"
+            },
+            {
+              "value": 72,
+              "label": "72: other non-relative",
+              "label_de": "72: andere nicht-verwandte Person"
+            },
+            {
+              "value": 81,
+              "label": "81: child of firstborn twin",
+              "label_de": "81: Kind von erstgeborenem Zwilling"
+            },
+            {
+              "value": 82,
+              "label": "82: child of secondborn twin",
+              "label_de": "82: Kind von zweitgeborenem Zwilling"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 7,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0108_4": {
+      "question": "fpr0108_4",
+      "name": "fpr0108_4",
+      "label": "What relation does <new person > have to the twins?",
+      "items": [
+        {
+          "number": "9",
+          "text": "What relation does <new person > have to the twins?",
+          "text_de": "Welche Verwandtschaftsbeziehung bzw. Stellung hat <Name neue Person im HH> zu den Zwillingen?",
+          "answer_list": "ptyp2",
+          "scale": "cat",
+          "filter": "fil0500_4 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 11,
+              "label": "11: firstborn twin",
+              "label_de": "11: erstgeborener Zwilling"
+            },
+            {
+              "value": 12,
+              "label": "12: secondborn twin",
+              "label_de": "12: zweitgeborener Zwilling"
+            },
+            {
+              "value": 21,
+              "label": "21: biological mother",
+              "label_de": "21: leibliche Mutter"
+            },
+            {
+              "value": 22,
+              "label": "22: biological father",
+              "label_de": "22: leiblicher Vater"
+            },
+            {
+              "value": 23,
+              "label": "23: adoptive mother",
+              "label_de": "23: Adoptivmutter"
+            },
+            {
+              "value": 24,
+              "label": "24: adoptive father",
+              "label_de": "24: Adoptivvater"
+            },
+            {
+              "value": 25,
+              "label": "25: foster mother",
+              "label_de": "25: Pflegemutter"
+            },
+            {
+              "value": 26,
+              "label": "26: foster father",
+              "label_de": "26: Pflegevater"
+            },
+            {
+              "value": 28,
+              "label": "28: non-biological father, pregnancy by semen donor",
+              "label_de": "28: nicht-biologischer Vater, Schwangerschaft durch Samenspende"
+            },
+            {
+              "value": 31,
+              "label": "31: partner of mother",
+              "label_de": "31: Partner/in der Mutter"
+            },
+            {
+              "value": 32,
+              "label": "32: partner of father",
+              "label_de": "32: Partner/in des Vaters"
+            },
+            {
+              "value": 41,
+              "label": "41: full biological sibling (both parents are the same as twins)",
+              "label_de": "41: Vollgeschwister (beide Elternteile sind dieselben wie bei Zwillingen)"
+            },
+            {
+              "value": 42,
+              "label": "42: half sibling (mother is the same as twins)",
+              "label_de": "42: Halbgeschwister (Mutter ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 43,
+              "label": "43: half sibling (father is the same as twins)",
+              "label_de": "43: Halbgeschwister (Vater ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 44,
+              "label": "44: half sibling (one of the parents is the same as twins, which one is unknown)",
+              "label_de": "44: Halbgeschwister (ein Elternteil ist gleich wie bei den Zwillingen, welcher ist unbekannt)"
+            },
+            {
+              "value": 45,
+              "label": "45: stepsibling (no parent is the same as twins)",
+              "label_de": "45: Stiefgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 46,
+              "label": "46: adoptive sibling (no parent is the same as twins)",
+              "label_de": "46: Adoptivgeschwister (kein Elternteil ist gleich wie bei den Zwillingen)"
+            },
+            {
+              "value": 51,
+              "label": "51: grandmother / grandfather",
+              "label_de": "51: Grossmutter / Grossvater"
+            },
+            {
+              "value": 52,
+              "label": "52: aunt / uncle",
+              "label_de": "52: Tante / Onkel"
+            },
+            {
+              "value": 61,
+              "label": "61: partner of firstborn twin",
+              "label_de": "61: Partner/in von Zwilling 1"
+            },
+            {
+              "value": 62,
+              "label": "62: partner of secondborn twin",
+              "label_de": "62: Partner/in von Zwilling 2"
+            },
+            {
+              "value": 71,
+              "label": "71: other relative",
+              "label_de": "71: andere verwandte Person"
+            },
+            {
+              "value": 72,
+              "label": "72: other non-relative",
+              "label_de": "72: andere nicht-verwandte Person"
+            },
+            {
+              "value": 81,
+              "label": "81: child of firstborn twin",
+              "label_de": "81: Kind von erstgeborenem Zwilling"
+            },
+            {
+              "value": 82,
+              "label": "82: child of secondborn twin",
+              "label_de": "82: Kind von zweitgeborenem Zwilling"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 8,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0106_1": {
+      "question": "fpr0106_1",
+      "name": "fpr0106_1",
+      "label": "And <name of new person> is...",
+      "items": [
+        {
+          "number": "10",
+          "text": "And <name of new person> is...",
+          "text_de": "Und <Name der Person einblenden> ist\u2026",
+          "answer_list": "sex",
+          "scale": "cat",
+          "filter": "fil0500_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: male",
+              "label_de": "1: maennlich"
+            },
+            {
+              "value": 2,
+              "label": "2: female",
+              "label_de": "2: weiblich"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 9,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0106_2": {
+      "question": "fpr0106_2",
+      "name": "fpr0106_2",
+      "label": "And <name of new person> is...",
+      "items": [
+        {
+          "number": "11",
+          "text": "And <name of new person> is...",
+          "text_de": "Und <Name der Person einblenden> ist\u2026",
+          "answer_list": "sex",
+          "scale": "cat",
+          "filter": "fil0500_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: male",
+              "label_de": "1: maennlich"
+            },
+            {
+              "value": 2,
+              "label": "2: female",
+              "label_de": "2: weiblich"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 10,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0106_3": {
+      "question": "fpr0106_3",
+      "name": "fpr0106_3",
+      "label": "And <name of new person> is...",
+      "items": [
+        {
+          "number": "12",
+          "text": "And <name of new person> is...",
+          "text_de": "Und <Name der Person einblenden> ist\u2026",
+          "answer_list": "sex",
+          "scale": "cat",
+          "filter": "fil0500_3 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: male",
+              "label_de": "1: maennlich"
+            },
+            {
+              "value": 2,
+              "label": "2: female",
+              "label_de": "2: weiblich"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 11,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0106_4": {
+      "question": "fpr0106_4",
+      "name": "fpr0106_4",
+      "label": "And <name of new person> is...",
+      "items": [
+        {
+          "number": "13",
+          "text": "And <name of new person> is...",
+          "text_de": "Und <Name der Person einblenden> ist\u2026",
+          "answer_list": "sex",
+          "scale": "cat",
+          "filter": "fil0500_4 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: male",
+              "label_de": "1: maennlich"
+            },
+            {
+              "value": 2,
+              "label": "2: female",
+              "label_de": "2: weiblich"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 12,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0103_1": {
+      "question": "fpr0103_1",
+      "name": "fpr0103_1",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "14",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 13,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0104_1": {
+      "question": "fpr0104_1",
+      "name": "fpr0104_1",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "15",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 14,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0105_1": {
+      "question": "fpr0105_1",
+      "name": "fpr0105_1",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "16",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 15,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0103_2": {
+      "question": "fpr0103_2",
+      "name": "fpr0103_2",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "17",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 16,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0104_2": {
+      "question": "fpr0104_2",
+      "name": "fpr0104_2",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "18",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 17,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0105_2": {
+      "question": "fpr0105_2",
+      "name": "fpr0105_2",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "19",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 18,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0103_3": {
+      "question": "fpr0103_3",
+      "name": "fpr0103_3",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "20",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_3 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 19,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0104_3": {
+      "question": "fpr0104_3",
+      "name": "fpr0104_3",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "21",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_3 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 20,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0105_3": {
+      "question": "fpr0105_3",
+      "name": "fpr0105_3",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "22",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_3 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 21,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0103_4": {
+      "question": "fpr0103_4",
+      "name": "fpr0103_4",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "23",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_4 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 22,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0104_4": {
+      "question": "fpr0104_4",
+      "name": "fpr0104_4",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "24",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_4 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 23,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0105_4": {
+      "question": "fpr0105_4",
+      "name": "fpr0105_4",
+      "label": "When was <name of new person> born? Please tell me the birthdate.",
+      "items": [
+        {
+          "number": "25",
+          "text": "When was <name of new person> born? Please tell me the birthdate.",
+          "text_de": "Und wann ist <Name der Person einblenden> geboren? Nennen Sie mir bitte das\nGeburtsdatum.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_4 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 4 2011/12. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Kind_de__pairfam_Welle_4_2011-12.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 24,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0109_1": {
+      "question": "fpr0109_1",
+      "name": "fpr0109_1",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "26",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_1 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 25,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0110_1": {
+      "question": "fpr0110_1",
+      "name": "fpr0110_1",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "27",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_1 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 26,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0109_2": {
+      "question": "fpr0109_2",
+      "name": "fpr0109_2",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "28",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_2 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 27,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0110_2": {
+      "question": "fpr0110_2",
+      "name": "fpr0110_2",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "29",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_2 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 28,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0109_3": {
+      "question": "fpr0109_3",
+      "name": "fpr0109_3",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "30",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_3 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 29,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0110_3": {
+      "question": "fpr0110_3",
+      "name": "fpr0110_3",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "31",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_3 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 30,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0109_4": {
+      "question": "fpr0109_4",
+      "name": "fpr0109_4",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "32",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_4 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 31,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "fpr0110_4": {
+      "question": "fpr0110_4",
+      "name": "fpr0110_4",
+      "label": "How long has <name of new person> been living in your household? Please state month and year.",
+      "items": [
+        {
+          "number": "33",
+          "text": "How long has <name of new person> been living in your household? Please state month and year.",
+          "text_de": "Seit wann lebt <Name der Person einblenden> in Ihrem Haushalt? Nennen Sie bitte den\nMonat und das Jahr.",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "fil0500_4 == 1",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 32,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0301s": {
+      "question": "con0301s",
+      "name": "con0301s",
+      "label": "How often has <name sibling> seen <name mother> in the past 6 months or since moving out?",
+      "items": [
+        {
+          "number": "34",
+          "text": "How often has <name sibling> seen <name mother> in the past 6 months or since moving out?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug <Name ausserhaeusige Person>\ngesehen?",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,400) & inrange(bas0105,0,9) & fpr1100_200 == 0 & fpr1101_200 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 33,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0301t": {
+      "question": "con0301t",
+      "name": "con0301t",
+      "label": "How often has <name twin 1> seen <name mother> in the past 6 months or since moving out?",
+      "items": [
+        {
+          "number": "35",
+          "text": "How often has <name twin 1> seen <name mother> in the past 6 months or since moving out?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug <Name ausserhaeusige Person>\ngesehen?",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,400) & inrange(bas0103,0,9) & fpr1100_1 == 0 & fpr1101_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 34,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0301u": {
+      "question": "con0301u",
+      "name": "con0301u",
+      "label": "How often has <name twin 2> seen <name mother> in the past 6 months or since moving out?",
+      "items": [
+        {
+          "number": "36",
+          "text": "How often has <name twin 2> seen <name mother> in the past 6 months or since moving out?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug <Name ausserhaeusige Person>\ngesehen?",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,400) & inrange(bas0103,0,9) & fpr1100_2 == 0 & fpr1101_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 35,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0302s": {
+      "question": "con0302s",
+      "name": "con0302s",
+      "label": "When did  <name sibling>  see  <name mother> the last time?",
+      "items": [
+        {
+          "number": "37",
+          "text": "When did  <name sibling>  see  <name mother> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0301s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 36,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0302t": {
+      "question": "con0302t",
+      "name": "con0302t",
+      "label": "When did  <name twin 1>  see  <name mother> the last time?",
+      "items": [
+        {
+          "number": "38",
+          "text": "When did  <name twin 1>  see  <name mother> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0301t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 37,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0302u": {
+      "question": "con0302u",
+      "name": "con0302u",
+      "label": "When did  <name twin2>  see  <name mother> the last time?",
+      "items": [
+        {
+          "number": "39",
+          "text": "When did  <name twin2>  see  <name mother> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0301u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 38,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0303s": {
+      "question": "con0303s",
+      "name": "con0303s",
+      "label": "When did  <name sibling>  see  <name mother> the last time?",
+      "items": [
+        {
+          "number": "40",
+          "text": "When did  <name sibling>  see  <name mother> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0301s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 39,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0303t": {
+      "question": "con0303t",
+      "name": "con0303t",
+      "label": "When did  <name twin 1>  see  <name mother> the last time?",
+      "items": [
+        {
+          "number": "41",
+          "text": "When did  <name twin 1>  see  <name mother> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0301t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 40,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0303u": {
+      "question": "con0303u",
+      "name": "con0303u",
+      "label": "When did  <name twin 2>  see  <name mother> the last time?",
+      "items": [
+        {
+          "number": "42",
+          "text": "When did  <name twin 2>  see  <name mother> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0301u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 41,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0304s": {
+      "question": "con0304s",
+      "name": "con0304s",
+      "label": "How often has <name sibling> been in contact with <name mother> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+      "items": [
+        {
+          "number": "43",
+          "text": "How often has <name sibling> been in contact with <name mother> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug mit <Name ausserhaeusige\nPerson> Kontakt gehabt, z.B. per Telefon, Email etc.? Persoenliche Treffen sind hiermit\nnicht gemeint.",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,400) & inrange(bas0105,0,9) & fpr1100_200 == 0 & fpr1101_200 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 42,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0304t": {
+      "question": "con0304t",
+      "name": "con0304t",
+      "label": "How often has <name twin 1> been in contact with <name mother> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+      "items": [
+        {
+          "number": "44",
+          "text": "How often has <name twin 1> been in contact with <name mother> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug mit <Name ausserhaeusige\nPerson> Kontakt gehabt, z.B. per Telefon, Email etc.? Persoenliche Treffen sind hiermit\nnicht gemeint.",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,400) & inrange(bas0103,0,9) & fpr1100_1 == 0 & fpr1101_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 43,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0304u": {
+      "question": "con0304u",
+      "name": "con0304u",
+      "label": "How often has <name twin2> been in contact with <name mother> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+      "items": [
+        {
+          "number": "45",
+          "text": "How often has <name twin2> been in contact with <name mother> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug mit <Name ausserhaeusige\nPerson> Kontakt gehabt, z.B. per Telefon, Email etc.? Persoenliche Treffen sind hiermit\nnicht gemeint.",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,400) & inrange(bas0103,0,9) & fpr1100_2 == 0 & fpr1101_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 44,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0305s": {
+      "question": "con0305s",
+      "name": "con0305s",
+      "label": "When was <name sibling> in contact with <name mother> the last time?",
+      "items": [
+        {
+          "number": "46",
+          "text": "When was <name sibling> in contact with <name mother> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0304s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 45,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0305t": {
+      "question": "con0305t",
+      "name": "con0305t",
+      "label": "When was <name twin 1> in contact with <name mother> the last time?",
+      "items": [
+        {
+          "number": "47",
+          "text": "When was <name twin 1> in contact with <name mother> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0304t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 46,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0305u": {
+      "question": "con0305u",
+      "name": "con0305u",
+      "label": "When was <name twin 2> in contact with <name mother> the last time?",
+      "items": [
+        {
+          "number": "48",
+          "text": "When was <name twin 2> in contact with <name mother> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0304u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 47,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0306s": {
+      "question": "con0306s",
+      "name": "con0306s",
+      "label": "When was <name sibling> in contact with <name mother> the last time?",
+      "items": [
+        {
+          "number": "49",
+          "text": "When was <name sibling> in contact with <name mother> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0304s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 48,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0306t": {
+      "question": "con0306t",
+      "name": "con0306t",
+      "label": "When was <name twin 1> in contact with <name mother> the last time?",
+      "items": [
+        {
+          "number": "50",
+          "text": "When was <name twin 1> in contact with <name mother> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0304t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 49,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0306u": {
+      "question": "con0306u",
+      "name": "con0306u",
+      "label": "When was <name twin 2> in contact with <name mother> the last time?",
+      "items": [
+        {
+          "number": "51",
+          "text": "When was <name twin 2> in contact with <name mother> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0304u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 50,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0401s": {
+      "question": "con0401s",
+      "name": "con0401s",
+      "label": "How often has <name sibling> seen <name father> in the past 6 months or since moving out?",
+      "items": [
+        {
+          "number": "52",
+          "text": "How often has <name sibling> seen <name father> in the past 6 months or since moving out?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug <Name ausserhaeusige Person>\ngesehen?",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,300) & inrange(bas0105,0,9) & fpr1101_200 == 0 & fpr1100_200 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 51,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0401t": {
+      "question": "con0401t",
+      "name": "con0401t",
+      "label": "How often has <name twin 1> seen <name father> in the past 6 months or since moving out?",
+      "items": [
+        {
+          "number": "53",
+          "text": "How often has <name twin 1> seen <name father> in the past 6 months or since moving out?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug <Name ausserhaeusige Person>\ngesehen?",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,300) & inrange(bas0103,0,9) & fpr1101_1 == 0 & fpr1100_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 52,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0401u": {
+      "question": "con0401u",
+      "name": "con0401u",
+      "label": "How often has <name twin 2> seen <name father> in the past 6 months or since moving out?",
+      "items": [
+        {
+          "number": "54",
+          "text": "How often has <name twin 2> seen <name father> in the past 6 months or since moving out?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug <Name ausserhaeusige Person>\ngesehen?",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,300) & inrange(bas0103,0,9) & fpr1101_2 == 0 & fpr1100_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 53,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0402s": {
+      "question": "con0402s",
+      "name": "con0402s",
+      "label": "When did  <name sibling>  see  <name father> the last time?",
+      "items": [
+        {
+          "number": "55",
+          "text": "When did  <name sibling>  see  <name father> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0401s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 54,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0402t": {
+      "question": "con0402t",
+      "name": "con0402t",
+      "label": "When did  <name twin 1>  see  <name father> the last time?",
+      "items": [
+        {
+          "number": "56",
+          "text": "When did  <name twin 1>  see  <name father> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0401t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 55,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0402u": {
+      "question": "con0402u",
+      "name": "con0402u",
+      "label": "When did  <name twin2>  see  <name father> the last time?",
+      "items": [
+        {
+          "number": "57",
+          "text": "When did  <name twin2>  see  <name father> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0401u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 56,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0403s": {
+      "question": "con0403s",
+      "name": "con0403s",
+      "label": "When did  <name sibling>  see  <name father> the last time?",
+      "items": [
+        {
+          "number": "58",
+          "text": "When did  <name sibling>  see  <name father> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0401s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 57,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0403t": {
+      "question": "con0403t",
+      "name": "con0403t",
+      "label": "When did  <name twin 1>  see  <name father> the last time?",
+      "items": [
+        {
+          "number": "59",
+          "text": "When did  <name twin 1>  see  <name father> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0401t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 58,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0403u": {
+      "question": "con0403u",
+      "name": "con0403u",
+      "label": "When did  <name twin 2>  see  <name father> the last time?",
+      "items": [
+        {
+          "number": "60",
+          "text": "When did  <name twin 2>  see  <name father> the last time?",
+          "text_de": "Wann [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] <Name ausserhaeusige Person> das letzte Mal gesehen?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0401u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 59,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0404s": {
+      "question": "con0404s",
+      "name": "con0404s",
+      "label": "How often has <name sibling> been in contact with <name father> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+      "items": [
+        {
+          "number": "61",
+          "text": "How often has <name sibling> been in contact with <name father> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug mit <Name ausserhaeusige\nPerson> Kontakt gehabt, z.B. per Telefon, Email etc.? Persoenliche Treffen sind hiermit\nnicht gemeint.",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,300) & inrange(bas0105,0,9) & fpr1101_200 == 0 & fpr1100_200 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 60,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0404t": {
+      "question": "con0404t",
+      "name": "con0404t",
+      "label": "How often has <name twin 1> been in contact with <name father> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+      "items": [
+        {
+          "number": "62",
+          "text": "How often has <name twin 1> been in contact with <name father> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug mit <Name ausserhaeusige\nPerson> Kontakt gehabt, z.B. per Telefon, Email etc.? Persoenliche Treffen sind hiermit\nnicht gemeint.",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,300) & inrange(bas0103,0,9) & fpr1101_1 == 0 & fpr1100_1 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 61,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0404u": {
+      "question": "con0404u",
+      "name": "con0404u",
+      "label": "How often has <name twin2> been in contact with <name father> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+      "items": [
+        {
+          "number": "63",
+          "text": "How often has <name twin2> been in contact with <name father> in the past 6 months or since moving out, for example by phone, mail, etc.?",
+          "text_de": "Wie haeufig [hat <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<haben Sie>] in den letzten 6 Monaten bzw. seit Auszug mit <Name ausserhaeusige\nPerson> Kontakt gehabt, z.B. per Telefon, Email etc.? Persoenliche Treffen sind hiermit\nnicht gemeint.",
+          "answer_list": "ple0200",
+          "scale": "cat",
+          "filter": "inlist(ptyp_hq,300) & inrange(bas0103,0,9) & fpr1101_2 == 0 & fpr1100_2 == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: never",
+              "label_de": "1: nie"
+            },
+            {
+              "value": 2,
+              "label": "2: once or several times in the last six month",
+              "label_de": "2: ein oder mehrmals im halben Jahr"
+            },
+            {
+              "value": 3,
+              "label": "3: about once a month",
+              "label_de": "3: etwa 1-mal im Monat"
+            },
+            {
+              "value": 4,
+              "label": "4: about once a week",
+              "label_de": "4: etwa 1-mal in der Woche"
+            },
+            {
+              "value": 5,
+              "label": "5: (almost) every day",
+              "label_de": "5: (fast) jeden Tag"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 62,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0405s": {
+      "question": "con0405s",
+      "name": "con0405s",
+      "label": "When was <name sibling> in contact with <name father> the last time?",
+      "items": [
+        {
+          "number": "64",
+          "text": "When was <name sibling> in contact with <name father> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0404s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 63,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0405t": {
+      "question": "con0405t",
+      "name": "con0405t",
+      "label": "When was <name twin 1> in contact with <name father> the last time?",
+      "items": [
+        {
+          "number": "65",
+          "text": "When was <name twin 1> in contact with <name father> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0404t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 64,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0405u": {
+      "question": "con0405u",
+      "name": "con0405u",
+      "label": "When was <name twin 2> in contact with <name father> the last time?",
+      "items": [
+        {
+          "number": "66",
+          "text": "When was <name twin 2> in contact with <name father> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0404u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 65,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0406s": {
+      "question": "con0406s",
+      "name": "con0406s",
+      "label": "When was <name sibling> in contact with <name father> the last time?",
+      "items": [
+        {
+          "number": "67",
+          "text": "When was <name sibling> in contact with <name father> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0404s == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 66,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0406t": {
+      "question": "con0406t",
+      "name": "con0406t",
+      "label": "When was <name twin 1> in contact with <name father> the last time?",
+      "items": [
+        {
+          "number": "68",
+          "text": "When was <name twin 1> in contact with <name father> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0404t == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 67,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "con0406u": {
+      "question": "con0406u",
+      "name": "con0406u",
+      "label": "When was <name twin 2> in contact with <name father> the last time?",
+      "items": [
+        {
+          "number": "69",
+          "text": "When was <name twin 2> in contact with <name father> the last time?",
+          "text_de": "Wann [hatte <Name Zwilling 1> / <Name Zwilling 2> / <Name Zielgeschwister> /\n<hatten Sie>]den letzten Kontakt zu <Name ausserhaeusige Person>?",
+          "answer_list": "mis",
+          "scale": "int",
+          "filter": "con0404u == 1",
+          "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
+          "description_de": "Adaptiert von: Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Kind Welle 3 2010/11. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release9.1/Codebuch_Kind_de__pairfam_Welle_3_2010-11.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 68,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "liv0600": {
+      "question": "liv0600",
+      "name": "liv0600",
+      "label": "Now I have some questions regarding your housing condition. Have you been living here since the time of the last interview (about a year ago)?",
+      "items": [
+        {
+          "number": "70",
+          "text": "Now I have some questions regarding your housing condition. Have you been living here since the time of the last interview (about a year ago)?",
+          "text_de": "Nun habe ich einige Fragen zu Ihrer Wohnsituation. Haben Sie persoenlich bei unserer\nletzten Befragung, also vor ungefaehr einem Jahr, schon in dieser Wohnung gelebt?",
+          "answer_list": "yn",
+          "scale": "cat",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": -96,
+              "label": "-96: I can't remember",
+              "label_de": "-96: ich kann mich nicht erinnern"
+            },
+            {
+              "value": 1,
+              "label": "1: yes",
+              "label_de": "1: ja"
+            },
+            {
+              "value": 2,
+              "label": "2: no",
+              "label_de": "2: nein"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 69,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "liv0310": {
+      "question": "liv0310",
+      "name": "liv0310",
+      "label": "Are you the main tenant, subletter, or owner?",
+      "items": [
+        {
+          "number": "71",
+          "text": "Are you the main tenant, subletter, or owner?",
+          "text_de": "Wie wohnen Sie hier?",
+          "answer_list": "liv0310",
+          "scale": "cat",
+          "filter": "liv0600==2",
+          "answers": [
+            {
+              "value": 1,
+              "label": "1: subletting",
+              "label_de": "1: zur Untermiete"
+            },
+            {
+              "value": 2,
+              "label": "2: in a rented apartment/house",
+              "label_de": "2: in einer Mietwohnung/einem gemieteten Haus"
+            },
+            {
+              "value": 3,
+              "label": "3: in residential property, owned by myself alone",
+              "label_de": "3: in Wohnungs-/Hauseigentum, das mir allein gehoert"
+            },
+            {
+              "value": 4,
+              "label": "4: in residential property, owned by my parents/parent",
+              "label_de": "4: In Wohnungs-/Hauseigentum, das meinen Eltern / einem Elternteil gehoert"
+            },
+            {
+              "value": 5,
+              "label": "5: in residential property, owned by my partner",
+              "label_de": "5: in Wohnungs-/Hauseigentum, das meinem Partner / meiner Partnerin gehoert"
+            },
+            {
+              "value": 6,
+              "label": "6: in residential property, owned by my partner and me together",
+              "label_de": "6: in Wohnungs-/Hauseigentum, das meinem Partner / meiner Partnerin und mir gemeinsam gehoert"
+            },
+            {
+              "value": 7,
+              "label": "7: in residential property, owned by another person, namely",
+              "label_de": "7: in Wohnungs-/Hauseigentum, das einer anderen Person gehoert, und zwar"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 70,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    },
+    "liv0400": {
+      "question": "liv0400",
+      "name": "liv0400",
+      "label": "In what type of household do you live?",
+      "items": [
+        {
+          "number": "72",
+          "text": "In what type of household do you live?",
+          "text_de": "In welcher Art vor Haushalt leben Sie?",
+          "answer_list": "liv0400",
+          "scale": "cat",
+          "description": "Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Anchor Wave 1 2008/2009.",
+          "description_de": "Beziehungs- und Familienpanel (pairfam): Pairfam Codebuch Ankerperson Welle 1 2008/2009. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release7.0/Codebuch_Anker_de__pairfam_Welle_1_2008-09.pdf",
+          "answers": [
+            {
+              "value": -99,
+              "label": "-99: not specified (refused to answer)",
+              "label_de": "-99: keine Angabe (Antwortverweigerung)"
+            },
+            {
+              "value": -98,
+              "label": "-98: don't know",
+              "label_de": "-98: weiss nicht"
+            },
+            {
+              "value": 1,
+              "label": "1: own household",
+              "label_de": "1: eigener Haushalt"
+            },
+            {
+              "value": 2,
+              "label": "2: parental household",
+              "label_de": "2: elterlicher Haushalt"
+            },
+            {
+              "value": 3,
+              "label": "3: shared apartment/home with roommates",
+              "label_de": "3: Wohngemeinschaft"
+            },
+            {
+              "value": 4,
+              "label": "4: dormitory, student/school dormitory, boarding school, residence for teenagers or similar",
+              "label_de": "4: Wohnheim, Studentenwohnheim, Internat o.ae."
+            },
+            {
+              "value": 5,
+              "label": "5: other household",
+              "label_de": "5: sonstiger Haushalt"
+            }
+          ],
+          "sn": 0,
+          "item": "root"
+        }
+      ],
+      "sn": 71,
+      "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+      "study": "twinlife"
+    }
+  }
+}
