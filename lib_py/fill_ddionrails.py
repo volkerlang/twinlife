@@ -39,9 +39,9 @@ def main():
     shutil.copy("metadata/study.md", "ddionrails/study.md")
     dor1.variables()
     shutil.copy("metadata/datasets.csv", "ddionrails/datasets.csv")
-    # questions_variables()
+    questions_variables()
     merge_instruments.main()
-    # convert_r2ddi.Parser(STUDY, version=VERSION).write_json()
+    convert_r2ddi.Parser(STUDY, version=VERSION).write_json()
 
 
 if __name__ == "__main__":
