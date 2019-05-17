@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
+""" Custom pre-processing pipeline for TwinLife """
+
 import shutil
 
 import pandas as pd
@@ -36,10 +40,18 @@ def questions_variables():
 
 
 def main():
+    # simple copy operations
     shutil.copy("metadata/study.md", "ddionrails/study.md")
-    dor1.variables()
+    shutil.copy("metadata/analysis_units.csv", "ddionrails/analysis_units.csv")
+    shutil.copy("metadata/conceptual_datasets.csv", "ddionrails/conceptual_datasets.csv")
+    shutil.copy("metadata/periods.csv", "ddionrails/periods.csv")
     shutil.copy("metadata/datasets.csv", "ddionrails/datasets.csv")
+
+    # custom operation
     questions_variables()
+
+    # operations from ddi.py
+    dor1.variables()
     merge_instruments.main()
     convert_r2ddi.Parser(STUDY, version=VERSION).write_json()
 
