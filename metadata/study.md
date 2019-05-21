@@ -12,12 +12,13 @@ config:
 
 * **Title:** TwinLife  - A genetically informative, longitudinal study about the development of social    
     inequality
-* **Principle Investigators:** Prof. Dr. Martin Diewald (martin.diewald@uni-bielefeld.de);    
-    Prof. Dr. Rainer Riemann (rainer.riemann@uni-bielefeld.de);    
-    Prof. Dr. Frank M. Spinath (f.spinath@mx.uni-saarland.de)
-* **URL:** <http://www.twin-life.de/>
+* **Principle Investigators:** Prof. Dr. Martin Diewald (martin.diewald[at]uni-bielefeld.de);    
+    Prof. Dr. Rainer Riemann (rainer.riemann[at]uni-bielefeld.de);    
+    Prof. Dr. Frank M. Spinath (f.spinath[at]mx.uni-saarland.de)
+* **URL:** [http://www.twin-life.de/](http://www.twin-life.de/)
 
-Please cite both the dataset (Diewald et al., 2019: <http://doi.org/doi:10.4232/1.13208>) and the reference paper (Hahn et al., 2016: <https://doi.org/10.1017/thg.2016.76>).
+Please cite both the dataset (Diewald et al., 2019: [http://doi.org/doi:10.4232/1.13208](http://doi.org/doi:10.4232/1.13208)) and the reference paper (Hahn et al., 2016: 
+[https://doi.org/10.1017/thg.2016.76](https://doi.org/10.1017/thg.2016.76)).
 
 ## Study info
 
@@ -221,6 +222,7 @@ In the following, the contents of the TwinLife Data are described in more detail
 
 
 **9. Zygosity and twin specific items**
+
 9.1 Zygosity
 
 - Ratings of physical twin similarity in childhood (e.g., eye color, hair structure, time of getting first teeth)
@@ -289,12 +291,12 @@ preceding Face-to-Face wave)
 
 ## Data access 
 
-GESIS Data Catalogue: <https://dbk.gesis.org/dbksearch/index.asp>
+GESIS Data Catalogue: [https://dbk.gesis.org/dbksearch/index.asp](https://dbk.gesis.org/dbksearch/index.asp)
 
 ## Data description
 
 For a description of the structure of the TwinLife sample see the TwinLife Technical Report 03, for the method report of the first wave see the TwinLife Technical Report 05 at 
-<https://www.twin-life.de/en/twinlife-technical-report-series>.
+[https://www.twin-life.de/en/twinlife-technical-report-series](https://www.twin-life.de/en/twinlife-technical-report-series).
 
 ## Study units
 
@@ -315,4 +317,4 @@ with specification of the user and the analysis intention.)
  
 Further Remarks:
 
-TwinLife website: <http://www.twin-life.de/en>
+TwinLife website: [http://www.twin-life.de/en](http://www.twin-life.de/en)
