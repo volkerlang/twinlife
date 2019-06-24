@@ -2,14 +2,14 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",1,"1: completely disagree","1: lehne voll ab"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",3,"3","3"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",3,3,3
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4",4,"4: completely agree","4: stimme voll zu"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",1,"1: totally disagree","1: stimme ganz und gar nicht zu"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",3,"3","3"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",3,3,3
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr4_2",4,"4: totally agree","4: stimme ganz und gar zu"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","agr5",-98,"-98: don't know","-98: weiss nicht"
@@ -42,11 +42,11 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",1,"1: doesn't apply at all","1: trifft ueberhaupt nicht zu"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",6,"6","6"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",6,6,6
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","apl7",7,"7: completely applies","7: trifft voll zu"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","bas0600",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","bas0600",-98,"-98: don't know","-98: weiss nicht"
@@ -326,28 +326,28 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",0,"0: not at all prepared to take risks","0: gar nicht risikobereit"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",1,"1","1"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",6,"6","6"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",7,"7","7"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",8,"8","8"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",9,"9","9"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",1,1,1
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",6,6,6
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",7,7,7
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",8,8,8
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",9,9,9
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0200",10,"10: very prepared to take risks","10: sehr risikobereit"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",0,"0: very impatient","0: sehr ungeduldig"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",1,"1","1"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",6,"6","6"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",7,"7","7"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",8,"8","8"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",9,"9","9"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",1,1,1
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",6,6,6
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",7,7,7
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",8,8,8
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",9,9,9
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","per0300",10,"10: very patient","10: sehr geduldig"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0101",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0101",-98,"-98: don't know","-98: weiss nicht"
@@ -359,10 +359,10 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0101",9997,"9997: we never lived together","9997: wir haben noch nie zusammen gelebt"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",1,"1: not close at all","1: ueberhaupt nicht eng"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",4,"4","4"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",1,"1: not close at all","1: überhaupt nicht eng"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",4,4,4
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0103",5,"5: very close","5: sehr eng"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","ple0200",-98,"-98: don't know","-98: weiss nicht"
@@ -388,31 +388,31 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",2,"2: SPD","2: SPD"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",3,"3: CDU/CSU","3: CDU/CSU"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",4,"4: FDP","4: FDP"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",5,"5: Buendnis 90/Die Gruenen","5: Buendnis 90/Die Gruenen"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",5,"5: Bündnis 90/Die Grünen","5: Bündnis 90/Die Grünen"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",6,"6: Die Linke","6: Die Linke"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",7,"7: NPD/Republikaner","7: NPD/Republikaner"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",8,"8: Piratenpartei","8: Piratenpartei"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",9,"9: AfD (Alternative fuer Deutschland)","9: AfD (Alternative fuer Deutschland)"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",9,"9: AfD (Alternative für Deutschland)","9: AfD (Alternative für Deutschland)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pop0302",10,"10: another, namely","10: andere, und zwar"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",1,"1: very unlikely","1: sehr unwahrscheinlich"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",4,"4","4"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",4,4,4
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","pr5",5,"5: very likely","5: sehr wahrscheinlich"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",0,"0: completely dissatisfied","0: ganz und gar unzufrieden"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",1,"1","1"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",6,"6","6"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",7,"7","7"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",8,"8","8"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",9,"9","9"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",1,1,1
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",6,6,6
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",7,7,7
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",8,8,8
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",9,9,9
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",10,"10: completely satisfied","10: ganz und gar zufrieden"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sat11",18,"18: doesn't apply (direct response)","18: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
@@ -421,7 +421,7 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex_2",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex_2",1,"1: male","1: maennlich"
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex_2",1,"1: male","1: männlich"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sex_2",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","she0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","she0100",-98,"-98: don't know","-98: weiss nicht"
@@ -456,11 +456,11 @@
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0402",97,"97: doesn't apply (explicit response)","97: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",1,"1: My sibling thinks that our father is generally closer with me.","1: Mein Geschwister denkt, dass mein Vater mir in der Regel naehersteht."
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",2,"2: My sibling thinks that our father is sometimes closer with me.","2: Mein Geschwister denkt, dass mein Vater mir manchmal naehersteht."
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",3,"3: My sibling thinks that our father is equally close with both of us.","3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermassen nahesteht."
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",4,"4: My sibling thinks that our father is sometimes closer with her/him.","4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal naehersteht."
-"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",5,"5: My sibling thinks that our father is generally closer with her/him.","5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel naehersteht."
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",1,"1: My sibling thinks that our father is generally closer with me.","1: Mein Geschwister denkt, dass mein Vater mir in der Regel nähersteht."
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",2,"2: My sibling thinks that our father is sometimes closer with me.","2: Mein Geschwister denkt, dass mein Vater mir manchmal nähersteht."
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",3,"3: My sibling thinks that our father is equally close with both of us.","3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermaßen nahesteht."
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",4,"4: My sibling thinks that our father is sometimes closer with her/him.","4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal nähersteht."
+"twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",5,"5: My sibling thinks that our father is generally closer with her/him.","5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel nähersteht."
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","sre0403",97,"97: doesn't apply (explicit response)","97: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","tsp0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-Fragebogen","tsp0100",-98,"-98: don't know","-98: weiss nicht"
@@ -508,14 +508,14 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",1,"1: completely disagree","1: lehne voll ab"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",3,"3","3"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",3,3,3
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4",4,"4: completely agree","4: stimme voll zu"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",1,"1: totally disagree","1: stimme ganz und gar nicht zu"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",3,"3","3"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",3,3,3
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr4_2",4,"4: totally agree","4: stimme ganz und gar zu"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","agr5",-98,"-98: don't know","-98: weiss nicht"
@@ -548,11 +548,11 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",1,"1: doesn't apply at all","1: trifft ueberhaupt nicht zu"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",6,"6","6"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",6,6,6
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","apl7",7,"7: completely applies","7: trifft voll zu"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","bas0600",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","bas0600",-98,"-98: don't know","-98: weiss nicht"
@@ -829,28 +829,28 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",0,"0: not at all prepared to take risks","0: gar nicht risikobereit"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",1,"1","1"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",6,"6","6"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",7,"7","7"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",8,"8","8"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",9,"9","9"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",1,1,1
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",6,6,6
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",7,7,7
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",8,8,8
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",9,9,9
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0200",10,"10: very prepared to take risks","10: sehr risikobereit"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",0,"0: very impatient","0: sehr ungeduldig"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",1,"1","1"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",6,"6","6"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",7,"7","7"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",8,"8","8"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",9,"9","9"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",1,1,1
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",6,6,6
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",7,7,7
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",8,8,8
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",9,9,9
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","per0300",10,"10: very patient","10: sehr geduldig"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0101",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0101",-98,"-98: don't know","-98: weiss nicht"
@@ -862,10 +862,10 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0101",9997,"9997: we never lived together","9997: wir haben noch nie zusammen gelebt"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",1,"1: not close at all","1: ueberhaupt nicht eng"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",4,"4","4"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",1,"1: not close at all","1: überhaupt nicht eng"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",4,4,4
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0103",5,"5: very close","5: sehr eng"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","ple0200",-98,"-98: don't know","-98: weiss nicht"
@@ -891,31 +891,31 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",2,"2: SPD","2: SPD"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",3,"3: CDU/CSU","3: CDU/CSU"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",4,"4: FDP","4: FDP"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",5,"5: Buendnis 90/Die Gruenen","5: Buendnis 90/Die Gruenen"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",5,"5: Bündnis 90/Die Grünen","5: Bündnis 90/Die Grünen"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",6,"6: Die Linke","6: Die Linke"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",7,"7: NPD/Republikaner","7: NPD/Republikaner"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",8,"8: Piratenpartei","8: Piratenpartei"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",9,"9: AfD (Alternative fuer Deutschland)","9: AfD (Alternative fuer Deutschland)"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",9,"9: AfD (Alternative für Deutschland)","9: AfD (Alternative für Deutschland)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pop0302",10,"10: another, namely","10: andere, und zwar"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",1,"1: very unlikely","1: sehr unwahrscheinlich"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",4,"4","4"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",4,4,4
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","pr5",5,"5: very likely","5: sehr wahrscheinlich"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",0,"0: completely dissatisfied","0: ganz und gar unzufrieden"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",1,"1","1"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",2,"2","2"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",3,"3","3"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",4,"4","4"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",5,"5","5"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",6,"6","6"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",7,"7","7"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",8,"8","8"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",9,"9","9"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",1,1,1
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",2,2,2
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",3,3,3
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",4,4,4
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",5,5,5
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",6,6,6
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",7,7,7
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",8,8,8
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",9,9,9
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",10,"10: completely satisfied","10: ganz und gar zufrieden"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sat11",18,"18: doesn't apply (direct response)","18: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
@@ -924,7 +924,7 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex_2",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex_2",1,"1: male","1: maennlich"
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex_2",1,"1: male","1: männlich"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sex_2",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","she0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","she0100",-98,"-98: don't know","-98: weiss nicht"
@@ -959,11 +959,11 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0402",97,"97: doesn't apply (explicit response)","97: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",1,"1: My sibling thinks that our father is generally closer with me.","1: Mein Geschwister denkt, dass mein Vater mir in der Regel naehersteht."
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",2,"2: My sibling thinks that our father is sometimes closer with me.","2: Mein Geschwister denkt, dass mein Vater mir manchmal naehersteht."
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",3,"3: My sibling thinks that our father is equally close with both of us.","3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermassen nahesteht."
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",4,"4: My sibling thinks that our father is sometimes closer with her/him.","4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal naehersteht."
-"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",5,"5: My sibling thinks that our father is generally closer with her/him.","5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel naehersteht."
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",1,"1: My sibling thinks that our father is generally closer with me.","1: Mein Geschwister denkt, dass mein Vater mir in der Regel nähersteht."
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",2,"2: My sibling thinks that our father is sometimes closer with me.","2: Mein Geschwister denkt, dass mein Vater mir manchmal nähersteht."
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",3,"3: My sibling thinks that our father is equally close with both of us.","3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermaßen nahesteht."
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",4,"4: My sibling thinks that our father is sometimes closer with her/him.","4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal nähersteht."
+"twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",5,"5: My sibling thinks that our father is generally closer with her/him.","5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel nähersteht."
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","sre0403",97,"97: doesn't apply (explicit response)","97: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","tsp0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","tsp0100",-98,"-98: don't know","-98: weiss nicht"
@@ -1008,6 +1008,152 @@
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","zyg0800",1,"1: Yes, I can keep them easily apart.","1: Ja, ich kann sie leicht auseinanderhalten."
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","zyg0800",2,"2: Yes, but sometimes it is difficult.","2: Ja, aber manchmal ist es schwierig."
 "twinlife","twinlife-2014-F2F_Alteri-OnlineFragebogen","zyg0800",3,"3: No, I very often mistake them for one another on photos.","3: Nein, ich verwechsele sie sehr oft auf Fotos."
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",1,"1: 0 to 1,999 inhabitants","1: 0 bis 1.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",2,"2: 2,000 to 4,999 inhabitants","2: 2.000 bis 4.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",3,"3: 5,000 to 19,999 inhabitants","3: 5.000 bis 19.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",4,"4: 20,000 to 49,999 inhabitants","4: 20.000 bis 49.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",5,"5: non-core peripheral area, 50,000 to 99,999 inhabitants","5: Verdichtungs-, Uebergangs- oder peripherer Bereich, 50.000 bis 99.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",6,"6: core metropolitan area, 50,000 to 99,999 inhabitants","6: Kernbereich, 50.000 bis 99.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",7,"7: non-core peripheral area, 100,000 to 499,999 inhabitants","7: Verdichtungs-, Uebergangs- oder peripherer Bereich, 100.000 bis 499.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",8,"8: core metropolitan area, 100,000 to 499,999 inhabitants","8: Kernbereich, 100.000 bis 499.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",9,"9: non-core peripheral area, 500,000 or more inhabitants","9: Verdichtungs-, Uebergangs- oder peripherer Bereich, 500.000 oder mehr Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","bik10",10,"10: core metropolitan area, 500,000 or more inhabitants","10: Kernbereich, 500.000 oder mehr Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",1,"1: face-to-face contact","1: face-to-face Kontakt"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",2,"2: contact by intercom system","2: Kontakt ueber Gegensprechanlage"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",3,"3: contact by interviewers' phone call","3: Kontakt durch Intervieweranruf"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",4,"4: contact by a target respondents' phone call","4: Kontakt durch Anruf einer Zielperson"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",5,"5: information by survey institute","5: Information durch Erhebungsinstitut"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",6,"6: other contact, e.g., by e-mail or text message","6: Sonstiger Kontakt, z.B. e-mail oder SMS"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0100",7,"7: Drop-out without further contact","7: Ausfall ohne weiteren Kontakt"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",1,"1: interim result, no one home","1: Zwischenergebnis, niemand angetroffen"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",2,"2: interim result, target person does not speak enough German","2: Zwischenergebnis, Zielperson spricht nicht genuegend Deutsch"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",3,"3: interim result, made contact but unable to set date for interview","3: Zwischenergebnis, Kontakt hergestellt aber keinen Interviewtermin vereinbart"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",4,"4: interim result, made date for interview","4: Zwischenergebnis, Interviewtermin vereinbart"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",5,"5: interim result","5: Zwischenergebnis"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",10,"10: interview","10: Interview"
+"twinlife","twinlife-2014-F2F_Bruttoband","cpr0103",11,"11: drop-out","11: Ausfall"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",1,"1: 1 to 1,999 inhabitants","1: 1 bis 1.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",2,"2: 2,000 to 4,999 inhabitants","2: 2.000 bis 4.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",3,"3: 5,000 to 19,999 inhabitants","3: 5.000 bis 19.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",4,"4: 20,000 to 49,999 inhabitants","4: 20.000 bis 49.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",5,"5: 50,000 to 99,999 inhabitants","5: 50.000 bis 99.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",6,"6: 100,000 to 499,999 inhabitants","6: 100.000 bis 499.999 Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","gkpol7",7,"7: 500,000 or more inhabitants","7: 500.000 oder mehr Einwohner"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",1,"1: primary secondary school with degree","1: Hauptschule mit Abschluss"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",2,"2: intermediate secondary school","2: Mittlere Reife"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",3,"3: Abitur/university entrance diploma","3: Abitur, Fachhochschulreife"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",4,"4: university without degree","4: Hochschule / Universität ohne Abschluss"
+"twinlife","twinlife-2014-F2F_Bruttoband","ini0102",5,"5: university with degree","5: Hochschule / Universität mit Abschluss"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0900",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0900",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0900",1,"1: yes, by barriers or locked doorways","1: ja, durch Absperrungen oder verschlossenen Hauszugang"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0900",2,"2: yes, by intercom system","2: ja, durch Sprechanlage"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0900",3,"3: yes, other","3: ja, sonstige"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0900",4,"4: no","4: nein"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",1,"1: farmhouse / agricultural residence","1: landwirtschaftliches Wohngebaeude"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",2,"2: detached single-family or two-family house","2: freistehendes Ein-/Zweifamilienhaus"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",3,"3: single-family or two-family house, either row house or duplex","3: Ein-/Zweifamilienhaus als Reihenhaus oder Doppelhaus"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",4,"4: apartment house with 3 to 4 apartments","4: Wohnhaus mit 3 bis 4 Wohnungen"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",5,"5: apartment house with 5 to 8 apartments","5: Wohnhaus mit 5 bis 8 Wohnungen"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",6,"6: apartment house with 9 or more apartments (but less than 9 floors, thus no high-rise building)","6: Wohnhaus mit 9 oder mehr Wohnungen (aber hoechstens 8 Stockwerke, also kein Hochhaus)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",7,"7: high-rise building (9 or more floors)","7: Hochhaus (9 oder mehr Stockwerke)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0901",8,"8: other house / building","8: sonstiges Haus / Gebaeude"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0902",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0902",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0902",1,"1: very good condition","1: sehr gutem Zustand"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0902",2,"2: good condition","2: gutem Zustand"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0902",3,"3: somewhat in need of renovation","3: etwas renovierungsbeduerftig"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0902",4,"4: in extreme need of renovation","4: stark renovierungsbeduerftig"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0903",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0903",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0903",1,"1: very secure and comfortable","1: sehr sicher und angenehm"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0903",2,"2: overall fairly secure and comfortable","2: ueberwiegend sicher und angenehm"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0903",3,"3: not very secure, rather uncomfortable","3: eher nicht sicher, eher unangenehm"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0903",4,"4: very uncomfortable, somewhat threatening","4: sehr unangenehm, teilweise bedrohlich"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",1,"1: a residential area, predominantly old buildings","1: ein reines Wohngebiet mit ueberwiegend Altbauten"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",2,"2: a residential area, predominantly new buildings","2: ein reines Wohngebiet mit ueberwiegend Neubauten"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",3,"3: a residential area, a mix of new and old buildings","3: ein reines Wohngebiet mit Neu- und Altbauten gemischt"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",4,"4: a mixed use area with apartments, shops and business establishments","4: ein Mischgebiet mit Wohnungen und Geschaeften bzw. Gewerbebetrieben"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",5,"5: a commercial center (shops, banks, administrative buildings) with a few apartments","5: ein Geschaeftszentrum (Laeden, Banken, Verwaltungen) mit wenigen Wohnungen"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0904",6,"6: a commercial or industrial area with a few apartments","6: ein Gewerbe- bzw. Industriegebiet mit wenigen Wohnungen"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",1,"1: not at all","1: gar nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",2,"2: little","2: wenig"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",3,"3: on average","3: mittel"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",4,"4: strongly","4: stark"
+"twinlife","twinlife-2014-F2F_Bruttoband","iva0905",5,"5: very strongly","5: sehr stark"
+"twinlife","twinlife-2014-F2F_Bruttoband","mis",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","mis",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","mis",-96,"-96: I can't remember","-96: ich kann mich nicht erinnern"
+"twinlife","twinlife-2014-F2F_Bruttoband","mn",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","mn",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","mn",0,"0: not mentioned","0: nicht genannt"
+"twinlife","twinlife-2014-F2F_Bruttoband","mn",1,"1: mentioned","1: genannt"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",1,"1: Baden-Wuerttemberg","1: Baden-Wuerttemberg"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",2,"2: Bavaria","2: Bayern"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",3,"3: Berlin","3: Berlin"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",4,"4: Brandenburg","4: Brandenburg"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",5,"5: Bremen","5: Bremen"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",6,"6: Hamburg","6: Hamburg"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",7,"7: Hesse","7: Hessen"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",8,"8: Mecklenburg-West Pomerania","8: Mecklenburg-Vorpommern"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",9,"9: Lower Saxony","9: Niedersachsen"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",10,"10: North Rhine-Westphalia","10: Nordrhein-Westfalen"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",11,"11: Rhineland-Palatinate","11: Rheinland-Pfalz"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",12,"12: Saarland","12: Saarland"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",13,"13: Saxony","13: Sachsen"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",14,"14: Saxony-Anhalt","14: Sachsen-Anhalt"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",15,"15: Schleswig-Holstein","15: Schleswig-Holstein"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",16,"16: Thuringia","16: Thueringen"
+"twinlife","twinlife-2014-F2F_Bruttoband","nuts1_a",17,"17: Berlin (former GDR part)","17: Berlin (Ostteil)"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",1,"1: address unknown, can't be located","1: Adresse existiert nicht, nicht auffindbar"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",2,"2: household has moved, new address has been submitted to Infratest","2: Haushalt ist verzogen, neue Anschrift an Infratest uebermittelt"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",3,"3: household unknown","3: Haushalt unbekannt verzogen"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",4,"4: household has moved abroad","4: Haushalt ins Ausland verzogen"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",5,"5: household members never found at home","5: Dauerhaft niemanden im Haushalt angetroffen"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",6,"6: at least one of the necessary respondents unwilling to participate because:","6: mindestens eine der notwendigen Personen ist nicht teilnahmebereit, weil"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",7,"7: language difficulties, interviews with the necessary respondents weren't possible due to language difficulties","7: Sprachprobleme, Befragung aller notwendigen Personen ist aufgrund mangelnder Verstaendigung nicht moeglich"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",8,"8: at least one of the necessary respondents was never at home during the fieldwork","8: mindestens eine der notwendigen Personen ist waehrend der Feldzeit dauerhaft abwesend"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",9,"9: at least one of the necessary respondents suffering long-term illness or unable to take part in the interview","9: mindestens eine der notwendigen Personen ist dauerhaft krank oder nicht in der Lage, dem Interview zu folgen"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",10,"10: at least one of the necessary respondents has moved abroad or lives at an unknown adress","10: mindestens eine der notwendigen Personen ist ins Ausland verzogen oder Adresse ist unbekannt"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",11,"11: other reasons for non-participation","11: sonstiger Grund fuer Nichtteilnahme"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",12,"12: interview broken off, incomplete","12: Abbruch, keine vollstaendige Befragung"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",13,"13: interview completed, but need for clarification","13: Interview, aber Klaerungsbedarf"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",14,"14: interview","14: Interview"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",15,"15: family interview complete","15: Familie vollstaendig"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",16,"16: closure notification occured","16: Abschlussmeldung erfolgt"
+"twinlife","twinlife-2014-F2F_Bruttoband","res0101",17,"17: family incomplete, but finished","17: Familie unvollstaendig aber fertig"
+"twinlife","twinlife-2014-F2F_Bruttoband","sam",1,"1: base sample","1: Basisstichprobe"
+"twinlife","twinlife-2014-F2F_Bruttoband","sam",2,"2: urban sample","2: Stichprobe Staedte"
+"twinlife","twinlife-2014-F2F_Bruttoband","sam",3,"3: rural sample","3: Stichprobe laendlicher Raum"
+"twinlife","twinlife-2014-F2F_Bruttoband","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","sex",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","sex",1,"1: male","1: männlich"
+"twinlife","twinlife-2014-F2F_Bruttoband","sex",2,"2: female","2: weiblich"
+"twinlife","twinlife-2014-F2F_Bruttoband","yn",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
+"twinlife","twinlife-2014-F2F_Bruttoband","yn",-98,"-98: don't know","-98: weiss nicht"
+"twinlife","twinlife-2014-F2F_Bruttoband","yn",-96,"-96: I can't remember","-96: ich kann mich nicht erinnern"
+"twinlife","twinlife-2014-F2F_Bruttoband","yn",1,"1: yes","1: ja"
+"twinlife","twinlife-2014-F2F_Bruttoband","yn",2,"2: no","2: nein"
 "twinlife","twinlife-2014-F2F_Familienprotokoll","fil0301",99,"99: no sibling will participate","99: kein Geschwister wird teilnehmen"
 "twinlife","twinlife-2014-F2F_Familienprotokoll","fpr0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Familienprotokoll","fpr0200",-98,"-98: don't know","-98: weiss nicht"
@@ -1107,30 +1253,30 @@
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",1,"1: neat","1: aufgeraeumt"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",2,"2","2"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",3,"3","3"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",4,"4","4"
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",2,2,2
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",3,3,3
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",4,4,4
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0100",5,"5: messy","5: unaufgeraeumt"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",1,"1: simple furnishings","1: billige Ausstattung"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",2,"2","2"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",3,"3","3"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",4,"4","4"
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",2,2,2
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",3,3,3
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",4,4,4
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0101",5,"5: expensive furnishings","5: teure Ausstattung"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",1,"1: well-kept","1: gepflegt"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",2,"2","2"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",3,"3","3"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",4,"4","4"
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",2,2,2
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",3,3,3
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",4,4,4
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0102",5,"5: neglected","5: vernachlaessigt"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",1,"1: cramped","1: beengt"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",2,"2","2"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",3,"3","3"
-"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",4,"4","4"
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",2,2,2
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",3,3,3
+"twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",4,4,4
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0103",5,"5: spacious","5: geraeumig"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0104",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Haushaltsfragebogen","iva0104",-98,"-98: don't know","-98: weiss nicht"
@@ -1440,9 +1586,9 @@
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",1,"1: easy","1: leicht"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",4,"4","4"
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",2,2,2
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",3,3,3
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",4,4,4
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","ed5",5,"5: difficult","5: schwer"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","edu0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","edu0100",-98,"-98: don't know","-98: weiss nicht"
@@ -1607,9 +1753,9 @@
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",1,"1: completely imbalanced","1: absolut unausgeglichen"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",4,"4","4"
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",2,2,2
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",3,3,3
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",4,4,4
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","emp1200",5,"5: completely balanced","5: absolut ausgeglichen"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","fam",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","fam",-98,"-98: don't know","-98: weiss nicht"
@@ -1656,9 +1802,9 @@
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",1,"1: just a little","1: wenig"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",4,"4","4"
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",2,2,2
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",3,3,3
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",4,4,4
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","lm5",5,"5: a lot","5: viel"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","mig",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","mig",-98,"-98: don't know","-98: weiss nicht"
@@ -1733,9 +1879,9 @@
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",1,"1: very unlikely","1: sehr unwahrscheinlich"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",4,"4","4"
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",2,2,2
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",3,3,3
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",4,4,4
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","pr5",5,"5: very likely","5: sehr wahrscheinlich"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","sex",-98,"-98: don't know","-98: weiss nicht"
@@ -1744,9 +1890,9 @@
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",1,"1: not talented","1: nicht begabt"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",4,"4","4"
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",2,2,2
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",3,3,3
+"twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",4,4,4
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","spa0200",5,"5: very talented","5: sehr begabt"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","tsp0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul3_Basismodul","tsp0100",-98,"-98: don't know","-98: weiss nicht"
@@ -1783,15 +1929,15 @@
 "twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",0,"0: do not agree at all","0: stimme ganz und gar nicht zu"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",1,1,1
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",2,2,2
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",3,3,3
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",4,4,4
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",5,5,5
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",6,6,6
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",7,7,7
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",8,8,8
+"twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",9,9,9
 "twinlife","twinlife-2014-F2F_Modul4_CASI","agr11",10,"10: agree completely","10: stimme ganz und gar zu"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","agr5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","agr5",-98,"-98: don't know","-98: weiss nicht"
@@ -1822,11 +1968,11 @@
 "twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",1,"1: doesn't apply at all","1: trifft ueberhaupt nicht zu"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",6,"6","6"
+"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",2,2,2
+"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",3,3,3
+"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",4,4,4
+"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",5,5,5
+"twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",6,6,6
 "twinlife","twinlife-2014-F2F_Modul4_CASI","apl7",7,"7: applies completely","7: trifft voll zu"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","del0202",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","del0202",-98,"-98: don't know","-98: weiss nicht"
@@ -1899,28 +2045,28 @@
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",0,"0: not at all prepared to take risks","0: gar nicht risikobereit"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",1,1,1
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",2,2,2
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",3,3,3
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",4,4,4
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",5,5,5
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",6,6,6
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",7,7,7
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",8,8,8
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",9,9,9
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0200",10,"10: very prepared to take risks","10: sehr risikobereit"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",0,"0: very impatient","0: sehr ungeduldig"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",1,1,1
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",2,2,2
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",3,3,3
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",4,4,4
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",5,5,5
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",6,6,6
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",7,7,7
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",8,8,8
+"twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",9,9,9
 "twinlife","twinlife-2014-F2F_Modul4_CASI","per0300",10,"10: very patient","10: sehr geduldig"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","pr11",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","pr11",-98,"-98: don't know","-98: weiss nicht"
@@ -1938,15 +2084,15 @@
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",0,"0: completely dissatisfied","0: ganz und gar unzufrieden"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",1,1,1
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",2,2,2
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",3,3,3
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",4,4,4
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",5,5,5
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",6,6,6
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",7,7,7
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",8,8,8
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",9,9,9
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",10,"10: completely satisfied","10: ganz und gar zufrieden"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sat11",18,"18: doesn't apply (direct response)","18: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
@@ -1978,11 +2124,11 @@
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sre0402",97,"97: doesn't apply (explicit response)","97: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",1,"1: My sibling thinks that our father is generally closer to me.","1: Mein Geschwister denkt, dass mein Vater mir in der Regel naehersteht."
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",2,"2: My sibling thinks that our father is sometimes closer to me.","2: Mein Geschwister denkt, dass mein Vater mir manchmal naehersteht."
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",3,"3: My sibling thinks that our father is equally close to both of us.","3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermassen nahesteht."
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",4,"4: My sibling thinks that our father is sometimes closer to her/him.","4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal naehersteht."
-"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",5,"5: My sibling thinks that our father is generally closer to her/him.","5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel naehersteht."
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",1,"1: My sibling thinks that our father is generally closer to me.","1: Mein Geschwister denkt, dass mein Vater mir in der Regel nähersteht."
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",2,"2: My sibling thinks that our father is sometimes closer to me.","2: Mein Geschwister denkt, dass mein Vater mir manchmal nähersteht."
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",3,"3: My sibling thinks that our father is equally close to both of us.","3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermaßen nahesteht."
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",4,"4: My sibling thinks that our father is sometimes closer to her/him.","4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal nähersteht."
+"twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",5,"5: My sibling thinks that our father is generally closer to her/him.","5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel nähersteht."
 "twinlife","twinlife-2014-F2F_Modul4_CASI","sre0403",97,"97: doesn't apply (explicit response)","97: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","tsp0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul4_CASI","tsp0200",-98,"-98: don't know","-98: weiss nicht"
@@ -2009,14 +2155,14 @@
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",1,"1: disagree completely","1: lehne voll ab"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",3,"3","3"
+"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",2,2,2
+"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",3,3,3
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4",4,"4: agree completely","4: stimme voll zu"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",1,"1: disagree completely","1: stimme ganz und gar nicht zu"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",3,"3","3"
+"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",2,2,2
+"twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",3,3,3
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr4_2",4,"4: agree completely","4: stimme ganz und gar zu"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr5_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","agr5_2",-98,"-98: don't know","-98: weiss nicht"
@@ -2126,11 +2272,11 @@
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",2,"2: SPD","2: SPD"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",3,"3: CDU/CSU","3: CDU/CSU"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",4,"4: FDP","4: FDP"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",5,"5: Buendnis 90/Die Gruenen","5: Buendnis 90/Die Gruenen"
+"twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",5,"5: Bündnis 90/Die Grünen","5: Bündnis 90/Die Grünen"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",6,"6: Die Linke","6: Die Linke"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",7,"7: NPD/Republikaner","7: NPD/Republikaner"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",8,"8: Piratenpartei","8: Piratenpartei"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",9,"9: AfD (Alternative fuer Deutschland)","9: AfD (Alternative fuer Deutschland)"
+"twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",9,"9: AfD (Alternative für Deutschland)","9: AfD (Alternative für Deutschland)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","pop0302",10,"10: another, namely","10: andere, und zwar"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","sex",-98,"-98: don't know","-98: weiss nicht"
@@ -2138,7 +2284,7 @@
 "twinlife","twinlife-2014-F2F_Modul5_CASI","sex",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","sex_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","sex_2",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Modul5_CASI","sex_2",1,"1: male","1: maennlich"
+"twinlife","twinlife-2014-F2F_Modul5_CASI","sex_2",1,"1: male","1: männlich"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","sex_2",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","she0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_CASI","she0100",-98,"-98: don't know","-98: weiss nicht"
@@ -2156,14 +2302,14 @@
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",1,"1: disagree completely","1: lehne voll ab"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",3,"3","3"
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",2,2,2
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",3,3,3
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4",4,"4: agree completely","4: stimme voll zu"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",1,"1: disagree completely","1: stimme ganz und gar nicht zu"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",3,"3","3"
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",2,2,2
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",3,3,3
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr4_2",4,"4: agree completely","4: stimme ganz und gar zu"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr5_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","agr5_2",-98,"-98: don't know","-98: weiss nicht"
@@ -2273,15 +2419,15 @@
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",2,"2: SPD","2: SPD"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",3,"3: CDU/CSU","3: CDU/CSU"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",4,"4: FDP","4: FDP"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",5,"5: Buendnis 90/Die Gruenen","5: Buendnis 90/Die Gruenen"
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",5,"5: Bündnis 90/Die Grünen","5: Bündnis 90/Die Grünen"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",6,"6: Die Linke","6: Die Linke"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",7,"7: NPD/Republikaner","7: NPD/Republikaner"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",8,"8: Piratenpartei","8: Piratenpartei"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",9,"9: AfD (Alternative fuer Deutschland)","9: AfD (Alternative fuer Deutschland)"
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",9,"9: AfD (Alternative für Deutschland)","9: AfD (Alternative für Deutschland)"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","pop0302",10,"10: another, namely","10: andere, und zwar"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","sex_2",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","sex_2",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Modul5_DropOff","sex_2",1,"1: male","1: maennlich"
+"twinlife","twinlife-2014-F2F_Modul5_DropOff","sex_2",1,"1: male","1: männlich"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","sex_2",2,"2: female","2: weiblich"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","she0100",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul5_DropOff","she0100",-98,"-98: don't know","-98: weiss nicht"
@@ -2375,15 +2521,15 @@
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",0,"0: completely dissatisfied","0: ganz und gar unzufrieden"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",1,1,1
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",2,2,2
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",3,3,3
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",4,4,4
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",5,5,5
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",6,6,6
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",7,7,7
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",8,8,8
+"twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",9,9,9
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","sat11a",10,"10: completely satisfied","10: ganz und gar zufrieden"
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","twt1400",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","twt1400",-98,"-98: don't know","-98: weiss nicht"
@@ -2401,133 +2547,133 @@
 "twinlife","twinlife-2014-F2F_Modul6_Betreuung","yn",2,"2: no","2: nein"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",0,"0: communicative","0: gespraechig"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",0,"0: communicative","0: gesprächig"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_00",10,"10: quiet","10: still"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",0,"0: messy","0: unordentlich"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_01",10,"10: neat","10: ordentlich"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",0,"0: good-natured","0: gutmuetig"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_02",10,"10: irritable","10: leicht reizbar"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",0,"0: disinterested","0: wenig interessiert"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_03",10,"10: hungry for knowledge","10: wissensdurstig"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",0,"0: self-confident","0: hohes Selbstvertrauen"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_04",10,"10: insecure","10: unsicher"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",0,"0: withdrawn","0: zurueckgezogen"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_05",10,"10: sociable","10: kontaktfreudig"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",0,"0: concentrated","0: konzentriert"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_06",10,"10: easily distracted","10: leicht ablenkbar"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",0,"0: defiant","0: trotzig"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_07",10,"10: compliant","10: folgsam"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",0,"0: quick on the uptake","0: begreift schnell"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_08",10,"10: needs more time to understand","10: braucht mehr Zeit"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",0,"0: fearful","0: aengstlich"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl11_09",10,"10: brave","10: unaengstlich"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl3",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","apl3",-98,"-98: don't know","-98: weiss nicht"
@@ -2621,28 +2767,28 @@
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",0,"0: completely unwilling to take risks","0: gar nicht risikobereit"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0200",10,"10: very willing to take risks","10: sehr risikobereit"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",0,"0: very impatient","0: sehr ungeduldig"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",9,"9","9"
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",1,1,1
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",2,2,2
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",3,3,3
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",4,4,4
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",5,5,5
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",6,6,6
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",7,7,7
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",8,8,8
+"twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",9,9,9
 "twinlife","twinlife-2014-F2F_Modul7_EueK","per0300",10,"10: very patient","10: sehr geduldig"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","poc0100",1,"1: mother","1: Mutter"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","poc0100",2,"2: father","2: Vater"
@@ -2667,34 +2813,34 @@
 "twinlife","twinlife-2014-F2F_Modul7_EueK","yn",1,"1: yes","1: ja"
 "twinlife","twinlife-2014-F2F_Modul7_EueK","yn",2,"2: no","2: nein"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",1,"1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)","1: Familiaere Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",2,"2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)","2: fruehere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",-98,"-98: don't know","-98: weiß nicht"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",1,"1: Family history (e.g. of diabetes, hypertension, congenital anomalies, genetic disorders, mental illnesses)","1: Familiäre Belastung (Diabetes, Hypertonie, Fehl-/Missbildungen, gen. Krankheiten, psych. Krankheiten)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",2,"2: Prior severe illnesses, (e.g. heart, lung, liver, kidneys, central nervous system, mental)","2: frühere eigene schwere Erkrankungen (z.B. Herz, Lunge, Leber, Nieren, ZNS, Psyche)"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",3,"3: Susceptible to bleeding/thrombotic events","3: Blutungs-/Thromboseneigung"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",4,"4: Allergies, including to medications","4: Allergie, z.B. gg. Medikamente"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",5,"5: Prior blood transfusions","5: fruehere Bluttransfusionen"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",6,"6: Special mental stress (e.g. family- or work-related)","6: besondere psychische Belastung (z.B. familiaere oder berufliche)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",5,"5: Prior blood transfusions","5: frühere Bluttransfusionen"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",6,"6: Special mental stress (e.g. family- or work-related)","6: besondere psychische Belastung (z.B. familiäre oder berufliche)"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",7,"7: Special social stress (e.g. integration or financial issues)","7: besondere soziale Belastung (Integrationsprobleme, wirtschaftliche Probleme)"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",8,"8: Rhesus incompatibility (in prior pregnancies)","8: Rhesus-Inkompatibilitaet (bei vorangeg. Schwangersch.)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",8,"8: Rhesus incompatibility (in prior pregnancies)","8: Rhesus-Inkompatibilität (bei vorangeg. Schwangersch.)"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",9,"9: Diabetes mellitus","9: Diabetes mellitus"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",10,"10: Obesity","10: Adipositas"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",11,"11: Microsomia / small stature","11: Kleinwuchs"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",12,"12: Skeletal abnormalities","12: Skelettanomalien"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",13,"13: Under 18 years of age","13: Schwangere unter 18 Jahren"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",14,"14: Over 35 years of age","14: Schwangere ueber 35 Jahren"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",15,"15: Multipara (more than 4 children)","15: Vielgebaerende (mehr als 4 Kinder)"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",16,"16: History of fertility treatment","16: Z. n. Sterilitaetsbehandlung"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",17,"17: History of preterm birth (before the end of week 37)","17: Z. n. Fruehgeburt (vor Ende der 37. SSW)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",14,"14: Over 35 years of age","14: Schwangere über 35 Jahren"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",15,"15: Multipara (more than 4 children)","15: Vielgebärende (mehr als 4 Kinder)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",16,"16: History of fertility treatment","16: Z. n. Sterilitätsbehandlung"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",17,"17: History of preterm birth (before the end of week 37)","17: Z. n. Frühgeburt (vor Ende der 37. SSW)"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",18,"18: History of low-birth-weight infant","18: Z. n. Mangelgeburt"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",19,"19: History of 2 or more miscarriages/abortions","19: Z. n. 2 oder mehr Fehlgeburten/Aborten/Abbruechen"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",20,"20: History of previous stillbirth or neonatal death or baby with serious medical problems/impairment","20: Totes/geschaedigtes Kind in der Anamnese"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",19,"19: History of 2 or more miscarriages/abortions","19: Z. n. 2 oder mehr Fehlgeburten/Aborten/Abbrüchen"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",20,"20: History of previous stillbirth or neonatal death or baby with serious medical problems/impairment","20: Totes/geschädigtes Kind in der Anamnese"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",21,"21: Complications during prior births","21: Komplikationen bei vorausgegangenen Entbindungen"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",22,"22: Complications post partum/in puerperium","22: Komplikationen post partum"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",23,"23: History of Caesarian section","23: Z. n. Sectio"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",24,"24: History of other uterine surgery","24: Z. n. anderen Uterusoperationen"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",25,"25: Pregnancies in quick succession (less than 1 year)","25: rasche Schwangerschaftsfolge (weniger als 1 Jahr)"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",26,"26: Other special circumstances","26: andere Besonderheiten"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",27,"27: General illnesses requiring treatment","27: behandlungsbeduerftige Allgemeinerkrankungen"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",27,"27: General illnesses requiring treatment","27: behandlungsbedürftige Allgemeinerkrankungen"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",28,"28: Long-term medication","28: Dauermedikation"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",29,"29: Substance abuse","29: Abusus"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",30,"30: Exceptional mental stress","30: besondere psychische Belastung"
@@ -2708,14 +2854,14 @@
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",38,"38: Uncertain expected date of delivery","38: Terminunklarheit"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",39,"39: Placental insufficiency","39: Placentainsuffizienz"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",40,"40: Cervical insufficiency","40: Isthmozervikale Insuffizienz"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",41,"41: Preterm labor","41: vorzeitige Wehentaetigkeit"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",42,"42: Anaemia","42: Anaemie"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",41,"41: Preterm labor","41: vorzeitige Wehentätigkeit"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",42,"42: Anaemia","42: Anämie"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",43,"43: Urinary tract infection","43: Harnwegsinfektion"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",44,"44: Antenatal antibody screening positive","44: indirekter Coombstest positiv"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",45,"45: Risk due to other serological findings","45: Risiko aus anderen serologischen Befunden"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",46,"46: Hypertension (blood pressure over 140/90)","46: Hypertonie (Blutdruck ueber 140/90)"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",47,"47: Urinalysis for protein 1% (1000mg/l) or more","47: Eiweissausscheidung 1 Promille (entspr. 1000 mg/l) o. mehr"
-"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",48,"48: Moderate – severe oedema","48: Mittelgradige - schwere Oedeme"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",46,"46: Hypertension (blood pressure over 140/90)","46: Hypertonie (Blutdruck über 140/90)"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",47,"47: Urinalysis for protein 1% (1000mg/l) or more","47: Eiweißausscheidung 1 Promille (entspr. 1000 mg/l) o. mehr"
+"twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",48,"48: Moderate – severe oedema","48: Mittelgradige - schwere Ödeme"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",49,"49: Hypotension","49: Hypotonie"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",50,"50: Gestational diabetes","50: Gestationsdiabetes"
 "twinlife","twinlife-2014-F2F_Modul8_UHeft","frisk",51,"51: Abnormal engagement of fetal head","51: Einstellungs-/Lageanomalie"
@@ -2749,7 +2895,7 @@
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer1700",4,"3: integrated lower and intermediate level secondary school","4: Verb. Haupt- und Realschule (auch Sekundar-, Regel-, Mittel-, Ober-, Wirtsch.- und erw. Realschule, reg. Schule)"
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer1700",5,"4: higher secondary school","5: Gymnasium (auch Kolleg)"
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer1700",6,"5: comprehensive secondary school","6: Gesamtschule (auch integrierte Schule)"
-"twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer1700",7,"6: school for handicaped children","7: Sonderschule/Foerderschule"
+"twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer1700",7,"6: school for handicaped children","7: Sonderschule/Förderschule"
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer1700",8,"7: other school, such as","8: andere Schule, und zwar"
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer9000",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","cer9000",-98,"-98: don't know","-98: weiss nicht"
@@ -2777,19 +2923,19 @@
 "twinlife","twinlife-2014-F2F_Modul9_Zeugnis","yn",2,"2: no","2: nein"
 "twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2001",1,"1: first half-year","1: erstes Halbjahr"
 "twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2001",2,"2: second half-year","2: zweites Halbjahr"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",1,"1","1"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",2,"2","2"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",3,"3","3"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",4,"4","4"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",5,"5","5"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",6,"6","6"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",7,"7","7"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",8,"8","8"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",9,"9","9"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",10,"10","10"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",11,"11","11"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",12,"12","12"
-"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",13,"13","13"
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",1,1,1
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",2,2,2
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",3,3,3
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",4,4,4
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",5,5,5
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",6,6,6
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",7,7,7
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",8,8,8
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",9,9,9
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",10,10,10
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",11,11,11
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",12,12,12
+"twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",13,13,13
 "twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",20,"20: introductory phase of upper secondary school","20: Einfuehrungsphase d. Oberstufe"
 "twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",21,"21: first year of qualification phase","21: 1. Jahr d. Qualifikationsstufe"
 "twinlife","twinlife-2014-F2F_Modul9_ZeugnisFoto","cer2002",22,"22: second year of qualification phase","22: 2. Jahr d. Qualifikationsstufe"
@@ -2984,13 +3130,6 @@
 "twinlife","twinlife-2016-CATI_Personenfragebogen","agr6_1",3,"3: neither denial nor approval","3: weder Ablehnung noch Zustimmung"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","agr6_1",4,"4: agree","4: stimme zu"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","agr6_1",5,"5: agree strongly","5: stimme stark zu"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",1,"1: does not apply to me at all","1: trifft ueberhaupt nicht zu"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",2,"2","2"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",3,"3","3"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",4,"4","4"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","appl5",5,"5: applies to me perfectly","5: trifft voellig zu"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","bpa0101",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","bpa0101",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","bpa0101",1,"1: father deceased","1: Vater verstorben"
@@ -3321,24 +3460,24 @@
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",0,"0: completely dissatisfied","0: ganz und gar unzufrieden"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",1,"1","1"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",2,"2","2"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",3,"3","3"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",4,"4","4"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",5,"5","5"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",6,"6","6"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",7,"7","7"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",8,"8","8"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",9,"9","9"
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",1,1,1
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",2,2,2
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",3,3,3
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",4,4,4
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",5,5,5
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",6,6,6
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",7,7,7
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",8,8,8
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",9,9,9
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",10,"10: completely satisfied","10: ganz und gar zufrieden"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sat11",18,"18: doesn't apply (direct response)","18: trifft nicht zu (explizite Auskunft)"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",-98,"-98: don't know","-98: weiss nicht"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",0,"0: neutral","0: neutral"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",1,"1","1"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",2,"2","2"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",3,"3","3"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",4,"4","4"
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",1,1,1
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",2,2,2
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",3,3,3
+"twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",4,4,4
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sc5np",5,"5: very positive","5: sehr positiv"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sex",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","sex",-98,"-98: don't know","-98: weiss nicht"
@@ -3364,8 +3503,3 @@
 "twinlife","twinlife-2016-CATI_Personenfragebogen","tsp0600",2,"2: separated into different classes","2: getrennt in unterschiedliche Klassen"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","tsp0600",3,"3: separated into different schools","3: getrennt in unterschiedliche Schulen"
 "twinlife","twinlife-2016-CATI_Personenfragebogen","tsp0600",4,"4: not yet changed schools [DP: Display when age twin <= 12]","4: noch nicht gewechselt [DP: nur einblenden wenn Alter Twin <= 12]"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","yn",-99,"-99: not specified (refused to answer)","-99: keine Angabe (Antwortverweigerung)"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","yn",-98,"-98: don't know","-98: weiss nicht"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","yn",-96,"-96: I can't remember","-96: ich kann mich nicht erinnern"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","yn",1,"1: yes","1: ja"
-"twinlife","twinlife-2016-CATI_Personenfragebogen","yn",2,"2: no","2: nein"
