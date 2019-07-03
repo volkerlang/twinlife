@@ -15,7 +15,7 @@
         {
           "number": "1",
           "text": "How would you describe your state of health during the last 12 months, in general?",
-          "text_de": "Alter 10 bis 15 Jahre: Wie wuerdest Du Deinen Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben? / Alter ab 16 Jahre: Wie wuerden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
+          "text_de": "Alter 10 bis 15 Jahre: Wie w\u00fcrdest Du Deinen Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben? / Alter ab 16 Jahre: Wie w\u00fcrden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
           "answer_list": "she0100",
           "scale": "cat",
           "description": "Ellert, U., Lampert, T., & Ravens-Sieberer U. (2005). Messung der gesundheitsbezogenen Lebensqualit\u00e4t mit dem SF-8. Eine Normstichprobe f\u00fcr Deutschland. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz, 48 (12), 1330-1337.\n",
@@ -78,7 +78,7 @@
         {
           "number": "2",
           "text": "Have you visited a doctor (or dentist) in the last 12 months? (This includes check-ups, visits to psychotherapists, health practitioners, chiropractors, etc.)",
-          "text_de": "Haben Sie persoenlich in den letzten 12 Monaten Aerzte (inkl. Zahnarzt) aufgesucht? (Hiermit sind auch Vorsorgeuntersuchungen gemeint, Besuche bei Psychotherapeuten, Heilpraktikern, Chiropraktikern, o.Ae.)",
+          "text_de": "Haben Sie pers\u00f6nlich in den letzten 12 Monaten \u00c4rzte (inkl. Zahnarzt) aufgesucht? (Hiermit sind auch Vorsorgeuntersuchungen gemeint, Besuche bei Psychotherapeuten, Heilpraktikern, Chiropraktikern, o.\u00c4.)",
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age >= 16",
@@ -127,7 +127,7 @@
         {
           "number": "3",
           "text": "Please state the number of visits to doctors. (Note: total number in the last 12 months. If you are not sure, please estimate.)",
-          "text_de": "Geben Sie bitte an, wie haeufig das war.",
+          "text_de": "Geben Sie bitte an, wie h\u00e4ufig das war.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "doc0100 == 1",
@@ -166,7 +166,7 @@
         {
           "number": "4",
           "text": "To what extent would you say your illness limits you in your everyday life?",
-          "text_de": "In welchem Ausmass fuehlen Sie sich in Ihrem Alltag durch Erkrankungen beeintraechtigt?",
+          "text_de": "In welchem Ausma\u00df f\u00fchlen Sie sich in Ihrem Alltag durch Erkrankungen beeintr\u00e4chtigt?",
           "answer_list": "imp0100",
           "scale": "cat",
           "filter": "age >= 16",
@@ -242,7 +242,7 @@
           "item": "1.0",
           "number": "6",
           "text": "Sleeping disorders",
-          "text_de": "Schlafstoerungen",
+          "text_de": "Schlafst\u00f6rungen",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -341,7 +341,7 @@
           "item": "4.0",
           "number": "9",
           "text": "Heart problems (also heart failure, congestive heart failure)",
-          "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschwaeche)",
+          "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschw\u00e4che)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -440,7 +440,7 @@
           "item": "7.0",
           "number": "12",
           "text": "Migraine",
-          "text_de": "Migraene",
+          "text_de": "Migr\u00e4ne",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -638,7 +638,7 @@
           "item": "13.0",
           "number": "18",
           "text": "Chronic back pains",
-          "text_de": "Chronische Rueckenbeschwerden",
+          "text_de": "Chronische R\u00fcckenbeschwerden",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -671,7 +671,7 @@
           "item": "14.0",
           "number": "19",
           "text": "Physical disability",
-          "text_de": "Koerperbehinderung",
+          "text_de": "K\u00f6rperbehinderung",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -704,7 +704,7 @@
           "item": "15.0",
           "number": "20",
           "text": "Other physical or psychological illness/disease",
-          "text_de": "Sonstige koerperliche oder psychische Erkrankung",
+          "text_de": "Sonstige k\u00f6rperliche oder psychische Erkrankung",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -770,7 +770,7 @@
           "item": "17.0",
           "number": "23",
           "text": "Don't know",
-          "text_de": "Weiss nicht",
+          "text_de": "Wei\u00df nicht",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -866,7 +866,7 @@
         {
           "number": "25",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0100 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -999,7 +999,7 @@
         {
           "number": "30",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0200 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1132,7 +1132,7 @@
         {
           "number": "35",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0300 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1265,7 +1265,7 @@
         {
           "number": "40",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0400 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1398,7 +1398,7 @@
         {
           "number": "45",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0500 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1531,7 +1531,7 @@
         {
           "number": "50",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0600 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1664,7 +1664,7 @@
         {
           "number": "55",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0700 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1797,7 +1797,7 @@
         {
           "number": "60",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0800 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -1930,7 +1930,7 @@
         {
           "number": "65",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia0900 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -2063,7 +2063,7 @@
         {
           "number": "70",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1000 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -2196,7 +2196,7 @@
         {
           "number": "75",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1100 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -2329,7 +2329,7 @@
         {
           "number": "80",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1200 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -2462,7 +2462,7 @@
         {
           "number": "85",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1300 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -2595,7 +2595,7 @@
         {
           "number": "90",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1400 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -2728,7 +2728,7 @@
         {
           "number": "95",
           "text": "You said you have been diagnosed with [insert disease from the previous question ]. During what period did the illness occur?",
-          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einfuegen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
+          "text_de": "Sie haben angegeben, dass bei Ihnen [Erkrankung aus der vorhergehenden Frage einf\u00fcgen] festgestellt worden ist. In welchem Zeitraum ist die Erkrankung aufgetreten?",
           "scale": "txt",
           "filter": "dia1500 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -3013,7 +3013,7 @@
         {
           "number": "103",
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
-          "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
+          "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungef\u00e4hre Alter an.",
           "answer_list": "hbe0200",
           "scale": "cat",
           "filter": "age >= 16",
@@ -3101,7 +3101,7 @@
         {
           "number": "105",
           "text": "How often would you say that you drink \"a lot\"?",
-          "text_de": "Wie haeufig kommt es Ihrer Meinung nach vor, dass Sie \"viel\" trinken?",
+          "text_de": "Wie h\u00e4ufig kommt es Ihrer Meinung nach vor, dass Sie \"viel\" trinken?",
           "answer_list": "hbe0202",
           "scale": "cat",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
@@ -3165,7 +3165,7 @@
         {
           "number": "106",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "int",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3204,7 +3204,7 @@
         {
           "number": "107",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3243,7 +3243,7 @@
         {
           "number": "108",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3282,7 +3282,7 @@
         {
           "number": "109",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "int",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3321,7 +3321,7 @@
         {
           "number": "110",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3360,7 +3360,7 @@
         {
           "number": "111",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3399,7 +3399,7 @@
         {
           "number": "112",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "int",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3438,7 +3438,7 @@
         {
           "number": "113",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3477,7 +3477,7 @@
         {
           "number": "114",
           "text": "When you drink what you would describe as \"a lot\" in a day or in an evening, how much do you drink? Please state the number of glasses.",
-          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Glaeser an.",
+          "text_de": "Wenn Sie an einem Tag oder Abend Ihrer Meinung nach \u201eviel\u201c trinken, wieviel trinken Sie dann? Bitte geben Sie die Anzahl der Gl\u00e4ser an.",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "hbe0202 >= 1 & hbe0202 <= 5",
@@ -3516,7 +3516,7 @@
         {
           "number": "115",
           "text": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
-          "text_de": "Die folgenden Fragen beziehen sich nun auf die letzten 12 Monate. In welchem Ausmass haben Sie waehrend der letzten 12 Monate alkoholische Getraenke konsumiert?",
+          "text_de": "Die folgenden Fragen beziehen sich nun auf die letzten 12 Monate. In welchem Ausma\u00df haben Sie w\u00e4hrend der letzten 12 Monate alkoholische Getr\u00e4nke konsumiert?",
           "scale": "txt",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010.\n ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf     ",
@@ -3634,7 +3634,7 @@
           "item": "3.0",
           "number": "118",
           "text": "Drinks with high alcohol content (e.g. Schnaps/spirits (2 cl), Longdrinks, cocktails (0.3 l))",
-          "text_de": "Hochprozentige alkoholische Getraenke (z.B. Schnaps (2cl), Longdrinks (0,3l))",
+          "text_de": "Hochprozentige alkoholische Getr\u00e4nke (z.B. Schnaps (2cl), Longdrinks (0,3l))",
           "answer_list": "hbe0202",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010.\n ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf     ",
@@ -3696,7 +3696,7 @@
         {
           "number": "119",
           "text": "How often in the last 12 months did you not do your work as well as usual because you had consumed alcohol?",
-          "text_de": "Wie oft kam es in den letzten 12 Monaten vor, dass Sie wegen des Konsums von Alkohol Ihre Arbeit oder Taetigkeit schlechter als sonst gemacht haben?",
+          "text_de": "Wie oft kam es in den letzten 12 Monaten vor, dass Sie wegen des Konsums von Alkohol Ihre Arbeit oder T\u00e4tigkeit schlechter als sonst gemacht haben?",
           "answer_list": "fre5_3",
           "scale": "cat",
           "filter": "hbe0200 >= 1 & hbe0200 < 97",
@@ -3755,7 +3755,7 @@
         {
           "number": "120",
           "text": "Do you regularly take medication that adversely affect your ability to think or your emotions or cause other serious side effects?",
-          "text_de": "Nehmen Sie regelmaessig Medikamente ein, die Ihr Denken und Fuehlen beeintraechtigen oder andere gravierende Nebenwirkungen bei Ihnen hervorrufen?",
+          "text_de": "Nehmen Sie regelm\u00e4\u00dfig Medikamente ein, die Ihr Denken und F\u00fchlen beeintr\u00e4chtigen oder andere gravierende Nebenwirkungen bei Ihnen hervorrufen?",
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age >= 16",
@@ -3804,7 +3804,7 @@
         {
           "number": "121",
           "text": "In the following we would like to know what you do to care for your health. To what extent does this statement apply to you personally: I take active steps to stay healthy (e.g., go to regular checkups, follow a healthy diet, and avoid unhealthy behavior, etc.).",
-          "text_de": "Im Folgenden moechten wir erfahren, inwieweit Sie fuer Ihre Gesundheit vorsorgen. Inwieweit trifft folgende Aussage auf Sie persoenlich zu? Ich sorge fuer die Erhaltung meiner Gesundheit aktiv vor (z.B. durch regelmaessige Vorsorgeuntersuchungen, gesunde Ernaehrung, Vermeidung von gesundheitsschaedlichem Verhalten, etc.).",
+          "text_de": "Im Folgenden m\u00f6chten wir erfahren, inwieweit Sie f\u00fcr Ihre Gesundheit vorsorgen. Inwieweit trifft folgende Aussage auf Sie pers\u00f6nlich zu? Ich sorge f\u00fcr die Erhaltung meiner Gesundheit aktiv vor (z.B. durch regelm\u00e4\u00dfige Vorsorgeuntersuchungen, gesunde Ern\u00e4hrung, Vermeidung von gesundheitssch\u00e4dlichem Verhalten, etc.).",
           "answer_list": "hbe0400",
           "scale": "cat",
           "filter": "age >= 16",
@@ -3858,7 +3858,7 @@
         {
           "number": "122",
           "text": "NOT twin: Please give your height and weight.",
-          "text_de": "Alter 10 bis 15 Jahre und NICHT Zwilling: Bitte gib an, wie gross Du bist und wie viel Du wiegst. / Alter ab 16 Jahre und NICHT Zwilling: Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
+          "text_de": "Alter 10 bis 15 Jahre und NICHT Zwilling: Bitte gib an, wie gro\u00df Du bist und wie viel Du wiegst. / Alter ab 16 Jahre und NICHT Zwilling: Bitte geben Sie Ihre K\u00f6rpergr\u00f6\u00dfe und Ihr Gewicht an.",
           "scale": "txt",
           "filter": "age > 12 & ptyp != 1 & ptyp != 2",
           "description": "Item developed for TwinLife",
@@ -3870,7 +3870,7 @@
           "item": "1.0",
           "number": "123",
           "text": "NOT twin: height in cm",
-          "text_de": "Groesse in cm",
+          "text_de": "Gr\u00f6\u00dfe in cm",
           "answer_list": "mis",
           "scale": "cat",
           "description": "Item developed for TwinLife",
@@ -3974,7 +3974,7 @@
         {
           "number": "126",
           "text": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
-          "text_de": "ab 16 Jahren: Im Folgenden wuerden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen koennen. / 10 bis 15 Jahre: Im Folgenden wuerden wir gerne wissen, wie zufrieden Du ganz allgemein mit Deinem Leben bist. Es folgen einige Aussagen dazu, denen Du zustimmen bzw. die Du ablehnen kannst.",
+          "text_de": "ab 16 Jahren: Im Folgenden w\u00fcrden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen k\u00f6nnen. / 10 bis 15 Jahre: Im Folgenden w\u00fcrden wir gerne wissen, wie zufrieden Du ganz allgemein mit Deinem Leben bist. Es folgen einige Aussagen dazu, denen Du zustimmen bzw. die Du ablehnen kannst.",
           "scale": "txt",
           "filter": "age >= 16",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -3986,7 +3986,7 @@
           "item": "1.0",
           "number": "127",
           "text": "In most ways my life is close to my ideal. / In most ways my life is close to the way I would want it to be.",
-          "text_de": "ab 16 Jahren: In den meisten Punkten ist mein Leben meinem Ideal nahe. / 10 bis 15 Jahre: Im Grossen und Ganzen ist mein Leben so wie ich es mir wuensche.",
+          "text_de": "ab 16 Jahren: In den meisten Punkten ist mein Leben meinem Ideal nahe. / 10 bis 15 Jahre: Im Gro\u00dfen und Ganzen ist mein Leben so wie ich es mir w\u00fcnsche.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4034,7 +4034,7 @@
           "item": "2.0",
           "number": "128",
           "text": "In most ways my life is close to my ideal. / In most ways my life is close to the way I would want it to be.",
-          "text_de": "ab 16 Jahren: In den meisten Punkten ist mein Leben meinem Ideal nahe. / 10 bis 15 Jahre: Im Grossen und Ganzen ist mein Leben so wie ich es mir wuensche.",
+          "text_de": "ab 16 Jahren: In den meisten Punkten ist mein Leben meinem Ideal nahe. / 10 bis 15 Jahre: Im Gro\u00dfen und Ganzen ist mein Leben so wie ich es mir w\u00fcnsche.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4082,7 +4082,7 @@
           "item": "3.0",
           "number": "129",
           "text": "The conditions of my life are excellent. / The things in my life are excellent.",
-          "text_de": "ab 16 Jahren: Meine Lebensbedingungen sind hervorragend. / 10 bis 15 Jahre: Mein Leben ist grossartig.",
+          "text_de": "ab 16 Jahren: Meine Lebensbedingungen sind hervorragend. / 10 bis 15 Jahre: Mein Leben ist gro\u00dfartig.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4130,7 +4130,7 @@
           "item": "4.0",
           "number": "130",
           "text": "The conditions of my life are excellent. / The things in my life are excellent.",
-          "text_de": "ab 16 Jahren: Meine Lebensbedingungen sind hervorragend. / 10 bis 15 Jahre: Mein Leben ist grossartig.",
+          "text_de": "ab 16 Jahren: Meine Lebensbedingungen sind hervorragend. / 10 bis 15 Jahre: Mein Leben ist gro\u00dfartig.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4178,7 +4178,7 @@
           "item": "5.0",
           "number": "131",
           "text": "I am satisfied with my life. / I am happy with my life.",
-          "text_de": "ab 16 Jahren: Ich bin zufrieden mit meinem Leben. / 10 bis 15 Jahre: Ich bin mit meinem Leben gluecklich.",
+          "text_de": "ab 16 Jahren: Ich bin zufrieden mit meinem Leben. / 10 bis 15 Jahre: Ich bin mit meinem Leben gl\u00fccklich.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4226,7 +4226,7 @@
           "item": "6.0",
           "number": "132",
           "text": "I am satisfied with my life. / I am happy with my life.",
-          "text_de": "ab 16 Jahren: Ich bin zufrieden mit meinem Leben. / 10 bis 15 Jahre: Ich bin mit meinem Leben gluecklich.",
+          "text_de": "ab 16 Jahren: Ich bin zufrieden mit meinem Leben. / 10 bis 15 Jahre: Ich bin mit meinem Leben gl\u00fccklich.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4274,7 +4274,7 @@
           "item": "7.0",
           "number": "133",
           "text": "So far I have gotten the important things I want in life. / So far I have gotten the important things I want in life.",
-          "text_de": "ab 16 Jahren: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen. / 10 bis 15 Jahre: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
+          "text_de": "ab 16 Jahren: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben w\u00fcnsche, auch bekommen. / 10 bis 15 Jahre: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben w\u00fcnsche, auch bekommen.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4322,7 +4322,7 @@
           "item": "8.0",
           "number": "134",
           "text": "So far I have gotten the important things I want in life. / So far I have gotten the important things I want in life.",
-          "text_de": "ab 16 Jahren: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen. / 10 bis 15 Jahre: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
+          "text_de": "ab 16 Jahren: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben w\u00fcnsche, auch bekommen. / 10 bis 15 Jahre: Ich habe bisher die wichtigen Dinge, die ich mir vom Leben w\u00fcnsche, auch bekommen.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4370,7 +4370,7 @@
           "item": "9.0",
           "number": "135",
           "text": "If I could live my life over, I would change almost nothing. / If I could live my life over, I would have it the same way.",
-          "text_de": "ab 16 Jahren: Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern. / 10 bis 15 Jahre: Wenn ich mein Leben noch einmal leben koennte, wuerde ich es mir genauso wuenschen.",
+          "text_de": "ab 16 Jahren: Wenn ich mein Leben noch einmal leben k\u00f6nnte, w\u00fcrde ich fast nichts \u00e4ndern. / 10 bis 15 Jahre: Wenn ich mein Leben noch einmal leben k\u00f6nnte, w\u00fcrde ich es mir genauso w\u00fcnschen.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4418,7 +4418,7 @@
           "item": "10.0",
           "number": "136",
           "text": "If I could live my life over, I would change almost nothing. / If I could live my life over, I would have it the same way.",
-          "text_de": "ab 16 Jahren: Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern. / 10 bis 15 Jahre: Wenn ich mein Leben noch einmal leben koennte, wuerde ich es mir genauso wuenschen.",
+          "text_de": "ab 16 Jahren: Wenn ich mein Leben noch einmal leben k\u00f6nnte, w\u00fcrde ich fast nichts \u00e4ndern. / 10 bis 15 Jahre: Wenn ich mein Leben noch einmal leben k\u00f6nnte, w\u00fcrde ich es mir genauso w\u00fcnschen.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -4475,7 +4475,7 @@
         {
           "number": "137",
           "text": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
-          "text_de": "ab 16 Jahren: Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass Sie in den jeweiligen Gruppen aktiv sind: jede Woche, jeden Monat, seltener als 1-mal im Monat, nie. / 13 bis 15 Jahre: Im Folgenden siehst Du eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte gib an, in welchem Ausmass Du in den jeweiligen Gruppen aktiv bist: jede Woche, jeden Monat, seltener als 1-mal im Monat, nie.",
+          "text_de": "ab 16 Jahren: Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausma\u00df Sie in den jeweiligen Gruppen aktiv sind: jede Woche, jeden Monat, seltener als 1-mal im Monat, nie. / 13 bis 15 Jahre: Im Folgenden siehst Du eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte gib an, in welchem Ausma\u00df Du in den jeweiligen Gruppen aktiv bist: jede Woche, jeden Monat, seltener als 1-mal im Monat, nie.",
           "scale": "txt",
           "filter": "age > 12",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4530,7 +4530,7 @@
           "item": "2.0",
           "number": "139",
           "text": "Choir/music or theatre group or similar",
-          "text_de": "Gesangs-/Musikverein/Theatergruppe o.ae.",
+          "text_de": "Gesangs-/Musikverein/Theatergruppe o.\u00e4.",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4573,7 +4573,7 @@
           "item": "3.0",
           "number": "140",
           "text": "Church or religious group",
-          "text_de": "Kirchliche/religioese Gruppe",
+          "text_de": "Kirchliche/religi\u00f6se Gruppe",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4616,7 +4616,7 @@
           "item": "4.0",
           "number": "141",
           "text": "Trade union/professional association/student council",
-          "text_de": "Gewerkschaft/Berufsverband/Schuelervertretung",
+          "text_de": "Gewerkschaft/Berufsverband/Sch\u00fclervertretung",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4659,7 +4659,7 @@
           "item": "5.0",
           "number": "142",
           "text": "Voluntary fire and rescue services/technical relief association THW/DLRG German Lifesaving Association etc.",
-          "text_de": "Freiwillige Feuerwehr/THW/DLRG, o.ae.",
+          "text_de": "Freiwillige Feuerwehr/THW/DLRG, o.\u00e4.",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4702,7 +4702,7 @@
           "item": "6.0",
           "number": "143",
           "text": "Local history association/Citizens association/Marksmen club",
-          "text_de": "Heimat-/Buerger-/Schuetzenverein",
+          "text_de": "Heimat-/B\u00fcrger-/Sch\u00fctzenverein",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4745,7 +4745,7 @@
           "item": "7.0",
           "number": "144",
           "text": "Political organization/party/citizens' initiative",
-          "text_de": "Politische Organisation/Partei/Buergerinitiative",
+          "text_de": "Politische Organisation/Partei/B\u00fcrgerinitiative",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -4910,7 +4910,7 @@
         {
           "number": "148",
           "text": "Generally speaking, how interested are you in politics?",
-          "text_de": "Alter 10 bis 15 Jahre: Einmal ganz allgemein gesprochen, wie stark interessierst Du Dich fuer Politik? / Alter ab 16 Jahre: Einmal ganz allgemein gesprochen, wie stark interessieren Sie sich fuer Politik?",
+          "text_de": "Alter 10 bis 15 Jahre: Einmal ganz allgemein gesprochen, wie stark interessierst Du Dich f\u00fcr Politik? / Alter ab 16 Jahre: Einmal ganz allgemein gesprochen, wie stark interessieren Sie sich f\u00fcr Politik?",
           "answer_list": "pop0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -4964,7 +4964,7 @@
         {
           "number": "149",
           "text": "Which of the following activities did you take part in within the last 12 months?",
-          "text_de": "Alter 13 bis 15 Jahre: Welche der folgenden Aktivitaeten hast Du in den letzten 12 Monaten ausgeuebt? / Alter ab 16 Jahre: Welche der folgenden Aktivitaeten haben Sie in den letzten 12 Monaten ausgeuebt?",
+          "text_de": "Alter 13 bis 15 Jahre: Welche der folgenden Aktivit\u00e4ten hast Du in den letzten 12 Monaten ausge\u00fcbt? / Alter ab 16 Jahre: Welche der folgenden Aktivit\u00e4ten haben Sie in den letzten 12 Monaten ausge\u00fcbt?",
           "scale": "txt",
           "filter": "age > 12",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -5014,7 +5014,7 @@
           "item": "2.0",
           "number": "151",
           "text": "Taken part in an online-petition/a signature collection",
-          "text_de": "An einer Unterschriftensammlung teilgenommen/eine Onlinepetition unterstuetzt",
+          "text_de": "An einer Unterschriftensammlung teilgenommen/eine Onlinepetition unterst\u00fctzt",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -5052,7 +5052,7 @@
           "item": "3.0",
           "number": "152",
           "text": "Boycotted a company or products for political or ethical reasons or on environmental grounds, e.g. did not buy products or avoided them",
-          "text_de": "Aus politischen, ethischen oder Umweltgruenden Unternehmen oder Waren boykottiert, d.h. zum Beispiel nicht gekauft oder gemieden",
+          "text_de": "Aus politischen, ethischen oder Umweltgr\u00fcnden Unternehmen oder Waren boykottiert, d.h. zum Beispiel nicht gekauft oder gemieden",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -5099,7 +5099,7 @@
         {
           "number": "153",
           "text": "Did you vote in the last election of the federal parliament?",
-          "text_de": "Haben Sie bei der letzten Bundestagswahl gewaehlt?",
+          "text_de": "Haben Sie bei der letzten Bundestagswahl gew\u00e4hlt?",
           "answer_list": "pop0300",
           "scale": "cat",
           "filter": "age >= 18",
@@ -5148,7 +5148,7 @@
         {
           "number": "154",
           "text": "If there were an election for federal parliament next Sunday, would you vote? If you are not eligible to vote, please indicate what you would do if you were eligible to vote.",
-          "text_de": "Alter 13 bis 15 Jahre: Mal angenommen, Du waerst wahlberechtigt: Wenn am naechsten Sonntag Bundestagswahl waere, wuerdest Du an der Wahl teilnehmen? / Alter 16 oder 17 Jahre: Mal angenommen, Sie waeren wahlberechtigt: Wenn am naechsten Sonntag Bundestagswahl waere, wuerden Sie an der Wahl teilnehmen? / Alter ab 18 Jahre: Wenn am naechsten Sonntag Bundestagswahl waere, wuerden Sie an der Wahl teilnehmen? Wenn Sie nicht wahlberechtigt sind, geben Sie bitte an, was Sie tun wuerden, wenn Sie wahlberechtigt waeren.",
+          "text_de": "Alter 13 bis 15 Jahre: Mal angenommen, Du w\u00e4rst wahlberechtigt: Wenn am n\u00e4chsten Sonntag Bundestagswahl w\u00e4re, w\u00fcrdest Du an der Wahl teilnehmen? / Alter 16 oder 17 Jahre: Mal angenommen, Sie w\u00e4ren wahlberechtigt: Wenn am n\u00e4chsten Sonntag Bundestagswahl w\u00e4re, w\u00fcrden Sie an der Wahl teilnehmen? / Alter ab 18 Jahre: Wenn am n\u00e4chsten Sonntag Bundestagswahl w\u00e4re, w\u00fcrden Sie an der Wahl teilnehmen? Wenn Sie nicht wahlberechtigt sind, geben Sie bitte an, was Sie tun w\u00fcrden, wenn Sie wahlberechtigt w\u00e4ren.",
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age > 12",
@@ -5236,8 +5236,8 @@
             },
             {
               "value": 5,
-              "label": "5: Buendnis 90/Die Gruenen",
-              "label_de": "5: Buendnis 90/Die Gruenen"
+              "label": "5: B\u00fcndnis 90/Die Gr\u00fcnen",
+              "label_de": "5: B\u00fcndnis 90/Die Gr\u00fcnen"
             },
             {
               "value": 6,
@@ -5256,8 +5256,8 @@
             },
             {
               "value": 9,
-              "label": "9: AfD (Alternative fuer Deutschland)",
-              "label_de": "9: AfD (Alternative fuer Deutschland)"
+              "label": "9: AfD (Alternative f\u00fcr Deutschland)",
+              "label_de": "9: AfD (Alternative f\u00fcr Deutschland)"
             },
             {
               "value": 10,
@@ -5302,7 +5302,7 @@
         {
           "number": "157",
           "text": "Now we have some questions about your personal experiences. During the last 12 months, have you felt that you were disadvantaged or discriminated against due to any personal characteristics (e.g., your ethnic or cultural background, gender, religious beliefs)?",
-          "text_de": "Alter 13 bis 15 Jahre: Im Folgenden geht es um Deine persoenlichen Erfahrungen. Hast Du in den vergangenen 12 Monaten erlebt, dass du aufgrund eines persoenlichen Merkmals (z.B. Deiner Herkunft, Deines Geschlechts, Deiner Religionszugehoerigkeit/Weltanschauung) durch Andere benachteiligt oder gegenueber anderen Menschen schlechtergestellt wurdest? / Alter ab 16 Jahre: Im Folgenden geht es um Ihre persoenlichen Erfahrungen. Haben Sie in den vergangenen 12 Monaten erlebt, dass Sie aufgrund eines persoenlichen Merkmals (z.B. Ihrer Herkunft, Ihres Geschlechts, Ihrer Religionszugehoerigkeit/Weltanschauung) durch Andere benachteiligt oder gegenueber anderen Menschen schlechtergestellt wurden?",
+          "text_de": "Alter 13 bis 15 Jahre: Im Folgenden geht es um Deine pers\u00f6nlichen Erfahrungen. Hast Du in den vergangenen 12 Monaten erlebt, dass du aufgrund eines pers\u00f6nlichen Merkmals (z.B. Deiner Herkunft, Deines Geschlechts, Deiner Religionszugeh\u00f6rigkeit/Weltanschauung) durch Andere benachteiligt oder gegen\u00fcber anderen Menschen schlechtergestellt wurdest? / Alter ab 16 Jahre: Im Folgenden geht es um Ihre pers\u00f6nlichen Erfahrungen. Haben Sie in den vergangenen 12 Monaten erlebt, dass Sie aufgrund eines pers\u00f6nlichen Merkmals (z.B. Ihrer Herkunft, Ihres Geschlechts, Ihrer Religionszugeh\u00f6rigkeit/Weltanschauung) durch Andere benachteiligt oder gegen\u00fcber anderen Menschen schlechtergestellt wurden?",
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age >= 13",
@@ -5363,7 +5363,7 @@
           "item": "1.0",
           "number": "159",
           "text": "Ethnic background (e.g. nationality, skin colour)",
-          "text_de": "Herkunft (z.B. Nationalitaet, Hautfarbe)",
+          "text_de": "Herkunft (z.B. Nationalit\u00e4t, Hautfarbe)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -5429,7 +5429,7 @@
           "item": "3.0",
           "number": "161",
           "text": "Religious orientation/belief",
-          "text_de": "Religionszugehoerigkeit/Weltanschauung",
+          "text_de": "Religionszugeh\u00f6rigkeit/Weltanschauung",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -5495,7 +5495,7 @@
           "item": "5.0",
           "number": "163",
           "text": "Sexual identity (e.g. homosexuality)",
-          "text_de": "Sexuellen Identitaet (z.B. Homosexualitaet)",
+          "text_de": "Sexuellen Identit\u00e4t (z.B. Homosexualit\u00e4t)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -5927,7 +5927,7 @@
         {
           "number": "172",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -5971,7 +5971,7 @@
         {
           "number": "173",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6015,7 +6015,7 @@
         {
           "number": "174",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6059,7 +6059,7 @@
         {
           "number": "175",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6103,7 +6103,7 @@
         {
           "number": "176",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6147,7 +6147,7 @@
         {
           "number": "177",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6191,7 +6191,7 @@
         {
           "number": "178",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6235,7 +6235,7 @@
         {
           "number": "179",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6279,7 +6279,7 @@
         {
           "number": "180",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6323,7 +6323,7 @@
         {
           "number": "181",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6367,7 +6367,7 @@
         {
           "number": "182",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6411,7 +6411,7 @@
         {
           "number": "183",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6455,7 +6455,7 @@
         {
           "number": "184",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6499,7 +6499,7 @@
         {
           "number": "185",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6543,7 +6543,7 @@
         {
           "number": "186",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6587,7 +6587,7 @@
         {
           "number": "187",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6631,7 +6631,7 @@
         {
           "number": "188",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6675,7 +6675,7 @@
         {
           "number": "189",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6719,7 +6719,7 @@
         {
           "number": "190",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6763,7 +6763,7 @@
         {
           "number": "191",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6807,7 +6807,7 @@
         {
           "number": "192",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6851,7 +6851,7 @@
         {
           "number": "193",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -6895,7 +6895,7 @@
         {
           "number": "194",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6939,7 +6939,7 @@
         {
           "number": "195",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -6983,7 +6983,7 @@
         {
           "number": "196",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -7027,7 +7027,7 @@
         {
           "number": "197",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -7071,7 +7071,7 @@
         {
           "number": "198",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -7115,7 +7115,7 @@
         {
           "number": "199",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "filter": "age >= 10",
@@ -7159,7 +7159,7 @@
         {
           "number": "200",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -7203,7 +7203,7 @@
         {
           "number": "201",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange beschaeftigst Du Dich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Gib bitte moeglichst genau an, wieviel Zeit Du mit der jeweiligen Aktivitaet ausserhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Alter 10 bis 15 Jahre: Im Folgenden geht es um Deine Mediennutzung. Wie lange besch\u00e4ftigst Du Dich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Gib bitte m\u00f6glichst genau an, wieviel Zeit Du mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Schulzeit verbringen. / Alter ab 16 Jahre: Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "filter": "age >= 10",
@@ -7684,7 +7684,7 @@
             {
               "value": 1,
               "label": "1: male",
-              "label_de": "1: maennlich"
+              "label_de": "1: m\u00e4nnlich"
             },
             {
               "value": 2,
@@ -8130,7 +8130,7 @@
         {
           "number": "222",
           "text": "Which is the third person's highest school-leaving certificate?",
-          "text_de": "Welchen hoechsten Schulabschluss hat die dritte Person?",
+          "text_de": "Welchen h\u00f6chsten Schulabschluss hat die dritte Person?",
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0500 >= 1 & net0500 != 999",

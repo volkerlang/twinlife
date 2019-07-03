@@ -668,7 +668,7 @@
         {
           "number": "14",
           "text": "What is your highest school-leaving qualification?",
-          "text_de": "Welchen hoechsten Schulabschluss haben Sie erreicht?",
+          "text_de": "Welchen h\u00f6chsten Schulabschluss haben Sie erreicht?",
           "answer_list": "eca0100",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -736,7 +736,7 @@
         {
           "number": "15",
           "text": "What is your highest school-leaving qualification?",
-          "text_de": "Welchen hoechsten Schulabschluss haben Sie erreicht?",
+          "text_de": "Welchen h\u00f6chsten Schulabschluss haben Sie erreicht?",
           "scale": "chr",
           "filter": "eca0100 == 6",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2012.",
@@ -757,7 +757,7 @@
         {
           "number": "16",
           "text": "Please specify your final grade on your highest educational degree/diploma/qualification. Please translate grades for foreign degrees into the German grade system.",
-          "text_de": "Bitte geben Sie die Abschlussnote Ihres hoechsten Schulabschlusses an.",
+          "text_de": "Bitte geben Sie die Abschlussnote Ihres h\u00f6chsten Schulabschlusses an.",
           "answer_list": "mis",
           "scale": "dec",
           "filter": "eca0100 >= 2 & eca0100 <= 6",
@@ -845,7 +845,7 @@
         {
           "number": "18",
           "text": "What educational degree / diploma / qualification did you attain? If you have attained more than one, please state the highest.",
-          "text_de": "Welchen Ausbildungs- oder Studienabschluss haben Sie gemacht? Falls Sie mehrere Ausbildungsabschluesse haben, geben Sie bitte den hoechsten an.",
+          "text_de": "Welchen Ausbildungs- oder Studienabschluss haben Sie gemacht? Falls Sie mehrere Ausbildungsabschl\u00fcsse haben, geben Sie bitte den h\u00f6chsten an.",
           "answer_list": "eca0200",
           "scale": "cat",
           "filter": "eca0100 != 99",
@@ -934,7 +934,7 @@
         {
           "number": "19",
           "text": "Have you done paid work during the last 7 days, even if only for an hour or a few hours?",
-          "text_de": "Haben Sie waehrend der letzten 7 Tage irgendeine bezahlte Arbeit ausgeuebt, auch wenn dies nur fuer eine Stunde oder fuer wenige Stunden war?",
+          "text_de": "Haben Sie w\u00e4hrend der letzten 7 Tage irgendeine bezahlte Arbeit ausge\u00fcbt, auch wenn dies nur f\u00fcr eine Stunde oder f\u00fcr wenige Stunden war?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -1083,7 +1083,7 @@
         {
           "number": "22",
           "text": "Are you currently in education or training? In other words, are you attending school or higher education (including doctorate / Ph.D.), completing an apprenticeship or vocational training, or in further education or training?",
-          "text_de": "Sind Sie derzeit in Ausbildung? Das heisst: Besuchen Sie eine Schule oder Hochschule (einschliesslich Promotion), machen Sie eine Berufsausbildung oder nehmen Sie an einem Weiterbildungslehrgang teil?",
+          "text_de": "Sind Sie derzeit in Ausbildung? Das hei\u00dft: Besuchen Sie eine Schule oder Hochschule (einschlie\u00dflich Promotion), machen Sie eine Berufsausbildung oder nehmen Sie an einem Weiterbildungslehrgang teil?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -1131,7 +1131,7 @@
         {
           "number": "23",
           "text": "What type of education or training are you pursuing?",
-          "text_de": "Was fuer eine Ausbildung oder Weiterbildung ist das genau?",
+          "text_de": "Was f\u00fcr eine Ausbildung oder Weiterbildung ist das genau?",
           "answer_list": "edu0301",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -1184,7 +1184,7 @@
         {
           "number": "24",
           "text": "What type of vocational training are you pursuing?",
-          "text_de": "Was fuer eine berufliche Ausbildung ist das?",
+          "text_de": "Was f\u00fcr eine berufliche Ausbildung ist das?",
           "answer_list": "edu0307",
           "scale": "cat",
           "filter": "edu0300 == 1",
@@ -1263,7 +1263,7 @@
         {
           "number": "25",
           "text": "What type of vocational training are you pursuing?",
-          "text_de": "Was fuer eine berufliche Ausbildung ist das?",
+          "text_de": "Was f\u00fcr eine berufliche Ausbildung ist das?",
           "scale": "chr",
           "filter": "edu0307 == 9",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -1284,7 +1284,7 @@
         {
           "number": "26",
           "text": "What type of higher education are you pursuing?",
-          "text_de": "Was fuer eine Hochschulausbildung ist das?",
+          "text_de": "Was f\u00fcr eine Hochschulausbildung ist das?",
           "answer_list": "edu0303",
           "scale": "cat",
           "filter": "edu0300 == 1",
@@ -1338,7 +1338,7 @@
         {
           "number": "27",
           "text": "What type of higher education are you pursuing?",
-          "text_de": "Was fuer eine Hochschulausbildung ist das?",
+          "text_de": "Was f\u00fcr eine Hochschulausbildung ist das?",
           "scale": "chr",
           "filter": "edu0303 == 4",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -1359,7 +1359,7 @@
         {
           "number": "28",
           "text": "What type of further training/retraining are you pursuing?",
-          "text_de": "Was fuer eine Weiterbildung/Umschulung ist das?",
+          "text_de": "Was f\u00fcr eine Weiterbildung/Umschulung ist das?",
           "answer_list": "edu0305",
           "scale": "cat",
           "filter": "edu0300 == 1",
@@ -1418,7 +1418,7 @@
         {
           "number": "29",
           "text": "What type of further training/retraining are you pursuing?",
-          "text_de": "Was fuer eine Weiterbildung/Umschulung ist das?",
+          "text_de": "Was f\u00fcr eine Weiterbildung/Umschulung ist das?",
           "scale": "chr",
           "filter": "edu0305 == 5",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -1439,7 +1439,7 @@
         {
           "number": "30",
           "text": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
-          "text_de": "Ueben Sie derzeit eine Erwerbstaetigkeit aus? Was trifft fuer Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbstaetig.",
+          "text_de": "\u00dcben Sie derzeit eine Erwerbst\u00e4tigkeit aus? Was trifft f\u00fcr Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbst\u00e4tig.",
           "answer_list": "emp0400",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -1527,7 +1527,7 @@
         {
           "number": "31",
           "text": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
-          "text_de": "Ueben Sie derzeit eine Erwerbstaetigkeit aus? Was trifft fuer Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbstaetig. Explizite Schueler-/Studentenjobs gelten als erwerbstaetig.",
+          "text_de": "\u00dcben Sie derzeit eine Erwerbst\u00e4tigkeit aus? Was trifft f\u00fcr Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbst\u00e4tig. Explizite Sch\u00fcler-/Studentenjobs gelten als erwerbst\u00e4tig.",
           "scale": "txt",
           "sn": 0,
           "item": "root"
@@ -1536,7 +1536,7 @@
           "item": "1.0",
           "number": "32",
           "text": "Full-time employment",
-          "text_de": "Voll erwerbstaetig",
+          "text_de": "Voll erwerbst\u00e4tig",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1567,7 +1567,7 @@
           "item": "2.0",
           "number": "33",
           "text": "Employed on a part-time basis",
-          "text_de": "In Teilzeitbeschaeftigung",
+          "text_de": "In Teilzeitbesch\u00e4ftigung",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1629,7 +1629,7 @@
           "item": "4.0",
           "number": "35",
           "text": "Marginally employed, in mini-jobs, one-Euro-jobs (when drawing unemployment benefit type 2)",
-          "text_de": "Geringfuegig erwerbstaetig; Mini Job; Ein-Euro-Job, z.B. bei Bezug von Arbeitslosengeld 2",
+          "text_de": "Geringf\u00fcgig erwerbst\u00e4tig; Mini Job; Ein-Euro-Job, z.B. bei Bezug von Arbeitslosengeld 2",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1660,7 +1660,7 @@
           "item": "5.0",
           "number": "36",
           "text": "Occasionally or irregularly employed",
-          "text_de": "Gelegentlich oder unregelmaessig beschaeftigt",
+          "text_de": "Gelegentlich oder unregelm\u00e4\u00dfig besch\u00e4ftigt",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1722,7 +1722,7 @@
           "item": "7.0",
           "number": "38",
           "text": "Voluntary social/ecological year, German federal volunteer service",
-          "text_de": "Freiwilliges soziales/oekologisches Jahr, Bundesfreiwilligendienst",
+          "text_de": "Freiwilliges soziales/\u00f6kologisches Jahr, Bundesfreiwilligendienst",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1784,7 +1784,7 @@
           "item": "9.0",
           "number": "40",
           "text": "In (early) retirement, disabled",
-          "text_de": "Vorruhestaendler, Rentner, erwerbsunfaehig",
+          "text_de": "Vorruhest\u00e4ndler, Rentner, erwerbsunf\u00e4hig",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1815,7 +1815,7 @@
           "item": "10.0",
           "number": "41",
           "text": "Not gainfully employed",
-          "text_de": "Nicht erwerbstaetig",
+          "text_de": "Nicht erwerbst\u00e4tig",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -1886,7 +1886,7 @@
         {
           "number": "43",
           "text": "Are you currently in paid employment? Which of the following applies best to your employment status? Pensioners with an employment contract are regarded as employed here.",
-          "text_de": "Ueben Sie derzeit eine Erwerbstaetigkeit aus? Was trifft fuer Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbstaetig. Explizite Schueler-/Studentenjobs gelten als erwerbstaetig.",
+          "text_de": "\u00dcben Sie derzeit eine Erwerbst\u00e4tigkeit aus? Was trifft f\u00fcr Sie zu? Rentner mit Arbeitsvertrag gelten hier als erwerbst\u00e4tig. Explizite Sch\u00fcler-/Studentenjobs gelten als erwerbst\u00e4tig.",
           "scale": "chr",
           "filter": "emp0421 == 1",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -1907,7 +1907,7 @@
         {
           "number": "44",
           "text": "What is your current job?",
-          "text_de": "Welche berufliche Taetigkeit ueben Sie derzeit aus?",
+          "text_de": "Welche berufliche T\u00e4tigkeit \u00fcben Sie derzeit aus?",
           "scale": "chr",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -1928,7 +1928,7 @@
         {
           "number": "45",
           "text": "What is your current job?",
-          "text_de": "Welche berufliche Taetigkeit ueben Sie derzeit aus?",
+          "text_de": "Welche berufliche T\u00e4tigkeit \u00fcben Sie derzeit aus?",
           "answer_list": "mn",
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -1970,7 +1970,7 @@
         {
           "number": "46",
           "text": "What is your current occupational status?",
-          "text_de": "In welcher beruflichen Stellung sind Sie derzeit beschaeftigt?",
+          "text_de": "In welcher beruflichen Stellung sind Sie derzeit besch\u00e4ftigt?",
           "answer_list": "emp0600",
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2029,7 +2029,7 @@
         {
           "number": "47",
           "text": "What is your current employment relationship?",
-          "text_de": "In welchem Beschaeftigungsverhaeltnis befinden Sie sich zurzeit? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
+          "text_de": "In welchem Besch\u00e4ftigungsverh\u00e4ltnis befinden Sie sich zurzeit? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -2041,7 +2041,7 @@
           "item": "1.0",
           "number": "48",
           "text": "Work temporarily or on contractual basis",
-          "text_de": "Zeit- oder Leiharbeitsverhaeltnis",
+          "text_de": "Zeit- oder Leiharbeitsverh\u00e4ltnis",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -2173,7 +2173,7 @@
           "item": "5.0",
           "number": "52",
           "text": "Do not know",
-          "text_de": "Weiss nicht",
+          "text_de": "Wei\u00df nicht",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -2215,7 +2215,7 @@
         {
           "number": "53",
           "text": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
-          "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber beschaeftigt? Falls Sie Selbstaendiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige Taetigkeit ausueben.",
+          "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber besch\u00e4ftigt? Falls Sie Selbst\u00e4ndiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige T\u00e4tigkeit aus\u00fcben.",
           "answer_list": "emp0700",
           "scale": "int",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2249,7 +2249,7 @@
         {
           "number": "54",
           "text": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
-          "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber beschaeftigt? Falls Sie Selbstaendiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige Taetigkeit ausueben.",
+          "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber besch\u00e4ftigt? Falls Sie Selbst\u00e4ndiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige T\u00e4tigkeit aus\u00fcben.",
           "answer_list": "mis",
           "scale": "int",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2288,7 +2288,7 @@
         {
           "number": "55",
           "text": "When did you start working for your current employer? If you are self-employed, please tell when you started working in your current occupation.",
-          "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber beschaeftigt? Falls Sie Selbstaendiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige Taetigkeit ausueben.",
+          "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber besch\u00e4ftigt? Falls Sie Selbst\u00e4ndiger sind, geben Sie bitte an, seit wann Sie Ihre jetzige T\u00e4tigkeit aus\u00fcben.",
           "answer_list": "mn",
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2330,7 +2330,7 @@
         {
           "number": "56",
           "text": "How many hours are stipulated in your contract per week excluding overtime?",
-          "text_de": "Wie viele Wochenstunden betraegt Ihre vereinbarte Arbeitszeit ohne Ueberstunden?",
+          "text_de": "Wie viele Wochenstunden betr\u00e4gt Ihre vereinbarte Arbeitszeit ohne \u00dcberstunden?",
           "answer_list": "emp0705",
           "scale": "dec",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2369,7 +2369,7 @@
         {
           "number": "57",
           "text": "How many hours are stipulated in your contract per week excluding overtime?",
-          "text_de": "Wie viele Wochenstunden betraegt Ihre vereinbarte Arbeitszeit ohne Ueberstunden?",
+          "text_de": "Wie viele Wochenstunden betr\u00e4gt Ihre vereinbarte Arbeitszeit ohne \u00dcberstunden?",
           "answer_list": "emp0705",
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2406,7 +2406,7 @@
         {
           "number": "58",
           "text": "What type of education or training is usually required for your type of work?",
-          "text_de": "Welche Art von Ausbildung ist fuer Ihre Taetigkeit in der Regel derzeit erforderlich? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
+          "text_de": "Welche Art von Ausbildung ist f\u00fcr Ihre T\u00e4tigkeit in der Regel derzeit erforderlich? Wenn mehrere Punkte der Liste zutreffen, geben Sie bitte alle an.",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -2550,7 +2550,7 @@
           "item": "5.0",
           "number": "63",
           "text": "Do not know",
-          "text_de": "Weiss nicht",
+          "text_de": "Wei\u00df nicht",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
@@ -2592,7 +2592,7 @@
         {
           "number": "64",
           "text": "How likely do you think it is that you might lose your job in the next two years?",
-          "text_de": "Fuer wie wahrscheinlich halten Sie es, dass Sie in den kommenden zwei Jahren den Arbeitsplatz verlieren?",
+          "text_de": "F\u00fcr wie wahrscheinlich halten Sie es, dass Sie in den kommenden zwei Jahren den Arbeitsplatz verlieren?",
           "answer_list": "pr5",
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2651,7 +2651,7 @@
         {
           "number": "65",
           "text": "If you can't or don't wish to state an amount, please indicate which income group your monthly gross income falls into.",
-          "text_de": "Wenn Sie einen exakten Betrag nicht nennen koennen oder wollen, dann geben Sie bitte an, in welche Einkommenskategorie Ihr durchschnittliches monatliches Bruttoeinkommen eingeordnet werden kann.",
+          "text_de": "Wenn Sie einen exakten Betrag nicht nennen k\u00f6nnen oder wollen, dann geben Sie bitte an, in welche Einkommenskategorie Ihr durchschnittliches monatliches Bruttoeinkommen eingeordnet werden kann.",
           "answer_list": "inc0103",
           "scale": "cat",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
@@ -2755,7 +2755,7 @@
         {
           "number": "66",
           "text": "Please rate the extent to which each statement applies to you.",
-          "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
+          "text_de": "Bitte sch\u00e4tzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft.",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "description": "Deci, E. L., & Ryan, R. M. (2003). Intrinsic motivation inventory. Self-Determination Theory.\n\n McAuley, E., Duncan, T., & Tammen, V. V. (1989). Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: A confirmatory factor analysis. Research quarterly for exercise and sport, 60, (1) 48-58. ; http://selfdeterminationtheory.org/intrinsic-motivation-inventory/",
@@ -2863,7 +2863,7 @@
           "item": "3.0",
           "number": "69",
           "text": "After working at my job for a while, I felt pretty competent.",
-          "text_de": "Nachdem ich in meinem Job eine Weile gearbeitet hatte, habe ich mich darin ziemlich kompetent gefuehlt.",
+          "text_de": "Nachdem ich in meinem Job eine Weile gearbeitet hatte, habe ich mich darin ziemlich kompetent gef\u00fchlt.",
           "answer_list": "apl5_3",
           "scale": "cat",
           "description": "Deci, E. L., & Ryan, R. M. (2003). Intrinsic motivation inventory. Self-Determination Theory.\n\n McAuley, E., Duncan, T., & Tammen, V. V. (1989). Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: A confirmatory factor analysis. Research quarterly for exercise and sport, 60, (1) 48-58. ; http://selfdeterminationtheory.org/intrinsic-motivation-inventory/",
@@ -2910,7 +2910,7 @@
         {
           "item": "4.0",
           "number": "70",
-          "text": "I am satis?ed with my performance at my job.",
+          "text": "I am satis\ufb01ed with my performance at my job.",
           "text_de": "Ich bin zufrieden mit meiner beruflichen Leistung.",
           "answer_list": "apl5_3",
           "scale": "cat",
@@ -3016,7 +3016,7 @@
         {
           "number": "72",
           "text": "Please rate the extent to which each statement applies to you.",
-          "text_de": "Bitte schaetzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Mir ist es wichtig, im Rahmen meiner schulischen/beruflichen Taetigkeit ...",
+          "text_de": "Bitte sch\u00e4tzen Sie ein, wie gut jede der folgenden Aussagen auf Sie zutrifft. Mir ist es wichtig, im Rahmen meiner schulischen/beruflichen T\u00e4tigkeit ...",
           "scale": "txt",
           "filter": "emp0411 == 1 | emp0412 == 1 | emp0413 == 1 | emp0414 == 1 | emp0415 == 1",
           "description": "Deci, E. L., & Ryan, R. M. (2003). Intrinsic motivation inventory. Self-Determination Theory.\n\n McAuley, E., Duncan, T., & Tammen, V. V. (1989). Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: A confirmatory factor analysis. Research quarterly for exercise and sport, 60, (1) 48-58. ; http://selfdeterminationtheory.org/intrinsic-motivation-inventory/",
@@ -3124,7 +3124,7 @@
           "item": "3.0",
           "number": "75",
           "text": ". . . gain a thorough undestanding of content/really understand something.",
-          "text_de": ". . . ein tieferes Verstaendnis fuer die Inhalte zu erwerben/ etwas wirklich zu verstehen.",
+          "text_de": ". . . ein tieferes Verst\u00e4ndnis f\u00fcr die Inhalte zu erwerben/ etwas wirklich zu verstehen.",
           "answer_list": "apl5_3",
           "scale": "cat",
           "description": "Deci, E. L., & Ryan, R. M. (2003). Intrinsic motivation inventory. Self-Determination Theory.\n\n McAuley, E., Duncan, T., & Tammen, V. V. (1989). Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: A confirmatory factor analysis. Research quarterly for exercise and sport, 60, (1) 48-58. ; http://selfdeterminationtheory.org/intrinsic-motivation-inventory/",
@@ -3181,7 +3181,7 @@
         {
           "number": "76",
           "text": "When did you leave your last job?",
-          "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgehoert zu arbeiten?",
+          "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgeh\u00f6rt zu arbeiten?",
           "answer_list": "emp0800",
           "scale": "int",
           "filter": "emp0300 == 1",
@@ -3220,7 +3220,7 @@
         {
           "number": "77",
           "text": "When did you leave your last job?",
-          "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgehoert zu arbeiten?",
+          "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgeh\u00f6rt zu arbeiten?",
           "answer_list": "emp0801",
           "scale": "int",
           "filter": "emp0300 == 1",
@@ -3259,7 +3259,7 @@
         {
           "number": "78",
           "text": "When did you leave your last job?",
-          "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgehoert zu arbeiten?",
+          "text_de": "Wann haben Sie bei Ihrer letzten Stelle aufgeh\u00f6rt zu arbeiten?",
           "answer_list": "emp0889",
           "scale": "cat",
           "filter": "emp0300 == 1",
@@ -3296,7 +3296,7 @@
         {
           "number": "79",
           "text": "How did that job end?",
-          "text_de": "Auf welche Weise wurde diese Beschaeftigung beendet?",
+          "text_de": "Auf welche Weise wurde diese Besch\u00e4ftigung beendet?",
           "answer_list": "emp0804",
           "scale": "cat",
           "filter": "emp0300 == 1",
@@ -3404,7 +3404,7 @@
           "item": "2.0",
           "number": "82",
           "text": "Supplementary child benefit (\"Kinderzuschlag\" which is paid to low-income earners in addition to the child allowance, \"Kindergeld\")",
-          "text_de": "Kinderzuschlag, also zusaetzlich zum Kindergeld beantragte Leistung fuer Geringverdiener",
+          "text_de": "Kinderzuschlag, also zus\u00e4tzlich zum Kindergeld beantragte Leistung f\u00fcr Geringverdiener",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Household 2014.",
@@ -3569,7 +3569,7 @@
           "item": "7.0",
           "number": "87",
           "text": "Unemployment benefit II (Harz IV), including social unemployment benefit II (Harz IV), including social benefit and accomodation expenses",
-          "text_de": "Arbeitslosengeld II einschliesslich Sozialgeld und Unterkunftskosten",
+          "text_de": "Arbeitslosengeld II einschlie\u00dflich Sozialgeld und Unterkunftskosten",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Household 2014.",
@@ -3800,7 +3800,7 @@
           "item": "14.0",
           "number": "94",
           "text": "Alimony payment for children",
-          "text_de": "Gesetzliche Unterhaltszahlungen fuer Kinder",
+          "text_de": "Gesetzliche Unterhaltszahlungen f\u00fcr Kinder",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Household 2014.",
@@ -3833,7 +3833,7 @@
           "item": "15.0",
           "number": "95",
           "text": "Alimony payment by former partner (not for children)",
-          "text_de": "Gesetzliche Unterhaltszahlungen von ehemaligem/r Partner/in (nicht fuer Kinder)",
+          "text_de": "Gesetzliche Unterhaltszahlungen von ehemaligem/r Partner/in (nicht f\u00fcr Kinder)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Household 2014.",
@@ -4031,7 +4031,7 @@
           "item": "21.0",
           "number": "101",
           "text": "Do not know",
-          "text_de": "Weiss nicht",
+          "text_de": "Wei\u00df nicht",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Household 2014.",
@@ -4073,7 +4073,7 @@
         {
           "number": "102",
           "text": "Would you like to earn a (further) vocational training qualification or university diploma in the future? If more than one, please state the highest.",
-          "text_de": "Streben Sie in der Zukunft einen (weiteren) beruflichen Ausbildungsabschluss oder Hochschulabschluss an? Wenn mehrere Abschluesse angestrebt werden, dann bitte den hoechsten Abschluss angeben.",
+          "text_de": "Streben Sie in der Zukunft einen (weiteren) beruflichen Ausbildungsabschluss oder Hochschulabschluss an? Wenn mehrere Abschl\u00fcsse angestrebt werden, dann bitte den h\u00f6chsten Abschluss angeben.",
           "answer_list": "eca0800",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -4121,7 +4121,7 @@
         {
           "number": "103",
           "text": "What country you were born in? Please tell me what the country is called today.",
-          "text_de": "Im Folgenden geht es um Ihre Herkunft. Wuerden Sie uns bitte sagen, in welchem Land Sie geboren wurden? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
+          "text_de": "Im Folgenden geht es um Ihre Herkunft. W\u00fcrden Sie uns bitte sagen, in welchem Land Sie geboren wurden? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
           "answer_list": "mig",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -4224,7 +4224,7 @@
         {
           "number": "104",
           "text": "What country you were born in? Please tell me what the country is called today.",
-          "text_de": "Im Folgenden geht es um Ihre Herkunft. Wuerden Sie uns bitte sagen, in welchem Land Sie geboren wurden? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
+          "text_de": "Im Folgenden geht es um Ihre Herkunft. W\u00fcrden Sie uns bitte sagen, in welchem Land Sie geboren wurden? Bitte nennen Sie mir das Land, so wie es heute bezeichnet wird.",
           "scale": "chr",
           "filter": "mig0100 == 14",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -4500,7 +4500,7 @@
         {
           "number": "112",
           "text": "What is your nationality? If you have more than one, please state all.",
-          "text_de": "Welche Staatsangehoerigkeit haben Sie? Falls Sie mehr als eine Staatsangehoerigkeit haben, nennen Sie bitte alle.",
+          "text_de": "Welche Staatsangeh\u00f6rigkeit haben Sie? Falls Sie mehr als eine Staatsangeh\u00f6rigkeit haben, nennen Sie bitte alle.",
           "scale": "txt",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Lebenslauffragebogen, Altstichproben. SOEP Survey Papers 237: Series A. Berlin: DIW/SOEP. ; http://panel.gsoep.de/soep-docs/surveypapers/diw_ssp0237.pdf",
@@ -4544,7 +4544,7 @@
           "item": "2.0",
           "number": "114",
           "text": "Turkish",
-          "text_de": "Tuerkische",
+          "text_de": "T\u00fcrkische",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2014.",
@@ -4775,7 +4775,7 @@
           "item": "9.0",
           "number": "121",
           "text": "Romanian",
-          "text_de": "Rumaenische",
+          "text_de": "Rum\u00e4nische",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2014.",
@@ -4907,7 +4907,7 @@
           "item": "13.0",
           "number": "125",
           "text": "Other",
-          "text_de": "Andere Staatsangehoerigkeit, und zwar",
+          "text_de": "Andere Staatsangeh\u00f6rigkeit, und zwar",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2014.",
@@ -4940,7 +4940,7 @@
           "item": "14.0",
           "number": "126",
           "text": "Don't know",
-          "text_de": "Weiss nicht",
+          "text_de": "Wei\u00df nicht",
           "answer_list": "mn",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2014.",
@@ -4982,7 +4982,7 @@
         {
           "number": "127",
           "text": "What is your nationality? If you have more than one, please state all.",
-          "text_de": "Welche Staatsangehoerigkeit haben Sie? Falls Sie mehr als eine Staatsangehoerigkeit haben, nennen Sie bitte alle.",
+          "text_de": "Welche Staatsangeh\u00f6rigkeit haben Sie? Falls Sie mehr als eine Staatsangeh\u00f6rigkeit haben, nennen Sie bitte alle.",
           "scale": "chr",
           "filter": "mig0512 == 1",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Life Course 2014.",
@@ -5003,7 +5003,7 @@
         {
           "number": "128",
           "text": "Below are different qualities that a person might have. You will probably find that some apply to you completely and that some do not apply to you at all. With others, you may be somewhere in between. I see myself as someone who...",
-          "text_de": "Hier sind unterschiedliche Eigenschaften, die eine Person haben kann. Wahrscheinlich werden einige Eigenschaften auf Sie persoenlich voll zutreffen und andere ueberhaupt nicht. Bei wieder anderen sind Sie vielleicht unentschieden. Ich bin jemand, der. . .",
+          "text_de": "Hier sind unterschiedliche Eigenschaften, die eine Person haben kann. Wahrscheinlich werden einige Eigenschaften auf Sie pers\u00f6nlich voll zutreffen und andere \u00fcberhaupt nicht. Bei wieder anderen sind Sie vielleicht unentschieden. Ich bin jemand, der. . .",
           "scale": "txt",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Jugendfragebogen, Altstichproben. SOEP Survey Papers 238: Series A. Berlin: DIW/SOEP. ; http://panel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
@@ -5014,7 +5014,7 @@
           "item": "1.0",
           "number": "129",
           "text": ". . . does a thorough job.",
-          "text_de": "gruendlich arbeitet.",
+          "text_de": "gr\u00fcndlich arbeitet.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -5072,7 +5072,7 @@
           "item": "2.0",
           "number": "130",
           "text": ". . . is communicative, is talkative.",
-          "text_de": "kommunikativ, gespraechig ist.",
+          "text_de": "kommunikativ, gespr\u00e4chig ist.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -5478,7 +5478,7 @@
           "item": "9.0",
           "number": "137",
           "text": ". . . is artistic, values aesthetic experiences.",
-          "text_de": "kuenstlerische Erfahrungen schaetzt.",
+          "text_de": "k\u00fcnstlerische Erfahrungen sch\u00e4tzt.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -5536,7 +5536,7 @@
           "item": "10.0",
           "number": "138",
           "text": ". . . gets nervous easily.",
-          "text_de": "leicht nervoes wird.",
+          "text_de": "leicht nerv\u00f6s wird.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -5652,7 +5652,7 @@
           "item": "12.0",
           "number": "140",
           "text": ". . . is reserved.",
-          "text_de": "zurueckhaltend ist.",
+          "text_de": "zur\u00fcckhaltend ist.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -5710,7 +5710,7 @@
           "item": "13.0",
           "number": "141",
           "text": ". . . is considerate and kind to others.",
-          "text_de": "ruecksichtsvoll und freundlich mit anderen umgeht.",
+          "text_de": "r\u00fccksichtsvoll und freundlich mit anderen umgeht.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -5942,7 +5942,7 @@
           "item": "17.0",
           "number": "145",
           "text": ". . . likes to have fun today and don't worry about tomorrow.",
-          "text_de": "der lieber heute seinen Spass hat und nicht an morgen denkt.",
+          "text_de": "der lieber heute seinen Spa\u00df hat und nicht an morgen denkt.",
           "answer_list": "apl7",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
@@ -6009,7 +6009,7 @@
         {
           "number": "146",
           "text": "Would you describe yourself as someone who is willing to take risks or as someone who tries to avoid risks? In other words, do you often try things that could go wrong, or do you prefer to play it safe?",
-          "text_de": "Wie schaetzen Sie sich persoenlich ein? Sind Sie im Allgemeinen ein risikobereiter Mensch oder versuchen Sie, Risiken zu vermeiden?",
+          "text_de": "Wie sch\u00e4tzen Sie sich pers\u00f6nlich ein? Sind Sie im Allgemeinen ein risikobereiter Mensch oder versuchen Sie, Risiken zu vermeiden?",
           "answer_list": "per0200",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2008. ; http://dx.doi.org/10.2378/peu2014.art22d",
@@ -6340,7 +6340,7 @@
           "item": "4.0",
           "number": "152",
           "text": "I can rely on my own abilities in difficult situations.",
-          "text_de": "In schwierigen Situationen kann ich mich auf meine Faehigkeiten verlassen.",
+          "text_de": "In schwierigen Situationen kann ich mich auf meine F\u00e4higkeiten verlassen.",
           "answer_list": "agr5",
           "scale": "cat",
           "description": "Th\u00f6nnissen, C., Wilhelm B., Friedrich, S., Alt, P., & Walper S. (2014). Scales Manual of the German Family Panel. Wave 1 to 6.\n ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_pairfam_6.0.pdf",
@@ -6436,7 +6436,7 @@
           "item": "6.0",
           "number": "154",
           "text": "I can usually solve even challenging and complex tasks well.",
-          "text_de": "Auch anstrengende und komplizierte Aufgaben kann ich in der Regel gut loesen.",
+          "text_de": "Auch anstrengende und komplizierte Aufgaben kann ich in der Regel gut l\u00f6sen.",
           "answer_list": "agr5",
           "scale": "cat",
           "description": "Th\u00f6nnissen, C., Wilhelm B., Friedrich, S., Alt, P., & Walper S. (2014). Scales Manual of the German Family Panel. Wave 1 to 6.\n ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_pairfam_6.0.pdf",
@@ -6484,7 +6484,7 @@
           "item": "7.0",
           "number": "155",
           "text": "To achieve something in life, I am ready to take large efforts.",
-          "text_de": "Um es im Leben zu etwas zu bringen bin ich bereit grosse Anstrengungen auf mich zu nehmen.",
+          "text_de": "Um es im Leben zu etwas zu bringen bin ich bereit gro\u00dfe Anstrengungen auf mich zu nehmen.",
           "answer_list": "agr5",
           "scale": "cat",
           "description": "Th\u00f6nnissen, C., Wilhelm B., Friedrich, S., Alt, P., & Walper S. (2014). Scales Manual of the German Family Panel. Wave 1 to 6.\n ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_pairfam_6.0.pdf",
@@ -6589,7 +6589,7 @@
         {
           "number": "157",
           "text": "People assess their abilities differently. We would like to know how you assess your abilities with regard to your general intelligence. The following figures show the distribution of intelligence in the total population. Additionally, you see a rough description of different parts of the distribution \u2013 100 correspond to the average value of the population, which means that the average population shows an intelligence value between 85 and 115. Please estimate your own intelligence with a value between 50 and 150.",
-          "text_de": "Menschen schaetzen ihre Faehigkeiten unterschiedlich ein. Im Folgenden moechten wir von Ihnen gerne wissen, wie Sie Ihre eigenen Faehigkeiten im Hinblick auf Ihre allgemeine Intelligenz einschaetzen. Die nachfolgende Abbildung stellt die Intelligenzverteilung in der Gesamtbevoelkerung dar. Zusaetzlich sehen Sie eine grobe Beschreibung unterschiedlicher Intelligenzbereiche \u2013 100 entspricht dabei genau dem Durchschnittswert in der Bevoelkerung, das bedeutet der Durchschnitt der Bevoelkerung weist einen Intelligenzwert in einem Bereich zwischen 85 und 115 IQ-Punkten auf. Bitte schaetzen Sie anhand dieser Verteilung Ihre eigene Intelligenz mit einem Wert zwischen 50 und 150 ein.",
+          "text_de": "Menschen sch\u00e4tzen ihre F\u00e4higkeiten unterschiedlich ein. Im Folgenden m\u00f6chten wir von Ihnen gerne wissen, wie Sie Ihre eigenen F\u00e4higkeiten im Hinblick auf Ihre allgemeine Intelligenz einsch\u00e4tzen. Die nachfolgende Abbildung stellt die Intelligenzverteilung in der Gesamtbev\u00f6lkerung dar. Zus\u00e4tzlich sehen Sie eine grobe Beschreibung unterschiedlicher Intelligenzbereiche \u2013 100 entspricht dabei genau dem Durchschnittswert in der Bev\u00f6lkerung, das bedeutet der Durchschnitt der Bev\u00f6lkerung weist einen Intelligenzwert in einem Bereich zwischen 85 und 115 IQ-Punkten auf. Bitte sch\u00e4tzen Sie anhand dieser Verteilung Ihre eigene Intelligenz mit einem Wert zwischen 50 und 150 ein.",
           "answer_list": "mis",
           "scale": "cat",
           "answers": [
@@ -6625,7 +6625,7 @@
         {
           "number": "158",
           "text": "People assess their abilities differently. We would like to know how you assess your abilities with regard to your general intelligence. The following figures show the distribution of intelligence in the total population. Additionally, you see a rough description of different parts of the distribution \u2013 100 correspond to the average value of the population, which means that the average population shows an intelligence value between 85 and 115. Please estimate your own intelligence with a value between 50 and 150.",
-          "text_de": "Menschen schaetzen ihre Faehigkeiten unterschiedlich ein. Im Folgenden moechten wir von Ihnen gerne wissen, wie Sie Ihre eigenen Faehigkeiten im Hinblick auf Ihre allgemeine Intelligenz einschaetzen. Die nachfolgende Abbildung stellt die Intelligenzverteilung in der Gesamtbevoelkerung dar. Zusaetzlich sehen Sie eine grobe Beschreibung unterschiedlicher Intelligenzbereiche \u2013 100 entspricht dabei genau dem Durchschnittswert in der Bevoelkerung, das bedeutet der Durchschnitt der Bevoelkerung weist einen Intelligenzwert in einem Bereich zwischen 85 und 115 IQ-Punkten auf. Bitte schaetzen Sie anhand dieser Verteilung Ihre eigene Intelligenz mit einem Wert zwischen 50 und 150 ein.",
+          "text_de": "Menschen sch\u00e4tzen ihre F\u00e4higkeiten unterschiedlich ein. Im Folgenden m\u00f6chten wir von Ihnen gerne wissen, wie Sie Ihre eigenen F\u00e4higkeiten im Hinblick auf Ihre allgemeine Intelligenz einsch\u00e4tzen. Die nachfolgende Abbildung stellt die Intelligenzverteilung in der Gesamtbev\u00f6lkerung dar. Zus\u00e4tzlich sehen Sie eine grobe Beschreibung unterschiedlicher Intelligenzbereiche \u2013 100 entspricht dabei genau dem Durchschnittswert in der Bev\u00f6lkerung, das bedeutet der Durchschnitt der Bev\u00f6lkerung weist einen Intelligenzwert in einem Bereich zwischen 85 und 115 IQ-Punkten auf. Bitte sch\u00e4tzen Sie anhand dieser Verteilung Ihre eigene Intelligenz mit einem Wert zwischen 50 und 150 ein.",
           "answer_list": "mis",
           "scale": "cat",
           "answers": [
@@ -6709,7 +6709,7 @@
         {
           "number": "160",
           "text": "If yes: How often did this happen in the last 12 months?",
-          "text_de": "Es geht um: Stehlen im Geschaeft: Wie oft war das in den letzten 12 Monaten?",
+          "text_de": "Es geht um: Stehlen im Gesch\u00e4ft: Wie oft war das in den letzten 12 Monaten?",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "del0400 == 1",
@@ -6835,7 +6835,7 @@
         {
           "number": "163",
           "text": "Have you ever sprayed graffiti in places where this is forbidden or intentionally scratched something to cause damage (scratching)?",
-          "text_de": "Haben Sie schon einmal an verbotenen Orten Graffitis gesprayt oder absichtlich etwas zerkratzt, um es zu zerstoeren oder zu beschaedigen (scratchen)?",
+          "text_de": "Haben Sie schon einmal an verbotenen Orten Graffitis gesprayt oder absichtlich etwas zerkratzt, um es zu zerst\u00f6ren oder zu besch\u00e4digen (scratchen)?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
@@ -6922,7 +6922,7 @@
         {
           "number": "165",
           "text": "Sometimes cars, mailboxes, seats of buses or trains, park benches, windows, and similar things are damaged or destroyed. Have you ever intentionally damaged or destroyed such items or other things that did not belong to you?",
-          "text_de": "Es kommt vor, dass Fahrzeuge, Briefkaesten, Sitze in Bus oder Bahn, Parkbaenke, Fenster oder aehnliches beschaedigt oder zerstoert werden. Haben Sie jemals solche oder auch andere Sachen, die Ihnen nicht gehoerten, absichtlich beschaedigt oder zerstoert?",
+          "text_de": "Es kommt vor, dass Fahrzeuge, Briefk\u00e4sten, Sitze in Bus oder Bahn, Parkb\u00e4nke, Fenster oder \u00e4hnliches besch\u00e4digt oder zerst\u00f6rt werden. Haben Sie jemals solche oder auch andere Sachen, die Ihnen nicht geh\u00f6rten, absichtlich besch\u00e4digt oder zerst\u00f6rt?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
@@ -6970,7 +6970,7 @@
         {
           "number": "166",
           "text": "If yes: How often did this happen in the last 12 months?",
-          "text_de": "Es geht um: Absichtlich Sachen beschaedigen (z.B. Parkbaenke): Wie oft war das in den letzten 12 Monaten?",
+          "text_de": "Es geht um: Absichtlich Sachen besch\u00e4digen (z.B. Parkb\u00e4nke): Wie oft war das in den letzten 12 Monaten?",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "del0700 == 1",
@@ -7009,7 +7009,7 @@
         {
           "number": "167",
           "text": "Have you ever used the internet to insult or threaten someone, to spread gossip, to make someone look bad, or to make fun of someone?",
-          "text_de": "Haben Sie schon einmal jemanden ueber das Internet beleidigt, bedroht, ueber ihn Geruechte verbreitet, ihn blossgestellt oder laecherlich gemacht?",
+          "text_de": "Haben Sie schon einmal jemanden \u00fcber das Internet beleidigt, bedroht, \u00fcber ihn Ger\u00fcchte verbreitet, ihn blo\u00dfgestellt oder l\u00e4cherlich gemacht?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
@@ -7183,7 +7183,7 @@
         {
           "number": "171",
           "text": "Have you ever--maybe together with others--teased, intimidated or threatened a classmate?",
-          "text_de": "Haben Sie schon einmal einen Mitschueler - vielleicht auch zusammen mit anderen - gehaenselt, eingeschuechtert oder bedroht?",
+          "text_de": "Haben Sie schon einmal einen Mitsch\u00fcler - vielleicht auch zusammen mit anderen - geh\u00e4nselt, eingesch\u00fcchtert oder bedroht?",
           "answer_list": "yn",
           "scale": "cat",
           "filter": "age < 18 & age > 9",
@@ -7232,7 +7232,7 @@
         {
           "number": "172",
           "text": "If yes: How often did this happen in the last 12 months?",
-          "text_de": "Es geht um: Mobbing anderer Mitschueler: Wie oft war das in den letzten 12 Monaten?",
+          "text_de": "Es geht um: Mobbing anderer Mitsch\u00fcler: Wie oft war das in den letzten 12 Monaten?",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "del1000 == 1",
@@ -7358,7 +7358,7 @@
         {
           "number": "175",
           "text": "Have you ever hurt someone in a fight but without using a weapon or another object? We're not referring to scuffling with someone for the fun of it.",
-          "text_de": "Haben Sie jemals jemanden so geschlagen oder getreten, dass er verletzt wurde, aber ohne eine Waffe oder einen anderen Gegenstand zu benutzen? Damit meinen wir jedoch nicht solche Situationen, bei denen man nur aus Spass miteinander rauft.",
+          "text_de": "Haben Sie jemals jemanden so geschlagen oder getreten, dass er verletzt wurde, aber ohne eine Waffe oder einen anderen Gegenstand zu benutzen? Damit meinen wir jedoch nicht solche Situationen, bei denen man nur aus Spa\u00df miteinander rauft.",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
@@ -7406,7 +7406,7 @@
         {
           "number": "176",
           "text": "If yes: How often did this happen in the last 12 months?",
-          "text_de": "Es geht um: Verletzung anderer bei Schlaegerei: Wie oft war das in den letzten 12 Monaten?",
+          "text_de": "Es geht um: Verletzung anderer bei Schl\u00e4gerei: Wie oft war das in den letzten 12 Monaten?",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "del1400 == 1",
@@ -7445,7 +7445,7 @@
         {
           "number": "177",
           "text": "Have you ever driven a vehicle (car, motorcycle, moped) without a driver's license?",
-          "text_de": "Sind Sie schon einmal mit einem Kraftfahrzeug (Auto, Motorrad, Moped) gefahren, obwohl Sie den hierfuer notwendigen Fuehrerschein nicht hatten?",
+          "text_de": "Sind Sie schon einmal mit einem Kraftfahrzeug (Auto, Motorrad, Moped) gefahren, obwohl Sie den hierf\u00fcr notwendigen F\u00fchrerschein nicht hatten?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
@@ -7493,7 +7493,7 @@
         {
           "number": "178",
           "text": "If yes: How often did this happen in the last 12 months?",
-          "text_de": "Es geht um: Fahren ohne Fuehrerschein: Wie oft war das in den letzten 12 Monaten?",
+          "text_de": "Es geht um: Fahren ohne F\u00fchrerschein: Wie oft war das in den letzten 12 Monaten?",
           "answer_list": "mis",
           "scale": "cat",
           "filter": "del1600 == 1",
@@ -7619,7 +7619,7 @@
         {
           "number": "181",
           "text": "We are interested in hearing how satisfied you are with the following areas of your life. How satisfied are you...",
-          "text_de": "Wie zufrieden sind Sie gegenwaertig mit den folgenden Bereichen Ihres Lebens? Wie zufrieden sind Sie . . .",
+          "text_de": "Wie zufrieden sind Sie gegenw\u00e4rtig mit den folgenden Bereichen Ihres Lebens? Wie zufrieden sind Sie . . .",
           "scale": "txt",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
           "description_de": "Sozio-oekonomisches Panel (SOEP): SOEP Personenfragebogen 2003. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38383.de/personen_2003.pdf",
@@ -7713,7 +7713,7 @@
           "item": "2.0",
           "number": "183",
           "text": ". . . (if employed) your job?",
-          "text_de": "Falls Sie erwerbstaetig sind: mit Ihrer Arbeit?",
+          "text_de": "Falls Sie erwerbst\u00e4tig sind: mit Ihrer Arbeit?",
           "answer_list": "sat11",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -7879,7 +7879,7 @@
           "item": "4.0",
           "number": "185",
           "text": ". . . your personal income?",
-          "text_de": "mit Ihrem persoenlichen Einkommen?",
+          "text_de": "mit Ihrem pers\u00f6nlichen Einkommen?",
           "answer_list": "sat11",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2003. ; www.diw.de/documents/dokumentenarchiv/17/diw_01.c.38957.de/personen_en.409727.pdf",
@@ -8303,7 +8303,7 @@
         {
           "number": "190",
           "text": "How would you describe your state of health during the last 12 months, in general?",
-          "text_de": "Wie wuerden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
+          "text_de": "Wie w\u00fcrden Sie Ihren Gesundheitszustand in den letzten 12 Monaten im Allgemeinen beschreiben?",
           "answer_list": "she0100",
           "scale": "cat",
           "description": "Ellert, U., Lampert, T., & Ravens-Sieberer U. (2005). Messung der gesundheitsbezogenen Lebensqualit\u00e4t mit dem SF-8. Eine Normstichprobe f\u00fcr Deutschland. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz, 48 (12), 1330-1337.\n",
@@ -8377,7 +8377,7 @@
           "item": "1.0",
           "number": "192",
           "text": "Sleeping disorders",
-          "text_de": "Schlafstoerungen",
+          "text_de": "Schlafst\u00f6rungen",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -8476,7 +8476,7 @@
           "item": "4.0",
           "number": "195",
           "text": "Heart problems (also heart failure, congestive heart failure)",
-          "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschwaeche)",
+          "text_de": "Herzkrankheit (auch Herzinsuffizienz, Herzschw\u00e4che)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -8575,7 +8575,7 @@
           "item": "7.0",
           "number": "198",
           "text": "Migraine",
-          "text_de": "Migraene",
+          "text_de": "Migr\u00e4ne",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -8773,7 +8773,7 @@
           "item": "13.0",
           "number": "204",
           "text": "Chronic back pains",
-          "text_de": "Chronische Rueckenbeschwerden",
+          "text_de": "Chronische R\u00fcckenbeschwerden",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -8806,7 +8806,7 @@
           "item": "14.0",
           "number": "205",
           "text": "Physical disability",
-          "text_de": "Koerperbehinderung",
+          "text_de": "K\u00f6rperbehinderung",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -8839,7 +8839,7 @@
           "item": "15.0",
           "number": "206",
           "text": "Other physical or pschological illnesses, such as",
-          "text_de": "Sonstige koerperliche oder psychische Erkrankungen, und zwar",
+          "text_de": "Sonstige k\u00f6rperliche oder psychische Erkrankungen, und zwar",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -8905,7 +8905,7 @@
           "item": "17.0",
           "number": "209",
           "text": "Do not know",
-          "text_de": "Weiss nicht",
+          "text_de": "Wei\u00df nicht",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf  ",
@@ -10683,7 +10683,7 @@
         {
           "number": "273",
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
-          "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
+          "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungef\u00e4hre Alter an.",
           "answer_list": "hbe0200",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010.\n ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf     ",
@@ -10721,7 +10721,7 @@
         {
           "number": "274",
           "text": "Have you ever drunk alcohol, and if so, how old were you when you drank alcohol for the first time? If you don't remember exactly, please estimate.",
-          "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungefaehre Alter an.",
+          "text_de": "Haben Sie jemals Alkohol getrunken bzw. wie alt waren Sie, als Sie zum ersten Mal Alkohol getrunken haben? Wenn Sie das Alter nicht genau wissen, geben Sie bitte das ungef\u00e4hre Alter an.",
           "answer_list": "hbe0200",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010.\n ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf     ",
@@ -10759,7 +10759,7 @@
         {
           "number": "275",
           "text": "The following questions are about the past 12 months. How much alcohol have you consumed in the last 12 months?",
-          "text_de": "In welchem Ausmass haben Sie waehrend der letzten 12 Monate alkoholische Getraenke konsumiert?",
+          "text_de": "In welchem Ausma\u00df haben Sie w\u00e4hrend der letzten 12 Monate alkoholische Getr\u00e4nke konsumiert?",
           "scale": "txt",
           "filter": "hbe0200 >= -98 & hbe0200 < 97",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010.\n ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf     ",
@@ -10877,7 +10877,7 @@
           "item": "3.0",
           "number": "278",
           "text": "Drinks with high alcohol content (e.g. Schnaps/spirits (2 cl), Longdrinks, cocktails (0.3 l))",
-          "text_de": "Hochprozentige alkoholische Getraenke (z.B. Schnaps, Longdrinks)",
+          "text_de": "Hochprozentige alkoholische Getr\u00e4nke (z.B. Schnaps, Longdrinks)",
           "answer_list": "hbe0202",
           "scale": "cat",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2010.\n ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.369775.de/soepfrabo_personen_2010_en.pdf     ",
@@ -10939,7 +10939,7 @@
         {
           "number": "279",
           "text": "How often in the last 12 months did you not do your work as well as usual because you had consumed alcohol?",
-          "text_de": "Wie oft kam es in den letzten 12 Monaten vor, dass Sie wegen des Konsums von Alkohol Ihre Arbeit oder Taetigkeit schlechter als sonst gemacht haben?",
+          "text_de": "Wie oft kam es in den letzten 12 Monaten vor, dass Sie wegen des Konsums von Alkohol Ihre Arbeit oder T\u00e4tigkeit schlechter als sonst gemacht haben?",
           "answer_list": "fre5_3",
           "scale": "cat",
           "filter": "hbe0200 >= -98 & hbe0200 < 97",
@@ -11127,7 +11127,7 @@
         {
           "number": "283",
           "text": "In the following we would like to know what you do to care for your health. To what extent does this statement apply to you personally: I take active steps to stay healthy (e.g., go to regular checkups, follow a healthy diet, and avoid unhealthy behavior, etc.).",
-          "text_de": "Im Folgenden moechten wir erfahren, inwieweit Sie fuer Ihre Gesundheit vorsorgen. Inwieweit trifft folgende Aussage auf Sie persoenlich zu? Ich sorge fuer die Erhaltung meiner Gesundheit aktiv vor (z.B. durch regelmaessige Vorsorgeuntersuchungen, gesunde Ernaehrung, Vermeidung von gesundheitsschaedlichem Verhalten, etc.).",
+          "text_de": "Im Folgenden m\u00f6chten wir erfahren, inwieweit Sie f\u00fcr Ihre Gesundheit vorsorgen. Inwieweit trifft folgende Aussage auf Sie pers\u00f6nlich zu? Ich sorge fuer die Erhaltung meiner Gesundheit aktiv vor (z.B. durch regelmaessige Vorsorgeuntersuchungen, gesunde Ernaehrung, Vermeidung von gesundheitsschaedlichem Verhalten, etc.).",
           "answer_list": "hbe0400",
           "scale": "cat",
           "description": "Adapted from: Kornadt, A. E., & Rothermund, K. (2014). Preparation for old age in different life domains. Dimensions and age differences. International Journal of Behavioral Development, 38 (3), 228-238. ; http://journals.sagepub.com/doi/abs/10.1177/0165025413512065",
@@ -11180,7 +11180,7 @@
         {
           "number": "284",
           "text": "Please give your height and weight.",
-          "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
+          "text_de": "Bitte geben Sie Ihre K\u00f6rpergr\u00f6\u00dfe und Ihr Gewicht an.",
           "answer_list": "mis",
           "scale": "cat",
           "description": "Item developed for TwinLife",
@@ -11218,7 +11218,7 @@
         {
           "number": "285",
           "text": "Please give your height and weight.",
-          "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
+          "text_de": "Bitte geben Sie Ihre K\u00f6rpergr\u00f6\u00dfe und Ihr Gewicht an.",
           "answer_list": "mis",
           "scale": "cat",
           "description": "Item developed for TwinLife",
@@ -11256,7 +11256,7 @@
         {
           "number": "286",
           "text": "Please give your height and weight.",
-          "text_de": "Bitte geben Sie Ihre Koerpergroesse und Ihr Gewicht an.",
+          "text_de": "Bitte geben Sie Ihre K\u00f6rpergr\u00f6\u00dfe und Ihr Gewicht an.",
           "answer_list": "mis",
           "scale": "cat",
           "description": "Item developed for TwinLife",
@@ -11294,7 +11294,7 @@
         {
           "number": "287",
           "text": "Below we would like to know how satisfied you are with your life in general. You can agree or disagree with the following statements.",
-          "text_de": "Im Folgenden wuerden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen koennen.",
+          "text_de": "Im Folgenden w\u00fcrden wir gerne wissen, wie zufrieden Sie ganz allgemein mit Ihrem Leben sind. Es folgen einige Aussagen dazu, denen Sie zustimmen bzw. die Sie ablehnen k\u00f6nnen.",
           "scale": "txt",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
           "description_de": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75.",
@@ -11449,7 +11449,7 @@
           "item": "4.0",
           "number": "291",
           "text": "So far I have gotten the important things I want in life.",
-          "text_de": "Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wuensche, auch bekommen.",
+          "text_de": "Ich habe bisher die wichtigen Dinge, die ich mir vom Leben w\u00fcnsche, auch bekommen.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -11497,7 +11497,7 @@
           "item": "5.0",
           "number": "292",
           "text": "If I could live my life over, I would change almost nothing.",
-          "text_de": "Wenn ich mein Leben noch einmal leben koennte, wuerde ich fast nichts aendern.",
+          "text_de": "Wenn ich mein Leben noch einmal leben k\u00f6nnte, w\u00fcrde ich fast nichts \u00e4ndern.",
           "answer_list": "agr5_2",
           "scale": "cat",
           "description": "Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49 (1), 71-75. ; http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf",
@@ -11554,7 +11554,7 @@
         {
           "number": "293",
           "text": "Below is a list of groups that one might be active in. For each one, please state how often you take part: once a week, once a month, less than once a month, never.",
-          "text_de": "Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausmass Sie in den jeweiligen Gruppen aktiv sind.",
+          "text_de": "Im Folgenden sehen Sie eine Reihe von Gruppen, in denen man aktiv sein kann. Bitte geben Sie an, in welchem Ausma\u00df Sie in den jeweiligen Gruppen aktiv sind.",
           "scale": "txt",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
           "description_de": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27. ; https://www.dji.de/fileadmin/user_upload/bibs2015/DJI_AIDA_gesamt_v03.pdf",
@@ -11608,7 +11608,7 @@
           "item": "2.0",
           "number": "295",
           "text": "Choir/music or theatre group or similar",
-          "text_de": "Gesangs-/Musikverein/Theatergruppe o.ae.",
+          "text_de": "Gesangs-/Musikverein/Theatergruppe o.\u00e4.",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -11651,7 +11651,7 @@
           "item": "3.0",
           "number": "296",
           "text": "Church or religious group",
-          "text_de": "Kirchliche/religioese Gruppe",
+          "text_de": "Kirchliche/religi\u00f6se Gruppe",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -11694,7 +11694,7 @@
           "item": "4.0",
           "number": "297",
           "text": "Trade union/professional association/student council",
-          "text_de": "Gewerkschaft/Berufsverband/Schuelervertretung",
+          "text_de": "Gewerkschaft/Berufsverband/Sch\u00fclervertretung",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -11737,7 +11737,7 @@
           "item": "5.0",
           "number": "298",
           "text": "Voluntary fire and rescue services/technical relief association THW/DLRG German Lifesaving Association etc.",
-          "text_de": "Freiwillige Feuerwehr/Technisches Hilfswerk/DLRG o.ae.",
+          "text_de": "Freiwillige Feuerwehr/Technisches Hilfswerk/DLRG o.\u00e4.",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -11780,7 +11780,7 @@
           "item": "6.0",
           "number": "299",
           "text": "Local history association/Citizens association/Marksmen club",
-          "text_de": "Heimat-/Buerger-/Schuetzenverein",
+          "text_de": "Heimat-/B\u00fcrger-/Sch\u00fctzenverein",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -11823,7 +11823,7 @@
           "item": "7.0",
           "number": "300",
           "text": "Political organization/party/citizens' initiative",
-          "text_de": "Politische Organisation/Partei/Buergerinitiative",
+          "text_de": "Politische Organisation/Partei/B\u00fcrgerinitiative",
           "answer_list": "fre4",
           "scale": "cat",
           "description": "Rauschenbach, T., & Bien, W. (2012). Aufwachsen in Deutschland. Aufwachsen in Deutschland. AID: A \u2013 Der neue DJI-Survey. Weinheim/Basel: Beltz Juventa, 7-27.\n",
@@ -11918,7 +11918,7 @@
         {
           "number": "302",
           "text": "Generally speaking, how interested are you in politics?",
-          "text_de": "Einmal ganz allgemein gesprochen, wie stark interessieren Sie sich fuer Politik?",
+          "text_de": "Einmal ganz allgemein gesprochen, wie stark interessieren Sie sich f\u00fcr Politik?",
           "answer_list": "pop0100",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
@@ -12020,7 +12020,7 @@
         {
           "number": "304",
           "text": "If there were an election for federal parliament next Sunday, would you vote? If you are not eligible to vote, please indicate what you would do if you were eligible to vote.",
-          "text_de": "Wenn am naechsten Sonntag Bundestagswahl waere, wuerden Sie an der Wahl teilnehmen? Wenn Sie nicht wahlberechtigt sind, geben Sie bitte an, was Sie tun wuerden, wenn Sie wahlberechtigt waeren.",
+          "text_de": "Wenn am n\u00e4chsten Sonntag Bundestagswahl w\u00e4re, w\u00fcrden Sie an der Wahl teilnehmen? Wenn Sie nicht wahlberechtigt sind, geben Sie bitte an, was Sie tun w\u00fcrden, wenn Sie wahlberechtigt w\u00e4ren.",
           "answer_list": "yn",
           "scale": "cat",
           "description": "\"Sonntagsfrage\" - Opinion poll question asking who people would vote for if an election were to be held next Sunday ",
@@ -12106,8 +12106,8 @@
             },
             {
               "value": 5,
-              "label": "5: Buendnis 90/Die Gruenen",
-              "label_de": "5: Buendnis 90/Die Gruenen"
+              "label": "5: B\u00fcndnis 90/Die Gr\u00fcnen",
+              "label_de": "5: B\u00fcndnis 90/Die Gr\u00fcnen"
             },
             {
               "value": 6,
@@ -12126,8 +12126,8 @@
             },
             {
               "value": 9,
-              "label": "9: AfD (Alternative fuer Deutschland)",
-              "label_de": "9: AfD (Alternative fuer Deutschland)"
+              "label": "9: AfD (Alternative f\u00fcr Deutschland)",
+              "label_de": "9: AfD (Alternative f\u00fcr Deutschland)"
             },
             {
               "value": 10,
@@ -12172,7 +12172,7 @@
         {
           "number": "307",
           "text": "Now we have some questions about your personal experiences. During the last 12 months, have you felt that you were disadvantaged or discriminated against due to any personal characteristics (e.g., your ethnic or cultural background, gender, religious beliefs)?",
-          "text_de": "Im Folgenden geht es um Ihre persoenlichen Erfahrungen. Haben Sie in den vergangenen 12 Monaten erlebt, dass Sie aufgrund eines persoenlichen Merkmals (z.B. Ihrer Herkunft, Ihres Geschlechts, Ihrer Religionszugehoerigkeit/Weltanschauung) durch andere benachteiligt oder gegenueber anderen Menschen schlechter gestellt wurden?",
+          "text_de": "Im Folgenden geht es um Ihre pers\u00f6nlichen Erfahrungen. Haben Sie in den vergangenen 12 Monaten erlebt, dass Sie aufgrund eines pers\u00f6nlichen Merkmals (z.B. Ihrer Herkunft, Ihres Geschlechts, Ihrer Religionszugeh\u00f6rigkeit/Weltanschauung) durch andere benachteiligt oder gegen\u00fcber anderen Menschen schlechter gestellt wurden?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -12232,7 +12232,7 @@
           "item": "1.0",
           "number": "309",
           "text": "Ethnic background (e.g. nationality, skin colour)",
-          "text_de": "Herkunft (z.B. Nationalitaet, Hautfarbe)",
+          "text_de": "Herkunft (z.B. Nationalit\u00e4t, Hautfarbe)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -12298,7 +12298,7 @@
           "item": "3.0",
           "number": "311",
           "text": "Religious orientation / belief",
-          "text_de": "Religionszugehoerigkeit/Weltanschauung",
+          "text_de": "Religionszugeh\u00f6rigkeit/Weltanschauung",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -12364,7 +12364,7 @@
           "item": "5.0",
           "number": "313",
           "text": "Sexual identity (e.g. homosexuality)",
-          "text_de": "Sexuellen Identitaet (z.B. Homosexualitaet)",
+          "text_de": "Sexuellen Identit\u00e4t (z.B. Homosexualit\u00e4t)",
           "answer_list": "mn",
           "scale": "cat",
           "description": "Adapted from: Motel-Klingebiel, A., Wurm, S., Engstler, H., Huxhold, O., J\u00fcrgens, O., Mahne, K., Sch\u00f6llgen, I., Wiest, M., & Tesch-R\u00f6mer, C. (2009). Deutscher Alterssurvey: Die zweite Lebensh\u00e4lfte. Erhebungsdesign und Instrumente der dritten Befragungswelle. Berlin: Deutsches Zentrum f\u00fcr Altersfragen.  AND Igel, U., Br\u00e4hler, E., & Grande, G. (2010). Der Einfluss von Diskriminierungserfahrungen auf die Gesundheit von MigrantInnen. Psychiatrische Praxis, 37 (4), 183\u2013190.\n",
@@ -12763,7 +12763,7 @@
         {
           "number": "321",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -12806,7 +12806,7 @@
         {
           "number": "322",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -12849,7 +12849,7 @@
         {
           "number": "323",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -12892,7 +12892,7 @@
         {
           "number": "324",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -12935,7 +12935,7 @@
         {
           "number": "325",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -12978,7 +12978,7 @@
         {
           "number": "326",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13021,7 +13021,7 @@
         {
           "number": "327",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13064,7 +13064,7 @@
         {
           "number": "328",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13107,7 +13107,7 @@
         {
           "number": "329",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13150,7 +13150,7 @@
         {
           "number": "330",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13193,7 +13193,7 @@
         {
           "number": "331",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13236,7 +13236,7 @@
         {
           "number": "332",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13279,7 +13279,7 @@
         {
           "number": "333",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13322,7 +13322,7 @@
         {
           "number": "334",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13365,7 +13365,7 @@
         {
           "number": "335",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13408,7 +13408,7 @@
         {
           "number": "336",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13451,7 +13451,7 @@
         {
           "number": "337",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13494,7 +13494,7 @@
         {
           "number": "338",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13537,7 +13537,7 @@
         {
           "number": "339",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "int",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13580,7 +13580,7 @@
         {
           "number": "340",
           "text": "The next questions are about your media usage. How much time do you spend per day on the following devices or activities? Please state as precisely as possible how much time you spend on the activity outside of school or working hours.",
-          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange beschaeftigen Sie sich durchschnittlich pro Tag mit folgenden Geraeten bzw. Aktivitaeten? Geben Sie bitte moeglichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivitaet ausserhalb der Arbeits- oder Schulzeit verbringen.",
+          "text_de": "Im Folgenden geht es um Ihre Mediennutzung. Wie lange besch\u00e4ftigen Sie sich durchschnittlich pro Tag mit folgenden Ger\u00e4ten bzw. Aktivit\u00e4ten? Geben Sie bitte m\u00f6glichst genau an, wieviel Zeit Sie mit der jeweiligen Aktivit\u00e4t au\u00dferhalb der Arbeits- oder Schulzeit verbringen.",
           "answer_list": "med0100",
           "scale": "cat",
           "description": "Blossfeld, H. P., von Maurice, J., & Schneider, T. (2011). Grundidee, Konzeption und Design des Nationalen Bildungspanels f\u00fcr Deutschland (No. 1). NEPS Working Paper. Bamberg: Otto-Friedrich-Universit\u00e4t, National Educational Panel Study.",
@@ -13921,7 +13921,7 @@
         {
           "number": "349",
           "text": "Now a few general questions about your friends. What applies to you?",
-          "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu zaehlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
+          "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu z\u00e4hlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
           "answer_list": "net0300",
           "scale": "int",
           "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013. ; http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf         ",
@@ -13959,7 +13959,7 @@
         {
           "number": "350",
           "text": "Now follow a few questions about your friends and acquaintances: How many close friends do you have? This includes family members who you are close to. This does not include Facebook friends.",
-          "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu zaehlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
+          "text_de": "Nun folgen ein paar Fragen zu Ihrem Bekannten- und Freundeskreis: Wie viele enge Freundinnen und Freunde haben Sie? Dazu z\u00e4hlen auch Partner und Familienmitglieder, zu denen eine enge Beziehung besteht. Facebook-Freunde sind hier nicht gemeint.",
           "answer_list": "net0300",
           "scale": "cat",
           "description": "Panel Study Labour Market and Social Security (PASS): PASS personal questionnaire wave 6 2013. ; http://doku.iab.de/fdz/reporte/2013/DR_06-13_EN.pdf         ",
@@ -14075,7 +14075,7 @@
         {
           "number": "353",
           "text": "Now please think of three people who don't live in your household who are important to you personally. We are only referring to people who are not your relatives. How old is the first person?",
-          "text_de": "Denken Sie bitte nun an drei Personen, die nicht bei Ihnen zuhause leben, die fuer Sie persoenlich wichtig sind. Es geht hier nur um Personen, mit denen Sie nicht verwandt sind. Wie alt ist die erste Person?",
+          "text_de": "Denken Sie bitte nun an drei Personen, die nicht bei Ihnen zuhause leben, die f\u00fcr Sie pers\u00f6nlich wichtig sind. Es geht hier nur um Personen, mit denen Sie nicht verwandt sind. Wie alt ist die erste Person?",
           "answer_list": "net0300",
           "scale": "int",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
@@ -14132,7 +14132,7 @@
             {
               "value": 1,
               "label": "1: male",
-              "label_de": "1: maennlich"
+              "label_de": "1: m\u00e4nnlich"
             },
             {
               "value": 2,
@@ -14156,7 +14156,7 @@
         {
           "number": "355",
           "text": "Now please think of three people who don't live in your household who are important to you personally. We are only referring to people who are not your relatives. How old is the first person?",
-          "text_de": "Denken Sie bitte nun an drei Personen, die nicht bei Ihnen zuhause leben, die fuer Sie persoenlich wichtig sind. Es geht hier nur um Personen, mit denen Sie nicht verwandt sind. Wie alt ist die erste Person?",
+          "text_de": "Denken Sie bitte nun an drei Personen, die nicht bei Ihnen zuhause leben, die f\u00fcr Sie pers\u00f6nlich wichtig sind. Es geht hier nur um Personen, mit denen Sie nicht verwandt sind. Wie alt ist die erste Person?",
           "answer_list": "net0300",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2011: ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394180.de/soepfrabo_personen_2011_en.pdf",
@@ -14194,7 +14194,7 @@
         {
           "number": "356",
           "text": "Which is the first person's highest school-leaving certificate?",
-          "text_de": "Welchen hoechsten Schulabschluss hat die erste Person?",
+          "text_de": "Welchen h\u00f6chsten Schulabschluss hat die erste Person?",
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0300 != 999",
@@ -14379,7 +14379,7 @@
             {
               "value": 1,
               "label": "1: male",
-              "label_de": "1: maennlich"
+              "label_de": "1: m\u00e4nnlich"
             },
             {
               "value": 2,
@@ -14403,7 +14403,7 @@
         {
           "number": "360",
           "text": "Which is the second person's highest school-leaving certificate?",
-          "text_de": "Welchen hoechsten Schulabschluss hat die zweite Person?",
+          "text_de": "Welchen h\u00f6chsten Schulabschluss hat die zweite Person?",
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0300 != 999",
@@ -14588,7 +14588,7 @@
             {
               "value": 1,
               "label": "1: male",
-              "label_de": "1: maennlich"
+              "label_de": "1: m\u00e4nnlich"
             },
             {
               "value": 2,
@@ -14612,7 +14612,7 @@
         {
           "number": "364",
           "text": "Which is the third person's highest school-leaving certificate?",
-          "text_de": "Welchen hoechsten Schulabschluss hat die dritte Person?",
+          "text_de": "Welchen h\u00f6chsten Schulabschluss hat die dritte Person?",
           "answer_list": "eca0100_2",
           "scale": "cat",
           "filter": "net0300 != 999",
@@ -14740,7 +14740,7 @@
         {
           "number": "366",
           "text": "To what extent does the following statement apply to you?",
-          "text_de": "Wie sehr trifft die folgende Aussage auf Sie persoenlich zu?",
+          "text_de": "Wie sehr trifft die folgende Aussage auf Sie pers\u00f6nlich zu?",
           "answer_list": "agr4_2",
           "scale": "cat",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2008. ; http://dx.doi.org/10.2378/peu2014.art22d",
@@ -14852,7 +14852,7 @@
           "item": "2.0",
           "number": "369",
           "text": "It's a real zoo in our home.",
-          "text_de": "Bei uns zuhause geht es drunter und drueber.",
+          "text_de": "Bei uns zuhause geht es drunter und dr\u00fcber.",
           "answer_list": "apl5_2",
           "scale": "cat",
           "description": "Adapted from: Matheny Jr, A. P., Wachs, T. D., Ludwig, J. L., & Phillips, K. (1995). Bringing order out of chaos: Psychometric characteristics of the confusion, hubbub, and order scale. Journal of Applied Developmental Psychology, 16 (3), 429-454",
@@ -14948,7 +14948,7 @@
           "item": "4.0",
           "number": "371",
           "text": "There is usually a television turned on somewhere in our home.",
-          "text_de": "Irgendwo bei uns im Haus laeuft fast immer ein Fernseher.",
+          "text_de": "Irgendwo bei uns im Haus l\u00e4uft fast immer ein Fernseher.",
           "answer_list": "apl5_2",
           "scale": "cat",
           "description": "Adapted from: Matheny Jr, A. P., Wachs, T. D., Ludwig, J. L., & Phillips, K. (1995). Bringing order out of chaos: Psychometric characteristics of the confusion, hubbub, and order scale. Journal of Applied Developmental Psychology, 16 (3), 429-454",
@@ -14996,7 +14996,7 @@
           "item": "5.0",
           "number": "372",
           "text": "The atmosphere in our house is calm.",
-          "text_de": "Bei uns zuhause herrscht eine ruhige Atmosphaere.",
+          "text_de": "Bei uns zuhause herrscht eine ruhige Atmosph\u00e4re.",
           "answer_list": "apl5_2",
           "scale": "cat",
           "description": "Adapted from: Matheny Jr, A. P., Wachs, T. D., Ludwig, J. L., & Phillips, K. (1995). Bringing order out of chaos: Psychometric characteristics of the confusion, hubbub, and order scale. Journal of Applied Developmental Psychology, 16 (3), 429-454",
@@ -15181,7 +15181,7 @@
         {
           "number": "375",
           "text": "How often do the following things typically happen between you and your firstborn twin?",
-          "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem erstgeborenen Zwilling vor? Falls Ihr Kind ueber 18 ist, erinnern Sie sich bitte an die Zeit, als Sie zusammen gewohnt haben bzw. an die Zeit bis zum 18. Lebensjahr Ihres Kindes.",
+          "text_de": "Wie h\u00e4ufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem erstgeborenen Zwilling vor? Falls Ihr Kind \u00fcber 18 ist, erinnern Sie sich bitte an die Zeit, als Sie zusammen gewohnt haben bzw. an die Zeit bis zum 18. Lebensjahr Ihres Kindes.",
           "scale": "txt",
           "filter": "ptyp == 300 | ptyp == 400",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15289,7 +15289,7 @@
           "item": "3.0",
           "number": "378",
           "text": "You cheer up your child when he/she is sad.",
-          "text_de": "Sie troesten Ihr Kind, wenn es traurig ist.",
+          "text_de": "Sie tr\u00f6sten Ihr Kind, wenn es traurig ist.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15337,7 +15337,7 @@
           "item": "4.0",
           "number": "379",
           "text": "You give your child advice regarding his/her personal problems.",
-          "text_de": "Sie unterstuetzen Ihr Kind, wenn es ein Problem hat.",
+          "text_de": "Sie unterst\u00fctzen Ihr Kind, wenn es ein Problem hat.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15433,7 +15433,7 @@
           "item": "6.0",
           "number": "381",
           "text": "You are disappointed and sad because your child misbehaved.",
-          "text_de": "Sie sind enttaeuscht und traurig, wenn sich Ihr Kind schlecht benommen hat.",
+          "text_de": "Sie sind entt\u00e4uscht und traurig, wenn sich Ihr Kind schlecht benommen hat.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15577,7 +15577,7 @@
           "item": "9.0",
           "number": "384",
           "text": "You scold your child because you are angry at him/her.",
-          "text_de": "Sie beschimpfen Ihr Kind, wenn Sie wuetend auf es sind.",
+          "text_de": "Sie beschimpfen Ihr Kind, wenn Sie w\u00fctend auf es sind.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15625,7 +15625,7 @@
           "item": "10.0",
           "number": "385",
           "text": "When your child makes new friends, you talk to him/her about them.",
-          "text_de": "Wenn Ihr Kind neue Freunde hat, unterhalten Sie sich mit ihm ueber diese Freunde.",
+          "text_de": "Wenn Ihr Kind neue Freunde hat, unterhalten Sie sich mit ihm \u00fcber diese Freunde.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15769,7 +15769,7 @@
           "item": "13.0",
           "number": "388",
           "text": "You find it hard to set and keep consistent rules for your child.",
-          "text_de": "Es faellt Ihnen schwer, in Ihrer Erziehung konsequent zu sein.",
+          "text_de": "Es f\u00e4llt Ihnen schwer, in Ihrer Erziehung konsequent zu sein.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -15826,7 +15826,7 @@
         {
           "number": "389",
           "text": "How close do you feel to your first born twin?",
-          "text_de": "Wie eng fuehlen Sie sich mit Ihrem erstgeborenen Zwilling verbunden?",
+          "text_de": "Wie eng f\u00fchlen Sie sich mit Ihrem erstgeborenen Zwilling verbunden?",
           "answer_list": "ple0103",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -15846,7 +15846,7 @@
             {
               "value": 1,
               "label": "1: not close at all",
-              "label_de": "1: ueberhaupt nicht eng"
+              "label_de": "1: \u00fcberhaupt nicht eng"
             },
             {
               "value": 2,
@@ -16013,7 +16013,7 @@
         {
           "number": "392",
           "text": "How often do the following things typically happen between you and your second born twin?",
-          "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem zweitgeborenen Zwilling vor? Falls Ihr Kind ueber 18 ist, erinnern Sie sich bitte an die Zeit, als Sie zusammen gewohnt haben bzw. an die Zeit bis zum 18. Lebensjahr Ihres Kindes.",
+          "text_de": "Wie h\u00e4ufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem zweitgeborenen Zwilling vor? Falls Ihr Kind \u00fcber 18 ist, erinnern Sie sich bitte an die Zeit, als Sie zusammen gewohnt haben bzw. an die Zeit bis zum 18. Lebensjahr Ihres Kindes.",
           "scale": "txt",
           "filter": "ptyp == 300 | ptyp == 400",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16121,7 +16121,7 @@
           "item": "3.0",
           "number": "395",
           "text": "You cheer up your child when he/she is sad.",
-          "text_de": "Sie troesten Ihr Kind, wenn es traurig ist.",
+          "text_de": "Sie tr\u00f6sten Ihr Kind, wenn es traurig ist.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16169,7 +16169,7 @@
           "item": "4.0",
           "number": "396",
           "text": "You give your child advice regarding his/her personal problems.",
-          "text_de": "Sie unterstuetzen Ihr Kind, wenn es ein Problem hat.",
+          "text_de": "Sie unterst\u00fctzen Ihr Kind, wenn es ein Problem hat.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16265,7 +16265,7 @@
           "item": "6.0",
           "number": "398",
           "text": "You are disappointed and sad because your child misbehaved.",
-          "text_de": "Sie sind enttaeuscht und traurig, wenn sich Ihr Kind schlecht benommen hat.",
+          "text_de": "Sie sind entt\u00e4uscht und traurig, wenn sich Ihr Kind schlecht benommen hat.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16409,7 +16409,7 @@
           "item": "9.0",
           "number": "401",
           "text": "You scold your child because you are angry at him/her.",
-          "text_de": "Sie beschimpfen Ihr Kind, wenn Sie wuetend auf es sind.",
+          "text_de": "Sie beschimpfen Ihr Kind, wenn Sie w\u00fctend auf es sind.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16457,7 +16457,7 @@
           "item": "10.0",
           "number": "402",
           "text": "When your child makes new friends, you talk to him/her about them.",
-          "text_de": "Wenn Ihr Kind neue Freunde hat, unterhalten Sie sich mit ihm ueber diese Freunde.",
+          "text_de": "Wenn Ihr Kind neue Freunde hat, unterhalten Sie sich mit ihm \u00fcber diese Freunde.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16601,7 +16601,7 @@
           "item": "13.0",
           "number": "405",
           "text": "You find it hard to set and keep consistent rules for your child.",
-          "text_de": "Es faellt Ihnen schwer, in Ihrer Erziehung konsequent zu sein.",
+          "text_de": "Es f\u00e4llt Ihnen schwer, in Ihrer Erziehung konsequent zu sein.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -16658,7 +16658,7 @@
         {
           "number": "406",
           "text": "How close do you feel to your second born twin?",
-          "text_de": "Wie eng fuehlen Sie sich mit Ihrem zweitgeborenen Zwilling verbunden?",
+          "text_de": "Wie eng f\u00fchlen Sie sich mit Ihrem zweitgeborenen Zwilling verbunden?",
           "answer_list": "ple0103",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -16678,7 +16678,7 @@
             {
               "value": 1,
               "label": "1: not close at all",
-              "label_de": "1: ueberhaupt nicht eng"
+              "label_de": "1: \u00fcberhaupt nicht eng"
             },
             {
               "value": 2,
@@ -16717,7 +16717,7 @@
         {
           "number": "407",
           "text": "How often did you . . . in the last 6 month?",
-          "text_de": "Wie haeufig haben Sie in den letzten 6 Monaten ... ?",
+          "text_de": "Wie h\u00e4ufig haben Sie in den letzten 6 Monaten ... ?",
           "scale": "txt",
           "filter": "ptyp == 300 | ptyp == 400",
           "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
@@ -16960,7 +16960,7 @@
         {
           "number": "412",
           "text": "Do you (as parents) try to dress the twins as identically as possible? (If the twin are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0100",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17058,7 +17058,7 @@
         {
           "number": "414",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0100",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17115,7 +17115,7 @@
         {
           "number": "415",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0100",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17172,7 +17172,7 @@
         {
           "number": "416",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0102",
           "scale": "int",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17209,7 +17209,7 @@
         {
           "number": "417",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0102",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17246,7 +17246,7 @@
         {
           "number": "418",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0100",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17303,7 +17303,7 @@
         {
           "number": "419",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0102",
           "scale": "int",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17340,7 +17340,7 @@
         {
           "number": "420",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0102",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17377,7 +17377,7 @@
         {
           "number": "421",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0100",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17434,7 +17434,7 @@
         {
           "number": "422",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0102",
           "scale": "int",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17471,7 +17471,7 @@
         {
           "number": "423",
           "text": "Do you (as parents) try to dress the twins as similarly as possible? (If the twins are older, think back to when they were children.)",
-          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie moeglich zu kleiden?",
+          "text_de": "Versuchen Sie (als Eltern) die Zwillinge so gleich wie m\u00f6glich zu kleiden?",
           "answer_list": "tsp0102",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17557,7 +17557,7 @@
         {
           "number": "425",
           "text": "How close would you say the twins are?",
-          "text_de": "Was wuerden Sie sagen: Wie eng ist das Verhaeltnis der Zwillinge zueinander?",
+          "text_de": "Was w\u00fcrden Sie sagen: Wie eng ist das Verh\u00e4ltnis der Zwillinge zueinander?",
           "answer_list": "tsp0300",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17611,7 +17611,7 @@
         {
           "number": "426",
           "text": "When you look at early photographs of the twins when they were between 2 and 4, can you tell them apart without hints from clothing or other clues?",
-          "text_de": "Wenn Sie sich fruehe Fotos Ihrer Zwillinge im Alter von 2-4 Jahren anschauen, koennen Sie die beiden auseinanderhalten, ohne Merkmale der Kleidung oder andere Hinweise heranzuziehen?",
+          "text_de": "Wenn Sie sich fr\u00fche Fotos Ihrer Zwillinge im Alter von 2-4 Jahren anschauen, k\u00f6nnen Sie die beiden auseinanderhalten, ohne Merkmale der Kleidung oder andere Hinweise heranzuziehen?",
           "answer_list": "zyg0800",
           "scale": "cat",
           "filter": "ptyp == 300 | ptyp == 400",
@@ -17714,7 +17714,7 @@
         {
           "number": "428",
           "text": "How often do the following things typically happen between you and your mother?",
-          "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrer Mutter vor? Wenn Sie ueber 18 sind, denken Sie bitte an die Zeit bis zu Ihrem 18. Lebensjahr. Wie haeufig kamen typischerweise folgende Dinge zwischen Ihnen und Ihrer Mutter vor?",
+          "text_de": "Wie h\u00e4ufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrer Mutter vor? Wenn Sie \u00fcber 18 sind, denken Sie bitte an die Zeit bis zu Ihrem 18. Lebensjahr. Wie h\u00e4ufig kamen typischerweise folgende Dinge zwischen Ihnen und Ihrer Mutter vor?",
           "scale": "txt",
           "filter": "ptyp == 200",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -17822,7 +17822,7 @@
           "item": "3.0",
           "number": "431",
           "text": "Your mother tries to cheer you up when you are sad.",
-          "text_de": "Ihre Mutter troestete Sie, wenn Sie traurig waren.",
+          "text_de": "Ihre Mutter tr\u00f6stete Sie, wenn Sie traurig waren.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -17870,7 +17870,7 @@
           "item": "4.0",
           "number": "432",
           "text": "Your mother gives you advice regarding your personal problems.",
-          "text_de": "Ihre Mutter unterstuetzte Sie, wenn Sie ein Problem hatten.",
+          "text_de": "Ihre Mutter unterst\u00fctzte Sie, wenn Sie ein Problem hatten.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -17966,7 +17966,7 @@
           "item": "6.0",
           "number": "434",
           "text": "Your mother is disappointed and sad because you misbehaved.",
-          "text_de": "Ihre Mutter war enttaeuscht und traurig, wenn Sie sich schlecht benommen haben.",
+          "text_de": "Ihre Mutter war entt\u00e4uscht und traurig, wenn Sie sich schlecht benommen haben.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18110,7 +18110,7 @@
           "item": "9.0",
           "number": "437",
           "text": "Your mother scolds you because she is angry at you.",
-          "text_de": "Ihre Mutter beschimpfte Sie, wenn sie wuetend auf Sie war.",
+          "text_de": "Ihre Mutter beschimpfte Sie, wenn sie w\u00fctend auf Sie war.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18158,7 +18158,7 @@
           "item": "10.0",
           "number": "438",
           "text": "When you make new friends, your mother talks to you about them.",
-          "text_de": "Wenn Sie neue Freunde hatten, unterhielt sich Ihre Mutter mit Ihnen ueber diese Freunde.",
+          "text_de": "Wenn Sie neue Freunde hatten, unterhielt sich Ihre Mutter mit Ihnen \u00fcber diese Freunde.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18485,7 +18485,7 @@
         {
           "number": "445",
           "text": "How often does your father do the following things?",
-          "text_de": "Wie haeufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem Vater vor? Wenn Sie ueber 18 sind, denken Sie bitte an die Zeit bis zu Ihrem 18. Lebensjahr. Wie haeufig kamen typischerweise folgende Dinge zwischen Ihnen und Ihrem Vater vor?",
+          "text_de": "Wie h\u00e4ufig kommen folgende Dinge typischerweise zwischen Ihnen und Ihrem Vater vor? Wenn Sie \u00fcber 18 sind, denken Sie bitte an die Zeit bis zu Ihrem 18. Lebensjahr. Wie h\u00e4ufig kamen typischerweise folgende Dinge zwischen Ihnen und Ihrem Vater vor?",
           "scale": "txt",
           "filter": "ptyp == 200",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18593,7 +18593,7 @@
           "item": "3.0",
           "number": "448",
           "text": "Your father tries to cheer you up when you are sad.",
-          "text_de": "Ihr Vater troestete Sie, wenn Sie traurig waren.",
+          "text_de": "Ihr Vater tr\u00f6stete Sie, wenn Sie traurig waren.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18641,7 +18641,7 @@
           "item": "4.0",
           "number": "449",
           "text": "Your father gives you advice regarding your personal problems.",
-          "text_de": "Ihr Vater unterstuetzte Sie, wenn Sie ein Problem hatten.",
+          "text_de": "Ihr Vater unterst\u00fctzte Sie, wenn Sie ein Problem hatten.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18737,7 +18737,7 @@
           "item": "6.0",
           "number": "451",
           "text": "Your father is disappointed and sad because you misbehaved.",
-          "text_de": "Ihr Vater war enttaeuscht und traurig, wenn Sie sich schlecht benommen haben.",
+          "text_de": "Ihr Vater war entt\u00e4uscht und traurig, wenn Sie sich schlecht benommen haben.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18881,7 +18881,7 @@
           "item": "9.0",
           "number": "454",
           "text": "Your father scolds you because he is angry at you.",
-          "text_de": "Ihr Vater beschimpfte Sie, wenn er wuetend auf Sie war.",
+          "text_de": "Ihr Vater beschimpfte Sie, wenn er w\u00fctend auf Sie war.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -18929,7 +18929,7 @@
           "item": "10.0",
           "number": "455",
           "text": "When you make new friends, your father talks to you about them.",
-          "text_de": "Wenn Sie neue Freunde hatten, unterhielt sich Ihr Vater mit Ihnen ueber diese Freunde.",
+          "text_de": "Wenn Sie neue Freunde hatten, unterhielt sich Ihr Vater mit Ihnen \u00fcber diese Freunde.",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Schmahl, F., Wilhelm, B., Friedrich, S., Wendt, E.-V., Th\u00f6nnissen, C., & Walper, S. (2012). Scales Manual of the German Family Panel. Wave 1 to 3. ; http://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Scales_Manual_en_pairfam_3.0.pdf",
@@ -19512,7 +19512,7 @@
         {
           "number": "466",
           "text": "How often did you . . . in the last 6 month?",
-          "text_de": "Wie haeufig haben Sie in den letzten 6 Monaten ... ?",
+          "text_de": "Wie h\u00e4ufig haben Sie in den letzten 6 Monaten ... ?",
           "scale": "txt",
           "filter": "ptyp == 200",
           "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 3 2010/11.",
@@ -19831,7 +19831,7 @@
           "item": "1.0",
           "number": "473",
           "text": "How often do you speak with twin 1 about things that are important to you?",
-          "text_de": "Wie oft sprechen Sie mit Zwilling 1 ueber Dinge, die Ihnen wichtig sind?",
+          "text_de": "Wie oft sprechen Sie mit Zwilling 1 \u00fcber Dinge, die Ihnen wichtig sind?",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -19927,7 +19927,7 @@
           "item": "3.0",
           "number": "475",
           "text": "How often do you do things that upset twin 1?",
-          "text_de": "Wie haeufig tun Sie Dinge, die Zwilling 1 aufregen?",
+          "text_de": "Wie h\u00e4ufig tun Sie Dinge, die Zwilling 1 aufregen?",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -19996,7 +19996,7 @@
           "item": "1.0",
           "number": "477",
           "text": "How much do you try to cheer up twin 1 when he/she feels bad?",
-          "text_de": "Wie sehr versuchen Sie Zwilling 1 aufzumuntern, wenn sie / er sich schlecht fuehlt?",
+          "text_de": "Wie sehr versuchen Sie Zwilling 1 aufzumuntern, wenn sie / er sich schlecht f\u00fchlt?",
           "answer_list": "sre0300",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20044,7 +20044,7 @@
           "item": "2.0",
           "number": "478",
           "text": "How annoyed do you get about twin 1?",
-          "text_de": "Wie sehr aergern Sie sich ueber Zwilling 1?",
+          "text_de": "Wie sehr \u00e4rgern Sie sich \u00fcber Zwilling 1?",
           "answer_list": "sre0300",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20092,7 +20092,7 @@
           "item": "3.0",
           "number": "479",
           "text": "How close do you feel to twin 1?",
-          "text_de": "Wie nah fuehlen Sie sich Zwilling 1?",
+          "text_de": "Wie nah f\u00fchlen Sie sich Zwilling 1?",
           "answer_list": "sre0300",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20161,7 +20161,7 @@
           "item": "1.0",
           "number": "481",
           "text": "Does twin 1 think your mother supports him/her or you more?",
-          "text_de": "Meint Zwilling 1 Ihre Mutter unterstuetze sie/ihn oder Sie mehr?",
+          "text_de": "Meint Zwilling 1 Ihre Mutter unterst\u00fctze sie/ihn oder Sie mehr?",
           "answer_list": "sre0400",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20214,7 +20214,7 @@
           "item": "2.0",
           "number": "482",
           "text": "Does twin 1 think your father supports him/her or you more?",
-          "text_de": "Meint Zwilling 1 Ihr Vater unterstuetze sie/ihn oder Sie mehr?",
+          "text_de": "Meint Zwilling 1 Ihr Vater unterst\u00fctze sie/ihn oder Sie mehr?",
           "answer_list": "sre0400",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20276,7 +20276,7 @@
         {
           "number": "483",
           "text": "Does twin 1 think your mother feels closer to him/her or to you?",
-          "text_de": "Meint Zwilling 1, Ihre Mutter stuende ihr/ihm oder Ihnen naeher?",
+          "text_de": "Meint Zwilling 1, Ihre Mutter st\u00fcnde ihr/ihm oder Ihnen n\u00e4her?",
           "answer_list": "sre0402",
           "scale": "cat",
           "filter": "ptyp == 200",
@@ -20340,7 +20340,7 @@
         {
           "number": "484",
           "text": "Does twin 1 think your father feels closer to him/her or to you?",
-          "text_de": "Meint Zwilling 1, Ihr Vater stuende ihr/ihm oder Ihnen naeher?",
+          "text_de": "Meint Zwilling 1, Ihr Vater st\u00fcnde ihr/ihm oder Ihnen n\u00e4her?",
           "answer_list": "sre0403",
           "scale": "cat",
           "filter": "ptyp == 200",
@@ -20360,27 +20360,27 @@
             {
               "value": 1,
               "label": "1: My sibling thinks that our father is generally closer with me.",
-              "label_de": "1: Mein Geschwister denkt, dass mein Vater mir in der Regel naehersteht."
+              "label_de": "1: Mein Geschwister denkt, dass mein Vater mir in der Regel n\u00e4hersteht."
             },
             {
               "value": 2,
               "label": "2: My sibling thinks that our father is sometimes closer with me.",
-              "label_de": "2: Mein Geschwister denkt, dass mein Vater mir manchmal naehersteht."
+              "label_de": "2: Mein Geschwister denkt, dass mein Vater mir manchmal n\u00e4hersteht."
             },
             {
               "value": 3,
               "label": "3: My sibling thinks that our father is equally close with both of us.",
-              "label_de": "3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermassen nahesteht."
+              "label_de": "3: Mein Geschwister denkt, dass mein Vater uns beiden gleicherma\u00dfen nahesteht."
             },
             {
               "value": 4,
               "label": "4: My sibling thinks that our father is sometimes closer with her/him.",
-              "label_de": "4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal naehersteht."
+              "label_de": "4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal n\u00e4hersteht."
             },
             {
               "value": 5,
               "label": "5: My sibling thinks that our father is generally closer with her/him.",
-              "label_de": "5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel naehersteht."
+              "label_de": "5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel n\u00e4hersteht."
             },
             {
               "value": 97,
@@ -20510,7 +20510,7 @@
           "item": "1.0",
           "number": "487",
           "text": "How often do you speak with twin 2 about things that are important to you?",
-          "text_de": "Wie oft sprechen Sie mit Zwilling 2 ueber Dinge, die Ihnen wichtig sind?",
+          "text_de": "Wie oft sprechen Sie mit Zwilling 2 \u00fcber Dinge, die Ihnen wichtig sind?",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20606,7 +20606,7 @@
           "item": "3.0",
           "number": "489",
           "text": "How often do you do things that upset twin 2?",
-          "text_de": "Wie haeufig tun Sie Dinge, die Zwilling 2 aufregen?",
+          "text_de": "Wie h\u00e4ufig tun Sie Dinge, die Zwilling 2 aufregen?",
           "answer_list": "fre5",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20675,7 +20675,7 @@
           "item": "1.0",
           "number": "491",
           "text": "How much do you try to cheer up twin 2 when he/she feels bad?",
-          "text_de": "Wie sehr versuchen Sie Zwilling 2 aufzumuntern, wenn sie / er sich schlecht fuehlt?",
+          "text_de": "Wie sehr versuchen Sie Zwilling 2 aufzumuntern, wenn sie / er sich schlecht f\u00fchlt?",
           "answer_list": "sre0300",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20723,7 +20723,7 @@
           "item": "2.0",
           "number": "492",
           "text": "How annoyed do you get about twin 2?",
-          "text_de": "Wie sehr aergern Sie sich ueber Zwilling 2?",
+          "text_de": "Wie sehr \u00e4rgern Sie sich \u00fcber Zwilling 2?",
           "answer_list": "sre0300",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20771,7 +20771,7 @@
           "item": "3.0",
           "number": "493",
           "text": "How close do you feel to twin 2?",
-          "text_de": "Wie nah fuehlen Sie sich Zwilling 2?",
+          "text_de": "Wie nah f\u00fchlen Sie sich Zwilling 2?",
           "answer_list": "sre0300",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20840,7 +20840,7 @@
           "item": "1.0",
           "number": "495",
           "text": "Does twin 2 think your mother supports him/her or you more?",
-          "text_de": "Meint Zwilling 2 Ihre Mutter unterstuetze sie/ihn oder Sie mehr?",
+          "text_de": "Meint Zwilling 2 Ihre Mutter unterst\u00fctze sie/ihn oder Sie mehr?",
           "answer_list": "sre0400",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20893,7 +20893,7 @@
           "item": "2.0",
           "number": "496",
           "text": "Does twin 2 think your father supports him/her or you more?",
-          "text_de": "Meint Zwilling 2 Ihr Vater unterstuetze sie/ihn oder Sie mehr?",
+          "text_de": "Meint Zwilling 2 Ihr Vater unterst\u00fctze sie/ihn oder Sie mehr?",
           "answer_list": "sre0400",
           "scale": "cat",
           "description": "Adapted from: \nStocker, C. M., Lanthier, R. P., & Furman, W. (1997). Sibling relationships in Early Adulthood. Journal of Family Psychology, 11 (2), 210-221.\n \nHeyeres, U. (2006). Adult sibling relationship questionnaire. Gruppendynamik und Organisationsberatung, 37 (2), 215-225.\n",
@@ -20955,7 +20955,7 @@
         {
           "number": "497",
           "text": "Does twin 2 think your mother feels closer to him/her or to you?",
-          "text_de": "Meint Zwilling 2, Ihre Mutter stuende ihr/ihm oder Ihnen naeher?",
+          "text_de": "Meint Zwilling 2, Ihre Mutter st\u00fcnde ihr/ihm oder Ihnen n\u00e4her?",
           "answer_list": "sre0402",
           "scale": "cat",
           "filter": "ptyp == 200",
@@ -21019,7 +21019,7 @@
         {
           "number": "498",
           "text": "Does twin 2 think your father feels closer to him/her or to you?",
-          "text_de": "Meint Zwilling 2, Ihr Vater stuende ihr/ihm oder Ihnen naeher?",
+          "text_de": "Meint Zwilling 2, Ihr Vater st\u00fcnde ihr/ihm oder Ihnen n\u00e4her?",
           "answer_list": "sre0403",
           "scale": "cat",
           "filter": "ptyp == 200",
@@ -21039,27 +21039,27 @@
             {
               "value": 1,
               "label": "1: My sibling thinks that our father is generally closer with me.",
-              "label_de": "1: Mein Geschwister denkt, dass mein Vater mir in der Regel naehersteht."
+              "label_de": "1: Mein Geschwister denkt, dass mein Vater mir in der Regel n\u00e4hersteht."
             },
             {
               "value": 2,
               "label": "2: My sibling thinks that our father is sometimes closer with me.",
-              "label_de": "2: Mein Geschwister denkt, dass mein Vater mir manchmal naehersteht."
+              "label_de": "2: Mein Geschwister denkt, dass mein Vater mir manchmal n\u00e4hersteht."
             },
             {
               "value": 3,
               "label": "3: My sibling thinks that our father is equally close with both of us.",
-              "label_de": "3: Mein Geschwister denkt, dass mein Vater uns beiden gleichermassen nahesteht."
+              "label_de": "3: Mein Geschwister denkt, dass mein Vater uns beiden gleicherma\u00dfen nahesteht."
             },
             {
               "value": 4,
               "label": "4: My sibling thinks that our father is sometimes closer with her/him.",
-              "label_de": "4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal naehersteht."
+              "label_de": "4: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] manchmal n\u00e4hersteht."
             },
             {
               "value": 5,
               "label": "5: My sibling thinks that our father is generally closer with her/him.",
-              "label_de": "5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel naehersteht."
+              "label_de": "5: Mein Geschwister denkt, dass mein Vater [je nach Geschlecht einblenden: ihm/ihr] in der Regel n\u00e4hersteht."
             },
             {
               "value": 97,
@@ -21181,7 +21181,7 @@
         {
           "number": "501",
           "text": "What would you say: How close are the twins?",
-          "text_de": "Was wuerden Sie sagen: Wie eng ist das Verhaeltnis der Zwillinge zueinander?",
+          "text_de": "Was w\u00fcrden Sie sagen: Wie eng ist das Verh\u00e4ltnis der Zwillinge zueinander?",
           "answer_list": "tsp0300",
           "scale": "cat",
           "filter": "ptyp == 200",
@@ -21235,7 +21235,7 @@
         {
           "number": "502",
           "text": "What would you say: How close are the twins?",
-          "text_de": "Was wuerden Sie sagen: Wie eng ist das Verhaeltnis der Zwillinge zueinander?",
+          "text_de": "Was w\u00fcrden Sie sagen: Wie eng ist das Verh\u00e4ltnis der Zwillinge zueinander?",
           "answer_list": "tsp0300",
           "scale": "cat",
           "filter": "ptyp == 110 | ptyp == 120",
