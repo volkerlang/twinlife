@@ -5,7 +5,9 @@
 import shutil
 
 import pandas as pd
-from ddi.onrails.repos import convert_r2ddi, dor1, merge_instruments
+from ddi.onrails.repos import dor1, merge_instruments
+
+from convert_r2ddi import Parser
 
 STUDY = "twinlife"
 VERSION = "v3-0-0"
@@ -43,7 +45,9 @@ def main():
     # simple copy operations
     shutil.copy("metadata/study.md", "ddionrails/study.md")
     shutil.copy("metadata/analysis_units.csv", "ddionrails/analysis_units.csv")
-    shutil.copy("metadata/conceptual_datasets.csv", "ddionrails/conceptual_datasets.csv")
+    shutil.copy(
+        "metadata/conceptual_datasets.csv", "ddionrails/conceptual_datasets.csv"
+    )
     shutil.copy("metadata/periods.csv", "ddionrails/periods.csv")
     shutil.copy("metadata/datasets.csv", "ddionrails/datasets.csv")
 
@@ -53,7 +57,7 @@ def main():
     # operations from ddi.py
     dor1.variables()
     merge_instruments.main()
-    convert_r2ddi.Parser(STUDY, version=VERSION).write_json()
+    Parser(STUDY, version=VERSION).write_json()
 
 
 if __name__ == "__main__":
