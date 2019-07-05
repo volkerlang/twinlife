@@ -154,7 +154,8 @@ class Parser:
                 missings.append(True)
             else:
                 missings.append(False)
-            values.append(xml_cat.findtext("catValu").strip())
+            value = xml_cat.findtext("catValu").strip()
+            values.append(value)
             label = xml_cat.findtext("labl")
             if label:
                 labels.append(label)
