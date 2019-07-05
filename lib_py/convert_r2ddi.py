@@ -127,11 +127,10 @@ class Parser:
         )["labels"]
 
     def _get_categories(self, xml_var):
-        result = OrderedDict()
-        result["frequencies"] = []
-        result["labels"] = []
-        result["missings"] = []
-        result["values"] = []
+        frequencies = []
+        labels = []
+        missings = []
+        values = []
         int_cats = []
         str_cats = []
         for xml_cat in xml_var.findall("catgry"):
@@ -148,21 +147,34 @@ class Parser:
         ]
         for xml_cat in xml_cats:
             try:
-                result["frequencies"].append(int(xml_cat.findtext("catStat")))
+                frequencies.append(int(xml_cat.findtext("catStat")))
             except:
-                result["frequencies"].append(int(0))
+                frequencies.append(int(0))
             if xml_cat.get("missing", "").lower() == "true":
-                result["missings"].append(True)
+                missings.append(True)
             else:
-                result["missings"].append(False)
-            value = xml_cat.findtext("catValu")
-            result["values"].append(value.strip())
+                missings.append(False)
+            value = xml_cat.findtext("catValu").strip()
+            values.append(value)
             label = xml_cat.findtext("labl")
             if label:
-                result["labels"].append(label)
+                labels.append(label)
             else:
-                result["labels"].append(value)
-        return result
+                labels.append(value)
+
+        # use pandas to sort those lists based on "values"
+        sorting_dataframe = pd.DataFrame(
+            {
+                "values": values,
+                "labels": labels,
+                "missings": missings,
+                "frequencies": frequencies,
+            }
+        )
+        sorting_dataframe["labels"] = sorting_dataframe["labels"].astype(str)
+        sorting_dataframe["values"] = pd.to_numeric(sorting_dataframe["values"])
+        sorting_dataframe.sort_values(by="values", inplace=True)
+        return sorting_dataframe.to_dict("list")
 
     def _get_statistics(self, xml_var):
         result = OrderedDict()
