@@ -642,33 +642,6 @@
           "filter": "fam0100 != 1 & fam0100 != 3 & age > 15",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -1055,43 +1028,6 @@
           "scale": "cat",
           "description": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286. ",
           "description_de": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286.  ; http://dx.doi.org/10.2378/peu2014.art22d",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 1
         },
         {
@@ -1103,43 +1039,6 @@
           "scale": "cat",
           "description": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286. ",
           "description_de": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286.  ; http://dx.doi.org/10.2378/peu2014.art22d",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 2
         },
         {
@@ -1151,43 +1050,6 @@
           "scale": "cat",
           "description": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286. ",
           "description_de": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286.  ; http://dx.doi.org/10.2378/peu2014.art22d",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 3
         },
         {
@@ -1199,43 +1061,6 @@
           "scale": "cat",
           "description": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286. ",
           "description_de": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286.  ; http://dx.doi.org/10.2378/peu2014.art22d",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 4
         },
         {
@@ -1247,43 +1072,6 @@
           "scale": "cat",
           "description": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286. ",
           "description_de": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286.  ; http://dx.doi.org/10.2378/peu2014.art22d",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 5
         },
         {
@@ -1295,43 +1083,6 @@
           "scale": "cat",
           "description": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286. ",
           "description_de": "Fleckenstein, J., Schmidt, F. T. C., & M\u00f6ller, J. (2014). Wer hat Biss? Beharrlichkeit und best\u00e4ndiges Interesse von Lehramtsstudierenden. Eine deutsche Adaptation der 12-Item Grit Scale. Psychologie in Erziehung und Unterricht, 61, 281-286.  ; http://dx.doi.org/10.2378/peu2014.art22d",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 6
         }
       ],
@@ -1407,33 +1158,6 @@
           "filter": "age >= 15",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -1748,33 +1472,6 @@
           "filter": "edu0301 == 1",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -2482,33 +2179,6 @@
           "filter": "age >= 15",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
           "description_de": "Adaptiert von: TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Jugendfragebogen, Altstichproben. SOEP Survey Papers 238: Series A. Berlin: DIW/SOEP. ; http://panel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -2692,33 +2362,6 @@
           "filter": "eca0900 == 1",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
           "description_de": "Adaptiert von: TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Jugendfragebogen, Altstichproben. SOEP Survey Papers 238: Series A. Berlin: DIW/SOEP. ; http://panel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -2780,33 +2423,6 @@
           "filter": "age >= 15",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Core Study Youth 2014.",
           "description_de": "Adaptiert von: TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Jugendfragebogen, Altstichproben. SOEP Survey Papers 238: Series A. Berlin: DIW/SOEP. ; http://panel.gsoep.de/soep-docs/surveypapers/diw_ssp0238.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -3265,33 +2881,6 @@
           "filter": "age >= 15",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -3378,33 +2967,6 @@
           "filter": "age >= 15 & edu0300 != 1",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -3545,33 +3107,6 @@
           "filter": "age >= 15 & (emp0300==1 & edu0301!=1) | (inlist(emp0400,9,10) & edu0301!=1)",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -3857,33 +3392,6 @@
           "filter": "age >= 15",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -4079,33 +3587,6 @@
           "filter": "emp0400 >=1 & emp0400 <= 5 & emp0600 !=4 | emp0200 >= 1 & emp0200 <= 3 & emp0600 !=4",
           "description": "The German Socio-Economic Panel Study (SOEP): SOEP Core Study Individual 2014.",
           "description_de": "TNS Infratest Sozialforschung. 2014. SOEP 2014 \u2013 Erhebungsinstrumente 2014 (Welle 31) des Sozio-oekonomischen Panels: Personenfragebogen, Altstichproben. SOEP Survey Papers 235: Series A. Berlin: DIW/SOEP. ; panel.gsoep.de/soep-docs/surveypapers/diw_ssp0235.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -4668,33 +4149,6 @@
           "filter": "age >= 16 & (ptyp ==1 | ptyp ==2 | ptyp ==200)",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -4781,33 +4235,6 @@
           "filter": "age >= 10 & age <= 13 & (ptyp ==1 | ptyp ==2 | ptyp ==200)",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -4892,33 +4319,6 @@
           "filter": "age >= 15 & inlist(ptyp,1,2,200)",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5005,33 +4405,6 @@
           "filter": "age >= 15 & (ptyp ==1 | ptyp ==2 | ptyp ==200) & tra0200 != 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5118,33 +4491,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 16",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5231,33 +4577,6 @@
           "filter": "ptyp >= 300 & bas0103 <= 8",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5408,33 +4727,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 8 & bas0103 <= 13",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5585,33 +4877,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 15",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5762,33 +5027,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 15 & (tra0200t != 2)",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -5939,33 +5177,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 16",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -6052,33 +5263,6 @@
           "filter": "ptyp >= 300 & bas0103 <= 8",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -6229,33 +5413,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 8 & bas0103 <= 13",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -6406,33 +5563,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 15",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -6583,33 +5713,6 @@
           "filter": "ptyp >= 300 & bas0103 >= 15 & (tra0200u != 2)",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -6760,33 +5863,6 @@
           "filter": "ptyp >= 300 & bas0105 >= 16 & bas0105 <.",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -6873,33 +5949,6 @@
           "filter": "ptyp >= 300 & bas0105 <= 8 & bas0105 >= 0",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -7050,33 +6099,6 @@
           "filter": "ptyp >= 300 & bas0105 >= 8 & bas0105 <= 13",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -7227,33 +6249,6 @@
           "filter": "ptyp >= 300 & bas0105 >= 15",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -7404,33 +6399,6 @@
           "filter": "ptyp >= 300 & bas0105 >= 15 & (tra0200s != 2)",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -7592,43 +6560,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 1
         }
       ],
@@ -7650,43 +6581,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 0
         }
       ],
@@ -7708,43 +6602,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 0
         }
       ],
@@ -7777,43 +6634,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 1
         }
       ],
@@ -7835,43 +6655,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 0
         }
       ],
@@ -7893,43 +6676,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 0
         }
       ],
@@ -7962,43 +6708,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 1
         }
       ],
@@ -8020,43 +6729,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 0
         }
       ],
@@ -8078,43 +6750,6 @@
           "scale": "cat",
           "description": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10. ",
           "description_de": "Bertrams, A., & Dickh\u00e4user, O. (2009). Messung dispositioneller Selbstkontroll-Kapazit\u00e4t: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55, 2-10.  ; https://doi.org/10.1026/0012-1924.55.1.2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": 1,
-              "label": "1: does not apply to me at all",
-              "label_de": "1: trifft ueberhaupt nicht zu"
-            },
-            {
-              "value": 2,
-              "label": "2",
-              "label_de": "2"
-            },
-            {
-              "value": 3,
-              "label": "3",
-              "label_de": "3"
-            },
-            {
-              "value": 4,
-              "label": "4",
-              "label_de": "4"
-            },
-            {
-              "value": 5,
-              "label": "5: applies to me perfectly",
-              "label_de": "5: trifft voellig zu"
-            }
-          ],
           "sn": 0
         }
       ],
@@ -8204,33 +6839,6 @@
           "filter": "lev0100 ==5 | lev0100 == 6",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -8366,33 +6974,6 @@
           "filter": "lev0200 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -8526,33 +7107,6 @@
           "filter": "lev0300 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -8688,33 +7242,6 @@
           "filter": "lev0500 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9022,33 +7549,6 @@
           "filter": "lev0700 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9125,33 +7625,6 @@
           "filter": "age >= 16",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9174,33 +7647,6 @@
           "filter": "lev0900 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9276,33 +7722,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9323,33 +7742,6 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "lev1000 == 2",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9485,33 +7877,6 @@
           "filter": "lev1100 == 5 & ptyp!=300 & ptyp!=400",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9647,33 +8012,6 @@
           "filter": "lev1200 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9809,33 +8147,6 @@
           "filter": "lev1300 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9911,33 +8222,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -9960,33 +8244,6 @@
           "filter": "lev1400 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -10544,33 +8801,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -10593,33 +8823,6 @@
           "filter": "lev1600 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -10695,33 +8898,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -10744,33 +8920,6 @@
           "filter": "lev1700 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -10951,33 +9100,6 @@
           "filter": "age >= 16",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -11000,33 +9122,6 @@
           "filter": "lev1800 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -11103,33 +9198,6 @@
           "filter": "ptyp >= 300 & age >= 16",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -11152,33 +9220,6 @@
           "filter": "lev1900 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -11304,33 +9345,6 @@
           "filter": "lev2000 == 5",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -11406,33 +9420,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -11455,33 +9442,6 @@
           "filter": "lev2100 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -12041,33 +10001,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -12090,33 +10023,6 @@
           "filter": "lev2200 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -12192,33 +10098,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -12241,33 +10120,6 @@
           "filter": "lev2300 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -12827,33 +10679,6 @@
           "scale": "cat",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -12876,33 +10701,6 @@
           "filter": "lev9000 == 2",
           "description": "Item developed for TwinLife",
           "description_de": "F\u00fcr TwinLife entwickeltes Item",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -13052,33 +10850,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 1
         },
         {
@@ -13090,33 +10861,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 2
         },
         {
@@ -13128,33 +10872,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 3
         },
         {
@@ -13166,33 +10883,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 4
         },
         {
@@ -13204,33 +10894,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 5
         },
         {
@@ -13242,33 +10905,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 6
         },
         {
@@ -13280,33 +10916,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 7
         },
         {
@@ -13318,33 +10927,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 8
         },
         {
@@ -13356,33 +10938,6 @@
           "scale": "cat",
           "description": "Adapted from: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
           "description_de": "Adaptiert von: Reinecke, J., Stemmler, M., S\u00fcnkel, Z., Schepers, D., Weiss, M., Arnis, M., Meinert, J.,  Kucur-Uysal, B., P\u00f6ge, A., Wallner, S., & Wittenberg, J.(2013). The Development of Deviant and Delinquent Behavior over the Life Course in the Context of Processes of Social Inequalities .SFB 882 Working Paper Series, 17. Bielefeld: DFG Research Center (SFB) 882 From Heterogeneities to Inequalities.",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 9
         },
         {
@@ -14185,33 +11740,6 @@
           "filter": "ptyp >= 300",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Supplementary Biography Questionaire 2011.",
           "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Zusatzfragebogen 'Lebenslauf' 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394162.de/soepfrabo_lebenslauf_2011.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }
@@ -15071,33 +12599,6 @@
           "filter": "ptyp >= 300",
           "description": "Adapted from: The German Socio-Economic Panel Study (SOEP): SOEP Supplementary Biography Questionaire 2011.",
           "description_de": "Adaptiert von: Sozio-oekonomisches Panel (SOEP): SOEP Zusatzfragebogen 'Lebenslauf' 2011. ; https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.394162.de/soepfrabo_lebenslauf_2011.pdf",
-          "answers": [
-            {
-              "value": -99,
-              "label": "-99: not specified (refused to answer)",
-              "label_de": "-99: keine Angabe (Antwortverweigerung)"
-            },
-            {
-              "value": -98,
-              "label": "-98: don't know",
-              "label_de": "-98: weiss nicht"
-            },
-            {
-              "value": -96,
-              "label": "-96: I can't remember",
-              "label_de": "-96: ich kann mich nicht erinnern"
-            },
-            {
-              "value": 1,
-              "label": "1: yes",
-              "label_de": "1: ja"
-            },
-            {
-              "value": 2,
-              "label": "2: no",
-              "label_de": "2: nein"
-            }
-          ],
           "sn": 0,
           "item": "root"
         }

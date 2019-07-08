@@ -370,7 +370,7 @@
         {
           "number": "8",
           "text": "Do other people live in this household?",
-          "text_de": "Leben darueber hinaus noch weitere Personen in diesem Haushalt?",
+          "text_de": "Leben dar\u00fcber hinaus noch weitere Personen in diesem Haushalt?",
           "answer_list": "yn",
           "scale": "cat",
           "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
@@ -10313,7 +10313,7 @@
         {
           "number": "228",
           "text": "What is the sibling's biological father's name?",
-          "text_de": "Wie heisst der leibliche Vater des Geschwisters?",
+          "text_de": "Wie hei\u00dft der leibliche Vater des Geschwisters?",
           "scale": "chr",
           "filter": "(fpr0107_x == 42 | fpr0307_y == 2) [x = {1/15}] [y = {1/10}]",
           "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
@@ -10334,7 +10334,7 @@
         {
           "number": "229",
           "text": "What is the sibling's biological mother's name?",
-          "text_de": "Wie heisst die leibliche Mutter des Geschwisters?",
+          "text_de": "Wie hei\u00dft die leibliche Mutter des Geschwisters?",
           "scale": "chr",
           "filter": "(fpr0107_x == 42 | fpr0307_y == 2) [x = {1/15}] [y = {1/10}]",
           "description": "Adapted from: Panel analysis of intimate relationships and family dynamics (pairfam): Pairfam Codebook Child Wave 4 2011/12.",
