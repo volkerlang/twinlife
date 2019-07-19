@@ -20,7 +20,7 @@
           "scale": "cat",
           "filter": "always generated",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -69,7 +69,7 @@
           "scale": "cat",
           "filter": "ptyp == 1 | ptyp == 2 | ptyp == 200",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -118,7 +118,7 @@
           "scale": "int",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -157,7 +157,7 @@
           "scale": "int",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -196,7 +196,7 @@
           "scale": "cat",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -235,7 +235,7 @@
           "scale": "cat",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -318,7 +318,7 @@
           "scale": "chr",
           "filter": "cer1000 == 2 & cer9000 == 7",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "sn": 0,
           "item": "root"
         }
@@ -340,7 +340,7 @@
           "scale": "int",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -379,7 +379,7 @@
           "scale": "cat",
           "filter": "cer1000 == 2",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -418,7 +418,7 @@
           "scale": "dec",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -457,7 +457,7 @@
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -496,7 +496,7 @@
           "scale": "dec",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -535,7 +535,7 @@
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -574,7 +574,7 @@
           "scale": "dec",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -613,7 +613,7 @@
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -652,7 +652,7 @@
           "scale": "cat",
           "filter": "cer1000 == 1",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "answers": [
             {
               "value": -99,
@@ -697,7 +697,7 @@
             {
               "value": 7,
               "label": "6: school for handicaped children",
-              "label_de": "7: Sonderschule/F\u00f6rderschule"
+              "label_de": "7: Sonderschule/Foerderschule"
             },
             {
               "value": 8,
@@ -725,7 +725,7 @@
           "scale": "chr",
           "filter": "cer1000 == 1 & cer1700 == 8",
           "description": "Item developed for TwinLife",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item",
+          "description_de": "Fuer TwinLife entwickeltes Item",
           "sn": 0,
           "item": "root"
         }

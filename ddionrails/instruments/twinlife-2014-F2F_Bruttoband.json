@@ -103,7 +103,7 @@
           "item": "4.0",
           "number": "4",
           "text": "Intrusion of privacy",
-          "text_de": "Dringt zu sehr in die Privatsph\u00e4re ein",
+          "text_de": "Dringt zu sehr in die Privatsphaere ein",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -134,7 +134,7 @@
           "item": "5.0",
           "number": "5",
           "text": "Participated in surveys to often",
-          "text_de": "Zu h\u00e4ufige Teilnahme an Umfragen",
+          "text_de": "Zu haeufige Teilnahme an Umfragen",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -165,7 +165,7 @@
           "item": "6.0",
           "number": "6",
           "text": "Concerned about data protection",
-          "text_de": "Bedenken bez\u00fcglich Datenschutz",
+          "text_de": "Bedenken bezueglich Datenschutz",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -258,7 +258,7 @@
           "item": "9.0",
           "number": "9",
           "text": "Generally no participation in surveys",
-          "text_de": "Grunds\u00e4tzlich keine Teilnahme an Bef.",
+          "text_de": "Grundsaetzlich keine Teilnahme an Bef.",
           "answer_list": "mn",
           "scale": "cat",
           "answers": [
@@ -380,11 +380,11 @@
         {
           "number": "12",
           "text": "In which kind of building is the surveyed person living?",
-          "text_de": "In welcher Art von Geb\u00e4ude wohnt die Befragungsperson?",
+          "text_de": "In welcher Art von Gebaeude wohnt die Befragungsperson?",
           "answer_list": "iva0901",
           "scale": "cat",
-          "description": "GESIS - Leibniz Institute for the Social Sciences (2013): ALLBUS/GGSS 2012 (Allgemeine Bev\u00f6lkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012). GESIS Data Archive, Cologne. ZA4614 Data file Version 1.1.1, doi:10.4232/1.11753",
-          "description_de": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften (2013): Allgemeine Bev\u00f6lkerungsumfrage der Sozialwissenschaften ALLBUS 2012. GESIS Datenarchiv, K\u00f6ln. ZA4614 Datenfile Version 1.1.1, doi:10.4232/1.11753 ; https://www.gesis.org/allbus/inhalte-suche/studienprofile-1980-bis-2016/2012/",
+          "description": "GESIS - Leibniz Institute for the Social Sciences (2013): ALLBUS/GGSS 2012 (Allgemeine Bevoelkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012). GESIS Data Archive, Cologne. ZA4614 Data file Version 1.1.1",
+          "description_de": "GESIS - Leibniz-Institut fuer Sozialwissenschaften (2013): Allgemeine Bevoelkerungsumfrage der Sozialwissenschaften ALLBUS 2012. GESIS Datenarchiv, Koeln. ZA4614 Datenfile Version 1.1.1 ; [[URL link]](https://doi.org/10.4232/1.11753)",
           "answers": [
             {
               "value": -99,
@@ -456,8 +456,8 @@
           "text_de": "Wie beurteilen Sie den Zustand des Hauses, in dem die Befragungsperson wohnt? Das Haus ist in ...",
           "answer_list": "iva0902",
           "scale": "cat",
-          "description": "GESIS - Leibniz Institute for the Social Sciences (2013): ALLBUS/GGSS 2012 (Allgemeine Bev\u00f6lkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012). GESIS Data Archive, Cologne. ZA4614 Data file Version 1.1.1, doi:10.4232/1.11753",
-          "description_de": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften (2013): Allgemeine Bev\u00f6lkerungsumfrage der Sozialwissenschaften ALLBUS 2012. GESIS Datenarchiv, K\u00f6ln. ZA4614 Datenfile Version 1.1.1, doi:10.4232/1.11753 ; https://www.gesis.org/allbus/inhalte-suche/studienprofile-1980-bis-2016/2012/",
+          "description": "GESIS - Leibniz Institute for the Social Sciences (2013): ALLBUS/GGSS 2012 (Allgemeine Bevoelkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012). GESIS Data Archive, Cologne. ZA4614 Data file Version 1.1.1",
+          "description_de": "GESIS - Leibniz-Institut fuer Sozialwissenschaften (2013): Allgemeine Bevoelkerungsumfrage der Sozialwissenschaften ALLBUS 2012. GESIS Datenarchiv, Koeln. ZA4614 Datenfile Version 1.1.1 ; [[URL link]](https://doi.org/10.4232/1.11753)",
           "answers": [
             {
               "value": -99,
@@ -506,7 +506,7 @@
         {
           "number": "14",
           "text": "What sense did you get of the street or neighborhood? What was your overall feeling there?",
-          "text_de": "Welches Gef\u00fchl hatten Sie hier in der Stra\u00dfe oder der Wohnanlage? Wie empfanden Sie es hier?",
+          "text_de": "Welches Gefuehl hatten Sie hier in der Strasse oder der Wohnanlage? Wie empfanden Sie es hier?",
           "answer_list": "iva0903",
           "scale": "cat",
           "answers": [
@@ -557,11 +557,11 @@
         {
           "number": "15",
           "text": "How would you describe the neighborhood?",
-          "text_de": "Wie w\u00fcrden Sie die Wohngegend hier beschreiben?",
+          "text_de": "Wie wuerden Sie die Wohngegend hier beschreiben?",
           "answer_list": "iva0904",
           "scale": "cat",
-          "description": "GESIS - Leibniz Institute for the Social Sciences (2013): ALLBUS/GGSS 2012 (Allgemeine Bev\u00f6lkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012). GESIS Data Archive, Cologne. ZA4614 Data file Version 1.1.1, doi:10.4232/1.11753",
-          "description_de": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften (2013): Allgemeine Bev\u00f6lkerungsumfrage der Sozialwissenschaften ALLBUS 2012. GESIS Datenarchiv, K\u00f6ln. ZA4614 Datenfile Version 1.1.1, doi:10.4232/1.11753 ; https://www.gesis.org/allbus/inhalte-suche/studienprofile-1980-bis-2016/2012/",
+          "description": "GESIS - Leibniz Institute for the Social Sciences (2013): ALLBUS/GGSS 2012 (Allgemeine Bevoelkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012). GESIS Data Archive, Cologne. ZA4614 Data file Version 1.1.1",
+          "description_de": "GESIS - Leibniz-Institut fuer Sozialwissenschaften (2013): Allgemeine Bevoelkerungsumfrage der Sozialwissenschaften ALLBUS 2012. GESIS Datenarchiv, Koeln. ZA4614 Datenfile Version 1.1.1 ; [[URL link]](https://doi.org/10.4232/1.11753)",
           "answers": [
             {
               "value": -99,
@@ -679,8 +679,8 @@
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
           "scale": "int",
-          "description": "TNS Infratest Sozialforschung.",
-          "description_de": "TNS Infratest Sozialforschung.",
+          "description": "TNS Infratest Sozialforschung",
+          "description_de": "TNS Infratest Sozialforschung",
           "answers": [
             {
               "value": -99,
@@ -717,8 +717,8 @@
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "sex",
           "scale": "cat",
-          "description": "TNS Infratest Sozialforschung.",
-          "description_de": "TNS Infratest Sozialforschung.",
+          "description": "TNS Infratest Sozialforschung",
+          "description_de": "TNS Infratest Sozialforschung",
           "answers": [
             {
               "value": -99,
@@ -733,7 +733,7 @@
             {
               "value": 1,
               "label": "1: male",
-              "label_de": "1: m\u00e4nnlich"
+              "label_de": "1: maennlich"
             },
             {
               "value": 2,
@@ -760,8 +760,8 @@
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "ini0102",
           "scale": "cat",
-          "description": "TNS Infratest Sozialforschung.",
-          "description_de": "TNS Infratest Sozialforschung.",
+          "description": "TNS Infratest Sozialforschung",
+          "description_de": "TNS Infratest Sozialforschung",
           "answers": [
             {
               "value": -99,
@@ -791,12 +791,12 @@
             {
               "value": 4,
               "label": "4: university without degree",
-              "label_de": "4: Hochschule / Universit\u00e4t ohne Abschluss"
+              "label_de": "4: Hochschule / Universitaet ohne Abschluss"
             },
             {
               "value": 5,
               "label": "5: university with degree",
-              "label_de": "5: Hochschule / Universit\u00e4t mit Abschluss"
+              "label_de": "5: Hochschule / Universitaet mit Abschluss"
             }
           ],
           "sn": 0,
@@ -818,8 +818,8 @@
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
           "scale": "int",
-          "description": "TNS Infratest Sozialforschung.",
-          "description_de": "TNS Infratest Sozialforschung.",
+          "description": "TNS Infratest Sozialforschung",
+          "description_de": "TNS Infratest Sozialforschung",
           "answers": [
             {
               "value": -99,

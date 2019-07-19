@@ -19,7 +19,7 @@
           "answer_list": "cer2000",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -40,7 +40,7 @@
           "answer_list": "yn",
           "scale": "cat",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": -99,
@@ -88,7 +88,7 @@
           "answer_list": "cer2001",
           "scale": "cat",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": 1,
@@ -122,7 +122,7 @@
           "scale": "dec",
           "filter": "cer2100 == 1",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": -99,
@@ -161,7 +161,7 @@
           "scale": "cat",
           "filter": "cer2100 == 1",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": -99,
@@ -224,7 +224,7 @@
           "answer_list": "note",
           "scale": "dec",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -245,7 +245,7 @@
           "answer_list": "note",
           "scale": "dec",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -266,7 +266,7 @@
           "answer_list": "cer2002",
           "scale": "dec",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": 1,
@@ -369,7 +369,7 @@
           "answer_list": "cer2003",
           "scale": "cat",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": -99,
@@ -452,7 +452,7 @@
           "answer_list": "cer2003g",
           "scale": "cat",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": -99,
@@ -554,7 +554,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -574,7 +574,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -595,7 +595,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -616,7 +616,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -637,7 +637,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -658,7 +658,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -679,7 +679,7 @@
           "answer_list": "note",
           "scale": "itn",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -700,7 +700,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -721,7 +721,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -742,7 +742,7 @@
           "answer_list": "cer2209",
           "scale": "cat",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": 1,
@@ -796,7 +796,7 @@
           "scale": "int",
           "filter": "cer2209 >= 1 & cer2209 <= 6",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -817,7 +817,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -838,7 +838,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -859,7 +859,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -880,7 +880,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -901,7 +901,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -922,7 +922,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -943,7 +943,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -964,7 +964,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -985,7 +985,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1006,7 +1006,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1027,7 +1027,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1048,7 +1048,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1069,7 +1069,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1090,7 +1090,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1111,7 +1111,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1132,7 +1132,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1153,7 +1153,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1174,7 +1174,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1195,7 +1195,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1216,7 +1216,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1237,7 +1237,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1258,7 +1258,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1279,7 +1279,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1299,7 +1299,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1321,7 +1321,7 @@
           "scale": "int",
           "filter": "cer2234 !=",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1341,7 +1341,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1363,7 +1363,7 @@
           "scale": "int",
           "filter": "cer2236 !=",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1383,7 +1383,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1405,7 +1405,7 @@
           "scale": "int",
           "filter": "cer2238 !=",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1425,7 +1425,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1447,7 +1447,7 @@
           "scale": "int",
           "filter": "cer2240 !=",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1468,7 +1468,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1489,7 +1489,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1510,7 +1510,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1531,7 +1531,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1552,7 +1552,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1573,7 +1573,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1594,7 +1594,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1615,7 +1615,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1636,7 +1636,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1657,7 +1657,7 @@
           "answer_list": "note",
           "scale": "int",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1678,7 +1678,7 @@
           "scale": "chr",
           "filter": "cer2100 == 1",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1698,7 +1698,7 @@
           "text_de": "generierte/zugespielte Variable",
           "scale": "chr",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "sn": 0,
           "item": "root"
         }
@@ -1719,7 +1719,7 @@
           "answer_list": "cer3002",
           "scale": "cat",
           "description": "Item developed for TwinLife, Information received from a foto of the last school report",
-          "description_de": "F\u00fcr TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
+          "description_de": "Fuer TwinLife entwickeltes Item, Information extrahiert von einem Foto des letzten Schulzeugnisses",
           "answers": [
             {
               "value": 1,
