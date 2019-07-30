@@ -6,6 +6,7 @@
   "period": "wave 1 CATI",
   "analysis_unit": "person",
   "instrument": "twinlife-2016-CATI_EueK",
+<<<<<<< HEAD
   "questions": {
     "rel0100t": {
       "question": "rel0100t",
@@ -6169,4 +6170,7 @@
       "study": "twinlife"
     }
   }
+=======
+  "questions": {}
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
 }

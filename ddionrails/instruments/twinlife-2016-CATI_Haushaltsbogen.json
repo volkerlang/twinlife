@@ -6,6 +6,7 @@
   "period": "wave 1 CATI",
   "analysis_unit": "household",
   "instrument": "twinlife-2016-CATI_Haushaltsbogen",
+<<<<<<< HEAD
   "questions": {
     "fil0500": {
       "question": "fil0500",
@@ -3595,4 +3596,7 @@
       "study": "twinlife"
     }
   }
+=======
+  "questions": {}
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
 }

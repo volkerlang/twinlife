@@ -19,8 +19,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1301 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -58,8 +63,13 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "nbi1301 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -97,8 +107,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1301 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -136,8 +151,13 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "nbi1301 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -175,8 +195,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1301 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -214,8 +239,13 @@
           "answer_list": "mis",
           "scale": "cat",
           "filter": "nbi1301 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -252,8 +282,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -300,8 +335,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -349,8 +389,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -397,8 +442,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -419,8 +469,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -458,8 +513,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -497,8 +557,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -536,8 +601,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -585,8 +655,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -623,8 +698,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "txt",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         },
@@ -635,8 +715,13 @@
           "text_de": "U1: Risikonummer 1",
           "answer_list": "frisk",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -646,7 +731,11 @@
             {
               "value": -98,
               "label": "-98: don't know",
+<<<<<<< HEAD
               "label_de": "-98: wei\u00df nicht"
+=======
+              "label_de": "-98: weiss nicht"
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
             },
             {
               "value": 1,
@@ -938,8 +1027,13 @@
           "text_de": "U1: Risikonummer 2",
           "answer_list": "frisk",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -949,7 +1043,11 @@
             {
               "value": -98,
               "label": "-98: don't know",
+<<<<<<< HEAD
               "label_de": "-98: wei\u00df nicht"
+=======
+              "label_de": "-98: weiss nicht"
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
             },
             {
               "value": 1,
@@ -1241,8 +1339,13 @@
           "text_de": "U1: Risikonummer 3",
           "answer_list": "frisk",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1252,7 +1355,11 @@
             {
               "value": -98,
               "label": "-98: don't know",
+<<<<<<< HEAD
               "label_de": "-98: wei\u00df nicht"
+=======
+              "label_de": "-98: weiss nicht"
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
             },
             {
               "value": 1,
@@ -1544,8 +1651,13 @@
           "text_de": "U1: Risikonummer 4",
           "answer_list": "frisk",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1555,7 +1667,11 @@
             {
               "value": -98,
               "label": "-98: don't know",
+<<<<<<< HEAD
               "label_de": "-98: wei\u00df nicht"
+=======
+              "label_de": "-98: weiss nicht"
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
             },
             {
               "value": 1,
@@ -1847,8 +1963,13 @@
           "text_de": "U1: Risikonummer 5",
           "answer_list": "frisk",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1858,7 +1979,11 @@
             {
               "value": -98,
               "label": "-98: don't know",
+<<<<<<< HEAD
               "label_de": "-98: wei\u00df nicht"
+=======
+              "label_de": "-98: weiss nicht"
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
             },
             {
               "value": 1,
@@ -2150,8 +2275,13 @@
           "text_de": "U1: Risikonummer 6",
           "answer_list": "frisk",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2161,7 +2291,11 @@
             {
               "value": -98,
               "label": "-98: don't know",
+<<<<<<< HEAD
               "label_de": "-98: wei\u00df nicht"
+=======
+              "label_de": "-98: weiss nicht"
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
             },
             {
               "value": 1,
@@ -2463,8 +2597,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2502,8 +2641,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2541,8 +2685,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2580,8 +2729,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2618,8 +2772,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -2639,8 +2798,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -2661,8 +2825,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2710,8 +2879,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2749,8 +2923,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2788,8 +2967,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2826,8 +3010,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -2847,8 +3036,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -2868,8 +3062,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -2890,8 +3089,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2929,8 +3133,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2967,8 +3176,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -2989,8 +3203,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3037,8 +3256,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3059,8 +3283,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3108,8 +3337,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3147,8 +3381,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3186,8 +3425,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3224,8 +3468,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3245,8 +3494,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3266,8 +3520,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3288,8 +3547,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3327,8 +3591,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3365,8 +3634,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3387,8 +3661,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3435,8 +3714,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3457,8 +3741,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3506,8 +3795,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3545,8 +3839,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3584,8 +3883,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3622,8 +3926,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3643,8 +3952,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3664,8 +3978,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3686,8 +4005,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3725,8 +4049,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3763,8 +4092,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3785,8 +4119,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3833,8 +4172,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -3855,8 +4199,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3904,8 +4253,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3943,8 +4297,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -3982,8 +4341,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4020,8 +4384,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4041,8 +4410,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4062,8 +4436,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4084,8 +4463,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4123,8 +4507,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4161,8 +4550,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4183,8 +4577,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4231,8 +4630,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4253,8 +4657,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4302,8 +4711,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4341,8 +4755,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4380,8 +4799,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4418,8 +4842,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4439,8 +4868,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4460,8 +4894,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4482,8 +4921,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4521,8 +4965,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4559,8 +5008,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4581,8 +5035,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4629,8 +5088,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4651,8 +5115,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4700,8 +5169,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4739,8 +5213,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4778,8 +5257,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4816,8 +5300,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4837,8 +5326,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4858,8 +5352,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4880,8 +5379,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4919,8 +5423,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -4957,8 +5466,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -4979,8 +5493,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5027,8 +5546,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5049,8 +5573,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5098,8 +5627,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5137,8 +5671,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5176,8 +5715,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5214,8 +5758,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5235,8 +5784,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5256,8 +5810,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5278,8 +5837,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5317,8 +5881,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5355,8 +5924,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5377,8 +5951,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5425,8 +6004,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5447,8 +6031,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5496,8 +6085,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5535,8 +6129,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5574,8 +6173,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5612,8 +6216,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5633,8 +6242,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5654,8 +6268,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5676,8 +6295,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5715,8 +6339,13 @@
           "answer_list": "mis",
           "scale": "int",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5753,8 +6382,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -5775,8 +6409,13 @@
           "answer_list": "yn",
           "scale": "cat",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -5823,8 +6462,13 @@
           "text_de": "Interviewer: Bitte eintragen:",
           "scale": "chr",
           "filter": "nbi1300 == 1",
+<<<<<<< HEAD
           "description": "Item developed for TwinLife (form to fill-in on the basis of \"U-Heft\")",
           "description_de": "F\u00fcr TwinLife entwickeltes Item (Eingabemaske zur \u00dcbertragung der Informationen aus dem \"U-Heft\")",
+=======
+          "description": "Item developed for TwinLife (form to fill-in on the basis of U-Heft)",
+          "description_de": "Fuer TwinLife entwickeltes Item (Eingabemaske zur Uebertragung der Informationen aus dem U-Heft)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }

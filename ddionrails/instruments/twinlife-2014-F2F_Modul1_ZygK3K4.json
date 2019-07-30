@@ -18,8 +18,13 @@
           "text_de": "generierte/zugespielte Variable",
           "answer_list": "mis",
           "scale": "dec",
+<<<<<<< HEAD
           "description": "Lenau, F., & Hahn, E. (2017). Documentation TwinLife Data: Zygosity (TwinLife Technical Report Series, 01). Bielefeld: Project TwinLife \u201cGenetic and social causes of life chances\u201d (Bielefeld University / Saarland University).\nAND Lenau, F., Hahn, E., Peters, A-L., Gottschling, J., Thiel, W., & Spinath, F. M. (2017). Zygosity Determination in Twin Studies: A Validation of Zygosity Questionnaires Using DNA in the German TwinLife Study (TwinLife Working Paper Series, 01). Bielefeld: Project TwinLife \u201cGenetic and social causes of life chances\u201d (Bielefeld University / Saarland University).",
           "description_de": "Lenau, F., & Hahn, E. (2017). Documentation TwinLife Data: Zygosity (TwinLife Technical Report Series, 01). Bielefeld: Project TwinLife \u201cGenetic and social causes of life chances\u201d (Bielefeld University / Saarland University).\nUND Lenau, F., Hahn, E., Peters, A-L., Gottschling, J., Thiel, W., & Spinath, F. M. (2017). Zygosity Determination in Twin Studies: A Validation of Zygosity Questionnaires Using DNA in the German TwinLife Study (TwinLife Working Paper Series, 01). Bielefeld: Project TwinLife \u201cGenetic and social causes of life chances\u201d (Bielefeld University / Saarland University).",
+=======
+          "description": "Lenau, F., & Hahn, E. (2017). Documentation TwinLife Data: Zygosity (TwinLife Technical Report Series, 01). Bielefeld: Project TwinLife Genetic and social causes of life chances (Bielefeld University / Saarland University); Lenau, F., Hahn, E., Peters, A-L., Gottschling, J., Thiel, W., & Spinath, F. M. (2017). Zygosity Determination in Twin Studies: A Validation of Zygosity Questionnaires Using DNA in the German TwinLife Study (TwinLife Working Paper Series, 01). Bielefeld: Project TwinLife Genetic and social causes of life chances (Bielefeld University / Saarland University)",
+          "description_de": "Lenau, F., & Hahn, E. (2017). Documentation TwinLife Data: Zygosity (TwinLife Technical Report Series, 01). Bielefeld: Project TwinLife Genetic and social causes of life chances (Bielefeld University / Saarland University).\nUND Lenau, F., Hahn, E., Peters, A-L., Gottschling, J., Thiel, W., & Spinath, F. M. (2017). Zygosity Determination in Twin Studies: A Validation of Zygosity Questionnaires Using DNA in the German TwinLife Study (TwinLife Working Paper Series, 01). Bielefeld: Project TwinLife Genetic and social causes of life chances (Bielefeld University / Saarland University)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -56,8 +61,13 @@
           "text_de": "Wie gross sind Sie gegenwaertig in cm?",
           "answer_list": "mis",
           "scale": "int",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -94,8 +104,13 @@
           "text_de": "Wie gross ist Ihr Zwillingsbruder/Ihre Zwillingsschwester gegenwaertig?",
           "answer_list": "mis",
           "scale": "int",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -132,8 +147,13 @@
           "text_de": "Besteht ein Unterschied in der Haargestalt (z. B. feines, starkes, glattes, krauses Haar) zwischen Ihnen und Ihrem Zwillingsbruder/Ihrer Zwillingsschwester?",
           "answer_list": "zyg1100",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -180,8 +200,13 @@
           "text_de": "Haben Sie zusaetzliche Behaarung z.B. der Beine, des Oberkoerpers, der Haende, des Gesichts?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -228,8 +253,13 @@
           "text_de": "Hat Ihr Zwillingsbruder/Ihre Zwillingsschwester zusaetzliche Behaarung z.B. der Beine, des Oberkoerpers, der Haende, des Gesichts?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -276,8 +306,13 @@
           "text_de": "Welche Augenfarbe haben Sie?",
           "answer_list": "zyg1200",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -339,8 +374,13 @@
           "text_de": "Welche Augenfarbe haben Sie?",
           "scale": "chr",
           "filter": "zyg1200 == 6",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -360,8 +400,13 @@
           "text_de": "Welche Augenfarbe hat Ihr Zwillingsbruder/Ihre Zwillingsschwester?",
           "answer_list": "zyg1200",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -423,8 +468,13 @@
           "text_de": "Welche Augenfarbe hat Ihr Zwillingsbruder/Ihre Zwillingsschwester?",
           "scale": "chr",
           "filter": "zyg1202 == 6",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -444,8 +494,13 @@
           "text_de": "Besteht zwischen Ihnen und Ihrem Zwillingsbruder/Ihrer Zwillingsschwester ein Unterschied in der Augenfarbe?",
           "answer_list": "zyg1204",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -492,8 +547,13 @@
           "text_de": "Bestehen zwischen Ihnen und Ihrem Zwillingsbruder/Ihrer Zwillingsschwester irgendwelche Unterschiede in der Gestalt der Ohrlaeppchen?",
           "answer_list": "zyg1204",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -540,8 +600,13 @@
           "text_de": "Welche Hautfarbe haben Sie?",
           "answer_list": "zyg1400",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -583,8 +648,13 @@
           "text_de": "Welche Hautfarbe hat Ihr Zwillingsbruder/Ihre Zwillingsschwester?",
           "answer_list": "zyg1400",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -626,8 +696,13 @@
           "text_de": "Wurden Sie in Ihrer Kindheit von anderen Leuten miteinander verwechselt?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -674,8 +749,13 @@
           "text_de": "Welche von den nachstehend genannten Personen verwechselte Sie? Bitte ziehen Sie alle Personengruppen in Betracht und kreuzen Sie die jeweils gewaehlte Antwort an:",
           "scale": "txt",
           "filter": "zyg1500 == 1",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         },
@@ -686,8 +766,13 @@
           "text_de": "Eltern",
           "answer_list": "zyg1501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -729,8 +814,13 @@
           "text_de": "Freunde",
           "answer_list": "zyg1501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -772,8 +862,13 @@
           "text_de": "Personen, denen ich/wir zum ersten Mal begegnete/n",
           "answer_list": "zyg1501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -815,8 +910,13 @@
           "text_de": "Geschwister",
           "answer_list": "zyg1501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -858,8 +958,13 @@
           "text_de": "Lehrer",
           "answer_list": "zyg1501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -910,8 +1015,13 @@
           "text_de": "Haben Ihre Eltern oder Betreuer sich besondere Muehe geben muessen, um Sie voneinander unterscheiden zu koennen (z. B. verschieden gefaerbte Schleifen bei Maedchen, unterschiedliche Kleidung)?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -958,8 +1068,13 @@
           "text_de": "Gelingt es anderen bei der Betrachtung eines neuen gemeinsamen Lichtbildes von Ihnen und Ihrem Zwillingsbruder/Ihrer Zwillingsschwester leicht, Sie einwandfrei voneinander zu unterscheiden?",
           "answer_list": "zyg1507",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1006,8 +1121,13 @@
           "text_de": "Tragen Sie bitte Ihre Blutgruppe und die Blutgruppe Ihres Zwillingsbruders/Ihrer Zwillingsschwester ein",
           "answer_list": "zyg0501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1059,8 +1179,13 @@
           "text_de": "Tragen Sie bitte Ihre Blutgruppe und die Blutgruppe Ihres Zwillingsbruders/Ihrer Zwillingsschwester ein",
           "answer_list": "zyg0502",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1102,8 +1227,13 @@
           "text_de": "Tragen Sie bitte Ihre Blutgruppe und die Blutgruppe Ihres Zwillingsbruders/Ihrer Zwillingsschwester ein",
           "answer_list": "zyg0501",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1155,8 +1285,13 @@
           "text_de": "Tragen Sie bitte Ihre Blutgruppe und die Blutgruppe Ihres Zwillingsbruders/Ihrer Zwillingsschwester ein",
           "answer_list": "zyg0502",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1198,8 +1333,13 @@
           "text_de": "Neigen Sie dazu, leicht zu schwitzen?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1246,8 +1386,13 @@
           "text_de": "Neigt Ihr Zwillingsbruder/Ihre Zwillingsschwester dazu, leicht zu schwitzen?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1294,8 +1439,13 @@
           "text_de": "Waren Sie als Kind ebenso oft krank wie Ihr Zwillingsbruder/Ihre Zwillingsschwester?",
           "answer_list": "yn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1342,8 +1492,13 @@
           "text_de": "Was glauben Sie persoenlich: Sind Sie eineiige oder zweieiige Zwillinge?",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1395,8 +1550,13 @@
           "text_de": "Wurde Ihnen jemals von medizinischem Personal (z.B. Hausarzt, Krankenschwester, Facharzt) Ihre Eiigkeit mitgeteilt?",
           "answer_list": "zyg0702",
           "scale": "cat",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1443,8 +1603,13 @@
           "text_de": "Wie kam diese Aussage zustande?",
           "scale": "chr",
           "filter": "zyg1801 == 1 | zyg1801 == 2",
+<<<<<<< HEAD
           "description": " Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany.",
           "description_de": "Adaptiert von: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unver\u00f6ffentliches Manusskript. University of Warsaw, Poland and University of Bielefeld, Germany.",
+=======
+          "description": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+          "description_de": "Adapted from: Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         }
@@ -1463,8 +1628,13 @@
           "text": "In which generation and on which side of your family (mother's/father's) were there or are there other twins? Multiple answers possible.",
           "text_de": "In welcher Generation und in welchem Teil Ihrer Familie (muetterlicherseits/vaeterlicherseits) gab oder gibt es Zwillinge? Sie koennen mehrere Angaben machen.",
           "scale": "txt",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         },
@@ -1475,8 +1645,13 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), m\u00fctterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1508,8 +1683,13 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), v\u00e4terlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1541,8 +1721,13 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), m\u00fctterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1574,8 +1759,13 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), v\u00e4terlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1607,8 +1797,13 @@
           "text_de": "In der Generation Ihrer Eltern, m\u00fctterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1640,8 +1835,13 @@
           "text_de": "In der Generation Ihrer Eltern, v\u00e4terlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1673,8 +1873,13 @@
           "text_de": "In der Generation Ihrer Gro\u00dfeltern, m\u00fctterlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1706,8 +1911,13 @@
           "text_de": "In der Generation Ihrer Gro\u00dfeltern, v\u00e4terlicherseits",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1739,8 +1949,13 @@
           "text_de": "Es gibt keine anderen Zwillingspaare in der Familie",
           "answer_list": "mn",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1781,8 +1996,13 @@
           "text_de": "Geben Sie bitte fuer jedes angegebene Zwillingspaar in Ihrer Familie an, ob diese eineiig oder zweieiig sind.",
           "scale": "txt",
           "filter": "zyg0900 == 1",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "sn": 0,
           "item": "root"
         },
@@ -1793,8 +2013,13 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), m\u00fctterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1836,8 +2061,13 @@
           "text_de": "In Ihrer Generation (z.B. Ihre Cousins/Cousinen), v\u00e4terlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1879,8 +2109,13 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), m\u00fctterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1922,8 +2157,13 @@
           "text_de": "In der Generation Ihrer Kinder (z.B. Cousins/Cousinen Ihrer Kinder), v\u00e4terlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -1965,8 +2205,13 @@
           "text_de": "In der Generation Ihrer Eltern, m\u00fctterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2008,8 +2253,13 @@
           "text_de": "In der Generation Ihrer Eltern, v\u00e4terlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2051,8 +2301,13 @@
           "text_de": "In der Generation Ihrer Gro\u00dfeltern, m\u00fctterlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
@@ -2094,8 +2349,13 @@
           "text_de": "In der Generation Ihrer Gro\u00dfeltern, v\u00e4terlicherseits",
           "answer_list": "zyg0700",
           "scale": "cat",
+<<<<<<< HEAD
           "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (for K1/K2) AND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4).  ; https://doi.org/10.1007/BF01065819",
           "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257\u2013269 (f\u00fcr K1/K2) UND Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins\u2019 physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (f\u00fcr K3/K4). ",
+=======
+          "description": "Adapted from: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (for K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (for K3/K4) ; [[URL link]](https://doi.org/10.1007/BF01065819)",
+          "description_de": "Adaptiert von: Goldsmith, H. H. (1991). A Zygosity Questionnaire for Young Twins: A Research Note. Behavior Genetics, 21 (3), 257-269 (fuer K1/K2); Onisczenko, W., Angleitner, A., Strelau, J., & Angert, T. (1993). The questionnaire of twins' physical resemblance. Unpublished Manuscript. University of Warsaw, Poland and University of Bielefeld, Germany (fuer K3/K4)",
+>>>>>>> 77473edbc8ceee1de0be87ce34609ebb5569ec14
           "answers": [
             {
               "value": -99,
